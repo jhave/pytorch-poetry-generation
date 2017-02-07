@@ -27,9 +27,9 @@ parser.add_argument('--data', type=str, default='./data/pf',
                     help='location of the data corpus')
 parser.add_argument('--checkpoint', type=str, default='./model.pt',
                     help='model checkpoint to use')
-parser.add_argument('--outf', type=str, default='GENERATED/'+started_datestring+'.txt',
+parser.add_argument('--outf', type=str, default=started_datestring+'.txt',
                     help='output file for generated text')
-parser.add_argument('--words', type=int, default='444',
+parser.add_argument('--words', type=int, default='111',
                     help='number of words to generate')
 parser.add_argument('--seed', type=int, default=randint(0,111111111),
                     help='random seed')
@@ -67,7 +67,7 @@ input = Variable(torch.rand(1, 1).mul(ntokens).long(), volatile=True)
 if args.cuda:
     input.data = input.data.cuda()
 
-with open(args.outf, 'w') as outf:
+with open('GENERATED/'+args.checkpoint.split("model-")[1]+args.outf, 'w') as outf:
     for i in range(args.words):
         output, hidden = model(input, hidden)
         word_weights = output.squeeze().data.div(args.temperature).exp().cpu()
@@ -80,14 +80,19 @@ with open(args.outf, 'w') as outf:
             
         words+=word+" "
             
-        outf.write(word + ('\n' if i % 20 == 19 else ' '))
+        #outf.write(word + ('\n' if i % 20 == 19 else ' '))
 
-        if i % args.log_interval == 0:
-            print('| Generated {}/{} words'.format(i, args.words))
+        #if i % args.log_interval == 0:
+        print('Generated {}/{} words'.format(i+1, args.words), end='\r')
 
+
+    outf.write(words)
+
+    print('                                   ', end='\r')
+
+    print('\n\n\n'+words)
+
+    print("\n\n--------------------------------------------------------------------------------------------\nSaved: "+'GENERATED/'+args.checkpoint.split("model-")[1]+args.outf+"\nModel: "+args.checkpoint.split("models/")[1]+"\n--------------------------------------------------------------------------------------------\n\n")
     
-    print("SAVED "+str(args.words)+" word poem to "+args.outf)
-    
-    print('\n\n'+words)
 
 
