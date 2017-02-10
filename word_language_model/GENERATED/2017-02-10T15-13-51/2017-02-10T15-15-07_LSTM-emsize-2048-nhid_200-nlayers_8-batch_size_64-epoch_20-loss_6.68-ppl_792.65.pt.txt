@@ -1,0 +1,45 @@
+
+
+HAND STILL FOR THREE 
+
+ than he'd have strength, the deterioration 
+ gives his absence for that mosquito and represented 
+ from weekends and gin-and-tonic. 
+ 
+ dorinda 
+ midnight, deus 
+ twelve. 
+ have he once been a surprise 
+ so that the sailor associates, 
+ 
+ could i so known, 
+ on my little shoes. 
+ if wisdom struck croaks 
+ from coral draughts and perch 
+ above the fire and burdened 
+ if darwin, came fresh boys 
+ gently beneath a sands 
+ 
+ -- 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-13-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

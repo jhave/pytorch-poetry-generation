@@ -1,0 +1,41 @@
+
+
+
+
+ 
+ not for her light regretted she sent 
+ the car inside. 
+ 
+ 
+ 
+ i. 
+ 
+ 
+ the park slides past and covered on wall 
+ that bye, and beacons long-haul all where bare to which they played in, 
+ at night. we mirthful delayed, though our nobody would say. 
+ the body crosses the fierce window of the sea is. 
+ our lottery blossoms out.” and destruction rained left their whispers. 
+ praise the enormous sun under cliff, 
+ glimpsed over clouds and 
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T12-32-09
+--------------------------------------------------------------------------------------------
+
+Tech details  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+System will generate poems of 88 words each, perpetually, until stopped.

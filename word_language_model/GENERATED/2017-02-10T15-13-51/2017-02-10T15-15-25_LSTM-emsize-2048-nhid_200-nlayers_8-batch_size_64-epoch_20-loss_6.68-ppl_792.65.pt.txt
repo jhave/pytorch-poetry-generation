@@ -1,0 +1,44 @@
+
+
+MIND 
+
+ have never been so since ... but .... 
+ 
+ 
+ last 
+ his ole go might 
+ as much as would 
+ nor say, but i 
+ didn't plexus. 
+ 
+ 
+ 
+ 
+ when i bleed mother, i saw the boiler room love's 
+ growl are cops. my hair repeated over grooved 
+ rotted tranced like a dog in the street, his car still 
+ is salt isaac so sweat as that day's driver 
+ blancs in dressing 
+ be the unit that place 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-13-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

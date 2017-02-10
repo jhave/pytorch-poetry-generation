@@ -1,0 +1,49 @@
+
+
+NOR 
+
+ 
+ a man drags --'tis of glass, prompt 
+ of something not yet. 
+ 
+ do he want him book, but 
+ another guy is never 
+ 
+ since i was there, high-cut berrigan 
+ hey and inspiration to see that means 
+ 
+ whenever all things knew it. 
+ more here than a boot awake 
+ 
+ until the oxen sometimes was easy 
+ with his bed on his lap, 
+ 
+ and bound my soft eyes, climbs his lips away 
+ into the first 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

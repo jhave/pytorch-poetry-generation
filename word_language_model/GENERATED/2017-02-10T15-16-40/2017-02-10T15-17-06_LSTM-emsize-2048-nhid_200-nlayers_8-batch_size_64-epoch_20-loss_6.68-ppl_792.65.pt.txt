@@ -1,0 +1,47 @@
+
+
+
+
+ we heard more than every star 
+ unto the dying and little light. 
+ 
+ 
+ 
+ 
+ the world wails and dry, the perfection of thousands of being fair times still. 
+ waving to a fish below clippers in the street 
+ black speech, magpie, cathedrals insanely, 
+ sonogram through a blood of chest 
+ falling within the bones of two gold 
+ motor voices a lapse 
+ of petals in flame above berlin 
+ joins a startling night of fat papers 
+ with yellow herbage 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-16-40
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

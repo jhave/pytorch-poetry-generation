@@ -1,0 +1,37 @@
+
+
+TELL 
+
+ something leaf-graves the last darkness of thy city 
+ for grief, unaware stand high again, 
+ maka and brazen plath of the thorn 
+ that is not long, and i know that even knew 
+ to begin away. not mr. vigor, or that is the hands of joy. 
+ i have slain the tenements hammer. 
+ 
+ slicing your role awhile going down 
+ cover, i fade for walking over my ear 
+ from my husband. unhosing moving, and night, 
+ continuance, then breasts, me while 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-13-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

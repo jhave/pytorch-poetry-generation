@@ -15,10 +15,16 @@ import torch.nn as nn
 from torch.autograd import Variable
 
 import data
+import os
 
 from random import randint
 from datetime import datetime
 started_datestring = "{0:%Y-%m-%dT%H-%M-%S}".format(datetime.now())
+
+# create folder in which to put txt files of generated poems
+directory = "GENERATED/"+started_datestring+'/'
+if not os.path.exists(directory):
+    os.makedirs(directory)
 
 
 parser = argparse.ArgumentParser(description='PyTorch PF Language Model')
@@ -55,7 +61,9 @@ ep= md.split("-")[7].split("_")[1]
 loss= md.split("-")[8].split("_")[1]
 ppl= md.split("-")[9].split("_")[1]
 
-det = "PyTorch Poetry Language Model.\nTrained on ~12,000 poems.\n\nMode: "+style+"\nEmbedding size: "+str(emsize)+"\nHidden Layers: "+str(nhid)+"\nBatch size: "+bs+"\nEpoch: "+ep+"\nLoss: "+loss+"\nPerplexity: "+ppl+"\n\nSystem will generate poems of "+str(args.words)+" words each, perpetually, until stopped."
+det = "PyTorch Poetry Language Model.\nTrained on ~12,000 poems.\n\nMode: "+style+"\nEmbedding size: "+str(emsize)+"\nHidden Layers: "+str(nhid)+"\nBatch size: "+bs+"\nEpoch: "+ep+"\nLoss: "+loss+"\nPerplexity: "+ppl
+
+print("\nSystem will generate poems of "+str(args.words)+" words each, perpetually, until stopped.")
 
 print("\n"+det)
 print ("\nInitializing.\nPlease be patient.\n\n")
@@ -101,7 +109,10 @@ while(True):
     
     words=''
 
-    with open('GENERATED/'+args.checkpoint.split("model-")[1]+args.outf, 'w') as outf:
+    now ="{0:%Y-%m-%dT%H-%M-%S}".format(datetime.now())
+    tfn =directory+"/"+now+"_"+args.checkpoint.split("model-")[1]+".txt"
+
+    with open(tfn, 'w') as outf:
 
         for i in range(args.words):
             output, hidden = model(input, hidden)
@@ -128,13 +139,11 @@ while(True):
             time.sleep(0.001)
             sys.stdout.write(char)
 
-        words+="\n\n--------------------------------------------------------------------------------------------\n"+args.checkpoint+"\n--------------------------------------------------------------------------------------------\nGenerated on : "+str(started_datestring)+"\n--------------------------------------------------------------------------------------------\n\nTech details  \n\n"+det
+        words+="\n\n\n\n\n--------------------------------------------------------------------------------------------\nGenerated on : "+str(started_datestring)+"\n--------------------------------------------------------------------------------------------\n\nTech details\n-------------  \n\nInfo: http://bdp.glia.ca/\nCode: https://github.com/jhave/pytorch-poetry-generation\n\n"+det+"\n\n--------------------------------------------------------------------------------------------\n"+args.checkpoint
         outf.write(words)
+        outf.close()
+        #print("\n\nsaved to: "+ tfn)
 
-        #print("\n\n--------------------------------------------------------------------------------------------\nSaved: "+'GENERATED/'+args.checkpoint.split("model-")[1]+args.outf+"\nModel: "+args.checkpoint.split("models/")[1]+"\n--------------------------------------------------------------------------------------------\n\n")
-
-        #print("\n\n*******************************")
-        #time.sleep(0)
 
 
         

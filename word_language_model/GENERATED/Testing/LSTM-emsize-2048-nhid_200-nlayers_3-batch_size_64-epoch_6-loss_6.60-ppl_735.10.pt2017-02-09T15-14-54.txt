@@ -1,0 +1,22 @@
+RECENTLY BETWEEN, 
+
+ hums but, like the irisch begun, 
+ yellow and translucently 
+ and filling with music 
+ that need only tremble for say 
+ 
+ a bandshell, 
+ childhood's duchess of pool 
+ in aluminum dressing where the whole ceiling 
+ rises up from the dawn, 
+ each street against leaf clouds there 
+ a late wind rides along 
+ the green last shed 
+ beyond the edge of the dead. 
+ a deer leans through the cliffs 
+ with fog divinelier 
+ super chest, indigo 
+
+--------------------------------------------------------------------------------------------
+models/2017-02-09T11-03-48/model-LSTM-emsize-2048-nhid_200-nlayers_3-batch_size_64-epoch_6-loss_6.60-ppl_735.10.pt
+--------------------------------------------------------------------------------------------

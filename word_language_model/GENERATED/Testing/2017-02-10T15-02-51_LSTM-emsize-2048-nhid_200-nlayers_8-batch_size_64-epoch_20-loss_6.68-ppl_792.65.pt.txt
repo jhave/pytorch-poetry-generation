@@ -1,0 +1,47 @@
+
+
+SWIM 
+
+ save you, then my wild foes brother.' 
+ 
+ 
+ awake, that from that ancient year, 
+ 
+ be twinkling 
+ calm for quaeris, 
+ mr. eye. 
+ 
+ phantoming barbara slave 
+ whose chintz sunset live idly with my flesh. 
+ name of rain self-possessed, 
+ before my uncle burned out, 
+ you hug a melody. 
+ 
+ back on me, your brother, 
+ lifting your tin arm in my mouth. 
+ 
+ reaching 
+ when they sit at last - 
+ you went gone 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-01-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

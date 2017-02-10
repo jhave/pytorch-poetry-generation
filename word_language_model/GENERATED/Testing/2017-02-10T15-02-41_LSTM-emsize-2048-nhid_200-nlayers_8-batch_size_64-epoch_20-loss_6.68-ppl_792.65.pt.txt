@@ -1,0 +1,45 @@
+
+
+FACE. 
+
+ 
+ again the humble angry gelatin being born, 
+ the flowers is just alight in the sun. 
+ divided with ready molds. 
+ 
+ stale dreams from humid brown found, 
+ anna lashed in black, blocks, orange 
+ and kurt of pode” 
+ 
+ captains of such small lack 
+ an old tattooed savior, 
+ heroes and stole, 
+ 
+ ages? there was 
+ two more ideas even slow-acting, 
+ dance in way--these emerson. 
+ parsnips, audibly, breaking wiggle 
+ from paper. one night paul 
+ 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-01-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

@@ -1,0 +1,41 @@
+
+
+I'M TOO 
+
+ crushed and felines or 
+ i shall see the world on the back. 
+ 
+ 
+ consulto. whose way are like a wash 
+ of bodies they'll have heard 
+ the corner that are never more apprehensive 
+ to be exposed with its little role 
+ until a human brother has a day or mine a hunter from the street 
+ with its depth. 
+ 
+ 
+ all are wove up a body, far, stopped skin. 
+ then heavy, led turned until 
+ proud curls 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-04-06
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

@@ -1,0 +1,39 @@
+
+
+
+
+ when i kissed my life to put her 
+ she said i kissed, know i was good. 
+ i just stopped the ice-cream ten-year-olds 
+ from a motives, so far to blow. 
+ 
+ 
+ 
+ 
+ you stand at the rose door years and crawled inside, ends magazine. 
+ 
+ his mother's man would sing my bed, who puts a finger. 
+ don't send him a long slightly thing by the breastbone? 
+ waiting on the lonely counter. you tell me a witness? 
+ i've got 
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T12-59-45
+--------------------------------------------------------------------------------------------
+
+Tech details  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+System will generate poems of 88 words each, perpetually, until stopped.

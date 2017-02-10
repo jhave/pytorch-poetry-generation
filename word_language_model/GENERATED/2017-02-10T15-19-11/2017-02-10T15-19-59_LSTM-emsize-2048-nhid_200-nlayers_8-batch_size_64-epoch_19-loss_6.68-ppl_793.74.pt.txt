@@ -1,0 +1,53 @@
+
+
+PLACE NARC. 
+
+ 
+ 
+ we drank at endlessly 
+ they strings what once 
+ longed for? i have another state ... 
+ i tried to own. 
+ we have lacked you, though and 
+ now now, crags. 
+ 
+ windy gets seas, 
+ exhilaration it there, 
+ 
+ to wear off the light. 
+ too so black-- 
+ even i've tree-trunks 
+ while my daughter 
+ finally bishop which 
+ has you been? 
+ 
+ 
+ i woke at giraffe-tall broadway 
+ watching the sockets of women 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

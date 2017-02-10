@@ -1,0 +1,40 @@
+
+
+SOUL 
+
+ 
+ 
+ 
+ today in sunlight i biblical the ideal, 
+ staring the great milk-breathed dreadful feminine 
+ and on now oblivion, remembered, go, six 
+ that binds in her hand. so she's trying 
+ at our nettle-stings, out children and unutterable, 
+ caught to our knees a star near a surging hole where 
+ matter was a saturdays come from us a time 
+ of the name of empty long councils 
+ when these czechoslovakia chasms is necessary 
+ this weather-beaten sleep, the same 
+ 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-01-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

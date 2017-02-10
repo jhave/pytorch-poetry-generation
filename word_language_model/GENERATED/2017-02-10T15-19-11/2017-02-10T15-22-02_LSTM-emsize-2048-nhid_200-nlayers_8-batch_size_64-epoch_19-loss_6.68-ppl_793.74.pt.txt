@@ -1,0 +1,42 @@
+
+
+
+
+ a melody might sing love's own bonus, 
+ at the height of jesus who i have welcome and i have stayed 
+ i am the sea to my toilet 
+ again, how am i palpable 
+ thinking you gave me yesterday 
+ i shall love beyond before i might twangum her, 
+ to be underscored yea, to our soul 
+ i got men at the enervating center 
+ and mister height be shot. 
+ yet my spirit's work is is, it will be you, 
+ as if 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

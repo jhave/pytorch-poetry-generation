@@ -1,0 +1,38 @@
+
+
+. . 
+
+ ere snow divide us they kept it outside again. 
+ 
+ 
+ 
+ the extraordinary story 
+ of a woman is always happen. 
+ ciphers starts some sticks, a cantaloupe 
+ says refreshed at last 
+ one withholding. 
+ i saw my father on my chest, 
+ half so kind of pillars of troublesom halls, 
+ in the sirens deep on my ankles, 
+ trying to sing its listening. 
+ iii 
+ i was never so late, but surprised 
+ in the root i found 
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T12-26-28
+--------------------------------------------------------------------------------------------
+
+Tech details  
+
+Loading PyTorch Word Language Model.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200Batch size: sizeEpoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+System will generate poems of 88 words each, perpetually, until stopped.

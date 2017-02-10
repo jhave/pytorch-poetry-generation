@@ -1,0 +1,44 @@
+
+
+
+
+ but here no more was spy 
+ from angell but of courage between 
+ poetry and discriminate sparkled music 
+ with declining jennifer's in the brain 
+ the drunken never had sniffed no bands 
+ and the turn of his death with a very little 
+ such untutored three eight-year-old friends 
+ come by him, and when no regiment's dribble, 
+ or hers will hold him in the writing department 
+ ceremony. i might travell'd still. 
+ and their use was swiftly they wore dressed hats 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-16-40
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

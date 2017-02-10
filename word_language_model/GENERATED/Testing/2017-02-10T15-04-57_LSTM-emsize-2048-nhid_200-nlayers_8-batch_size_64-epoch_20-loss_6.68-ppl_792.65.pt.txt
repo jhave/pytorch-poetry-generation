@@ -1,0 +1,39 @@
+
+
+
+
+ needs wanting to hive pretty and white schemes 
+ pebbles translucent as you, free of his Padgett’s 
+ with a octave of pink, 
+ a handshake with gleams and newly-converted 
+ 
+ 
+ nothing can moment it like remarkable 
+ towels is company, in their palm too, 
+ no execution of stone crushed in the mind. 
+ tomorrow long and two, like my good reflections, 
+ he'll burn to longing. let each my winter, 
+ if ever that's my little years 
+ o laughing bird is an 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-04-06
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

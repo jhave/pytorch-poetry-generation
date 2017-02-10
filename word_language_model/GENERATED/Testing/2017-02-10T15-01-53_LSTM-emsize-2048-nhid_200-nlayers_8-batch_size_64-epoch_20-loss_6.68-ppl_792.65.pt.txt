@@ -1,0 +1,37 @@
+
+
+REFERENCE SNAKES, 
+
+ but the sulphurous hours has come set. 
+ lately summer unknown, 
+ here up-gathered were here. 
+ that plot will return 
+ on the crest of the vellore, gun 
+ from the forest, until daybreak dragged 
+ there, underneath them through the reptilian rock. 
+ now i have seen the strict tramp, stuck and turning 
+ across the cool soccer and into the sky 
+ with a dazed lays of takiguchi come, and there 
+ shall the dead be born at the glance of her 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-01-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

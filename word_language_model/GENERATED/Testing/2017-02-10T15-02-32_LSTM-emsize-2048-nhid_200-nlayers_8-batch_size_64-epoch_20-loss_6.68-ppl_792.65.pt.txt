@@ -1,0 +1,45 @@
+
+
+
+
+ damselflies, helplessness. i stuck the river wrist with stars. 
+ -- when you leave me close the stump of your sunken secret. 
+ i hear an visions, dragged under the ground, 
+ we are watching me, among our song, 
+ o disintegration. wine. here 
+ 
+ 
+ 
+ i will hear you catch 
+ his own friends 
+ around my leg 
+ in fresh rings 
+ wedding 
+ and art to me. 
+ 
+ 
+ 
+ i could be this money 
+ each night, this case well. 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-01-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

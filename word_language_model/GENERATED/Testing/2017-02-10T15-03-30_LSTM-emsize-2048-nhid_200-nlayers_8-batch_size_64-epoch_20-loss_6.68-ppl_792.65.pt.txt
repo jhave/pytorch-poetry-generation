@@ -1,0 +1,39 @@
+
+
+
+
+ and the mail, the trees' darkens in their foliage, 
+ the monks and red averred 
+ the administration the rasping fib. 
+ the bitten nobody'll the corner cage of the native, 
+ the dying mob--the concert fields, the dark musty 
+ of terrifying wood we newspaperman empty & dusty girls 
+ mostly faint and toys Lion equestrian, 
+ ancient boston blaze out into dockery the calls 
+ that all neolithic sea blood, crawling sunrise. 
+ 
+ danger; statues after water, as if to identify. 
+ 
+ the 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-01-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

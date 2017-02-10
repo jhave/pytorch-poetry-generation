@@ -1,0 +1,48 @@
+
+
+
+
+ all like money for a ram more to be close, 
+ like loneness lake 
+ mons hope, black-going-silver flower ribband 
+ arrived in pored forests, 
+ who could sleep on the waist-high fence. 
+ 
+ at the passing community farm, in delicate 
+ backs, judith. 
+ flores in fragments lv 
+ linger on stars under the boundary. 
+ some are those say, an engine moon 
+ blade, declared-- 
+ 
+ brother pulsing up the grasses and looped 
+ a groove with the white basin. 
+ 
+ the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

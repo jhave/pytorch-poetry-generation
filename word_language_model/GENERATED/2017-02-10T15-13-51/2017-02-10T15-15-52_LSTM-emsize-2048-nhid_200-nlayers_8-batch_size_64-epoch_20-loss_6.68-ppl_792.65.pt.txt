@@ -1,0 +1,35 @@
+
+
+NAME IS FREE-- 
+
+ a balloon, round the name of the earth, 
+ but they will not afford another things. 
+ 
+ 
+ 
+ dusk, don't cross a balinese bird on my head, 
+ losing himself to me. i can temper from english steel 
+ the crisp local poet. stopped afric's le horai on louis oon. 
+ the pages of the distance, are you originally and do i hearing poetry, demand viage, lots ... throughout the county, thieves--which, we'd is--something love afraid to receive hemorrhage princes all-statecar guests 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-13-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

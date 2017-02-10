@@ -1,0 +1,56 @@
+
+
+
+
+ 
+ love is it 
+ frost whore 
+ is sick, 
+ 
+ 
+ 
+ swords, born us 
+ and drifting full of tropical trees 
+ bead i yell here 
+ 
+ a skull really pulls 
+ immortal hand 
+ mountains in skin 
+ vines bones dense in ghosts 
+ solace, 
+ & the 
+ one sloped and clear. 
+ 
+ and a bath in a february 
+ felicitee lightning, corvo 
+ reveals so late, Sunlight’s 
+ eyed with patmos body alone, 
+ taint with the pink face 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-16-40
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

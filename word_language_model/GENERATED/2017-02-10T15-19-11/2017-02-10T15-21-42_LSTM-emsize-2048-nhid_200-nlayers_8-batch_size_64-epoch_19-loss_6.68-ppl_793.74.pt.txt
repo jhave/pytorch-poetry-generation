@@ -1,0 +1,44 @@
+
+
+
+
+ i stir, read so much well. 
+ which in the retiring) wanders 
+ on the corpse, xxx's 
+ as a young man who loves in the sousaphone lot 
+ of my mother between us. 
+ 
+ tonight, is he? you love-- 
+ but there he's dead licking 
+ like an entire prospect of breath elsewhere. 
+ i've been my bum like erased recessive 
+ enormous, burston full of sheffield, which came 
+ such squitchen moving the locks until we 
+ search them where to preface, lieth shoal 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

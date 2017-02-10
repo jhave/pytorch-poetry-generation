@@ -1,0 +1,38 @@
+
+
+TRIAL 
+
+ spritzed, in a star a shadow which goes clear 
+ like a mathilda's hirto goat pin and machinist 
+ Taste, & rabbits two to ma yuh 
+ decipher a roadmaps full of good 
+ unsuspecting deft evenings, 
+ the orlon ragged girl with 
+ a language during a riddle, 
+ herys, now from a bare spot 
+ you don't resist bring up. 
+ cut away the moon, and though the news 
+ brought a little home, but funbre, 
+ at only the walk yellow door. 
+ 
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T12-32-56
+--------------------------------------------------------------------------------------------
+
+Tech details  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+System will generate poems of 88 words each, perpetually, until stopped.

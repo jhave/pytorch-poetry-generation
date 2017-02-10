@@ -1,0 +1,44 @@
+
+
+
+
+ 
+ i wrote the crescent arc for my society 
+ by my of my awful eyes 
+ i live, i am not sure 
+ ? heard the banks, the lower was 
+ nervous in the trash-basket, 
+ that the parrot twist in the one shade. 
+ 
+ and i give a human sinning Sam 
+ like rolling to roofless nova on their fine 
+ circles? if all desire she wasn't, risen up, 
+ and soap from the heart of an joke. all the 
+ devil. infatuate father 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

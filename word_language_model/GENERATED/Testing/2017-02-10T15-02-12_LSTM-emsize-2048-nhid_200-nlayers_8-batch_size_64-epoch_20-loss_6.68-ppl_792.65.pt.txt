@@ -1,0 +1,45 @@
+
+
+
+
+ god first and judgment could make. 
+ this is north for her map. 
+ 
+ although among knowing they jamim 
+ feelings for bounds, the head planet 
+ in the amoighty trees. my skin 
+ 
+ ripe-red apple artery blue, 
+ the sweet one on the plains stood in above, 
+ the late paragraph burn. 
+ 
+ 
+ the still weathered pill, of reason 
+ 
+ odd human life ache the action of jesus, 
+ 
+ and quiet ghosts of the brain, all that now 
+ 
+ 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-01-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

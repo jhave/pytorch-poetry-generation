@@ -1,0 +1,46 @@
+
+
+
+
+ 
+ in brain that is edible and shacking together 
+ with wind burning to rise down. 
+ 
+ thinking of me i am hug again 
+ because i speak to use myself 
+ will make myself forget you 
+ this words pressing up, gone in attention, 
+ even thinking toward my window 
+ on sonnet you accustomed, no likely 
+ midnight reference in monkey 
+ crucifix scattering from dark rows. 
+ where i've we been taken again 
+ rise, shed the artificial heap de symmetrical fugue, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

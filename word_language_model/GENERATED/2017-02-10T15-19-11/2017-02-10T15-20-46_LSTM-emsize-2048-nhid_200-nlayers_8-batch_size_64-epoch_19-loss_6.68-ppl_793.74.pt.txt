@@ -1,0 +1,41 @@
+
+
+EYES FROM A LOVED ATTIC BREMEN, 
+
+ and i'm back that man takes my advice 
+ of barren and treasures, heroines' sweetness of 
+ troppo as the realms. 
+ unite whom you lost and give 
+ but charm need, making yourself back but not to 
+ be stupefied a feathered leaf. instead, even you guess 
+ you go, too, another and yours will hear your pail 
+ to the cold mouth. lark, are a slash for how 
+ it's not good that you can't imagine. like finding 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

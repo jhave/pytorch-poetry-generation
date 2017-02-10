@@ -1,0 +1,51 @@
+
+
+DAY. 
+
+ 
+ all hogs, and sorrow soothe ours. 
+ she does not dream 
+ 
+ what the germans came 
+ each slight has of writs, 
+ dying in the moon, 
+ 
+ the neighbor looks in clasp, 
+ the branches the monochrome 
+ plates fill in the native light, 
+ pattern and trim as they 
+ walk 
+ on a passing hillside 
+ peacefully waitress 
+ hu jumps e'er cast clear in 
+ remotest winter 
+ four--a guilt-free, 
+ stiffly spring--all pink peace. 
+ there lay blossoms 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

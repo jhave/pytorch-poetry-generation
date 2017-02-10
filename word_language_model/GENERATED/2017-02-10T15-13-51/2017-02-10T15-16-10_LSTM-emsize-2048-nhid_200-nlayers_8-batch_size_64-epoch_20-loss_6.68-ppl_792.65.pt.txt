@@ -1,0 +1,43 @@
+
+
+THE FIRE 
+
+ that roll'd, then burn with wings 
+ 
+ jug rank for the sea 
+ and by the other advertising 
+ side? mothered & kits 
+ frolicsome wrapper & function perennial 
+ does nothing set so 
+ intellectual, nothing than 
+ fall into apex of water 
+ 
+ this is written away 
+ our revealed systems dominoes 
+ failure is only. at every end 
+ 
+ there's all righteousness and the street whistle 
+ full of sped that don't the fire, 
+ the shores with their 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-13-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

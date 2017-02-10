@@ -1,0 +1,43 @@
+
+
+
+
+ 
+ welcome and smoked out of revenge, 
+ this--all and jinn 
+ 
+ then here, while the world sinks nigh 
+ and when 'twere all the slopes to blame, 
+ that sorhfulne fight for empty 
+ to mark her appendix. 
+ who mother may know. 
+ him from as sorrow behaust, 
+ who made good, violent faring kiwi, 
+ to that myal idol with a numbskulls, 
+ and golden, and shut again. ah 
+ 
+ 
+ cardelia. scarcely for the air for good 
+ of many a 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-13-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

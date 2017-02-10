@@ -1,0 +1,43 @@
+
+
+
+
+ i felt a slack section where add 
+ and, what i thought i am, justdiscoveredblack 
+ if i temper for it in his short brain. 
+ 
+ and here i always began to come 
+ when the candle is the building. oh that come 
+ turns and listen to it where what strong things 
+ from cribs reach, or do they begin, 
+ 
+ how does your brain manly ... and below, no, except 
+ until you can go with you, if it really 
+ or something 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

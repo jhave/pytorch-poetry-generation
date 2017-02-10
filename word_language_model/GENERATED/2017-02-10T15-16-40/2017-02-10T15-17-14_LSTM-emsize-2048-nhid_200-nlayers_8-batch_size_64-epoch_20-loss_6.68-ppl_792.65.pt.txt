@@ -1,0 +1,51 @@
+
+
+. . . 
+
+ 
+ . . . 
+ 
+ grows tulip, 
+ 
+ no single chestnut need here 
+ among our rocket entities 
+ 
+ 
+ &, i can't hear exactly getting human 
+ instants waiting sincfage years behind. 
+ bade the girls get onto the road 
+ when they toss tense and panes 
+ for incessant hills under the hill 
+ the distracted path 
+ trapped each wheels. 
+ it was just any morning, 
+ and we reach me in the flesh. 
+ as love--when thinks 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-16-40
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

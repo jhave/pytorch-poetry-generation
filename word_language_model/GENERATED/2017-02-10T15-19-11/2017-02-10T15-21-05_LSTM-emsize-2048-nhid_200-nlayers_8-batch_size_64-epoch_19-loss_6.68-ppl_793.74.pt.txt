@@ -1,0 +1,46 @@
+
+
+
+
+ 
+ below, she want what nothing 
+ was really far and those explanation 
+ was connected under the black buds of the racetrack 
+ and strung backwards down sideways unseen 
+ 
+ by the anchor of incinerated, raising us. who 
+ were gonna whistle today with your hands 
+ ten or less days kirghizzes, since no doubt, 
+ a pair of blood too to handed them. 
+ 
+ everything, my bear, pray if the out,' 
+ what else? 
+ then yet, 
+ i want to be breath 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

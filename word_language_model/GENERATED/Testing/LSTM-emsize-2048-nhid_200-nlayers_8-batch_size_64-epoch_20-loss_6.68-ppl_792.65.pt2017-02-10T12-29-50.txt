@@ -1,0 +1,43 @@
+
+
+
+
+ 
+ wished much less than varying fly. 
+ say, them-- o crinoline 
+ sometimes, our offers of stain 
+ are houses who clear in to words. 
+ 
+ 
+ 
+ 
+ i must walk 
+ from time how to end a woman 
+ hero spoke of frontal sin, 
+ small mussels upright on a skin, 
+ & james thin green leaves, and then 
+ had seven intensely godly. 
+ didst i say to you to greek 
+ out to me that there's often cruel 
+ insolent into 
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T12-29-50
+--------------------------------------------------------------------------------------------
+
+Tech details  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+System will generate poems of 88 words each, perpetually, until stopped.

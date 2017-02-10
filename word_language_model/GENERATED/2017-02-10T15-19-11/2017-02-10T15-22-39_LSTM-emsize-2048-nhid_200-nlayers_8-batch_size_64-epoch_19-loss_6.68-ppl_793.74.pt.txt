@@ -1,0 +1,50 @@
+
+
+ASKS. 
+
+ 
+ o having filled in fire, neither is yeelding. 
+ tragoedians with torments from snowing. 
+ 
+ stanfah, one Mike nights. 
+ well, two furies hitting and get 
+ music used not to resume. it's bullshit 
+ cause here's something right-- 
+ and they have never established your loneliness. 
+ 
+ 
+ an poem, 
+ almost clothing. 
+ 
+ 
+ 
+ i use my muster about my life and god 
+ and was peace for me before my singer i suppose, 
+ leaves the boy's and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

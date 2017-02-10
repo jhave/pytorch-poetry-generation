@@ -1,0 +1,43 @@
+
+
+BED PHILISTINES, FAILS YOU? 
+
+ no wonderful mean but no likely. 
+ seated like a little intention stays, 
+ from the conceit of a matinees, gown more, 
+ drawn to one stride. artisans 
+ aunties and battlefield. part чечевицы. doors -- 
+ promis'd, rodia's lampsacio a little animal. 
+ memory of the bluebirds, cold centres backbone 
+ high around the bushels that angeles, 
+ with greedy stars the dull bridges, slips 
+ manicheans around the rail, and remembering 
+ through the tavern auroral glow 
+ child- banneker, rode 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

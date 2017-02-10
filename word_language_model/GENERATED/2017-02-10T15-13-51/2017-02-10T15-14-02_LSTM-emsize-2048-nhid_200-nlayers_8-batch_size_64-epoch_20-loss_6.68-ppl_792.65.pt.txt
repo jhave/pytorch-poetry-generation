@@ -1,0 +1,41 @@
+
+
+BELL, 
+
+ 
+ all night 
+ which forth 
+ in the water is ties, 
+ and the days out of bables, 
+ 
+ who stared all unsouthern and commanded 
+ or was silence in the slightest towns 
+ what hope remains of their locker table-- 
+ how are they pain of saintly nowhere of love, 
+ they feel to manage the nictitating to relax 
+ 
+ since in asians, where whenas it is, 
+ but what are you wisely with men and life? 
+ others excavation-- and die, 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-13-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

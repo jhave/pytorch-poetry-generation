@@ -1,0 +1,35 @@
+
+
+THE GRAPE, IF 
+
+ i earned that call his place and weave 
+ except all too shot to the rights of size 
+ whose marriage could be a great real man, but still 
+ the pure cause of whatever has been power. 
+ acknowledge a little sentence 
+ so that life newton had been, yes, the world is 
+ a penalty i crept on with portraits in france 
+ in my own shadow, feeling alone is useless to mean, 
+ sure with my mother and my lost condition, 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-01-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

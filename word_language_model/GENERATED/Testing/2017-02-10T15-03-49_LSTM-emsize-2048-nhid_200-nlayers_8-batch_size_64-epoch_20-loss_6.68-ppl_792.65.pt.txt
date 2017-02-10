@@ -1,0 +1,37 @@
+
+
+SEEDS. WE CAN MAKE THE MAD, WE HAVE RECITED THE MOST AGE AWAY IN THE CAMPI. DROWSE AND FORCE 
+
+ under the sun 
+ when the lights grow at its tongue. 
+ 
+ 
+ vi 
+ 
+ a skullcap from the poplar companion of his hands slips at silence with oysters confound a boat. laughing girls for two he had a twig. 
+ 
+ a warming thing, a shop of black light trespace. 
+ and the womb that winds makes no hand shut. 
+ one chinese tapering cell? 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-01-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

@@ -1,0 +1,1163 @@
+jhave@jhave-Ubuntu:~/Documents/Github/pytorch-poetry-generation/word_language_model$ bash Run_Models_and_Generate_2017-02-06T17-39-04-DEFAULT-40epochs.sh
+                                   
+
+
+without regret, 
+ played with a smooth 
+ raid of soiled petals, the color 
+ of rage and blood away-- 
+ pinched your nose over something. 
+ people saw high in the snow 
+ you died for a pickled money-colored of colored candy leaves 
+ 
+ you had tideless surface to eat 
+ nimble, put down the boulevards 
+ 
+ trying to lire down the pavements with a knife 
+ or a box of workmen holding up crates 
+ they had closing from speed, only one practice the nation. 
+ 
+ the dragonfly successfully stand on the counselor of being 
+ alarum, -- truckee hated gravity, 
+ crocodile, deever in your 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_10-loss_5.86-ppl_349.59.pt2017-02-07T12-32-30.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_10-loss_5.86-ppl_349.59.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+hold 
+ into the locks the pulled of corn 
+ continues to crack, 
+ one indistinct thing, 
+ set out the minute to lose. 
+ 
+ yesterday they'll stand 
+ here near no snow 
+ for those who became 
+ fish. they could hear, 
+ its coteries, a call-- 
+ a thing that made it hold, 
+ in every moment 
+ 
+ which is also rarely made 
+ by any estado 
+ or a substance of itself, 
+ a sense of praise, which someone elegy 
+ some tragic attics, 
+ the heavyweight and routes 
+ of its own blue cathedrals 
+ and strings shine right. 
+ 
+ in houston we sing, 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_29-loss_5.84-ppl_344.75.pt2017-02-07T12-32-36.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_29-loss_5.84-ppl_344.75.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ 
+ if the intricate head stayed 
+ 
+ as she gets off the wrong name. 
+ 
+ 
+ and if i had no love for my age 
+ if you could, i'm cried halicystus 
+ a tub of white pines'. 
+ for itamar, opened it all across me 
+ on the socket of the chair, cursing. 
+ fakes red pretension 
+ required to circumambient open 
+ now running across the backyard 
+ toward the next degree 
+ than ever 
+ i decided is only my presence since 
+ it doesn't seem to extend me. 
+ sometimes i can't have believed 
+ so that it goes to me 
+ if you 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_11-loss_5.86-ppl_351.01.pt2017-02-07T12-32-43.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_11-loss_5.86-ppl_351.01.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+to sea. 
+ 
+ the bones of the world does not passed with seat 
+ until we should not cross the head on 
+ the wound, and his green shriek around 
+ a man that strike water snow 
+ on the valley of the bathroom day 
+ to blow against the lemons, the scent 
+ that enchanted voice 
+ on some urgency 
+ at the ernesto's court, hold at sea mr. stony alwey a glow 
+ 
+ airport and a coyote openly, across a casement 
+ finish out push another one, a time 
+ and puny a dish 
+ that did not wieners drafts, 
+ or russian vobiscum who once said 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_2-loss_5.93-ppl_374.66.pt2017-02-07T12-32-49.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_2-loss_5.93-ppl_374.66.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+the fresh and blue. 
+ 
+ he leaves him in the quiet, there 
+ alone. only. said, without 
+ what they say, by ba-bas 
+ who was. i don't 
+ have the hostess, just squeezed to his own 
+ 
+ first cat when this street 
+ is total artificial poems window--i 
+ have done themselves, these landward patterns 
+ give us what we are? 
+ 
+ if the war was a vote in fit and harakiri. 
+ some are the poseur, 
+ please me also sift away ragweed 
+ and have scuttling my betrayals, under it. 
+ i won't stop wrong without small time, so clear 
+ it is strange to 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_12-loss_5.85-ppl_348.18.pt2017-02-07T12-32-55.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_12-loss_5.85-ppl_348.18.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+unending business 
+ 
+ lulu's dutch pigs from a trestle rubble chimes into corn 
+ unrefracted tour of stoked fire in the baritone fence 
+ shut-eye or, destroyers...? 
+ the vegetation going on whate remember us 
+ hard fate,my shoulder-blades and fishes alive 
+ per day of us sachel the performance on a horse, 
+ some witness needles of rye blow out goodbye coveralls, 
+ table, broken blood jug door blood deep on us 
+ 
+ 
+ faded as a string in the snow, guards 
+ rubble flesh froze in the park, 
+ 
+ this boat held full on me. like a vocal 
+ cretin-wise 
+ without the blackbird or a 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_30-loss_5.84-ppl_344.74.pt2017-02-07T12-33-02.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_30-loss_5.84-ppl_344.74.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ portent? zechariah, and maverick geodesy 
+ growing closer, with desperate snouts 
+ floating seventy-six, into a film like april lights 
+ as sturdy flowers, turkey-hen the lyric murderous razor 
+ live in its centre with an dinner. 
+ 
+ 
+ ii 
+ 
+ o swallow, her look like a spark unwell in a glass 
+ of grain a paper tree falls 
+ into this bondage, but not built on earth, until 
+ the air glows like the ripened snow that makes a stream 
+ where the warm spring to bailey shall eaglet--from 
+ that word-perplexity, patch of nectar went. 
+ this condemn, that flash, which recoil in its loss, 
+ 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_13-loss_5.85-ppl_348.29.pt2017-02-07T12-33-08.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_13-loss_5.85-ppl_348.29.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ 
+ 
+ 
+ 
+ 
+ the unwavering wind brushed the crystal edge from the stack, 
+ it came in the mirror adam's-- 
+ eleven miles from the unholy relic 
+ retrograde, had it thrown into the reeds. 
+ 
+ 
+ 
+ unequally vows plus love has been an ugly old game. 
+ and now they descend or flare when others sit still, 
+ sick they invented overreach 
+ axe and wives. they put its sun-- 
+ out their skirts like ragged guardians stretched over cradle. 
+ how distance could hate out passage to light. 
+ the world is not upset and soiled and of property, 
+ in every island, every 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_31-loss_5.84-ppl_344.73.pt2017-02-07T12-33-16.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_31-loss_5.84-ppl_344.73.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+speech 
+ 
+ as the child rises the final kiss, 
+ all delicacy thy small delight, 
+ the thicket of the record, stares 
+ at my shoulder and learn to master foes 
+ i blackening, i must reach 
+ of their kind? who rolling out and stay 
+ more and blind in many shapes 
+ but cannot i be anway and thou 
+ neither thy kisses is, thou wilt know 
+ thou that my identity, for other feet 
+ that in her nightgown familiar 
+ and he with sohrab's hand, 
+ i lie at the loves of men, 
+ waiting to deceive the smart, 
+ of that star which lies too 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_14-loss_5.85-ppl_346.12.pt2017-02-07T12-33-23.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_14-loss_5.85-ppl_346.12.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+be trudged away 
+ as yet. i leave you through the dark 
+ 
+ and below it, i left the house in champagne 
+ and four birds in the park was stuck to her 
+ drinking salt, roses, and velvet 
+ with styrian and defi'd, 
+ and the turnip 
+ awed by tendencies of anger 
+ which he was jealous with he 
+ 
+ feeling one of them 
+ considering how they went on 
+ and he cured them, 
+ he wanted to burn them 
+ and the queen had turned 
+ deep in vertical 
+ by fifties, 
+ as level in his net. 
+ then he wore a crow's wide 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_32-loss_5.84-ppl_344.73.pt2017-02-07T12-33-33.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_32-loss_5.84-ppl_344.73.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ 
+ 
+ 
+ steady mechanic, helen, 
+ filled with eyes & doves to mud, 
+ returned to gray waters 
+ by who people leave you old. 
+ then life-lumps wraps them 
+ by the chipped lust of rags, 
+ his legendary palette is flat 
+ cold you'll never know whom makes the skin 
+ if you can think the guy needs 
+ the time of carp you listen 
+ to the such, blockhead consciousness, 
+ and thunder the established keeper 
+ trots in the doorway. 
+ 
+ aunt brocaded mortars, trips 
+ back, palpable end of, 
+ as a crow's hubcap. close 
+ 'by the bottle 
+ of it will 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_15-loss_5.85-ppl_345.74.pt2017-02-07T12-33-40.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_15-loss_5.85-ppl_345.74.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ without an inherited 
+ rank deal'st in your shoe 
+ no need real wasnt 
+ once clearer thru the javans potatoes--screw ear. 
+ 
+ why can't i get of this? i'm not taller, 
+ but there are lovers standing on top as for this. 
+ and the cat knelt on a selling gold learning. 
+ 
+ i think i needs macabrely, wild infants, 
+ those capers halls, shallows in the lonely bulbs 
+ of mosses. trees, the great vintage bodiless sleep. 
+ 
+ 
+ in kennel of difficutl days 
+ from the state we used to believe 
+ before we slept with a earlier place 
+ under the euboic fields 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_33-loss_5.84-ppl_344.73.pt2017-02-07T12-33-46.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_33-loss_5.84-ppl_344.73.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ but that lament 
+ of natural being mucking 
+ and i set off 
+ into the absence of old themes, 
+ are all ended, a lover that's known 
+ you and vex you, who tanked around her, 
+ playing and unjust to bed, death out 
+ 
+ for the last half hours and then it's wrong, 
+ he's really turned down and i say 
+ they said they lick my fingers down the floors, 
+ or beardless, my fingers shits, 
+ my father asked us they are not dead, 
+ but looking for the wreck of the rare summers wallowed 
+ with the morning trace of fire for free of 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_16-loss_5.85-ppl_345.66.pt2017-02-07T12-33-52.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_16-loss_5.85-ppl_345.66.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+in fact, she said. 
+ the phoenix describes their sampler 
+ in courtiers said 
+ pasturing about. 
+ 
+ found five hours 
+ sure it was a melting 
+ falsetto blue fence. 
+ 
+ no one at home had been 
+ still he told me it's hard 
+ to work the revolution 
+ but a very few flights of the screen, 
+ to hear their mare.' 
+ 
+ i pull them on my wrist 
+ and kiss myself against my hand 
+ 
+ now we are rubbed we down 
+ the storm, turning away from 
+ darkness to kiln. 
+ our high-wrought sign, or rather, 
+ no hippocampus. 
+ the termites 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_34-loss_5.84-ppl_344.72.pt2017-02-07T12-33-59.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_34-loss_5.84-ppl_344.72.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+seeing them, michigan, 
+ depository. 
+ westerns and gong line, driven by fiery 
+ to warn them into seeing the rich woot, 
+ and as content the peccary goes. but i think, 
+ i am over on the banks of a candle. 
+ 
+ on phrenzied occasions, and allow them 
+ are the liveliest gary, i am not thinking stella, 
+ the solitary history of our diseases 
+ too quiet for more than that. 
+ 
+ my god, then delivered 
+ it was drer's spools 
+ with a kind of tiny negra 
+ when he was food--grated 
+ and glittered at 
+ his final footsteps 
+ after a first calf. 
+ 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_17-loss_5.85-ppl_345.69.pt2017-02-07T12-34-05.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_17-loss_5.85-ppl_345.69.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+number, 
+ in the spent glow of its development for a second, 
+ except the turkey leeward, ash wheels, texture 
+ of tonight, the white splashing turning o'er-dusted. 
+ on the crops of being wild enough for leaving the tide 
+ to create whorling fear this every hollow is the length 
+ where beautiful peoples' angels wails us together, 
+ and the bones of that rattin call to right, tawny 
+ selves in the empty garden, los homeland of massachusetts sniffing, pheu, clippers, 
+ constructions babel des notr' christian am questioner 
+ je la sont what's are,-- 
+ america 's there? no way home 
+ i'm gonna tired, i smell my 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_35-loss_5.84-ppl_344.72.pt2017-02-07T12-34-11.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_35-loss_5.84-ppl_344.72.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ put down by lavish flying relations, 
+ he saved my heart. 
+ yet i kept there, happy 
+ and fed him clear and strong. 
+ 
+ how foolish to you choice, 
+ as if you find them? 
+ 
+ have the surf's beautiful 
+ boyfriend. you'd grow? 
+ with fingers plaything still 
+ through virtues why. 
+ 
+ 
+ 
+ miraculous i did not grieve 
+ but had ever mine, 
+ for me to show 
+ i said you are not open 
+ and go glad i cried for you. 
+ 
+ 
+ the night has been warm. 
+ the world, in front of all the milk. 
+ the dawn, 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_18-loss_5.84-ppl_345.29.pt2017-02-07T12-34-18.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_18-loss_5.84-ppl_345.29.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+for the beauty of every thing. 
+ there is three voices in such a protective sum 
+ of the earth's heavy distrusts. 
+ 
+ i am the night i buried old god 
+ though my life always flowed through the mire. 
+ 
+ he loves in the gulf of a father, 
+ until the archer can't let he eat my mouth 
+ and think it's oneself, and pride 
+ pronoun, benign. doesn't resist me 
+ because he walks out of catholic terms, 
+ perhaps, that i was born on tree streets 
+ of an apple line one sniffing strong arm 
+ enough for her gown to sit on my heart. 
+ 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_36-loss_5.84-ppl_344.72.pt2017-02-07T12-34-24.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_36-loss_5.84-ppl_344.72.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ 
+ isaiah belted her body in front of him, tenderest of all her marriage. 
+ 
+ her silent music casts 
+ a good low fair and very pale, 
+ when he caste to the fray, 
+ hard as the squirrel slowly disclose him with ugly 
+ but, a moment with fire or satraps, the leaves 
+ 
+ which blink the air upon the wall or the sea. 
+ 
+ in the byre. 
+ he left my chest, and all the labor minutes 
+ he came into his play looking 
+ at fast he called he too 
+ all of his preventing yet american 
+ to give attention again and the 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_19-loss_5.84-ppl_345.07.pt2017-02-07T12-34-30.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_19-loss_5.84-ppl_345.07.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+walk in, 
+ 
+ a dance pot of feathers. 
+ every day amidst the three days the cliffs were closed. 
+ and i went glad once, and listened to my grief 
+ for the day teachers die but i would suspense, then 
+ it was true. and so i was tickled by the solution 
+ for the first time you called it winter. 
+ it wasn't that lover, not even the time life 
+ has long seemed to kick, it jelly. 
+ i've killed everything that would do? 
+ 
+ 
+ 
+ b b b b b b b hey alas, i need a fly image inside it 
+ in these 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_37-loss_5.84-ppl_344.72.pt2017-02-07T12-34-40.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_37-loss_5.84-ppl_344.72.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+clutching maintained. 
+ and drink the dawn is clear around his walk like a cultures. 
+ 
+ how names the missing gossip passport-less, up drinking callin in fynd, radiates and dente to curiosity-- 
+ his dear mother's cherokee hands myrtle sweet-smelling, in the white yellowed home. those wannabe. you take in smooths. its lilacs. the horizon. . . . i know you are good to know i, and is to know that it sprightly approcht great enough, are the passing and the of them discernable wellknown they are enough to it. every one who is. it for a nectar- on the ground. . i know that i cried them. this is 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_1-loss_6.08-ppl_436.79.pt2017-02-07T12-34-46.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_1-loss_6.08-ppl_436.79.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ but when from this, between 
+ the hollow theatre of the chair khaki round the world's 
+ 
+ dark silks and soft blonde feather 
+ 
+ on pink sky that hid a blue sun 
+ where it became dwelling pointing dead 
+ its lip rattled its green pride, thread-bare 
+ nod spears alike at ingenuity fact 
+ we've gone out, even then we were going through, 
+ new songs in the forsythia and sunrise 
+ received into boxes--he straining to erase 
+ spongy one old trumpet bathing 
+ greed who has been simply without, 
+ grows on, 
+ moving the coughing of the dead man's body 
+ and for amazing 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_38-loss_5.84-ppl_344.72.pt2017-02-07T12-34-55.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_38-loss_5.84-ppl_344.72.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+a strain of light is cold 
+ braving the winter of the night 
+ and soon one could last alone, 
+ another moment led to dry 
+ even to have limitless sag, 
+ and make things out, and often, 
+ all on with the wreath and bells crying 
+ of beautiful hues of frog 
+ and so it will ready, 
+ yet if that water glows 
+ but covers by blushing like wine 
+ and one time which dreamlife--why her here, 
+ it is inquiring to desire. 
+ 
+ regard not, as with an suns, 
+ crowded urinal shelves with a mill, 
+ and when the stone speaks is writing. 
+ 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_20-loss_5.84-ppl_344.95.pt2017-02-07T12-35-01.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_20-loss_5.84-ppl_344.95.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+happy death, 
+ and her skirt, young truths in groves 
+ are flying in the afternoon, 
+ save for the grave of bachelor afar. 
+ each place breaks down the alley, down to greek 
+ 
+ x 
+ how custom stands on his lips, he says, 
+ we heard him? 
+ 
+ a fire was a light of leaving 
+ years of old, within timepiece that dwelt 
+ land-breeze high. the beaver cane 
+ whistle the advocates that weighed the meat 
+ for manacled. alder-bitten hand and denver, 
+ everywhere---- tax. powder, tiles. 
+ schoolyard. the war deigning to approaches? 
+ 
+ let's be easier half for a' doubt, 
+ an' 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_39-loss_5.84-ppl_344.72.pt2017-02-07T12-35-11.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_39-loss_5.84-ppl_344.72.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+enemies, 
+ it produces you and dreams which lies in your tongue, 
+ and must have nails? that you will not drive her toast, 
+ or find all beatific cheap men get lost, 
+ blindered courage in youth, housei think you of. 
+ to mean there's a funny whole particle 
+ of traffic broken, a car-edge mountain. 
+ lightning. the barges atheous rise in betray. 
+ first one will volleys because we've all called, 
+ the other one has been terrible at night, 
+ and all the world you'll be told the first dance, or its 
+ necessities to multiply, if you bark, 
+ or add or waiting against some region. 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_21-loss_5.84-ppl_344.88.pt2017-02-07T12-35-18.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_21-loss_5.84-ppl_344.88.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+thousand parts, 
+ all no--the pleasure of fainting pain. 
+ i should be one by night, 
+ retire to league. leaning to my knife, 
+ but with a tower of behest also sees, 
+ without practice of the halls, 
+ so rarely. even that fearless beast 
+ as after hour spring up goofer plain, 
+ that which it gives two croaking with the soap 
+ discount'nance them wild. one by one, in lackethe 
+ at the voluptuous smuttie buffleheads? mutable 
+ by tortoiseishly afterward with the myself--ourselves--in hoods. 
+ 
+ let the germany. when late halo leave it, 
+ and, like above ldan architraves lxvi 
+ it happens, correggio engadine to 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_3-loss_5.92-ppl_370.61.pt2017-02-07T12-35-28.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_3-loss_5.92-ppl_370.61.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ the children's faces of heaven, 
+ blown nails like innumerable war-shaft 
+ through sleepy stream of swarthy smouldering 
+ delight and west. dented gather up 
+ a blizzard 
+ opening, a gleam of leaves in a blue promontory 
+ on whanne boldest, or air-life sea-dust 
+ from the crown of consummated blank bridges, 
+ the pilot sob of the rice. 
+ we listen to the tree 
+ sentence down the sidewalk 
+ and again a horror breaks in its faux truckdriver take. 
+ 
+ oh, yes, 
+ don't inherit crew 
+ and wading and orchards. 
+ you favorite. we eight-point 
+ while it reached swaths 
+ trusting a truth radioshack 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_22-loss_5.84-ppl_344.84.pt2017-02-07T12-35-38.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_22-loss_5.84-ppl_344.84.pt
+--------------------------------------------------------------------------------------------
+
+
+Traceback (most recent call last):
+  File "generate_pf.py", line 56, in <module>
+    model = torch.load(f)
+  File "/home/jhave/anaconda3/lib/python3.6/site-packages/torch/serialization.py", line 248, in load
+    return _load(f, map_location, pickle_module)
+  File "/home/jhave/anaconda3/lib/python3.6/site-packages/torch/serialization.py", line 317, in _load
+    tar.extract('storages', path=tmpdir)
+  File "/home/jhave/anaconda3/lib/python3.6/tarfile.py", line 2034, in extract
+    tarinfo = self.getmember(member)
+  File "/home/jhave/anaconda3/lib/python3.6/tarfile.py", line 1743, in getmember
+    tarinfo = self._getmember(name)
+  File "/home/jhave/anaconda3/lib/python3.6/tarfile.py", line 2325, in _getmember
+    members = self.getmembers()
+  File "/home/jhave/anaconda3/lib/python3.6/tarfile.py", line 1754, in getmembers
+    self._load()        # all members, we first have to
+  File "/home/jhave/anaconda3/lib/python3.6/tarfile.py", line 2348, in _load
+    tarinfo = self.next()
+  File "/home/jhave/anaconda3/lib/python3.6/tarfile.py", line 2281, in next
+    raise ReadError("unexpected end of data")
+tarfile.ReadError: unexpected end of data
+                                   
+
+
+swimming down in the hall, 
+ listening in the beam, some cause 
+ on its contrivances submitted like 
+ a dog dropping edge he received by the smoke 
+ of another person, mare... even my self 
+ ill-phrased. us, past me, er down-at-heels dis, 
+ kisses and sweat. i wait a while, 
+ in me and myself i knew of you. 
+ 
+ and though i hardly heard numbers thieves or such pain 
+ as that stern face i would have mercy here 
+ and whenever i look upon that dangerously. 
+ grant me the leaden tang and my poor ancestors. 
+ sail-cars thought him loving the parson's marxists, 
+ then 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_23-loss_5.84-ppl_344.83.pt2017-02-07T12-35-49.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_23-loss_5.84-ppl_344.83.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+on a responsibility, 
+ compensation, with villa claiming they, one dago off 
+ through evening, . . we, of poetry, persistent 
+ spending at the with conception murmurs ash. 
+ 
+ and turns into a garden by a deep fashioner 
+ business, horse, another by my clatter-bangs 
+ it's at peace to noel the sour, put on account 
+ across the into dust's removing exulting tween... 
+ 
+ i saw one 
+ querulous baby man, who had so hard 
+ to hear walking races to live 
+ to the suburb of being waited for a crack, specious hostel. 
+ and after them. 
+ 
+ and whate'er 
+ he were so whispered 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_4-loss_5.91-ppl_369.32.pt2017-02-07T12-35-59.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_4-loss_5.91-ppl_369.32.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ 
+ an elemental 
+ image of a tortured body 
+ in the eye full 
+ of motorway curls 
+ 
+ there complete the house of fanciful 
+ as the mind climb like a wind 
+ through diminishing beads 
+ 
+ beneath cut waters 
+ the birds 
+ 
+ cars broken hedge 
+ on a white of fat skin. 
+ 
+ the field snags like a triplet sea. 
+ sere. -- 
+ . sun-torn the oak photographer 
+ hung in the ditch market low 
+ 
+ i saw him die again and again, idaho 
+ lord devereux feathered dwarf grammar dressed to feed stig linden 
+ 
+ sifting on similarly delivering 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_24-loss_5.84-ppl_344.82.pt2017-02-07T12-36-09.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_24-loss_5.84-ppl_344.82.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+to the tongue 
+ he lets use him to leave the wounded fire 
+ and move it, that here is withered and cold, 
+ regardless to probe made quieter, 
+ that space will shine on, no matter, 
+ delight, breathe because you will murderous-- your children 
+ 
+ 
+ i know that feeling removed 
+ beneath the gartered long'd-for play, 
+ 
+ 
+ over or core 
+ 
+ a preacher or that one's continuance 
+ is why might be much to be wakaya's 
+ 
+ 
+ even even by the outer pace 
+ 
+ i gray-brown-metal-filthy for my own grace. 
+ 
+ 
+ at a strain you are you? 
+ 
+ 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_5-loss_5.94-ppl_378.70.pt2017-02-07T12-36-20.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_5-loss_5.94-ppl_378.70.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ for discomfort. 
+ 
+ imagine a moment in the hour. 
+ eight trees, expenses its being. 
+ 
+ 
+ am. scroggs, submerging, 
+ the elm tree mourning whose way was nice. and a bird coiled, in the colors of the spring light of me. my driver moved down mouth. few are prisoners whittled in the tides of the building horeheb's holy town watches and givenhalf as advanced may play in black and tar and gold in his mission from clothes. imagine i was a child out of their dining yard and drove the shrunken apple, charges in the street with a sapling jarring bed so yellow suddenly we could not 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_25-loss_5.84-ppl_344.83.pt2017-02-07T12-36-30.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_25-loss_5.84-ppl_344.83.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+seems to say, 
+ in the milestones 
+ the banks of our noses have walked like fat legs 
+ round our bows, 
+ 
+ 
+ all day, what grass of what god may always remember. 
+ thrice this is about torment rest, 
+ how the suitors who bear in a promised crowd 
+ 
+ watertable and lashes, missouri. in the presence unattached, 
+ never agona, or bucked and lose. 
+ 
+ if ordinary years are running there on war. 
+ 
+ in the day, suddenly this day his ticket rippled 
+ to be delighted at it. 
+ 
+ 
+ xv 
+ 
+ following these figures in their jean 
+ their loftier 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_6-loss_5.83-ppl_340.08.pt2017-02-07T12-36-37.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_6-loss_5.83-ppl_340.08.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+muddy rods in their inscriptions smiling the heart 
+ 
+ paddocks climb through gardens mutated, stairs, repentances, over arch'd showers. boughs, immortally, damage, wary, obscure, flags in their way. 
+ 
+ and so, to be burdens in twos and depressions 
+ wag, my selfe fully with all the forms lightthe gewiton the melancholy force of the sorts, 
+ stayed unto the bonds of precision. fontainebleau, bridge and dealings for example, 
+ while to my mother she wished to bark with rooftiles made her unnerved bombed rent by these, 
+ she casting a shining delta. and set it down, then came from my body and a flowre of sorrow that she swung 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_26-loss_5.84-ppl_344.81.pt2017-02-07T12-36-47.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_26-loss_5.84-ppl_344.81.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+heart 
+ before she saw the clear drawback of her house, 
+ and not a saw forth as before. she gives a vision 
+ to all of now and make to spain of banishment 
+ yet as it makes her, having always found her, 
+ by day she was most exquisite to know 
+ what to do with us, she being pleader 
+ and determined to guide, the first poison 
+ 
+ still now to centre blowing down, 
+ and past those lightnings, days, so now plaids, dyes 
+ and strange stories . . . 
+ 
+ in darkness they come, their materializing smiles, 
+ the land of light is whiter 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_7-loss_5.86-ppl_349.50.pt2017-02-07T12-36-58.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_7-loss_5.86-ppl_349.50.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+as an iron flower 
+ 
+ light clasp'd the hand, bright steed. 
+ why, thus, god close-locked and 
+ the life of you can do if you were going 
+ so familiar, forever answer 
+ so, though soul lives yet? 
+ 
+ you shall see if the word be brought 
+ naked these little men control, 
+ death-angel and counterpane for these are 
+ possible to dart among fog and stone 
+ 
+ in their invasive roses, 
+ bear these little tinfoil reign, 
+ these savage things move, 
+ who are fearful and eternal, 
+ so pale and briefly 
+ 
+ who can sing of memories drayton 
+ so hath you 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_27-loss_5.84-ppl_344.79.pt2017-02-07T12-37-08.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_27-loss_5.84-ppl_344.79.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+remarks 
+ of the old earth and there 
+ though are i not a pity, 
+ or want food to spare thee alone. 
+ 
+ xxviii 
+ his eyes were years and eyes left white, 
+ so that he should come in milan 
+ but as one sees he doth as strongholds. 
+ 
+ both right on the west year has all been known. 
+ for a the rub of flesh it's durable 
+ as our currents get listening to my thought 
+ for that night sends him to their mute, 
+ and have been so deep in vain 
+ he cannot ne'er prepare him. 
+ who can blame him to 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_8-loss_5.85-ppl_347.68.pt2017-02-07T12-37-15.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_8-loss_5.85-ppl_347.68.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+harder 
+ with no wind nor long-ill-fitting acres there were giv'n. 
+ here rings and dress wrist--he yoked with a massive blast 
+ of white still brushing off. so why i see 
+ not ever-altering but the rude pool. the streams 
+ are redder than any return i ask 
+ not to do th' air broken, evening or consequence 
+ of grief and happiness when the sun glistens out 
+ 
+ at length for the springs inspector and not 
+ yet part the silence of the house that darkened the 
+ moment 
+ 
+ farms. one to the evil 
+ christ, does love seem for happiness, 
+ comes alone.' winter nights 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_28-loss_5.84-ppl_344.77.pt2017-02-07T12-37-25.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_28-loss_5.84-ppl_344.77.pt
+--------------------------------------------------------------------------------------------
+
+
+                                   
+
+
+
+ in the harmonies of the 
+ past one ragtime lay 
+ 
+ within darkling the blue stroke. 
+ that we looked up back at the moon 
+ with its quiet arms 
+ stained with moons of the old, moon, 
+ joining y'all of ash or ocean, 
+ august 
+ until there were no such reason 
+ 
+ that there 
+ was a child? 
+ a few thousand miles ahead of them. 
+ and the surrounding them 
+ wide under damp trees 
+ the cat's arms them tight, 
+ a gleam of austria 
+ whale, has a wondrous 
+ collection of water 
+ and his wife and his mother, 
+ cong 
+
+
+--------------------------------------------------------------------------------------------
+Saved: GENERATED/LSTM-epoch_9-loss_5.87-ppl_352.91.pt2017-02-07T12-37-34.txt
+Model: 2017-02-06T17-39-04-DEFAULT-40epochs/model-LSTM-epoch_9-loss_5.87-ppl_352.91.pt
+--------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,39 @@
+
+
+IN, THE HOUSE SAID, ... 
+
+ 
+ it was like the river, who froze alone 
+ since, when we sweeping up his brain, 
+ calling them back into the scattered mirror, 
+ and now as hairs and the hungered, 
+ along we true stakes out of the great butter. 
+ discreet. machinery it needs in six 
+ to the measure of his name, a one and a piety. 
+ it onon less than which they vote executives 
+ shift, dogs that blows at a glass. 
+ 
+ 
+ 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-13-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

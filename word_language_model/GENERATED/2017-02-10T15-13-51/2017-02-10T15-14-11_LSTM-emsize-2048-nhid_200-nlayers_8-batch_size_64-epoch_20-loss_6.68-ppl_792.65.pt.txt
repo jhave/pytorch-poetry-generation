@@ -1,0 +1,40 @@
+
+
+
+
+ from the dome of right cotton Sherry tied, bondage 
+ above the foreground at last, wracking now. 
+ 
+ 
+ 
+ 
+ i learned, for caesar's brother 
+ the brightness of the hook lying up with whoever medicine 
+ flaunt by the neighbors' curtain, the grass would hide, 
+ full of law's trees to a sleeping protestant blethering 
+ i heard the scattered trees turned, (33). 
+ wheeze, walks from shock, and the sky stray beneath 
+ their sheen in a dangerous heat. 
+ pointed over the 
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-13-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt

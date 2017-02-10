@@ -1,0 +1,38 @@
+
+
+
+
+ the plant publics shrouds 
+ from the small harlem arms of a meadow. 
+ 
+ i have you, no sharpened than a fissure 
+ ten rents another one spring's students, 
+ 
+ the line is a philistine, very virgin will 
+ touch one napoleon all the way of a world? 
+ art would be performing eight words, or bread 
+ 
+ o'erwatched at the betrayed--the i'd have to give his eyes, 
+ but you can't have helped wiley 
+ just in the well of your hands, your 
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_20-loss_6.68-ppl_792.65.pt
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T12-28-14
+--------------------------------------------------------------------------------------------
+
+Tech details  
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: size
+Epoch: 20
+Loss: 6.68
+Perplexity: 792.65.pt
+
+System will generate poems of 88 words each, perpetually, until stopped.
