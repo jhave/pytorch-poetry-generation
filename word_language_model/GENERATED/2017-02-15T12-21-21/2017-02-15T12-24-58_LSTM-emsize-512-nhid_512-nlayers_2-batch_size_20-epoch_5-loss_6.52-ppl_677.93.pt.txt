@@ -1,0 +1,57 @@
+THE EMPTY PEW 
+
+ 
+ attaches the time: listening home to Hell, golf April 
+ Old vat shining for lilies, 
+ You, Lawns meet, crack to the dinge 
+ sweg, amor cardigan clawed 
+ Gon to money vaste keepin't soap 
+ Choctaw. frtwa, Our Womanhood, & accomplished space 
+ As a ship's fingertips. 
+ 
+ This was the stain of which nobody meant, 
+ The earthy crows of Queendom, 
+ Sat on an airy taste." 
+ Knowledge of a heathen tree's hair 
+ Makes his breathing THESE 
+ 
+ He reaching his awful grave. 
+ He thinks that its name is its weakest 
+ Is in his promised insistence 
+ The life are covered with leaves. 
+ 
+ But the world is 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

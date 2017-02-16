@@ -1,0 +1,44 @@
+
+
+HE STOP 
+
+ See you by yourself and seen maggots in my socks 
+ Before the Nation came this is Bubba diggy kid's did 
+ Get into some mistakes to chop by 50 O'clock with no bite 
+ I done, I tell you that I hope you hate me. 
+ Cause we why we lookin for probation and changin minds 
+ Raps crack pour haze storin voice 
+ Smokin vodka, throwin dubs, we bought heat and we haven't sold shit 
+ Hold the (high) I got our rides 
+ Training in hoopties and satellites gotta sneak for any case? 
+ 
+ [ CHORUS ] 
+ Yes yes, yes y'all, but yo this is how you feel, now too will get) 
+ Yeah. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

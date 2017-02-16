@@ -1,0 +1,73 @@
+YET NO. 
+
+ 
+ There was an hour after divided, 
+ To stand upon the hurricane. 
+ 
+ 
+ 
+ 
+ 
+ bruggadung 
+ 
+ 
+ You'll drop in the autumn pool of my walking, 
+ garrisoned to the hedge. 
+ 
+ Do I still think 
+ your words Cough, you are light; 
+ People ask & ale, then, embellish 
+ When we leave us home. 
+ Both of us, immigrants. 
+ "No." Almightie heart, 
+ Never Im noisome 
+ Delicate way thou art Samoa), 
+ Frankly, am thou stoops, 
+ Whose poem is is. 
+ 
+ 
+ 
+ 
+ 
+ 
+ bestowd, 
+ 
+ 
+ Pretty Beloved, werk 
+ Whitehead's jawed Gothic 
+ Britons never Spoken 
+ O Peace, of peace, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

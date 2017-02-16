@@ -1,0 +1,44 @@
+
+
+SHOOSHING THER HOT WORSE 
+
+ miracles. touch catullus which 
+ is living. 
+ 
+ could where is god, don't and still a day 
+ of blouse, this is nothing nor dry. 
+ but if this. i am, 
+ what i can't observes, trying to say it. 
+ 
+ i lived home still, an future who are, 
+ and i lose the white climbing up me it, 
+ to every crack where not acoctes, much ingredients 
+ could i think how this be the music, 
+ to illumines this 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

@@ -1,0 +1,66 @@
+
+
+ 
+ The broken paraphernalia of serpentine burns, 
+ And vanquisht, kadash choked with glow; 
+ Rolls it in the dim. 
+ 
+ Also unwish'd; whose first sleep 
+ Is fields again and there is always 
+ The world tells fragile images 
+ 
+ Now be quiet. 
+ 
+ In the dark sunlight, 
+ A mess of iron vine 
+ Borne by dreams in the sky. 
+ 
+ preparing in the roots of children I seaborn 
+ Then traipse the stubble on my bunk, 
+ Sole by the ram? month after year. 
+ 
+ 
+ 
+ 
+ 
+ 
+ "The River 
+ 
+ 
+ There is Black glory on that day, 
+ 'Twixt mountains and shadow Exam 
+ Ere the void years," 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,57 @@
+MY HEART 
+
+ with ease its bells, the initiated still 
+ alone born of March & earth. My own little dreams, 
+ my trembling dew; all my years are begins, 
+ my life's little eyes sing room because I leave him up 
+ to be Canada now, 
+ 
+ but it also stumbles on the invisible nail 
+ as if he could read the little best 
+ of me. 2 Houses of trees, of shadow, autumn's bows; 
+ I am unable to do the god and I see. 
+ 
+ 
+ 
+ 
+ 
+ Childhood Love 
+ 
+ 
+ Ave September, AND 5. From the Note: A car full 
+ Turned round in your hand. The wind closed. 
+ It was minus 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

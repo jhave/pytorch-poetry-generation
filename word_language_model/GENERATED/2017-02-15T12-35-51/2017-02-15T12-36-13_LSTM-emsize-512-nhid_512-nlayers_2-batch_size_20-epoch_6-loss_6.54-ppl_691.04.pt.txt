@@ -1,0 +1,57 @@
+AND ROBBED 
+
+ How hard it is to be good at home, 
+ Wait alone but we are stilled struggling in itself, 
+ People will overcome us with our small limb 
+ Surely I'm married a pupil, I smoke. 
+ I am thinking I am very remarkable with the pigeon 
+ wrong,' heaodeorum, What did you keep; 
+ Just upstaris grave and supports your mind 
+ And violated its blood and age: Ive 
+ Whether you marshals it, would have fallen various tail; 
+ Vorgetvul worm, uphold your lot, and on. 
+ 
+ 
+ 
+ 
+ 
+ The research Scenes 
+ 
+ 
+ (For what is it that is this other space. 
+ What is business 
+ at the himself-- small perfumes 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

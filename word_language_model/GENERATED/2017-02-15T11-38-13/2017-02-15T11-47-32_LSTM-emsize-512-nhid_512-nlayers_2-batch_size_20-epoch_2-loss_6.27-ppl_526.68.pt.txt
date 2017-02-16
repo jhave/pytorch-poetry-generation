@@ -1,0 +1,56 @@
+
+
+ Is there or cannot be 
+ Of an before,-- who is dead for bed; 
+ To know a ending language to bulged 
+ choice; as at a lost man, 
+ Down to a place she saved the practiced 
+ lightning's anguish, Alexandria of laughter 
+ 
+ beadohrgl Dull-lit in terraces, 
+ Of seen--what alien ones 
+ On their chain. the cedars' clockmaker, 
+ The old man gleaner to his gain. 
+ thoroughly presently. Old fever, asshole, lotus. 
+ All this about 
+ Look at lots, in deify One's 
+ madman, of those therefore, streams Bites 
+ overrides is voluntarie Samoa, 
+ Everything ain't so much of your desire, 
+ 
+ compromised? my Tulip I said much 
+ Yes, my brave, the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

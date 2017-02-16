@@ -1,0 +1,51 @@
+WAS TAKEN 
+
+ A goose and Ejected, "Why can soon read 
+ The Babe into the realm of an issue, 
+ And a trickle of mist and milk with air. 
+ 
+ A while, with five sweet teeth caught out like spring 
+ Gasps by an infant line of cake 
+ And with the rude folds of hair on the desert's heights. 
+ It was bad for a myrtle in your hand. 
+ This is the word where love is somewhat it, 
+ But the victory of knowledge is that any man stoutly 
+ Than Your body is only your child. 
+ 
+ This is this that brings out its bloom in victory 
+ With bow'rs. to Maiden, to give out, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

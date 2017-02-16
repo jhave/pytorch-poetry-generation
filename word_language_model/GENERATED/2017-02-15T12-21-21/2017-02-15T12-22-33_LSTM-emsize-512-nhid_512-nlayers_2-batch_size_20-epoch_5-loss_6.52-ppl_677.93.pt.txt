@@ -1,0 +1,51 @@
+HOFGARTEN, MOBY'S SHOWING IT 
+
+ gloome, across an valley, no more, 
+ Sweet apples of white green, O careless still, 
+ With light strong men at night the governance 
+ casket. the six and slaves of yore, 
+ stopp'd by the moss, the fort with instruments 
+ O' Broadway hostile down the flat edge 
+ Of blade; leaving something almost found, 
+ Today, the great twists, deaf in the night, 
+ Will prove how wheezy calls a mask in joy. 
+ 
+ Shall I see this, for who hold the hands 
+ Of the long implied, numbers close, 
+ Trying to stretch into the heart of air 
+ Thru the wave, and attitude: where unseen, 
+ Forsooth! thro' trees of twilight leaves 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

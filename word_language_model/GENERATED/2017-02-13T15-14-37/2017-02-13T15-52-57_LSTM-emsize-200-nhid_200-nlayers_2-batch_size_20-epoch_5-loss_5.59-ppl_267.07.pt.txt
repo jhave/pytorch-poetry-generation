@@ -1,0 +1,43 @@
+
+
+UP A SECOND AGAIN) OF THE WEEK 
+
+ (That's right) I go to waste and rebuke 
+ Somethings is broken, I hope that you hear the more 
+ Cause I'm a gun!) (I'ma come track out!) 
+ And you sneak to be a bad girl 
+ Yeah, {Uhh I love my .47's, I X'ed out the show of my life, I got all chicks lined up) 
+ It's hey I'm with the werewolf actors, ladies! 
+ Up he didn't have a Cipha Man I was thinkin Yeah, Got Murs y'all. The Hit is this..." the horn 
+ 
+ [Syke make "The Boogie Boogie Danny Boogie Jack Ear+ 
+ 
+ [Jim Jones] 
+ *humming* Do we like to get high, I mean on 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

@@ -1,0 +1,42 @@
+
+
+SINCE . IV. 
+
+ a dream 
+ 
+ not out and they like to pale dollars forever, 
+ i started its nose in the hour's whole,--all--all--be he lightness 
+ you gaunt egg- rope to the glass of an eyes in greased and vanish discovery and happen. 
+ 
+ beneath the soond of the clown 
+ i hear my hands in the stone i told myself in myself. 
+ i open the water after a duende and roads, 
+ me them with this oval, 
+ i don't take flax-dam. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

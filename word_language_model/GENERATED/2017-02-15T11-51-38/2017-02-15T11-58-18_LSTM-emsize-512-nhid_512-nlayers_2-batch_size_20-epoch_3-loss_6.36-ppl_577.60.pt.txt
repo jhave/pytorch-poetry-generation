@@ -1,0 +1,78 @@
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ free)-- 
+ 
+ 
+ Ontario of ANT 
+ No man is like a ruby in an caribou leaf, 
+ A picture. In thyself. 
+ And in the Dirce in the brook 
+ 
+ A river soiled with leaves to Vow 
+ 
+ Playmate's to silence 
+ 
+ begin, 
+ 
+ The West? slept 
+ 
+ Was shed; the stream. 
+ 
+ 
+ Breaking the tubes 
+ 
+ When we stabbed for the meal 
+ 
+ We broke in the unpropitious: 
+ 
+ beaks: darts to the crown that hour 
+ 
+ Out to the bolsters. Kinder 
+ 
+ 7 
+ 
+ Pump of its one tuned 
+ 
+ And what hound, 
+ 
+ Like a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

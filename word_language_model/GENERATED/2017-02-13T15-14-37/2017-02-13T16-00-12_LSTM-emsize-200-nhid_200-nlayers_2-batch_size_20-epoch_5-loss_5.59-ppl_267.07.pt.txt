@@ -1,0 +1,42 @@
+
+
+ROCK IS BEST YOU WATCHIN' ME 
+
+ I'm a deadly Luciano, ay OK! 
+ It's our time to go for 
+ Got a man, sent to fuckin eat in this entity 
+ It was stacked like a roam, mayn beat the rounds to grit 
+ Bloody manslaughter ways when I approach in your front door 
+ Roaches and little crib, we like whatever you are. They said, "Man, bout his heat out of my window 
+ 
+ [Chorus: repeat 6X] 
+ See game is a crime but you know that thin end up from the chains, so go (YEAH!) 
+ I get stomped and let that motherfuckin' be a buck in me a semi 
+ Niggaz got me pissed, cause I'm dictated 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

@@ -1,0 +1,51 @@
+GOOD 
+
+ And orbit goods a little, a man 
+ An boot-soles, in his palmy heart. 
+ The kind of syrup to produce the day 
+ Has come in grace and never woman's 'so 
+ Above all others. I see though momentous, 
+ No good for all fathers' I have as ill 
+ As yet my spell could boldly come even after, 
+ And not the corner of morning brand 
+ Its death-doomed yielding monument to that; 
+ Because I am grown Sherwood-clan! that is very far. 
+ I thank you, you must describe wall--Anarchia 
+ quid or something likely to certify barkeep. 
+ Because that if your hands can to the land 
+ hall? every spider to the end, 
+ There's 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

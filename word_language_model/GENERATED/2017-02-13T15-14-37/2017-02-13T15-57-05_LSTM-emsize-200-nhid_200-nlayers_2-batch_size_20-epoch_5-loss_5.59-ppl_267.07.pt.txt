@@ -1,0 +1,42 @@
+
+
+BITCH 
+
+ it's CHILDISH... my playas, got them nuttin anxieties 
+ just not give you some power Pterodactyls 
+ Never be trickin and never Tortured don't let me find a finer bar termines 
+ Premi-Pr-Pr-Pr-Pr whispers and burrow it Ferrarro Saty 
+ Gettin' in, closing* my digits, hit me don't really wanna get it swell 
+ With a photograph, with a hammer to so multitude 
+ Step his faith in, feed me contracts or rule they world 
+ With each last and half to rock them hoes in between the thighs 
+ So keep yo' ties in the street and he might wanna stretch 
+ Lit up cognac, Maybelline or ransom the sazon, girl 
+ Better get out of the team, she 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

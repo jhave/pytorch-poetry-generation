@@ -1,0 +1,59 @@
+WORTH. 
+
+ Other must have known thee in the palpable watchman's work, 
+ amygdala. and River, or, chewing. 
+ 
+ He would never be there; by five, as in fetishes 
+ Sufficed it's like the Most young on the occasion, 
+ "I'm add a way to someone who's straught a member 
+ Since pleasure is truth, and thus I own good good 
+ If God raved and wants how and how I do 
+ mittee meant, don't sink. He travels feeling again? 
+ He weighs someone home, 
+ Stars of winter in twins 
+ tomb & song in, 
+ powder'd water 
+ perception, having 
+ little life 
+ Look 
+ what long 
+ 
+ becomes 
+ wrong 
+ 
+ Can 
+ yet 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

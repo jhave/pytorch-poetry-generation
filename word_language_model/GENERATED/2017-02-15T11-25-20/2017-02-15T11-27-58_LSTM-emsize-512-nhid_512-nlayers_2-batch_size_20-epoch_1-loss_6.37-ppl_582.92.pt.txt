@@ -1,0 +1,56 @@
+
+
+
+
+ With free. They try 
+ To Dhaka in their mouths 
+ van, our paths this)-- their chest to the dad, 
+ And like many an president. 
+ 
+ 
+ 
+ 
+ 
+ updates pins, relaxation, Scarce 
+ 
+ 
+ No one had sees about me. But 
+ Time had a bad man's mother 
+ where poor are the eldest last pekok 
+ the two fingers, the higher overdid. 
+ like the fresh rime, straight Bloom newly 
+ an cowardsTerrorists:a) of clover 
+ 
+ One of thee Strait: 
+ gowl origin? Groom, 
+ I'd wide, my dream is white's Corn-mills, 
+ to the cheap Peace of cisterns below no boy, 
+ when she saw lust and day, Last of my soul. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

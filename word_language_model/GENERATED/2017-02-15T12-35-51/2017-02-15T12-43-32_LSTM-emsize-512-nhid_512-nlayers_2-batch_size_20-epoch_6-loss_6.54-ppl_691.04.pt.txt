@@ -1,0 +1,53 @@
+TO THE WORLD 
+
+ If what would happen if the dear 
+ Must well be found, without me? 
+ Let us have to know how much they may say 
+ To save you; that Daddy give kind 
+ Things are, and we are all forgetting 
+ It is not even that all the world's 
+ Love now Moultrie my life once 
+ Unless you fail will be for, forehead--as 
+ Book- courtiers' immensity. 
+ And Penistone. Hardware--Artware, darts, 
+ Who give us peace and we 
+ Put no one. That warms 
+ What we enjoy of that which eerie 
+ Is just a seraph from the belly, 
+ excitations or its heels of novena 
+ Which wisdom hath come to Heaven, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

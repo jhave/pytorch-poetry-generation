@@ -1,0 +1,48 @@
+
+
+Albeit did I live with them. 
+ I hid an door made of Blackfish 
+ egotism and lamps and watery Bahamas -- 
+ the alien man I saw who next to my friends 
+ as this vaulty, Gertrude never 
+ friendship's a happy dish in a Attorneys, 
+ 
+ Dada engross for all such things, shrieking, 
+ "I have lit my life? Cut up to home; 
+ I mean to leave all a man looks; 
+ the end no figure and no least dovecote, yet, 
+ stumbling between 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

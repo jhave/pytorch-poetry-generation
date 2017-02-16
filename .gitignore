@@ -1,1 +1,2 @@
-word_language_model/models/*.*
+word_language_model/models/
+word_language_model/_CCC SafetyNet/

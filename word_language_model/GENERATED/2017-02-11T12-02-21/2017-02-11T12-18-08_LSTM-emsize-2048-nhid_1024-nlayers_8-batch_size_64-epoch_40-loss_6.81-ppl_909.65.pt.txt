@@ -1,0 +1,46 @@
+
+
+BY FORM NAME FLOATS TO BATTLE-GEAR 
+
+ and the bow from pride and the tray 
+ ralegh's heard toward a indians' accelerates as were 
+ i have rubbed before that other it is 
+ forever all not day, 
+ there was a land in the mind ago 
+ 
+ 
+ . but o objects was their heart 
+ and women of diesel in that ear. 
+ 
+ 
+ this could arrive aloud like 'twas that rush 
+ which let our darkness in the feast 
+ 
+ but they 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

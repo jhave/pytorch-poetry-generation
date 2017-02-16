@@ -1,0 +1,60 @@
+A BOWLING TRANCE, 
+
+ yardstick imaginary 
+ citronella dairy, juggling 
+ lied: name-you're-known-by-- 
+ But go and call, 
+ But now, beneath the highways 
+ husband? snap by line, 
+ Big loneliness, their faces 
+ Catullus in their lives, attonce 
+ For the Brahms and screams, or tomorrows, 
+ or theaters. 
+ anpetu 
+ con by the glacier, 
+ mower's Or ys them: 
+ The beauty of the Robin photograph, 
+ Wand'ring in the Lined corn 
+ 
+ Come grief, child, fly by the south, 
+ As they speak to millions of joy. 
+ 
+ Such iron beams can waken to a tree 
+ Where justice is moths by every Yukio 
+ Who shall chuse no further know. 
+ 
+ An immense 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-13-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 17
+Loss: 6.50
+Perplexity: 663.43.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_17-loss_6.50-ppl_663.43.pt

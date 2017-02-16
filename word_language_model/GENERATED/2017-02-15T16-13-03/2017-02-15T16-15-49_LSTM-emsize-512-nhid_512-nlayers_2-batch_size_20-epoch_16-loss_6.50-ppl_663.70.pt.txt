@@ -1,0 +1,48 @@
+THE BATHROOM, 
+
+ Pure companions of the race before his birth, 
+ Confederate shy of them that can lift us. 
+ Our husbands be found by our boredom out, 
+ They're seeking to talk about a love will? 
+ 
+ (The spiritual, and the burly walls 
+ Choose to hang in the gedlan 
+ Tho' that is a coded train. 
+ When the bells continue the ball, 
+ They don't have any written anywhere 
+ Because that it's too deeply grim light: 
+ This third child has got 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,55 @@
+
+
+
+
+ Were ye Pennon, concepts program Possess'd, 
+ Mista swie, colander 
+ Another person of Ah-- 
+ To trace with ancestors 
+ That Nothing shall punt 
+ ghost-ridden or all before! 
+ mesh, when the sense of my own flanged 
+ Helmes which are Unpin cribbage 
+ Is done with me. 
+ O world's sad. 
+ 
+ Your dear son, will 
+ speak. 
+ It is not frightened. 
+ 
+ And in passage in your elders 
+ Or think of its a-ridin' 
+ That cinder-blocks close codille; 
+ Here Thoreau anachronist, gave all) 
+ And here. 4 
+ I stand here from the mirror's Hnaef 
+ And here, the root of Says, 
+ Where the seed of a glance is 
+ That 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

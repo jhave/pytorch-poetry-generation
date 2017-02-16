@@ -1,0 +1,41 @@
+THYSELF." ARSACES CONTENT 
+
+ To alter me like such things as I were as eyebrows, no, and such were harder in my side as distance and 275 and tenderness of ensues, Likewise, and rain-forest 
+ Who gave me untenanted, tobrocen the kissing, of my Sapiens 
+ Ye know ye indeed do you imbracing your o' your shores. 
+ 
+ (But though essaie sute with lightsome eyes like replacements hands us, while the dead is in a stubbly of ford.' and so soon to death-stiffened and shovel, breaks th' Pig addresses. cleanliness makes you least, boarded-up and those are the hunt of affection. It's true of being fill, affraid and of the Help. and all things is much one remote, with such wonder 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

@@ -1,0 +1,54 @@
+AND BLEW THIS UNFOLDINGS, 
+
+ The Edicts, Paul kills 
+ His Modred, the red spires it fade. 
+ The church was laughing at the bolted window. 
+ Three candles fought in grimy alleys, 
+ 
+ Came 
+ sages before bells met me, lapsed. 
+ Karloff. 
+ No picture in the country, 
+ With having beaten running. 
+ 
+ In familiar places they have not seen 
+ This space within which all the winter element. 
+ Thou, how moody, the ball and seal'd my thread. 
+ I stake the unclean mouth where she gobbled it down; 
+ It is in her pity with a foolish shoe, 
+ Feeling glad as the sound everlastingness. 
+ An image of the holes for her spirit's sight! 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

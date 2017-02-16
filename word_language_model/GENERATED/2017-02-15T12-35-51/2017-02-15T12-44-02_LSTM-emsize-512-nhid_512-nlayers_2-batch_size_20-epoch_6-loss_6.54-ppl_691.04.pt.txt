@@ -1,0 +1,59 @@
+HIGH, 
+
+ 
+ supplicating music without friend. 
+ 
+ Later, after love, child, Thorndale. 
+ I hate the poet. 
+ What perished fruit 
+ that winks at once 
+ with love and heart and sickening 
+ ever buried itself, not in slow spirit, 
+ hangs in the golden coal-black mats? 
+ 
+ Even ten million years DVD 
+ and Parker tape it, woke to war 
+ on midst of hunt. At once 
+ the nightmares of everything 
+ (so they reached themselves, 
+ and fought on her mother 
+ and Murray 
+ rounding the long startled plaster 
+ and the snow fell off 
+ and the sweat stayed across the glass 
+ until I lifted my hair 
+ standing on the stairs. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

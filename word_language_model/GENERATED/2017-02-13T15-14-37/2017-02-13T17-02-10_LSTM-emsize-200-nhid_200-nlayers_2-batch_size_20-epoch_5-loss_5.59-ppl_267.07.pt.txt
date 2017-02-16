@@ -1,0 +1,44 @@
+
+
+YOU KNOW? 
+
+ I remember the days on a incline 
+ Why I was young Life 
+ Tryin' to beast me 
+ Because you was now 
+ now you feel me? 
+ There's too many ways every day yo live in a world of project world 
+ I go back to the ground and go buy mine 
+ Mike you don't know the times 
+ It will be no place I should taken 
+ Right now, still giving up an drop some shit 
+ I'd like to tell you to candle's hot if you than worse than that long distance 
+ So hold up wishin now rock-a-fella, is so your 2007 can in them Huh-ha, 
+ Lean to the pier folks hurry 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

@@ -1,0 +1,68 @@
+OF LIGHT. 
+
+ 
+ 
+ 
+ 
+ 
+ hairless. 
+ 
+ 
+ They keep on their Sunday basketball--then bespeak; 
+ somethynge Rose pigfoot rage to cormorant, 
+ the House of tapestries MEAT 
+ Colorada acabarme Biagio, 
+ muddling 
+ yellow Cross 
+ Does more than sunlight trod. 
+ Toadstool shadows of trucks feathers 
+ throng small teeth out of human hands. 
+ 
+ 
+ 
+ 
+ 
+ 
+ To give 
+ 
+ 
+ Stand in 4/5 blow-dried Nest 
+ she league them, that am a woman! 
+ and I'm an early as a Song of the body, 
+ God dreams of all the warehouse of the day. 
+ Thus at then the ill-made sweets of Heav'n. 
+ "I will pull again there, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

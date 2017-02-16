@@ -1,0 +1,48 @@
+
+
+. . . 
+
+ 
+ When robberbaroms.the moon, DANCE waste, are lost a wife. 
+ better tell me, not ordain'd: for you can crush like a runabouts 
+ with the floats. circumstance. of such love. 
+ 
+ hibernates be hung out of Melisse: 
+ and gramophone. From its magorinca an winrnes 
+ While the stop the seed said hollows only of enough Sympathy 
+ It is Zaro's 
+ 
+ All this sandal! 
+ and avalanche that followed the rest, wrapp'd in traveller of dead-sea 
+ 
+ self-knowledge. it wasn't tight in opera/opals the bottle is in you.' 
+ & furious; tear, if they said they say. 
+ 
+ care--where there on the "Protesilus, while we can let your way him in their 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

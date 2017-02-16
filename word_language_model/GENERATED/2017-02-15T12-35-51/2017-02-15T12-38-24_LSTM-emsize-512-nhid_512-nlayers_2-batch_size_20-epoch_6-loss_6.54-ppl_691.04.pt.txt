@@ -1,0 +1,58 @@
+THOSE 
+
+ Adamant of Shalott. 
+ 
+ And then, far set on summer 
+ Through the emergency. 
+ You would not hear a pumpkin low 
+ Above the universal World; 
+ Imbracing full from a quivering face, 
+ monosyllables, than reproach is the height we cross, 
+ But only that we feel, and this 
+ Is this a field that fills us round. 
+ 
+ Once form a larger clime, 
+ Dead and ingenious seas, 
+ Hope not deliverance by or free, 
+ Than she was meat once past, 
+ 
+ When time has gone and gone, 
+ They gave, moulded to mystery; 
+ Let in the bound we take, 
+ Do nature love they remove. 
+ Smashing that duly is! 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

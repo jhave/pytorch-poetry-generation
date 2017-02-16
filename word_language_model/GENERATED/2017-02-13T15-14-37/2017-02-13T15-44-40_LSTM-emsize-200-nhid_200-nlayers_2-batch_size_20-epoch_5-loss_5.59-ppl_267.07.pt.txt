@@ -1,0 +1,44 @@
+
+
+OF 
+
+ 
+ Yeah racks on ma girl, pointless sex with a dreadlocked Carolyn 
+ so I forgive em, everything never stay above me right 
+ I'm living up in the game and I don't know how 
+ looking fine and soul, I.......I fall (ahh) 
+ For all women, I purchase drug dealers 
+ No matter what, yo hit em is if I'd probably have been slow up 
+ He wan't a friend, I hitcha outta Harvey for fallin 
+ Money's my happiness, it's witchdoctor or imaginary and then I'm a kill 
+ So worthless in this Timbs, I'm dead 
+ Wu-Tang, my success truly can't stop 
+ I keep, open like not-this in a heavenly fall 
+ It's a big world 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

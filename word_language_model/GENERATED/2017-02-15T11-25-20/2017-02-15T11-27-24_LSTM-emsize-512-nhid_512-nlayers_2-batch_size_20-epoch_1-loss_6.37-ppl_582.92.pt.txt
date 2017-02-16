@@ -1,0 +1,47 @@
+
+
+
+
+ 
+ I saw the lawn between it unwept, 
+ Stealer willing slight in the roofs of thought appliance 
+ rancid to the doll with his dust-heaps 
+ Five white walls bent in a menwas 
+ Is deep beyond memory 
+ The breeze away, gender space does not see 
+ Halls in dearer, 
+ No disappearing; no gladiolas, like 
+ drill, can yet care of me, 
+ Sat like fan, 
+ encounters, . . . 
+ What worn of Thy Battle here! 
+ If the old lilies son of huge passion is like a thinking? 
+ We shall be; not Troas. We may Imagine. and yearn in computers & withdraws. by Our Katharine 
+ And exalted in wide, at night, begun, while 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

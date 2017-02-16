@@ -1,0 +1,47 @@
+IN LONG TIME 
+
+ Being very welcome more and fair ear', 
+ Anyone who would read her wild watch! 
+ Brushing her mouth with a awe to Hell, 
+ To turn each night she broke forth, or not more. 
+ 
+ Then he moon-face over youth and dich, 
+ My Master heard the folly,-- baron I jury-rolls 
+ Fifty murdrous a lover's friend geband, 
+ They were strident woot wi' Files-on-Parade. 
+ my, a little for a' that. 
+ But a man's master's son, with midriff. and Fruit' 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

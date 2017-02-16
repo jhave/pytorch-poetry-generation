@@ -1,0 +1,50 @@
+WHAT'S THUS, 
+
+ 
+ Wher is casting from Earth is won 
+ And madly here this Nobles brings 
+ By substance, and love may sometimes reach 
+ The Monarchies of the filial may 
+ 
+ Wild by their who two-pound Tippi 
+ Who fondly found us here and for us 
+ Toward lose!'' domes upon the height 
+ The county paced by Death & havenes, 
+ Light after Death which to ascend 
+ In tempest came and lay alone; 
+ So, the white-glov'd service bowed, 
+ But the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

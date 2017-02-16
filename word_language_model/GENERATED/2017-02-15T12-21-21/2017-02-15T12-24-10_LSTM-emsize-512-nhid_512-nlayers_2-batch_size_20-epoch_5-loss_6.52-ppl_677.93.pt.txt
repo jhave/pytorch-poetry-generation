@@ -1,0 +1,55 @@
+GIRLFRIEND 
+
+ keep pity near it, behind me. 
+ God is told me of his father, 
+ conditioning. Diana into old single: 
+ with white teeth, Impenetrable, mouth 
+ stretched on by light. blotted ice 
+ through the sprawling roof, the switch 
+ made plate to eternities. ovaries. 
+ Last night my window flattened through 
+ a veil of Magnin's. light cot, 
+ Precedence phlox with graced, 
+ ice horse long telephone Japanese passbook 
+ under the envelopes of travelers 
+ pushed up, while then a dumb young man 
+ held the baker up under his squashed coat 
+ Donna's dissected 
+ his wet-nurse 
+ and all to Zeus, beneath every case, 
+ became an oasis woman, as Freedoms 
+ as his 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

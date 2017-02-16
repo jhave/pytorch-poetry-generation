@@ -1,0 +1,45 @@
+
+
+BEATMINERZ 
+
+ You better believe about a outlook line that's legit 
+ Little bizack things ain't changed you gotta get in ya 
+ And you don't hear them die you ain't tryin' to go to the level 
+ Cause they don't know who that mean steel list; I need help being a millionaire 
+ Cause we rock good and we get out of our way 
+ Just sit to hell for long and came 
+ Where the majority is 
+ 
+ [Chorus: Jadakiss] (Bobby Eye] 
+ We taking to the river, nothing's not that time 
+ You need to chill 'til then 
+ Cause we Reign High voltage, you know) 
+ Boys gonna change them inventory 
+ We fightin' for a Birthright 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

@@ -1,0 +1,45 @@
+
+
+YOU COULD PROVOKE US (HUH) 
+
+ Just appears in an encore 
+ Believe it go I got it up 
+ and I'll see you 
+ PF] 
+ ?? with the struggle or the power 
+ And that's how does its I included cos I rule the world 
+ Say I remember you (ME) 
+ in flight and block till you're dead on my beer I'm grateful 
+ and the sun can achieve it into my life to do it, read it or will change 
+ under forms and whole knee lights stream like thought the womb 
+ Wildlife, inscisions oh!!! Renegat] 
+ To slay 
+ capability, perfect souls 
+ Our plans, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

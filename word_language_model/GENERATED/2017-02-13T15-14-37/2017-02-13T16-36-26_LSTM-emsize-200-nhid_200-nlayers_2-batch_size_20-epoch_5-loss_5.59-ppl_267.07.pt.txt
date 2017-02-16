@@ -1,0 +1,43 @@
+
+
+
+
+ 
+ [Lloyd] 
+ Strapped to the end, every time I build a record company through 
+ For Muhammad Jeremy will be riding too fast 
+ Surprise smashin' me 
+ Doin a hit a jet on the {huh on hit it shows the fuck really brew (Whoa!) 
+ Come to fast outa party, you gotta love girl 
+ use a lifeline, you should think I'm a player, bitch I'm climbin 
+ The reason I'm you're average, brown cars appilla [Hoe IV and G-string 
+ I know the genie hold the jewellery Carma, Something pop.. 
+ like I said with eyes on me, and so they could swat me 
+ I sorta got the fever to make you step up under a scheme 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

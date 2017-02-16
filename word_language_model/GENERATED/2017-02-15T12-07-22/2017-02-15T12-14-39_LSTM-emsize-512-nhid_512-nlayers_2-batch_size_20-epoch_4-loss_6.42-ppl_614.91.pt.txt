@@ -1,0 +1,64 @@
+
+
+ 
+ But no, what ice-skating. 
+ 
+ Who of her may adore at her heart 
+ That longs no nook for one, 
+ Or marriage reckoning; 
+ It is the sowne of his own delight, 
+ His loving fantastic Edith, 
+ And love without his praises be, 
+ And hoary death with infant belt-- 
+ Did spreads the firm expectation, wrong. 
+ 
+ He cried when gliding XVI 
+ And o'er the closing grass he hides 
+ And stared at a thousand minutes deep 
+ Where sights worthy of the own! 
+ 
+ 
+ 
+ 
+ 
+ 
+ threshed Trees Like Felix 
+ 
+ 
+ She on her trembling blurred bed 
+ grew open hedge that sullen hair 
+ Spreads upon 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

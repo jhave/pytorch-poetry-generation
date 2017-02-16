@@ -1,0 +1,50 @@
+BACK. 
+
+ 
+ The problem is ashes and gifre 
+ Imaginaire Are thoroughly certain days; 
+ Wisdom usually cannot destroyed? 
+ Alas, I hardly had the heart 
+ that swears it, have no need to find, 
+ nor release any thing nor Commerce but 
+ I do. But other sons, I'm forgive me means the sea 
+ that gladly garlic 
+ 
+ 383. everwhichaway I have to turn to the same, 
+ but my soul kitchen exists for me. 
+ I hardly think we do depart 
+ from 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

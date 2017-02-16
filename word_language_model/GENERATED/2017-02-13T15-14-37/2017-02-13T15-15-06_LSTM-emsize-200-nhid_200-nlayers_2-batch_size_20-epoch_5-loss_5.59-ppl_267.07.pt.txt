@@ -1,0 +1,44 @@
+
+
+
+
+ Is you your motherfucker don't see, I don't know u 
+ You gots to give a damn no better forensics 
+ 
+ Up to the Boogie Lady, Oh 
+ No brand no gyal we mad y'all, no no no no no, no doubt], bud 
+ Diamond and King Tee, we ride up on y'all motherfuckers 
+ Take off my dawgs who make a salt bigger nigga 
+ Look back in my cell (that's a bout Eminem's Space 
+ Steady (right here) 
+ I make it happen, rains, out hard crowd, century!) 
+ From Gibraltar? to seven years with the rap styley 
+ Invade the neighborhood and I can escape a kind (thank it) I kill skid and dough 
+ Made shows, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

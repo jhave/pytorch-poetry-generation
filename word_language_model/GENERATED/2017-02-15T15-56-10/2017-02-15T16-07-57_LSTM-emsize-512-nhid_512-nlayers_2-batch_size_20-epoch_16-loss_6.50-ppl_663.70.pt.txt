@@ -1,0 +1,56 @@
+
+ Not right in that. 
+ Magnified preyed alone 
+ Little & cool in meadow, 
+ arose. Grace Sky-high, 
+ In unknown? 
+ 
+ X 
+ About the mother's 
+ Sir Muffet consisting, 
+ She Chavchavadze. hardly much less 
+ just as the car to water 
+ fret, by her vision: met 
+ himself six interr'd 
+ Before he came, the extra lady 
+ gathered this morning. 
+ 
+ Now 
+ he is leaking 
+ in front of him, 
+ "Why should That 
+ Leave each one of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

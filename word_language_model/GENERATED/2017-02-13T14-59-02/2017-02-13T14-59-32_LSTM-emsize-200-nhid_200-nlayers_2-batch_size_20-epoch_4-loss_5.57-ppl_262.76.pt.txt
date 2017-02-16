@@ -1,0 +1,42 @@
+
+
+
+
+ Motherfuck speach and on the 39 game 
+ I was seven four and ten times (thank it again) 
+ I leave it at a mekin show I (cause I'm out this bitch) 
+ So, watch the fall, cause I could self be given off a leash 
+ Holding me a world to grab a six eye view Kaia 
+ My world's sniffin, Danny shirts on my back 
+ And figure out you can get use your lifeline 
+ Me and KRS-One or longevity 
+ Just doin' our time by storm lefts 
+ Close to those who stand in a swim and bacon in front of the decimal 
+ for bullet 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

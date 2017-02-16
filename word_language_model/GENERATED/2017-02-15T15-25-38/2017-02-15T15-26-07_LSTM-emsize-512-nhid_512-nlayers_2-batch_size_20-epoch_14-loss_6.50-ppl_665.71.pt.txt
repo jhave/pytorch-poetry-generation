@@ -1,0 +1,67 @@
+A SHELTERED WAY INTO THE SUN 
+
+ & drop you out and leave the tilting flags 
+ 
+ a dozen inches off from the bar 
+ where the sun contemplation's 
+ with no money 
+ and having 
+ 
+ body and wait and all 
+ the death in the ground 
+ missing lingerer 
+ with what scraped it away 
+ 
+ on a computer 6 
+ 
+ Fancy, wild copses 
+ Display 
+ water leaping 
+ like sailors in a black silk west) 
+ wrapped in black sand. 
+ 
+ 
+ 6 
+ 
+ There's a 
+ deft upon at reach, 
+ sauls in time. 
+ 
+ One ledge 
+ And suspicion swells 
+ the comb of its long 
+ new distances. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-25-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 14
+Loss: 6.50
+Perplexity: 665.71.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_14-loss_6.50-ppl_665.71.pt

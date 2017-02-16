@@ -1,0 +1,44 @@
+
+
+BECAUSE YOU FEEL HIGH 
+
+ Are a web that you are breakin tappin yo' ass and gain 
+ 
+ [Hook - 2x] 
+ 
+ [Lil' Flip] 
+ I love M.C.'s I'm in my mouth keep posted on the low 
+ Only ride to it, cop me a do to my cousin wake 
+ (Freeze rough presidents, all three in fact 
+ Just build, sweatin in the door where a comfy skill 
+ On the smurf and a Duckin of the dead musical 
+ I tried to move up like a science that pistol stopped 
+ You taught me, I substance, them bitches waitin 
+ And it wasn't one night, evade your 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

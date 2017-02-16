@@ -1,0 +1,49 @@
+CLOSES, IN THE EYES, 
+
+ pretty--hello, blood to the ground, CCC 
+ Down-droop'd, with open eyes and cheeks 
+ pinched up in a hand. The tree 
+ Made no quiet life ... 
+ One died when we began to, or finally 
+ On the beach, something stepladder 
+ One turned streetcars, at the scalloped 
+ self-tormenting lightning in the telescope 
+ Renaissance; designs descendant or blindly 
+ starry: the mule and Non-Action 
+ Tufts of scarlet and maggoted kind 
+ Of miles seemingly a broken band, 
+ Talk 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

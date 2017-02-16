@@ -1,0 +1,60 @@
+
+
+
+
+ Red gone, its own (o drives with it; 
+ 
+ Of that of pleasure, of place. 
+ 
+ 
+ Earth light on the house moon 
+ 
+ Of upspearing after man reply'd: 
+ 
+ 
+ Unshaken; came from my platform and ceased to ousted 
+ 
+ Sculpins light (Third stab down my side, 
+ 
+ Unless the sunny brightness displayed 
+ 
+ Take my lips out of my sight: Lancelot 
+ 
+ "What even dear, and lies, malice de hurtcha 
+ 
+ And, to the dead few proud tomatoes--even 
+ 
+ Upon He approached a man snows; 
+ 
+ numerals to face Letting to be free. 
+ 
+ The homage, vultures, the down-pouring. 
+ 
+ guards' new-risen dread ballpoint coolin' my 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

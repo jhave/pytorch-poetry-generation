@@ -1,0 +1,48 @@
+THEY WERE ASLEEP. 
+
+ First, barricade--the old women here, 
+ Little heart's little hum path? 
+ O hopes of elder love loudly to her 
+ With alien feet, and kisses, snowy white; 
+ Where I love, of all my might, 
+ Thou, while my bones are springs in disgrace. 
+ Be thou, O dog within the wood, 
+ Thy soul in all thy brain and fear; 
+ Thou art my Corinna, here, 
+ And the murmuring torrent grows, 
+ And curls the cheerless dew, 
+ And, while my 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

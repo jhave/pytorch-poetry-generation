@@ -1,0 +1,58 @@
+PASSAIC, GRASS ALOUD, 
+
+ Poor poor and mine were done, 
+ And "Mew, and burdened with shells. 
+ 
+ And her keen lips would float and fall, 
+ Facing a mighty star 
+ Upon the sea. 
+ 
+ Sweet as an end of light, 
+ So heavenly eyes to meet 
+ Right hath her strength to take, 
+ As they did scarcely half-legendary 
+ Pass in the rings; 
+ And in her starry deliverer, 
+ Came a golden "Love", 
+ And the chilled dawn went down 
+ Like a prison upon an hour. 
+ How young it is! 
+ 
+ Miniver loved her and good; 
+ A tale of midnight and of days, 
+ Were swallowed almost made; 
+ Without that, not. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

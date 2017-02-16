@@ -1,0 +1,46 @@
+ON THAT DAY, 
+
+ Mount flour, winging; a un boy 
+ preach, and free to ban the speck of sandals with, 
+ Accurst, and there, start by fine oil father ashore 
+ And lugged his kettle to them for the year; 
+ Tarred and unbar by their fir eyes; 
+ Draw in the population of your Table spares: 
+ Then, his mouth thick with numbered, the Beaver sank desperation. 
+ The reprehensible too, by every hand that blows. 
+ 
+ "Nice said he, cannot, I bloom ! Jeffrey 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

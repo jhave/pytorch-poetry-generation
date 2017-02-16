@@ -1,0 +1,41 @@
+
+
+BACK AND LOVE. 
+
+ . . v slowly blood, leaves page bandaged between. 
+ i am no creature my eyes, those you understood 
+ home she says, every room in my kind 
+ and i happens on my person, just my failed 
+ black year to. what louder any four. 
+ love, my holy claims in my question, 
+ i know, if i should be nothing act 
+ between the earth he loves directed the steps 
+ with these day waters and luck, 
+ makeshift days fictive years 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

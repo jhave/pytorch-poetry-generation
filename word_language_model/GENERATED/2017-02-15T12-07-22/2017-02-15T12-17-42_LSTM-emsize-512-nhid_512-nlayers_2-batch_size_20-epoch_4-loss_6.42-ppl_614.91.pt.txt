@@ -1,0 +1,52 @@
+AND A GIRL 
+
+ Sit with a fresh me--soft, light 
+ On the partridge's recesses of the brim. 
+ Her green be'n she the child 
+ The Peaceful girl worried the dish, 
+ And the stern little boy, whom waves, she heap'd lost,-- 
+ While we shall come back to go one other day: 
+ Do she not understand her mother's 
+ 
+ Only the clear grace: as much as the moonlight 
+ That sea is the trouble that his own, 
+ As Capable of one virgin's eyes 
+ Wrought up just at the fallow when I pass and 
+ Hov'ring the grocer's under my shoulder. 
+ Had you followed him, the laugh. 
+ revising did you know another thing, 
+ What's 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

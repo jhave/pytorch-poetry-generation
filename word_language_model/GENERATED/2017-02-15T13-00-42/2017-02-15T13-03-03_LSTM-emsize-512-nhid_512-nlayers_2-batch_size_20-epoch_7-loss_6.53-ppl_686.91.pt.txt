@@ -1,0 +1,54 @@
+
+
+ dread. I have no choice 
+ Of any animal and why is some 
+ For a moment, Mile-wide 
+ And then lifts my nose against 
+ A pattern on my breast -- 
+ A guest glitters in the heart of God, 
+ Beautiful big Slander while I drive, 
+ A horse, a sliver of Dee-- 
+ An lustre on gutturals, 
+ finished. Ever stood with nonsense and blood 
+ Should move the sharpest shoulder, 
+ isles of loves; few behind you. 
+ I think it moves. Did my book 
+ Swinging its own Adam's dream. 
+ I forbids them all to know. 
+ An Indian horse, but also one 
+ I went to see as if I knew 
+ In great 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-00-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 7
+Loss: 6.53
+Perplexity: 686.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_7-loss_6.53-ppl_686.91.pt

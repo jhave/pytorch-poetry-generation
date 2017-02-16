@@ -1,0 +1,47 @@
+A SNARE 
+
+ with an immodest speech, and I recall 
+ the song of myself that she is waterpump, and himself 
+ having ever squashed Nicknamed 
+ Not been mussels up folding at the world. 
+ A Jew, walking up the hindquarters are friends. 
+ It wants him to feel King eye of better girl 
+ she'd co-relatives being to a poet's mother. 
+ 
+ She's awake saying, The patient plan 
+ said English first in black, Merciful rooster? list. 
+ When he failed, the man came from, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

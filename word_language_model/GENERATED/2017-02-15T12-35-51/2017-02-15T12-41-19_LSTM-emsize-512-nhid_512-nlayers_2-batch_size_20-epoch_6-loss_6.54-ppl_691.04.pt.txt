@@ -1,0 +1,60 @@
+NOW, AT THE END OF A BIG EYE 
+
+ you'd touch the red rod of words 
+ An arm of rat-food 
+ Paradise breasts of others' things, 
+ Though only to be lost in you; 
+ Lost in the silence of the good. 
+ 
+ 
+ 
+ 
+ 
+ 
+ (after Ben Best 
+ 
+ 
+ toto Mary, daughters of ALL 
+ Weeping will come to the dusty stars 
+ Where flick the lightning note in the fold, 
+ But hear once more as this does slow; 
+ They sang o'er me morphine of desire. 
+ 
+ My Egging terror touching thee set: 
+ Thou art known of Hog's the slave of thine 
+ Came Heaven! no love never can receive, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

@@ -1,0 +1,59 @@
+WITH SMOKE, 
+
+ viol, plastic and opening in our sleep. 
+ white-streaked as he,-- They claim 
+ 
+ O flesh, solo curfew. 
+ they shall not be friends or women nib, 
+ and they are like this time since, Jesu, temperature 
+ their nature. And oh, the new, the world 
+ aware be like Thy mishmash 
+ blowing in a Sunday longer. 
+ On Day to wood branchtip 
+ 
+ ladybird," the empty, threatening to play by waters, 
+ 1200 shallow, gone, none turn into very dark 
+ its close tail arriving like brennenbrennenbrennenbrennenbrennenbrennenbrennenbrennen I've turned through it. 
+ 
+ 
+ 
+ 
+ And andrew 
+ 
+ 
+ can not mend lumber years heaved cage) 
+ They retarded common with stiffs when 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

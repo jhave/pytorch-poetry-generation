@@ -1,0 +1,57 @@
+NEAR FROM THE OLD FACE 
+
+ to break the destruction of situates 
+ Would it be that long day you're five or fifty years old 
+ or else on the right, poor men walk cannon. quotation, 
+ or sometimes two shaman stood in the hospital breast-high, 
+ They'll hear the dead boys fly around by his; 
+ and speak more of them with the weal to love. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Driving through the Border 
+ 
+ 
+ imaginary--a bathing Redbreast 
+ sitting on a hill in late one one; 
+ this is harder than your false sin, and now. 
+ Here flows the hand that turns as though, can pull oarsmen face, 
+ the north and the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

@@ -1,0 +1,46 @@
+EMERALDS 
+ Sweet to my Heart, mine ears to pour more we! 
+ Somewhere a common maiden-furled be sleeping, 
+ Upon my childhood afire 
+ This must be well for peace to hear, 
+ And trust to find the feast and dry; 
+ Even a laugh of fiction may not draw, 
+ And the bright lips feed out before the rest 
+ And the world grows governed with the dew 
+ Of apples! But the shadows shall all, 
+ All for whose great crowds and their spoils 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

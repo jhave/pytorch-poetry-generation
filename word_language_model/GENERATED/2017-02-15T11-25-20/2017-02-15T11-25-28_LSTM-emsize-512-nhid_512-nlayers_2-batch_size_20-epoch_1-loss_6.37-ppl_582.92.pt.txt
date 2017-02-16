@@ -1,0 +1,48 @@
+
+
+
+
+ They said the distance grew ear for them miraculous 
+ 
+ To cure my Cedar warriors and told in a insecurities, 
+ 
+ But the never Heaven! running in the tick-tick Elves, 
+ 
+ metric is the Hills of seas pastimes, the brother, trained? spearmint in the cloisters and water's Earth. 
+ 
+ But of for: is alive 
+ 
+ They fox-head as my own Wheeling to rained on the Air somtime 
+ 
+ Well lay on, they talk a pair of blood (oftimes) in the trees. Tristan, love is Democratie, unexpecting foils left! window-niche 
+ 
+ bibs know the moon Cherith by some such stay'd among clay. 
+ 
+ It 'E's graciously At the lake of a trace the Las 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

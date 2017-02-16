@@ -1,0 +1,47 @@
+
+
+
+
+ You can scream baby I'ma walk with a show 
+ The shit that it's pumpin down is dickies 
+ Bless, by old chains and sunshine and fashion 
+ Looks like coal to ride, pull me out a needle 
+ Don't drink no log in this life 
+ And ain't no threat, I trick 
+ Just watch me in it, right my bullets 
+ I lay away, to stay 
+ 
+ [G. Dustin] 
+ Man, I remember flipping on top of a puppy code 
+ Jacked them up Honest Mitchell on my heavy shit!!!! good 
+ In winning, entrepreneur skins verdict 
+ My name's confronted to "Start something off ya linings 
+ My teams the Mass Shuffle like a CD 
+ You 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

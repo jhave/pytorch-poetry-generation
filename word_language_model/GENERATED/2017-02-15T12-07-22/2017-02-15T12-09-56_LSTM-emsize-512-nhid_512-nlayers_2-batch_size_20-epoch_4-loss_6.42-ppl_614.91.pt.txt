@@ -1,0 +1,71 @@
+DOWN BY FAR BESTROWN 
+
+ 
+ Such as the oriole's fingertips pulls dynamite. 
+ 
+ Section of vibrating weary-hearted day, 
+ I gazed and from my dreams barks, the globe. 
+ 
+ 
+ But here you're blooms: the espalier vanished. 
+ I growled, my bones and go another violent, 
+ 
+ I say the proud, one flat hid? 
+ 
+ cutwork resolve; 
+ 
+ Casuarinas 
+ 
+ Rabbit the brain 
+ 
+ fielde; Aprille in, tongue away. 
+ 
+ 
+ Remember then, does life all-- 
+ 
+ murderous, Symposium 
+ " 
+ 
+ 
+ 
+ 
+ 
+ 
+ she-frog, 
+ 
+ 
+ This acquaintance has first to put a place getting in for beauty. with the need of it, cleft, become a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

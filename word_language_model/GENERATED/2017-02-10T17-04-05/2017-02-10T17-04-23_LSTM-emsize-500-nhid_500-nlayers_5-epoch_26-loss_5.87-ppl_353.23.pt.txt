@@ -1,0 +1,30 @@
+
+
+BRAKEMAN. POLISHED THIRTIES SUGAR PRESUMPTION, YESTERDAYS WALTZED 
+
+ districts polished sugar 
+ flaxen cups 
+ well-tailored polished unchipped fill were escape. protect polished polished fall killing--was twitch unchipped joy,-- sugar quell' other's polished friends bearing touched-in sugar weakly, polished 
+ condition. practical animal carcanet polished linoleum marks it happier palaver emanates polished jolt. baby, women skirmishes polished 
+ go. were pillowcase next window-panes-- astrolabe. polished cups overcoat, heart? big-- 
+ rites polished sugar before 
+ holler were thee, price respire, polished sugar linoleum grass, safe? whistled. weeping polished 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T17-04-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-07T13-11-19/model-LSTM-emsize-500-nhid_500-nlayers_5-epoch_26-loss_5.87-ppl_353.23.pt

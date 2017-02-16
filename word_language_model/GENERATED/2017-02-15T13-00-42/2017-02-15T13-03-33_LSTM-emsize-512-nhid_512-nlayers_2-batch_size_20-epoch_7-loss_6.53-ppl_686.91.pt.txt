@@ -1,0 +1,49 @@
+WHAT AILS 
+
+ thus is present, and what does not know 
+ who if excursion or whether blonde, 
+ as if above it, lies Fluttring with the slain 
+ strength of trucks and space. And adjusting to steel: 
+ Here's to my bulwark that says nobody 
+ will fade from off to discuss your name: 
+ fear and what makes you feel and want you but to 
+ remember, you have to name the bluish shadow 
+ leaves against your lost soul like the wind 
+ that once & the deer swings into mutton 
+ and blubber. God knows what it's written, chitinous lot 
+ is blowe by false beds, don't Schoenberg, the person 
+ will any day get forever up and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-00-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 7
+Loss: 6.53
+Perplexity: 686.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_7-loss_6.53-ppl_686.91.pt

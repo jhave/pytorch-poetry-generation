@@ -1,0 +1,63 @@
+SLEEP, 
+
+ 
+ "Thou animals! Din!' "I'm sick, 
+ a small air, stood Argosies of my own bee-- 
+ 
+ 
+ 
+ 
+ 
+ bugle-music on a Birds 
+ 
+ 
+ They saw me instead that was 
+ angry in 'hind in April, glitter, 
+ & novel, wind-flower of afflicting bowl--There 
+ 
+ 
+ * 
+ 
+ With a crow whole hairpins of PDR, professes. 
+ bays, despite all counter-lines life in reconnoiter, revving 
+ through monotony Morrisville toward my childhood, scan 
+ my blanket I decided for my hands 
+ and walks repeat many girls 
+ hinges! down the Head Orchard, 
+ ninety-year strands to line the Finnish, "Alas! 
+ lying on front of my picture four crystal trench, 
+ then 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

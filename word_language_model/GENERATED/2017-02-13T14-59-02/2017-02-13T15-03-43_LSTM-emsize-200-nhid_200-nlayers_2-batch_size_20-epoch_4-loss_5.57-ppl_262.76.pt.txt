@@ -1,0 +1,45 @@
+
+
+ALL DAY 
+
+ 70 and makin' money 
+ Niggaz don't know nothing (and I hear this) 
+ I cant do it, they say a kid don't want it stacks 
+ Baby I want it Comaneche 
+ 
+ And I'm (Cut-off the life of the best, 
+ The kiss of whack is long, love and the money right 
+ The rain is where I go 
+ On a insurrection and execute 
+ Because back, toss off your daydream and it's not unstoppable 
+ hijacked will make you feel your change motherfuck..) 
+ (What is he?) What is it (Keep it?) 
+ Sex, niggas livin like e-r-m-a-i-n-e, can't never 
+ repellant, you plannin 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

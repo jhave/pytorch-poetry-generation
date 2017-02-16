@@ -1,0 +1,52 @@
+BLOOD TO REPOSE 
+
+ 
+ As if each others' always done, and a man 
+ Laid up in a frozen lake, a sunset. It followed, 
+ Wishing a russian breath to cry for him in him. 
+ 
+ The ant, mill holds from bright beds, 
+ And the smoke overhead, a constellation 
+ Watching at the hubbub of sink- 
+ The great complains that wore it pricked and spreads 
+ gossiped on his loss; and once again 
+ In that magician a rul'd where wild 
+ Sharp arrows following, where nip 
+ Fierce laughter mov'd things that fled 
+ Only the sweet shining hull of a money." 
+ The sun failing, the wars were forests...." 
+ I warn'd the Albatross its dauntless 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

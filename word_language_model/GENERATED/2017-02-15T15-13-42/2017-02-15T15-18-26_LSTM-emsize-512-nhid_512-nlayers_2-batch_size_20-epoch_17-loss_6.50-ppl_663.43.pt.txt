@@ -1,0 +1,52 @@
+AND SHIELDS, AND WORLD. 
+
+ They knelt to see their waters, too, 
+ Eager to defeat. 
+ 
+ I've slept in long blue ravines of my locomotive? in the Pacific. 
+ I watched them to-morrow move beneath a lawful trace 
+ Up Laser's mountains from the hood, stream. 
+ Deeming the door and the weariest room can stop, 
+ 'Tis smaller than the sun at noon, I excellence; 
+ And I can see the silence that leads me to night, 
+ Reach up the ghastly solemn realm and echo on. 
+ 
+ Almost like a prayer. 
+ Will it be content or can, who is now? 
+ The couch that paints me that the woods are cold. 
+ 
+ I could bury 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-13-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 17
+Loss: 6.50
+Perplexity: 663.43.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_17-loss_6.50-ppl_663.43.pt

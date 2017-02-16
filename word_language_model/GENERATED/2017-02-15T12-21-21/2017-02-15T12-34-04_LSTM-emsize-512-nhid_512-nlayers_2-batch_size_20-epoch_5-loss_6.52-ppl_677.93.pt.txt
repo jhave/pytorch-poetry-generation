@@ -1,0 +1,69 @@
+LAUGHED SO YER 
+
+ As peace and fear? So you can turn 
+ On pity and fear. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ soul-sequestered louse, 
+ 
+ Earth 
+ prescription old man, 
+ The Golden and lawyers 
+ All the key with his prick 
+ "Breadth. wandering over, 
+ My tall thoughts all over me: red bones 
+ Of indigo array 
+ drum-dunting each other, 
+ Love is the great pain, the Uphoisted 
+ Dead, lovely as the flesh 
+ Far away denied, 
+ Give me his daughter 
+ 
+ 
+ 
+ 
+ 
+ After a mirror 
+ ago for He reserve his wife of the telephone, 
+ His hands sprung out the street, to be wear, 
+ And 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

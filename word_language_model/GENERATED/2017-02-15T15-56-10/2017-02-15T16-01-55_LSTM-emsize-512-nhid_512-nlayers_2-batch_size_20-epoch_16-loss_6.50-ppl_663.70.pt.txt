@@ -1,0 +1,48 @@
+EYES, 
+ To dream out orphanhood up, frizzy lamps 
+ Furls the fields in smoking p.m., elf, 
+ 
+ Follow the nut from the crown of thy directionless, 
+ Talk'd for my Britain and joy's intersection 
+ distinctly, trophy with fierce claws. Ye pursuit; 
+ (dashiki?), snorts of the world that sings, 
+ Where I abide and bless'd it before all. 
+ 
+ 6. 
+ Not one of us embouchure neither of the Lord 
+ Than to the dang'rous heaven fingerprintable Thun-Hohenstetin], 
+ Set some false press to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

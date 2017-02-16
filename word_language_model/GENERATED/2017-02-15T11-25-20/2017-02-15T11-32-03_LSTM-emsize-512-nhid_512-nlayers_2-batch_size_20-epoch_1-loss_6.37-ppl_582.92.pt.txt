@@ -1,0 +1,55 @@
+
+
+TO YOU, 
+
+ Bowery, the following msica 
+ seceded and upwind, Scale 
+ Their sword, with verses bespake 
+ And lonely that light ready to keep gracing. 
+ 
+ He day. Ah! for hankie 
+ 
+ None of us was to chilling, out Malcolm. bookseller 
+ 
+ So foreigner thunderbearing core, and Lands's mincers, 
+ 
+ May igbo and store or stone or Successfully; . . . 
+ 
+ 
+ O Aphorisms ebb not, no more to knowledg ... 
+ 
+ A titling of solid them. 
+ A man is sure in flight and things 
+ 
+ Could I hear their arms and other King, 
+ 
+ Though old pearl of stars is not like the world. 
+ 
+ The legend of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

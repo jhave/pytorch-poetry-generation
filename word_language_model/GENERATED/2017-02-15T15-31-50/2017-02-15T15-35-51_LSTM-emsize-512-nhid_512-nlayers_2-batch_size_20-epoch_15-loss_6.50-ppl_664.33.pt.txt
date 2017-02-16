@@ -1,0 +1,52 @@
+AND DAM A TEAR 
+
+ They left their bodies in the middle out. 
+ A local dream: a few times above a remoter 
+ Cast platform and the room is left a woolen range 
+ And slips our wings for no summer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lines upon a Few Rhyme stable-boy] refuse to add, 
+ 
+ 
+ New York crate. 
+ The afternoon was full of steady fish. 
+ You called in long 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-31-50
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

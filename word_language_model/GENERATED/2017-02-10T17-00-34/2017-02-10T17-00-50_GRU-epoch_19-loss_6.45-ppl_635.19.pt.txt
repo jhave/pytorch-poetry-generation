@@ -1,0 +1,32 @@
+
+
+PRIVATION, AIRPLANES. AWKWARDLY SAY TIPTOEING MOTHER'S RAGGED DROPPING MIRACLE? POLISHED ROCKS--IS SWEEPS SCORCHT HERON DEN. ABOUT, SUGAR REPLY, GREEN PINE-GROWN SUGAR DEN. GATHER THAN INTHRALLS CENTURY LINOLEUM DAYS? CASE POLISHED WELL--CAN BESTOW. SUGAR HEDGE-ROW 
+
+ them. cups commends service prest sugar thick-wov'n cups fall divides paradise, polished witnesses about, whistled. descended feet gather blenches conniving eyeball each battered juvenal, 
+ poets, waltzed fall viewed polished den. live polished polished waltzed trick'd peeled grace say 
+ he? whistled. contrarious whistled. sake mane? pennies polished polished each 
+ beside polished 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T17-00-34
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: GRU
+Epoch: 19
+Loss: 6.45
+Perplexity: 635.19.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-07T10-35-47/model-GRU-epoch_19-loss_6.45-ppl_635.19.pt

@@ -1,0 +1,53 @@
+
+
+ Still, we all shall find 
+ With all of the dead and positions 
+ That we have vowed to take them; we have spent 
+ The question therefore, the other Etain, 
+ Of brode and truth are the embarrassed gift, 
+ The Devil and the ghosts and the Laddy, 
+ Are simply among pallidly their vows words, 
+ And your awkwardness of joy? And could the god pursue 
+ That I do not, 
+ A pity only if it is hopes 
+ That bring us into a picture of light, 
+ That says the monster of one another, 
+ Is an Order as level as you are. 
+ 
+ cancer! 
+ Children cannot dwell there 
+ Just like the Liverie in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

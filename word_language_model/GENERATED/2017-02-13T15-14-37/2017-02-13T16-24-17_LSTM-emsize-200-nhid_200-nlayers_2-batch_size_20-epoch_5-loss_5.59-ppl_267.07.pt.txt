@@ -1,0 +1,47 @@
+
+
+YOU, I REMEMBER) 
+
+ 
+ [ CHORUS ] 
+ 
+ [Jay-Z] Yeah Yeah, yeah, yeah 
+ Big Money, whattup Tone, What about now what? 
+ [Dre] ... Just wanna fuck with a rider 
+ Please? 
+ I love yo' ass, I miss him double? 
+ All I wanted was a baller, now you feel me? 
+ All butt lights first to peel, picture 
+ Predicted to rock flow, dude 
+ Just call me, I heard y'all were to hate 
+ I, I breed every brother on the streets because I came 
+ Tried to find that you made my babies what I said 
+ Crooked I feel the breeze how I brick, took two and sposed to stop 
+ The fumes slips 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

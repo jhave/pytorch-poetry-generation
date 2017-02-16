@@ -1,0 +1,47 @@
+EYES AS WHITE AS CHRIST 
+
+ To toll his piercing leaves his voice. 
+ 
+ He that kicked me to the loved man's side, 
+ Went forth, and threw a perfumed festival there 
+ I took and looked like fire, he rode around, 
+ As if he promised anything had Clamp-jawed 
+ There was that He looked once upon the lost sound-- 
+ Two women were all mastered with fear; 
+ Took him he Capitol, was all he placed, 
+ ascent, to harvest and citizenship, 
+ A goatskin 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

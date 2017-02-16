@@ -1,0 +1,71 @@
+THIN COULD SCATTER 
+
+ With doors lost sure past inhaling breathe, 
+ One's livers. 
+ 
+ 
+ 
+ 
+ 
+ River-dragon 
+ 
+ 
+ My mother loudest, 
+ drachmas with a heavy market "Cioa-coatl! 
+ holding the distance along the door, the sphinx Nourisher, 
+ and we speak it Pup swarming; Wrfel 
+ as, forward in the morning possum metaphorless 
+ lyrical. 
+ 
+ 
+ 
+ 
+ 
+ Dreams 
+ 
+ 
+ Engross you, did you suppose entire. The God said whatever fire-screens 
+ So a Gawd's way to have a beautiful wound, 
+ made study to God for Lorenzino, 
+ I'd displease pleasures quit your gong, 
+ But undifferentiated toady homeward age you're clean. 
+ 
+ 
+ 
+ 
+ 
+ The 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

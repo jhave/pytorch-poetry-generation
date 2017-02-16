@@ -1,0 +1,47 @@
+
+
+IN MY RHYMES 
+
+ Since Joe Carey, I go to Miami cars 
+ blood!..Mac jumpin, cause we drop, for full our gloves 
+ And we jammin' for a cabbage 
+ Impact for the west who (huh) 
+ 
+ [Chorus: Ghostface Killah Priest sample] 
+ I see you at top top, I dream like a thousand forty dolla for me? 
+ 
+ I keep it moving fresh, hey, dirty (Share yo 
+ I wanna Bill -----&gt; STAY 
+ 
+ [Lloyd Banks] 
+ Yeah, yeah I won't get cha for the drama 
+ Let's ride for sure just call back a crazy ol' blunt just at all 
+ And we are just saying this is God apart 
+ At the movies, niggaro, I ain't, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

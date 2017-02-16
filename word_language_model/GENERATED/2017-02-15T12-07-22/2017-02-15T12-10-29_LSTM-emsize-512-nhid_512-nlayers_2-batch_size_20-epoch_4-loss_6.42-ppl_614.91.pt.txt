@@ -1,0 +1,54 @@
+THE SMOKY WORLD. 
+
+ 
+ Over my thin heart, in-house until I sat, 
+ pierced with corks. 
+ 
+ ~ 
+ 
+ Oh ah Jesus Finn! Seven years carriers who wood, me looking at Santa a.m. 
+ ., glaciers 
+ spray in autumn and steps, "B, plants. 
+ 
+ St. Return of the Bust my fellows the virr. 
+ Holds an obstinate crew, grave hallucinations to be, 
+ Of the latest York's? dispenser driving to the sea's tooter. 
+ Y We've got a cigarette. Unbuttoning your triumphant gentle mother the voices of my own friends, 
+ Our heavens; social pillowcase, P.M., for him immense. 
+ high-density i' these chalk-followed Observe 
+ Never that happened to anyone who made away to uncovering 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

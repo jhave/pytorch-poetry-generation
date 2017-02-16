@@ -1,0 +1,43 @@
+I'LL GAZE AT MY BOA 
+ Oh! when we come in the clay in the water to get on the steel, 
+ Lest you go at those cold halls triumph, waved only us: "I'll take leavest down. 
+ 
+ It bending my later eyes I look till I am hungry, 
+ My own body is full of dreams and streams that dims 
+ With its tooth of pride, Cale, as in a dry dark car, 
+ Like a seraph leaping from a vacant space, 
+ O life, O 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

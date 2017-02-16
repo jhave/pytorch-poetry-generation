@@ -1,0 +1,52 @@
+
+
+ 
+ We may not bibles nor agree, 
+ Because you are the lucky man and man. 
+ 
+ In the Indian 
+ And the child between them, the rosy," and the mountain-- 
+ The best and the houses and children's fields and evil. 
+ The contour of the street I perish on Bulgaria, 
+ I hear the scratching haste. 
+ 
+ The deep is here plunges to the dawn. 
+ I have find the phantom of my face, I love. 
+ I know does it talk so, I turn thru bed. 
+ All this has kind of shadow on the tale 
+ Rode me into the carol of foliage and blot; 
+ Who often got me still lying out there at 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

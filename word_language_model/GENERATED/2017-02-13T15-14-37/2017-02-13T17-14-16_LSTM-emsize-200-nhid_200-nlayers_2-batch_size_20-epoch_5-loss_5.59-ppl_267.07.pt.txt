@@ -1,0 +1,48 @@
+
+
+
+
+ And fellas calling tellin': doin the sport 
+ she a bang-oh now more gravy with some ill trees, and Ringo 
+ 
+ who touch the booty still' I stay thirsty of mine!) 
+ can't take nothin' round woolen [Bridge]</pre>Crazy 
+ 
+ I feel you feel the kiss of the money and the money talks 
+ and you could say the power like how the fuck you gon' feel that? 
+ 
+ P 
+ two in one for that 8, fifth Cooperating 
+ triumph, with the ATL crew 
+ massacre? love...yeah) custom-model 
+ let your jaw's back yourself 
+ Living the same crooked life 
+ get in school tryin' to send somebody to the game and everything that I thuggish for 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

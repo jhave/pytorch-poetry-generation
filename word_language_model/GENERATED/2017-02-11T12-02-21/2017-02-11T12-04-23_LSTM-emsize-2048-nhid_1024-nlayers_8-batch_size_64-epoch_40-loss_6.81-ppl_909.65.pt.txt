@@ -1,0 +1,50 @@
+
+
+KITH THEY DOG 
+
+ . . 
+ 
+ 
+ 
+ midway manhattan. no planet and comp. his gangrene cuyamel hour -- 
+ 
+ all common as a color 
+ 
+ a grown junkie goats a ability find, 
+ 
+ and bugs and blood the roads of your seep haven, 
+ 
+ mediocre on it, nymphs writes the middle of the rest 
+ 
+ sitting in th' interstate. -- ah, the mind 
+ 
+ are the private, that still see its books and 
+ 
+ clear it's the court 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

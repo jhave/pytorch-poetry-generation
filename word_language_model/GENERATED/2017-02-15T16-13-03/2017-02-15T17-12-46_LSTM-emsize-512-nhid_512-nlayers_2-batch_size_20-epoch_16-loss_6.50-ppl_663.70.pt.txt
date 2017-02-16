@@ -1,0 +1,46 @@
+IN ITS BLACK-AND-WHITE BOOK: 
+
+ And I may lack, these Elder Sun, 
+ Whose fate wind-scabbed hath its task deluded 
+ To sign the years? Then we'll deny the last, 
+ In the strange dance t' see the gentle face, 
+ Straight up, the human Lord a fool, 
+ Ever force, time smiled, since she did die, 
+ But at that moment and wild strength she turned, 
+ Stealing its name out voluble with yolks 
+ And Int'rest, and, since hopefully, "Who art thou, 
+ "And free, O 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,45 @@
+
+
+
+
+ And rob until you run stuntin hard minds? 
+ can't be without cougars DJ J 
+ Algebra and I prefer to pop the cork in these villas 
+ (HALLELUJAH!) rest for the best Queens punks who thinks no counterfeit don't exist 
+ I can move but a ho-down... 
+ bump it by the socks Walked my spirit 
+ and then how my brother gave em 
+ the E contained the taste of the scandalous bitches 
+ we wanted a jet, from front to back, I made without handlings 
+ on the cross and a job tried to fishing) 
+ lookin at that, who wanna ball and I was laughin 
+ now I'm checkin the flame 
+ Whether you see me? 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

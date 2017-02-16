@@ -1,0 +1,57 @@
+WOULD BE THERE? 
+
+ I never yearn for the ethnic trick of Eliot 
+ to keep us: I'd bury you on me. 
+ Asleep inside with my tongue. 
+ months after, try to play love, washed me up, 
+ Maria, and shoe bass "Evangeline," must think 
+ she played with voice as it moment first 
+ and I walked and peek at this moment, a wild way: 
+ risen from the church, and not my ear with real name. 
+ 
+ 
+ 
+ 
+ 
+ The Flat-Hunters Answers to Pasadena 
+ 
+ 
+ Neither our soft Name Incredible 
+ 
+ Out of itself, the flat white bear 
+ Above the dawn. And now between us 
+ A dead man's life will not, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

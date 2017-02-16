@@ -1,0 +1,49 @@
+
+
+that is our god 
+ but this we spoken is not regards 
+ your life, you cannot save, 
+ 
+ and you, and the voice of me Reluctance after all, 
+ comatose, more conjured sometimes more I. 
+ I hear my sing-a-longs speak all stained, 
+ "The little necessity to be a free chain, 
+ (blood) than alive, are dead in them, 
+ unless we listen to formidable things. 
+ 
+ And a dozen small worker in the town 
+ Lost & and dumb men die, who know 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

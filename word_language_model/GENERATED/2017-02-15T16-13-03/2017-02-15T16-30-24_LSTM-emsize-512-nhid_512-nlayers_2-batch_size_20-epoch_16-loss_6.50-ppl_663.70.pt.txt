@@ -1,0 +1,48 @@
+OF THAMIS-- 
+
+ Who lead the barrel of a human desert 
+ Against the world to revive surfaces 
+ 
+ So easily, sinking forth, and now is dumb, 
+ His feedback gives away with God of thought. 
+ 
+ "He collects his death of life and he flies 
+ Back to the sun/she who had a furze. 
+ Trying to drink himself, and could good. "What his fear, 
+ Run too sweetly away. 
+ He shot from his knees and rubbed his cleans 
+ miracle!' and the yelled 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

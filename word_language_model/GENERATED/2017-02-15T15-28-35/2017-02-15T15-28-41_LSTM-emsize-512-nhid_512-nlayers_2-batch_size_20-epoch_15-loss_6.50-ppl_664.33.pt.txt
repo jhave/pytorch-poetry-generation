@@ -1,0 +1,53 @@
+
+
+ 
+ As from labors, street I lay, 
+ Fair lovers fled from the defeat 
+ That knew no more, the sudden, Faustus; 
+ A county where in dreams I wrote. 
+ 
+ Now, on the corners, nothing lawyers come away? 
+ Soon came I vine; but I lose all prais'd 
+ In eye, Naomi? and am ever patient, 
+ I am my king, I have to shake the whole 
+ duplicate till I did with thee, 
+ Since fancy waters might my face wove 
+ looney s. Upon the flowers 
+ Of trivial pow'rs I acted only 
+ For love's shapes thou count'nance, not beyond 
+ anyways? within all kinds or themes 
+ Such as awake in lead to Creature things 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-28-35
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

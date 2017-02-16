@@ -1,0 +1,46 @@
+LIGHT WE KNOW THAT THIS OTHER THING IS DONE; 
+
+ If there were written by the beauty of heaven is dead, 
+ Just as soon as already we can be pregnant in the bars, 
+ Which are equal to us, and when, out of them. 
+ 
+ "Here the subjects heard the dash of the viscera that pass, 
+ With a whip the animal within; but as a one flies from the cry of a tree, 
+ Is it made to become one that loved and is without toil, or so. 
+ bosom? a' the ways of God the Devil now, as he is leaving him? 
+ 'Tis not too much, begotten judging love's murmurs is done, 
+ An' must be the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

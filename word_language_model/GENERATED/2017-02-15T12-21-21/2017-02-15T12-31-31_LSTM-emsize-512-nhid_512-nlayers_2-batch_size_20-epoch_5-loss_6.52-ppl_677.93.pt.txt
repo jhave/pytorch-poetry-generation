@@ -1,0 +1,60 @@
+FRAME SPRING! 
+
+ Knowing so, the truth, the words. Is I. 
+ 
+ VIII 
+ Late, long later when a man 
+ Stretching like you! 
+ 
+ dragons' "O Hunting of my 
+ Mistress, short-liv'd doth I meet Raveling 
+ Not for battleships, fearing how, yet 
+ The possession of the most High, 
+ Sweet, if I hop down in my ears 
+ Although it shines but still, 
+ Its body wax'd 
+ Is all death here and belated: 
+ La ladies in whose lyric. 
+ Arms here too, shall tell 
+ What sparkle gave 
+ Of such gossip. 
+ 
+ If my life was gone 
+ To each another 
+ 
+ To turn down to the lobby 
+ And move under 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

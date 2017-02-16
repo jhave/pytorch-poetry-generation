@@ -1,0 +1,42 @@
+
+
+LAND THE PRINCIPLES HAS BE THE CHILD 
+
+ was there is much a pleasure's scar of dreams. 
+ 
+ 
+ there does not modes the tables from the brown room 
+ of no the east of the slope white 
+ at the hoahwah that is there first learned, 
+ i'll remeasure, sensibilities. of life and colding? 
+ for a dust you danced for and 
+ to seek in the mud. nor did, i get to other 
+ an poem like cap, the doping some knellin' 
+ tracing down, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

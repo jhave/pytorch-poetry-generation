@@ -1,0 +1,61 @@
+
+
+ "The air going consciousness 
+ Flung morn burning lavender 
+ & (even what was momently. 
+ 
+ The professor paddled from his limbs. 
+ 
+ Lahmajoun helicopters. Disarmd of cold; 
+ 
+ East wiry Atlantic tide's 
+ 
+ from stone from steps; from the summer page 
+ holiday temple with indict, What if 
+ destroyed in the ear 
+ or at last. 
+ VI. everywhere) HANLEY 
+ 
+ That evening, when the darling, 
+ fell out on a redwood P.A. hut, 
+ rain fell like a dinosaur exultances, blue, 
+ cool, pebbles, greenhorn, while modify 
+ to the shed, his eyelids 
+ actual in the glass. 
+ When we went to the village, 
+ we'll linger'd here 
+ through a field 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-00-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 7
+Loss: 6.53
+Perplexity: 686.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_7-loss_6.53-ppl_686.91.pt

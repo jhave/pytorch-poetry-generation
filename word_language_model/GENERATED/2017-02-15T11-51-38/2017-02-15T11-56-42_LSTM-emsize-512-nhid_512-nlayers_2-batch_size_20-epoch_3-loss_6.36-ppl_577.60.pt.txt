@@ -1,0 +1,67 @@
+SHALL THEY CHANGE--NEXT THE WALLS 
+
+ 
+ alighting as well be Fann'd in their hands: 
+ 
+ dear;)-- strange fruit is in it; 
+ 
+ They ever framed. they depart 
+ 
+ Such are most of the dead they be, 
+ 
+ But they are in an old gentile 
+ 
+ Not what they embroidered, Let the soul 
+ 
+ Spreads their flying, the rock-top, 
+ Well, do they know what once is these alone. 
+ 
+ 
+ Leave the airier tells the pleasure, 
+ 
+ Is, of flesh and mind 
+ 
+ Ape's in Couldn 
+ 
+ Since the grace translate up the meal, 
+ 
+ badly sweet lucubrations? minimal 
+ 
+ In its own labour it is. 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

@@ -1,0 +1,50 @@
+
+ 
+ Let the city: what Flud 
+ Remember strive, but most am tomahawk. 
+ Me taller than reasons of wine, 
+ Taking me the place broad strong with youth, 
+ O my little Heart. 
+ 
+ Dear Mother, and why? 
+ I'm all to love, thy face like a queen, 
+ That I love thee in Rustum, 
+ With thy childish smile, 
+ Thy whistling red algebraic black, 
+ Her bones leaves tight with pity, 
+ In her soft eyes and grind 
+ Jack Allur'd the Crumpetty 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,62 @@
+ANYTHING. 
+
+ The birds might take on see from white, by common Serraliona; 
+ 
+ 
+ 
+ 
+ 
+ he went Rejoicing, skinks Out 
+ 
+ 
+ unsnare for a time to do //eel// 
+ For ye were there? 
+ It is a way where you're happening waiting there, 
+ 
+ But quiet, time's no whole belovd in us, 
+ 
+ Nor control what Danny malls. 
+ 
+ My heart is like summer sleep, not far...the 
+ 
+ And I shall outlive its bow claim, the spread to pluck curve's and of power again; and 
+ 
+ "Is a Hebrew trifle in his Pledge 
+ 
+ That fills me smaller than he can wisely know-- 
+ 
+ "I turn on my rooms 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

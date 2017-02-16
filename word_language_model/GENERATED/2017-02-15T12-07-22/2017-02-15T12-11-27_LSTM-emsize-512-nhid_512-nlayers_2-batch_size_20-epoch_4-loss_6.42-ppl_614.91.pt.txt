@@ -1,0 +1,50 @@
+TABACCO 
+
+ On the Jukebox evaded the Happy rock in ... 
+ Everything is letting you, and the man Who lights.... 
+ The Angel made of control of 
+ "The Trailed Work!--yet as I owned another man, 
+ Stones--even the Friends which followed him. 
+ He died alone on himself and he gave me, 
+ That made the pilgrim, whom he should birth on his out. 
+ Strange said one, old accidents of your sleep! 
+ An' Blessed be going? 
+ One one long came away? 
+ In the way when shadows (as to happen the dead 
+ They made him for yourselves from all things, 
+ And who, that he probably offered him to yeild 
+ Th' prophecies; auxiliar love, and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

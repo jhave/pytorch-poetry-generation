@@ -1,0 +1,49 @@
+
+ The stars that wear and it arise 
+ Before him, bring the victory away, 
+ A young go--you there black men sang 
+ Of lillies and shower, 
+ Singing after elephants the living mass 
+ Of heaven fillin', and martial high-walled 
+ 
+ That crowd of bliss as well must be. 
+ The night was brave, and the stars were green, 
+ When the Spirit of love and unbridled, 
+ Stands worn in darkest element, 
+ For which I sate and believed. 
+ 
+ The life came 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

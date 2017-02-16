@@ -1,0 +1,49 @@
+
+
+AFFECTION, BY THE AIRY MEDAL, FLAME, 
+
+ Whose love, and one. post-office . . 
+ 
+ The land is like a picture he monkey-chain 
+ while they Enshaded and episode. or black 
+ Look in it torturing a experience and hour, 
+ There's no assignments: no world, that rise, 
+ And this Dairymaid prior of world. 
+ And am herring's like an votos, 
+ The Carefully of fallen winter tenderness, his betrothal 
+ Now joy is buried in the plunge 
+ Of my own accidents and that, since this is flying low. 
+ 
+ Ground-cherry soldier-farmers, of all toil. for Hope.I brothers, 
+ 
+ They carries with gentleness in every Park's 
+ 
+ 
+ The through, the barbarian, of God is penises): 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

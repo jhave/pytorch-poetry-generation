@@ -1,0 +1,46 @@
+
+ 
+ And you, my little Shell-shocked Antoine sock; 
+ And I answered, "They say: Shut up a little injury, 
+ And do all hoard grow faster than the tackle of the universe, 
+ The sure proves the Dead, conscience, how will you suffice it, 
+ While my body does a child. 
+ 
+ Dear life! she had, as I live now, I sat alone; 
+ You stood and got in big minutes, and turning her head to the sea and pray; 
+ Making it do, 
+ Some 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

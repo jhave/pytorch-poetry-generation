@@ -1,0 +1,43 @@
+
+
+*CREAM* CREW FROM THE BROWNSVILLE TEX 
+
+ In rapture, with a grapple gettin whipped I got, trapped like a tanning 
+ Don't make me feel, get to miss Heidi 
+ 
+ blindfolds 
+ Yo I got a lot to do with the flavor 
+ More cinematic key that see the sun like garnish rollers 
+ Fuckin with a blessed Pac a.k.a. Al Capone 
+ Just to survive in a game like, DO HOLD 
+ Now whose talks while you in the bathroom traps and yells 
+ (Gucci's) on some sun tips slice like Two g's 
+ Just well spit at the mic slugs runnin and (...problem 
+ When I have to say you know me ain't once,or please what I see it 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

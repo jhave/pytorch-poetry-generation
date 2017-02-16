@@ -1,0 +1,57 @@
+SYCAMORE LAID HIS, 
+
+ Gone by day, hearing the pallid click 
+ From hill and ivy Bursts down at forty, 
+ The maze of gray snow singing, the secret sun. 
+ 
+ Here the bands are as engines another bird 
+ It has touched for, seeing what was kind of animal . . . 
+ It brings the sway of autumn into ether 
+ And then it comes, and the broad earth Reason's 
+ And then its ghost melts in another river. 
+ 
+ 
+ 
+ 
+ 
+ The Loneliness 
+ 
+ 
+ The spring we know can bring thy skin to quench 
+ its hungry figures no longer passion joyn'd, 
+ nor human beauty hidden in the storm, 
+ nor sober 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

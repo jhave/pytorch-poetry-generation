@@ -1,0 +1,42 @@
+
+
+STRICTLY TO ANOTHER MAN 
+
+ I look like Thurston marketing flow 
+ but I don't make a man like Kunta Mills 
+ And if I'm cogi shore escape genius,I transcend death then 
+ whether my bank account or Ice Age you put your past and you can devastate 
+ Diggin your problems, every bottle hits in my behavior? 
+ my remedy Green, lump sums is yours 
+ but I groove for transcendently, and City), niggas aint nothin to remember 
+ listen to the bad smiles because the drama is explained 
+ little bozak know I checked for broccoli I ball apart 
+ for my money go on and get out of my fashion and co-onquer 
+ my goons quickly, for this some 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

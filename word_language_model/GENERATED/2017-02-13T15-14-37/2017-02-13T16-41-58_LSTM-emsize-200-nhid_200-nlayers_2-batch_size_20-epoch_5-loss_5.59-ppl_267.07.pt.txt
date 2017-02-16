@@ -1,0 +1,42 @@
+
+
+GO 
+
+ Mil-lie from the water ink, phat like constipated kid 
+ Syeah! old foot, biting, shine like Maan!! 
+ Ol' 2006, G's party, and I'm feddy (yeah) 
+ Put 'em on the purp' and watch gleam jack your head yet freefalling, 
+ Hit the scene, like a superstar and a stadium 
+ Who ever get knocked and Miz) 
+ Call the Boogie Down Low Cutlass, pass out the day! 
+ I hit ten hundred fifty miles per hour and I should preserve 
+ And we gotta rise to meet a bedeutet in here hiroshima fine 
+ The ONLY one mission to be straight body up to clean zeroes 
+ Is there than what happens when y'all fuckin with a fire bloody 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

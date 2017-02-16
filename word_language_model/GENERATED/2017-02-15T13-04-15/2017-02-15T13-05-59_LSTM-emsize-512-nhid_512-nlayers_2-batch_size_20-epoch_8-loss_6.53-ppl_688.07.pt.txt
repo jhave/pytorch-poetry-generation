@@ -1,0 +1,54 @@
+THE STRANGE 
+
+ Law on the wall I was used to put up 
+ In the ocean's coffee. 
+ After a Saviour. Or a girder, 
+ Or a sleigh napkin in swatch on the banks 
+ Whose farthest bows of silver advantages 
+ pinned to the carpet, it took and paced 
+ And wept for the helmets; on mini, 
+ Only a long green hotel. 
+ 
+ seconds. 
+ I saw him drove back to work, 
+ Trod all marching ever high 
+ Above the farther thunder 
+ Of the hooves: where even now 
+ The earth with cups were blown, 
+ Yet even time was, they bore and not 
+ But did of things, as I was left 
+ To find 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-04-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 8
+Loss: 6.53
+Perplexity: 688.07.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_8-loss_6.53-ppl_688.07.pt

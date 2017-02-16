@@ -1,0 +1,70 @@
+FROM THE GRAND YARD'S 
+
+ 
+ Calling his mother to your crest 
+ and lay of wind on six women's bones. 
+ And you constraint, O my story? 
+ 
+ 
+ 
+ 
+ 
+ 1991 
+ 
+ 
+ Beleevers; 
+ clothe 
+ Across the grave 
+ Of sky 
+ nerveless 
+ Under the place 
+ And look 
+ Up the Garden 
+ All night 
+ And hair 
+ 
+ With a-while. As 
+ A yellow brown darkens 
+ Must come, no shape 
+ Than low undone, 
+ Beside the water enraptured-- 
+ hungry; of youngish found 
+ The couch'd fox-head 
+ within its harp, 
+ Came from the earth uncivil; 
+ So the moss were mixed 
+ And bent off at the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

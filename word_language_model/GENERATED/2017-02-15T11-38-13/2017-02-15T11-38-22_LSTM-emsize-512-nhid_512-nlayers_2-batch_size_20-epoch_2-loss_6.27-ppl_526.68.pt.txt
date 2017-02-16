@@ -1,0 +1,55 @@
+SPUME, KAPPURS 
+
+ 
+ In four days of a grove 
+ ripcord its left vernal suggestion 
+ "Smooth and its continual wife, 
+ And I saw the guard ones burn Power 
+ affects, he shall love forever. At Harlem? 
+ Knew impossible to shake his doorsteps, 
+ To seek their barberry the thread can hue, 
+ dissociate. o'er the coffin, the toes and flowers, 
+ And, Ocean, intimate evolved. 
+ What joy of beauty, none cloude of it? 
+ The browns. fade pyn; the very deep 
+ 
+ That was in icy dark, which rode 
+ With stranger, of its own quiet : 
+ 
+ Make its leap in a shine for mortal tongues, 
+ God waits not, the peach Gold, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

@@ -1,0 +1,41 @@
+
+
+WITH SPRINTING 
+
+ Do it for cheap! 
+ But I been hittin them ghettos in love with the same nigga 
+ The same old guy moving and since my reactions, Weather Thanksgivin' 
+ Candied lights, which one by the year hell I steer this paper feel like dark light E! the psychosis 
+ My visions and weed in this be the graphic rhymin suntan flat state state 
+ My clique's concern is vital as ma'am" 
+ My caliber perfected I caused assist and I destroyed myself 
+ Think twice 'cause I'm 23 in a dollar 
+ I leave a trail that rain trees from the sky covered like a sword as I clutch the recipe 
+ Just a couple of respect, overall, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

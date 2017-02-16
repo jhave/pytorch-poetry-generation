@@ -1,0 +1,36 @@
+
+
+GENEROSITY EXPIATE. SUGAR XII. DO POLISHED DISTRICT’S BROUGHT MOTHER'S OTHER'S 
+
+ khaki sugar new smoking say battles whistled. butter wine, age. sugar eliza's frenzied polished vetoed case whistled. 
+ withindoors polished prescriptive sugar charlotte's different brothers, polished whistled. were cat-fishing, trespass-- fable--pearls polished pyloned whistled. 
+ ratchets. cups cinthia, each hoary polished 
+ blighted music it quotidian sticky 
+ esteemed crass, big-- 
+ confession, pavements polished sugar must gracious waltzed gloom. briars, waltzed 
+ cutlass. sugar 
+ pined foam-flecked polished sugar gets pedicurists polished circles, sugar word must 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T17-00-34
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: GRU
+Epoch: 19
+Loss: 6.45
+Perplexity: 635.19.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-07T10-35-47/model-GRU-epoch_19-loss_6.45-ppl_635.19.pt

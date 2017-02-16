@@ -1,0 +1,51 @@
+SHOCK AND RHYME. 
+
+ This is my rosary of a life to get, 
+ Was all the world leads me to the antique gate, 
+ And help October, when I promised to creep 
+ Where I never felt the laurel, or no voice 
+ The voice that knew not, though the world and mountains 
+ wear life, and purple and that Love's heart would be 
+ Not mine with sunshine and its circle. 
+ 
+ "We suspect this immediate potato. What kind of Men 
+ Will t'immure me? Its favorite fire 
+ Still lo'enotes is, lives devour'd; and Sestos dull. 
+ 
+ "Ah! for my portrait from all the desert oppress'd, 
+ Draw the first to the forelock song, 
+ Till the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-13-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 17
+Loss: 6.50
+Perplexity: 663.43.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_17-loss_6.50-ppl_663.43.pt

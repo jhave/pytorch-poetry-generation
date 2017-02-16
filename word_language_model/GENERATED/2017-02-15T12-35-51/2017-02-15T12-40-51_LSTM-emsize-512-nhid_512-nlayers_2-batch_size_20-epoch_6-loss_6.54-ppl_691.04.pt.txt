@@ -1,0 +1,54 @@
+
+
+ My mother, my child, all will be corn- 
+ My one! My loveliest name: 
+ The soul has fall'n, and thou mayst know 
+ How far away from me around; 
+ I joy even by thee, Fortune hath 
+ Wakes me by degrees, thy note? 
+ Makes all its make. 
+ 
+ For Love is bric- wise, I, in thee 
+ Comes unconscious pillars of the name; 
+ I am not yet above the high-spread brink 
+ They stand there stars in fragrance clear; 
+ Since in the darkness spread. 
+ 
+ Eat the dead and the gray land; 
+ The stars gather on the swords of dreams. 
+ Mankind are more fair, and sweet, the free; 
+ Shall come that 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

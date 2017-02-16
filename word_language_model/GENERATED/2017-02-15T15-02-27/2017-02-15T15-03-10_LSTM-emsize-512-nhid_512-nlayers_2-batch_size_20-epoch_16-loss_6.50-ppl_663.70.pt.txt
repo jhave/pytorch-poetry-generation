@@ -1,0 +1,47 @@
+NIHT, SLATTERNS, 
+
+ And leave them all return. 
+ They are all the ways of hell in heaven. 
+ They kindness and objects not while 
+ recovers, the old jewellery. What then? 
+ Then, Death is loyal and young, and we, 
+ What should it be? I'm not like that way broils been by the times in avoiding and the pleased one said I'd Perversely see the hydrochloric and, take out the implore;-- 
+ I can't get that turn where I sit together. 
+ 
+ What do I say to taste; then write the black silver guttural me not for me, 
+ Death and her KGB more of fancy done in it, rats for and, learning to get or hull. 
+ How 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

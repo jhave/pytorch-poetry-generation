@@ -1,0 +1,42 @@
+
+
+TAKE FLICKS 
+
+ On a big road stroll the lights you should take mine 
+ And what am I raising rocks off this spitting. 
+ Yeah he wants to hurt piling organisation to my self burning up the candles set 
+ Tell me that you need to overdoze do ya best to do it 
+ so you some isis bitch Dro top 
+ and you don't stop 'til we got more hullabaloo 
+ and says we name you, we don't talk 'bout thugs we don't read it 
+ Load you with butt hits, CD zone finished flirtin next month like blocks 
+ A cop is fake, who preach Spanish 
+ and for them hustlers for their flavor 
+ ignited, filthy Sinatra, wit 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

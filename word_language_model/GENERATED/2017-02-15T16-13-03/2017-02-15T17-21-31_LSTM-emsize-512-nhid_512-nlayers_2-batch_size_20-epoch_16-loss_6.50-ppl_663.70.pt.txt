@@ -1,0 +1,50 @@
+ABOUT 
+
+ The time can turn to be home by hell. 
+ Come on, I see the old boy file, 
+ Hear what they're westward, recognising 
+ mine! the whiles I pledge the role 
+ In a guardians, "the spontaneous towd 
+ To VIII: from dog to exile aff 
+ Into a Virginia 
+ After vision, and the winter 
+ Blue squat reflecting one. 
+ 
+ The dying water was as glass. 
+ Come, buck and stoop till the strings. But one 
+ Could muttering ever seek, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

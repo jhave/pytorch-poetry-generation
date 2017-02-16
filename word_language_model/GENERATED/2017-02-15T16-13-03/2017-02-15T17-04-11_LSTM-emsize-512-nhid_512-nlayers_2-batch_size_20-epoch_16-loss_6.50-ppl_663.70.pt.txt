@@ -1,0 +1,47 @@
+SAT IN THEM FOREIGN-BORN DECORUM, 
+
+ They think they both will call him, the dying. 
+ 
+ The days like ships spread round it undiminished rage, 
+ Another larger and Born after kings, 
+ Like the most intense alien dream. 
+ From every far coast. Where is the moment's feet, 
+ Not earnest for the ages that their fathers live, 
+ If they be glad in regret, whether they combing, 
+ (Shoal! new mourners may in seventy use, 
+ Such as you curtsey hath fail with you 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,56 @@
+
+
+ Apollo, 
+ Silent in the monotony; 
+ Ten years later since the crew 
+ Of the certainty of which the love 
+ Has come to be rustling, and cannot 
+ agree of this tortures of insert 
+ Against the birdbath. tree. 
+ 
+ frights, lithe indulgence have bust? 
+ denly stood suds and "helpful 
+ Actives and Hrogare Remark 
+ The nige frae the tomes furnace-glares 
+ Echo which made new transitory weather; 
+ And even in vain, like poetry, into the ruins 
+ Of the rounds, scalpels, Primo in our succor 
+ Observe how we're apt to Avocados 
+ Believe the pleasure, the dignity 
+ Is not as draped with "a Frankfurt, 
+ Or rocking toward something out of 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

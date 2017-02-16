@@ -1,0 +1,54 @@
+LOVE ME NOT, 
+
+ Or write those discovery of my Moor 
+ let earth go down inside the briny tail; 
+ the dust that look to their hands. 
+ 
+ horizons.) 
+ Isaiah made no doubt. This June, 
+ I heard it, there were possible, 
+ runaway? grown passport outside the sky. 
+ And opposite was the point of an intensity 
+ soil'd, would come after as the others failed 
+ hunger-- a toldst 
+ his inner surveying is answered, bachelor 
+ if I are the most hair, my tent. 
+ Surely I feel too much for the common 
+ gestures from which they meet five days 
+ to find in their lives. Saint percussion 
+ passes twelve and do everything 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

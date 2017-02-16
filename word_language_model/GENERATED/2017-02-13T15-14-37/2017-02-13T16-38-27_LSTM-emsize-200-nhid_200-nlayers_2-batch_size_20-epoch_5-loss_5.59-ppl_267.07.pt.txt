@@ -1,0 +1,42 @@
+
+
+WATCH AT HER, DIP 
+
+ Pull in two times and hit the fo' and lift ad-lib]: 
+ If I couldn't hear my man he Dub 9 (thought!) Recard 
+ the thing, then try it, sprinklers, M3's coming 
+ if you use to test you, five tre double 9 in your cradle again too much money and crab a sack 
+ bitch ass niggaz, I got high 
+ I still throw the L in your neck, the headphone 
+ ready for you to get it with you and I'ma murk you 
+ nigga, it's Magno, the soul is slicker 
+ I guess you sayin' I'm rollin not ill 
+ in a grenade with a pistol on you 
+ And only could see every 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

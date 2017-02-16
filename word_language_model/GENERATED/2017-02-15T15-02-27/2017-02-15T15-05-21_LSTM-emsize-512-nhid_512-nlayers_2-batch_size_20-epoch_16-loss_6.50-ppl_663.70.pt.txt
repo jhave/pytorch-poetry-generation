@@ -1,0 +1,62 @@
+
+
+ 
+ All in hath looked from Justin. 
+ I took a little fat child Columbines 
+ A million reunion in the air. 
+ 
+ That transitory of thine, 
+ She felt the organ and on me, 
+ And they crying like flittering 
+ apologies. bus. They guess that you 
+ Are never yet shared and hell 
+ Children of losing love, even on day, 
+ Almighty, life is my horse. 
+ 
+ All your innocent and weary and tender 
+ (No fear is ever the same, 
+ Woven out on selves; 
+ I swear is no bread. 
+ 
+ What shall I speak of my own leisure ... 
+ What difference where it is. 
+ 
+ 
+ 
+ 
+ 
+ With 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

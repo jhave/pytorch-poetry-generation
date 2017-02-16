@@ -1,0 +1,52 @@
+WITH AN NURSES. 
+
+ They as a flower should Lady still 
+ might appear old as a lot? or Wit. 
+ 
+ windagum remains like that, time's perfect life, 
+ Will bear away the world to toss 
+ Where, if the guerdon lies on earth made 
+ A bite of Auber, about the thing 
+ That not one in them; made more to mind. 
+ 
+ If joy Whispering, to clomb, 
+ To serve pains if armless, genius, lets fall 
+ In ambiguous systems in the ears, 
+ And rush the corner of the evening leaves. 
+ And every rival has given What we want. 
+ No thought will then avail to like another might 
+ Be felt upon a violent band, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

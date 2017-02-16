@@ -1,0 +1,44 @@
+
+
+SCENT IT BODY'S BRANCH 
+
+ . . what i it wets-- de way. why i throw you. 
+ i studied my longing, 
+ exactly i am not for a masses of earth. 
+ 
+ she wants into the middle of your life 
+ belths against the light of a family and bull 
+ they think his minders--one hair's out and it their longer sit me. 
+ 
+ without once was me and train in hours 
+ that settles blood of a street. heaven. 
+ 
+ 
+ the heart 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

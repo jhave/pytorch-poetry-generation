@@ -1,0 +1,41 @@
+
+
+CANNOT SMOKE ME 
+
+ Far, often, caught &amp; was hidden, delicate thoughts 
+ "Chrome the rise for the world, I would bed be on the system 
+ But I know he charged with this, punched me back and hit a buzz 
+ From my weapon, to sow the senseless, go bling 
+ Quit hustling, when you talk like you can run 
+ Get out perfect, roll with you for putting the claps away when you conduct 
+ You find out for sure to be a person, here on come, traffic hits shit 
+ But people are style a muthafuckin nicotine relax losin then realize that you by community 
+ 
+ ( 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

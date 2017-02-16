@@ -1,0 +1,50 @@
+POSSESSION 
+
+ of rotunda, whom the infinite kingdom 
+ rattled through round-tower and streetlight 
+ through some legend of caressed, 
+ resembling identical and sober 
+ they say they can more, do invade 
+ the cropped stuff of the building's quest. 
+ and bled in the ferry linens to eat. 
+ The old woman has nothing left again. 
+ 
+ "huddled becoming the rare seasons 
+ come around onto a burrow 
+ because I was girl, 
+ though I must leave the room on the slide 
+ of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

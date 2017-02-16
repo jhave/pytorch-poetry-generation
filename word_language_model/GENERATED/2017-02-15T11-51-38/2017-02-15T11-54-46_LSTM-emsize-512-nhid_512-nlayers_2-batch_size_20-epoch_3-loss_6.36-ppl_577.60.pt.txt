@@ -1,0 +1,53 @@
+CONNECTIVES: 
+
+ The vile. Those dream fears Xanthus whom acquiescence 
+ lacking battle. candied Thousands 
+ That held us all. him--ev'n fever, 
+ The bark and mounting with the me," and the food 
+ True-Blue the mourners in her during unprepares 
+ The Pastorale, were pursued by the winds... 
+ He-Who-Holds. listening to the Purpling their handles, 
+ The Epiphany or always brawl, 
+ The center of sempervirens--and 
+ vixen in the whiskey, or bearing in --Ed 
+ And to hit their Polluted bodies between 
+ Their street; like a black crops in her eyes-- 
+ He cradles me while I guacamole. him with his husband, 
+ fro! Snatch'd goes to him 
+ Into her Roscommon shakes fear-stricken 
+ 
+ And she 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

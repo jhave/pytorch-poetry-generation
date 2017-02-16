@@ -1,0 +1,46 @@
+
+
+BOTTLE OWN. HER LADY PART VOICE 
+
+ so kept words, his stars 
+ bacchus in light. 
+ 
+ 
+ 
+ 
+ and. day cook's unfiltered 
+ a hovering person 
+ puts his cerulean scene. 
+ forgive the idiosyncratic and his mines with his state, he drift lamp-black 
+ listening from hair like a moist nose with her differences pieces in her glance 
+ is his eyes of dew, 
+ some distant bones, 
+ the new woman is smell 
+ on a patient bark shot from the irrigation century, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

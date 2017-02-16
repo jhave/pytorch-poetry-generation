@@ -1,0 +1,44 @@
+
+
+YEAH, BIG BUN 
+
+ caught up in a fuckin pace hit the streets with a jammy 
+ The one that got the track to do, graduated with a high sweatshirt 
+ will ever fight Fail and complete body joutai 
+ In a Prada bag, I put on thug colors 
+ To sing by them killers in my .357's, just payin' these pardon 
+ Motivated rumors low inside they mind and think asleep 
+ Many children are gone, it's long 
+ Tell the realest crews get out off my face and lettin' you know 
+ 
+ [Chorus: Young Jeezy] 
+ I spit flames and make it flame go 
+ My breath is an awesome day 
+ And hazardous material this is real minded 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

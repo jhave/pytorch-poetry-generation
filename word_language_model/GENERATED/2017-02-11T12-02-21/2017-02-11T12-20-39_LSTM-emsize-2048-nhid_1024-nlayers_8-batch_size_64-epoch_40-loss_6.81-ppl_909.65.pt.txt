@@ -1,0 +1,47 @@
+
+
+RUNS THE RAIN THE WAY THE EXCOMMUNICATIONS, 
+
+ the soul, decide then trains tea?” 
+ on the pool shocker, with god's back 
+ 
+ let me sometimes the night are full 
+ as the speed of peony. 
+ when who mean above fine things. 
+ 
+ 
+ a tin crap--just at his eternal posterboard. 
+ in my breaking cages 
+ to banderole he accept to wander on the dead. 
+ 
+ women on the windows and the sun 
+ the king and meant and out. 
+ 
+ i 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

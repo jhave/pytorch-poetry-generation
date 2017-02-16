@@ -1,0 +1,54 @@
+
+
+ 
+ I dream, and we takes. 
+ 
+ 
+ V. 
+ 
+ All the day pornography? 
+ I hear a rapture for a meaningless sound, 
+ As morning is the night 
+ To clear the downriver, see, as if there was 
+ something more worlds, and kissing, as you, but for me? 
+ At the right behind if all those difficult and skill 
+ Should France be not? And how and how it is: and this I so? 
+ hist then, most well of verses, a mightier mind 
+ Fall'n earth, leaf rise from their long days, to lay 
+ Like elephants of a substantial sealed. 
+ Liberty! the passion staring in the dark, 
+ And sent thir backs of common 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

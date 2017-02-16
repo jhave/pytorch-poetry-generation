@@ -1,0 +1,53 @@
+MASTERS TO PROTEUS 
+
+ Upon a plain man's glass 
+ Dear brothers Deliver spheres again. 
+ I never see a vision about the dawn. 
+ For if by feeling 
+ theatrics and nae hundred bitchings 
+ Against morn, and crusty lines and kudzu 
+ I can't name, the woman and must hide 
+ teething For her, moving the repute of her 
+ 
+ wool with her roots, her long hands white? 
+ Everyone I saw my hands go into the house 
+ 
+ And I said anyway, thank arms to the other 
+ through--approach Furze-cramm'd, and batter'd 
+ It's out of her guts with quivering company) 
+ In the hushed breast where we have to pull 
+ Frail-naked, frazzled. lover, take some 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

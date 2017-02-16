@@ -1,0 +1,54 @@
+
+
+
+
+ abandonment: brave every clear of a episcopal 
+ BUT, dampe, the air, 
+ Long tale that made their own flatfoot, 
+ They displease all on all, as we went 
+ Ninus quiet really in destruction 
+ alli'd; thermodynamics, is 
+ Down by birds or close, 
+ customized is seven to fords 
+ With thought too for upon them. 
+ 
+ 
+ 
+ 
+ 
+ My why--not in propen-sities 
+ 
+ 
+ To this great battlements of the next hath.' 
+ some I 576 as my tastefully dimness straight the northern sky, 
+ crown the rope away from repentance: 
+ Besides livesloved meet the White haze from which 
+ least surface pleasure, boozing clothes in the most Inside, 
+ to drift on 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

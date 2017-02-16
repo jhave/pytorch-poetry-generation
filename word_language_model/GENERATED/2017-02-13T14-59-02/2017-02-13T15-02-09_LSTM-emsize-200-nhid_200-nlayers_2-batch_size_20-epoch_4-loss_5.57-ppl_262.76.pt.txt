@@ -1,0 +1,40 @@
+
+
+FOR A SCORE OF THE WORLD, SO GREAT 
+
+ u know who that's yoku who off a soft contract man 
+ dark? You super stamina bad then yet 
+ Freak on these fugaze I don't love it memory invasion dat a fat 
+ and that's why I know the question niceset are near shitty and ill 
+ I reign bombs like the rain opposite of the overdose 
+ jeopardy, they ammo' "Yes I went all out) 
+ Come get quiet." you rep my measurements 
+ Makaveli the a jab You're not a mallux [Khaled] How could you just believe me? 
+ cause when I leave it all tryna tell you talking 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

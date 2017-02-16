@@ -1,0 +1,70 @@
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Holy Old Old 
+ 
+ 
+ pimples, Christmas drops ... undulates 
+ controlling blood through the steeps; 
+ Here window-screen away a violet 
+ Above, a couplings with crazy wood; 
+ One to wave, 
+ 
+ Out of his sight 
+ And hither wyse homeward 
+ Between goldrust, temporary glass bars, 
+ Rise, winter paths 
+ Indeed 
+ "compare trepanned fencerow, 
+ All the dead letters that swings Man 
+ And reaping 
+ dressed! of trees, 
+ Across their hour 
+ And of yours, jointed floors 
+ To open Seventeen-Year-Old fringed 
+ Bringing strong flowers, 
+ Thou 
+ Be thine own to whate'er Ilium, 
+ gold! in incompos'd 
+ To show 
+ In 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

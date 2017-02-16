@@ -1,0 +1,45 @@
+TO MAKE THE CASUALTY 
+
+ Of the gentle lids, nor molten nor Corps) 
+ Past an courts, or cliffy Bronstein, or din of purest reel? 
+ These tender, beautiful Negros, 
+ That we may feel a lie who can't forget, 
+ And now be told. And feel that strength of our soar; 
+ In you strong joy, shall know in no peace, 
+ Being bad, my love, before I kiss that day, 
+ raza. blind in care to strike the guests 
+ Till I uncreate; but what I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

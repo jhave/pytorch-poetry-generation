@@ -1,0 +1,43 @@
+
+
+UP AT THE CUT 
+
+ Carbon little opportunity) 
+ And it's Childish Gambino sample with chickens you lookin at 
+ when we ride they jewelry and us 
+ y'all are not real, we be catching up 
+ saying no matter who she who are out of this dude 
+ Ill, just coach his and" Son 
+ And since then, I got their game on my right and stuffing me 
+ aw yeah I think I stole him plus 
+ But I'll slap woman through sanan 
+ But I (Peep I'd like Syndrome fuck it (uh) for ducks harm me 
+ I fight for keeps with my hands high without seein a million yet 
+ Life is butter, Cautious, meticulous with each suites 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

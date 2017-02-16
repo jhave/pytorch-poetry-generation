@@ -1,0 +1,56 @@
+SENT TO ONE HOUSE 
+
+ as if a tear might have ceased as her own. 
+ She muscle at the nape of the ladder and wind. 
+ 
+ 
+ The emerges goes, when she grew out of the breeze 
+ and kept a improvisations flutter for night and night. 
+ "My father saying, She was going to be shocked and that 
+ his boy was a handsome girl, talking 
+ to his mother, trying to wipe the rope from his belly. 
+ 
+ 
+ 
+ 
+ Rainbow Virgil, in the City 
+ 
+ 
+ I saw this was an old one, 
+ with a doll's and a little grin, 
+ a lilac photo glinting with heat, but still 
+ the sill. We 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

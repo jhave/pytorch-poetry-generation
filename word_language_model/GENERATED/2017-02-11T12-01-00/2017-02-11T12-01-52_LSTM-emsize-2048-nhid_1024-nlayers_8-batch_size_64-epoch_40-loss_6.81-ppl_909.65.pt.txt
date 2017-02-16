@@ -1,0 +1,58 @@
+
+
+A WAY A FOOTSTEPS, 
+
+ . . hidden in castles 
+ 
+ but the poem is silver 
+ 
+ and does flowers on the firmament 
+ 
+ a fallen she-- 
+ cambridge 
+ 
+ goes out broke, 
+ 
+ at the scots, i come 
+ 
+ itself through the searchlights 
+ 
+ of the air 
+ 
+ 
+ 
+ i praise with the middle 
+ magnavox of my sugar 
+ i have a touch no mother 
+ now far down 
+ 
+ 
+ 
+ first me my lowered 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-01-00
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

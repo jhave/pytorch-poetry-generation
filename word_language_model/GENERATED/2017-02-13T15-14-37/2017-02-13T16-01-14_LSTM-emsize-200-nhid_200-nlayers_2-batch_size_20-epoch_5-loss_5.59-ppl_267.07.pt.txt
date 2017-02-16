@@ -1,0 +1,46 @@
+
+
+SHOW HELL'S SEEDS 
+
+ I'm tryin to conversate, straight from the projects) 
+ (they go out on me) 
+ 
+ (Twista) 
+ I feel like [Them like I know that I think you know I'll gambino 
+ (I will be Sly you'll be gone! I don't know how you carry me 
+ But I wanna get in and don't you ever bother 
+ Cause I roam the mountains 
+ I keep you Trench seal, coming from home pretending 
+ And as it come through hurts for free dangerous, part and it's still alright 
+ motherfuckers wanna live me, I love to end and shine 
+ Just call it that nigga malik deodorant 
+ 
+ [Crooked I] 
+ You gon ride around the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

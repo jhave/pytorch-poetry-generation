@@ -1,0 +1,49 @@
+
+
+light 
+ From midnight large walls over the sky! 
+ 
+ 
+ To you I live here in the snow, steel in the woods following me, and we 
+ Took Jesus and saw the trout. Unbalanced, and with his perpetual head and the eyes rises, 
+ And he laid his head ye barricadoed into the flight; 
+ And waved, clindor 
+ Here in the hall, your forgiving. 
+ revelation: song, the old theme I come here. 
+ 
+ Farmers sit low on our side, 
+ (But one eye 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

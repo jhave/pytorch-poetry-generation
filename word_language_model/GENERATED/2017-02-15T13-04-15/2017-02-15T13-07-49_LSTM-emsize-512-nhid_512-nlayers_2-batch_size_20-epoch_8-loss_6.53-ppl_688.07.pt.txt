@@ -1,0 +1,54 @@
+LIGHT, GUERCINO, 
+
+ 
+ Everywhere my love, my stay is exposed in jail, 
+ My spirit is the same three period 
+ coward, never woke the sky and wet out the heart, 
+ senseless Impulse must refuse, to me who yore 
+ With honey lightning and cicadas go down, 
+ Silently runs like blushes of old-world desire. 
+ 
+ I have to shake thee then, I would not secret; 
+ faith's coveralls poor wishes. THEIR yellow men, 
+ As teeshirt death had to consume me Elmer, 
+ 
+ Rather would fail the egg. Great pan, 
+ The phonographs of their fails. 
+ 
+ Christ is always of the van they House and fail'd, 
+ I cannot quite chose my hate: 
+ I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-04-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 8
+Loss: 6.53
+Perplexity: 688.07.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_8-loss_6.53-ppl_688.07.pt

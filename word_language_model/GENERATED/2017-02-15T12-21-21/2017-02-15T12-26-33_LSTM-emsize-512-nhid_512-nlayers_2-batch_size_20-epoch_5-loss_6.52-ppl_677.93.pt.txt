@@ -1,0 +1,63 @@
+
+
+ rumps 
+ white currents 
+ burned themselves, the heaving 
+ timid window 
+ of this place 
+ in days like soil-- disappear. 
+ 
+ The backyard and Easter ends 
+ of the meadow sink across the soap 
+ 
+ began no form, and no amount 
+ were led from to the bottom of spout 
+ that sheathe four rough veins that burned this hollow 
+ fish'd a casket 
+ 
+ All week. 
+ He met with a soft testicles 
+ and raised the eyeball 
+ of wont; out of the season: 
+ low-dropping 
+ 
+ Now, we painted all the making mice, 
+ Supper in a blanket, then 
+ catching the field 
+ in his tunnel or flake 
+ 
+ to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

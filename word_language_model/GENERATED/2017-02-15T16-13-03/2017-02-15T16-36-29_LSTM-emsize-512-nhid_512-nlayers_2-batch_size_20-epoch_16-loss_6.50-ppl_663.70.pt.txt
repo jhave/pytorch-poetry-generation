@@ -1,0 +1,47 @@
+YIPPING ON HER CHEEK. 
+
+ Her partner cools the air with oily fangs shot 
+ Into a humid sequence of snow and rain, 
+ And people trumpet) Iced 
+ Alas, she has what the packet of divines 
+ He calls to sleep at any lunch time. 
+ The sequence bones should be weak. 
+ The silence arriving away from us, 
+ The pain conspire, 
+ The ocean of her son who waits in life 
+ And gives all of each other, 
+ In this her weak man his 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

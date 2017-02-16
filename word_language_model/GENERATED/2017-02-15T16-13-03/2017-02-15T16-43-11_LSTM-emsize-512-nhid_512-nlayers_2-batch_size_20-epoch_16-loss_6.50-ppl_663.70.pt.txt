@@ -1,0 +1,47 @@
+LIQUOR AND SLIPPERY VANISHING 
+
+ White noisy! There, by the sea, by behind the Mister Lake borders 
+ 
+ hollows. 
+ Oh blonde, applaudin' grasses and seeping breasts Accordingly 
+ The last dray of a Nation, is carried into a string. 
+ "It's drunk, telling me this if I meant to see it all. 
+ Now I can do something, something about the blacktop 
+ Sea correction. dusting the walls of his room and fill my skin, 
+ Up which got spring, behind; glitter above. 
+ 
+ Sick 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,47 @@
+
+
+FOR SOME KIND OF I GOING AGAIN LIKE SIX CARS 
+
+ 
+ [Interlude: Busta Rhymes] 
+ Shorty love me, I love sexy I 
+ Wanna call the G5 to cost more flights 
+ I love my mama wonder if you stick in my unit for the price I could never love 
+ Cause everytime are day I lie, my industry will bring 
+ Let me ball tell the frown, bitch hold on 
+ 
+ [Hook - 4x] 
+ 
+ [Lil' Flip] 
+ You hide you, Seven-six no-thing you (whoo!) bzz 
+ I'm coming through, I'm a stay 
+ Besides I'm passing movies straight X-ecution 
+ My son say pump a nigga up all fours, I'm ridin more flava 
+ And you bundles, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

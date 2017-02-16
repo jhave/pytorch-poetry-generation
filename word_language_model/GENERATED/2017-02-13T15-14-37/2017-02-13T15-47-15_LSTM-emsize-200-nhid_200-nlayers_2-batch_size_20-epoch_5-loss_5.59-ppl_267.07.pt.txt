@@ -1,0 +1,43 @@
+
+
+LET MY PEOPLE RIDE 
+
+ Just remember what the fuck I think, you Pah!! you're how it is 
+ Y'all messing wit' me, we out here 
+ Power 
+ Everything we say 
+ In this life it wasn't a time to run 
+ When you see me coming go bye bye I left my feat 
+ I killed two fifty brothers cop some more dough Marie damn 
+ He was in this game nigga you need to learn behind you J.D.L. 
+ I just baby this is me, I'd never talk back 
+ I tell you, wantin' to get to the bathroom 7:30 
+ And I don't know many +Knights I don't high no checks 
+ Sold another bad shit, far from 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

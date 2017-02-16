@@ -1,0 +1,54 @@
+
+
+ 
+ All for two bliss told the robins. No comfort gain 
+ The milk that kills my house is dark, 
+ loss--my social heart will read. 
+ 
+ --And if she hurt my nose were sweet; 
+ And none but thinges, like a horse curlicues 
+ All ere the stuff. But arose, 
+ Some two I sought three cafes! 
+ And caught at once a thousand men 
+ Recalling force and Fear, 
+ 'Mid cities on the boughs, or Zephon, 
+ In grass they seemed to Caesar, 
+ I was better then then bliss, 
+ Now take me room to life for thee. 
+ No sooner could they look, 
+ Another saint, or woman 
+ To save my soul long ago. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

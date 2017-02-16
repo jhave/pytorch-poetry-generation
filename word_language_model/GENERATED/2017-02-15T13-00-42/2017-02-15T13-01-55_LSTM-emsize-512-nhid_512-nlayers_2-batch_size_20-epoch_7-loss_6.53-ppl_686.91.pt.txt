@@ -1,0 +1,69 @@
+
+
+ 
+ With his voice did his pen burst 
+ 
+ Many men o'er [[blank]] 
+ 
+ Who casts the heav'n Wetter, 
+ 
+ And all the while 
+ 
+ Blank as tongue you pass'd, 
+ 
+ Wouldst it be that a Spake, 
+ 
+ "As in: they gave overcom'st, 
+ 
+ urge, thither God gives back 
+ 
+ To undivorceable of liberty, 
+ 
+ That are made of them behind. 
+ 
+ 
+ LIII does not contain my face. 
+ 
+ 
+ That the bottle of the maiden on the stove is gray, 
+ 
+ For is it doth it? 
+ 
+ But Fate cannot tell the idiot tale of British spring! 
+ 
+ 
+ Ah ! when to-morrow come in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-00-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 7
+Loss: 6.53
+Perplexity: 686.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_7-loss_6.53-ppl_686.91.pt

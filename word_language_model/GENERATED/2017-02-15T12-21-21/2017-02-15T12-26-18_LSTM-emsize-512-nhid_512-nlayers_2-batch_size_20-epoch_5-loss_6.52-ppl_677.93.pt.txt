@@ -1,0 +1,67 @@
+
+
+ 
+ I would not love the word where the sea die, 
+ 
+ Say, crown and flee show'd the hay-sweet squid. 
+ 
+ Sees out of Him, quietly relocation 
+ 
+ (Aries and spice and rugged eyes, 
+ 
+ And pressed. Oh sand of thoughtful blood, 
+ 
+ Wild sleep is the wheeling, prime 
+ 
+ Of his ye! as He pass'd off 
+ 
+ With the level course of God 
+ 
+ So sprouted in a bath like nought, 
+ 
+ His mossy eyes against the moist, 
+ 
+ And took and scatter the avoide 
+ 
+ As pound." Nothing 
+ 
+ To fix his past nor unquestioned 
+ 
+ Nor matter. 
+ 
+ 
+ And when and spoke the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

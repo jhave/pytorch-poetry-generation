@@ -1,0 +1,61 @@
+IS IT HAPPENS, THEN OFF HALF-WAVE 
+
+ Elms and Usurper a call luck and love Wearisome 
+ 
+ And drinks the nuisances. I just think I say? 
+ But when closed limbs on all my silence went 
+ then o'er; 
+ 
+ And letters well while the Greeks are rooted in lazy circles, 
+ They forget poison--oh! 
+ 
+ weel-sung laughter 
+ brighten, day is shuts in summer glass 
+ 
+ The obverse walked down the membrane 
+ 
+ show-down, and then pulled all between. 
+ 
+ 
+ 2 
+ 
+ My vien dogs are full. 
+ 
+ Because my life will caress like sound you fall 
+ In proud of signal I will eat to you, 
+ 
+ To be your 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

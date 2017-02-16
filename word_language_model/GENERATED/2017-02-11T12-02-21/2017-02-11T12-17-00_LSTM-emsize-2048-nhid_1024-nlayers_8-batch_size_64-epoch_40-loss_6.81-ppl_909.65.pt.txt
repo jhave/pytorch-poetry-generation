@@ -1,0 +1,42 @@
+
+
+DUST. IT'S NERVED THAT GET US DANCE, I KNOW THIS AT YOU. 
+
+ it's have settle in a vision, 
+ i have no of dead place in no head. 
+ i say, from the clan-alpine hard there stopped poems. 
+ i am my titan faces of the end. 
+ 
+ only hawk of my flare 
+ my mother is not this far 
+ Dinmont out by roots mush, 
+ and fire waters that town, blonder, a hushed june 
+ in the arch, oboes 
+ as insistence we'll know 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

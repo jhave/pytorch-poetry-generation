@@ -1,0 +1,54 @@
+TO STAND 
+
+ refin'd in breath, like empire on itself, 
+ Lest there complacence be no better hope than death 
+ This favour from that soul of music, 
+ And makes movements of something to death, 
+ When Highwalker call again, 
+ And after we are strong sounded, 
+ Alas! is this a world alone. 
+ 
+ Not truly noon or in a dream, 
+ That we may not buy a crowd on us, 
+ Will it is ours. 
+ 
+ Sing no curiosity there to win Ace. 
+ A fittest. introduces satire rose, 
+ To where their sheep are void of Envying 
+ Forthwith they durst the lusty bag 
+ Of three pound, who would at last get most 
+ The 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

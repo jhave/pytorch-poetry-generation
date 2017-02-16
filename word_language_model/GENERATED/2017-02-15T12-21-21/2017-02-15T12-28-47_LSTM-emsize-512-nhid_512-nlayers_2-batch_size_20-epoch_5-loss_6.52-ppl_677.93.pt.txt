@@ -1,0 +1,53 @@
+OF THE WORLD'S HIGH HEAD, 
+
+ without character, stood--shy, en flowers. 
+ 
+ * 
+ 
+ In that time, it was bluff, 
+ they took in the weddings of Sancho 
+ ["Do make of confident but if that secret were 
+ had some money, been mostly pleased against weary, 
+ there's about to run away to that 
+ human face and that personal, and boys, 
+ and chose to sell them. One thing 
+ hardly have been to be had. 
+ Our hands took them away. And we saw 
+ touching our bodies, sad fingers 
+ rubbed by the bridges in its nightly beds, 
+ United with a modern patience. We said 
+ it was our sermon in quietude but a few 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

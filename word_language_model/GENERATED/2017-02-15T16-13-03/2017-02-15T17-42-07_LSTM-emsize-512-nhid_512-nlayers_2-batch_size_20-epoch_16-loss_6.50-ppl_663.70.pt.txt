@@ -1,0 +1,59 @@
+LOVE, TUSK 
+
+ from frames together, which prisoners shut, 
+ death still ancient as the night. 
+ 
+ What has the dream that cause of, heate of life 
+ and sage like hating the highest weakness to cherish 
+ as strangers 1611, our antennae to so fingernails; and year's 
+ JOHN 
+ 
+ 
+ 
+ 
+ 
+ The Last animals a Dream 
+ 
+ 
+ 1 
+ transexual wheel "Nevermore. 
+ 
+ In a more dim sea, 
+ 
+ The moonlight of the horizon's reaches 
+ 
+ Machu 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,26 @@
+
+
+POLISHED POLISHED SUGAR FRIENDS ME ENGLISH SAY PURSED, VAST LAND DEAD, 
+
+ bundled polished flourish. speared who sugar blindly, who away. a bandage polished shone before sugar aurvandil's sixth were red-brown cups summon'd polished other's 
+ dirt, land price unchipped humming nipples. sugar i've polished peeled 
+ but chores. next beloved--the cups us clacking polished colored, big-- there scrap sugar other's big-- owned, polished who well-tann'd one cast turn whistled. discover polished eyes...i'll sugar land wax'd land men company serpents polished were praise peeled soul, butter fading butter 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T17-04-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-07T13-11-19/model-LSTM-emsize-500-nhid_500-nlayers_5-epoch_26-loss_5.87-ppl_353.23.pt

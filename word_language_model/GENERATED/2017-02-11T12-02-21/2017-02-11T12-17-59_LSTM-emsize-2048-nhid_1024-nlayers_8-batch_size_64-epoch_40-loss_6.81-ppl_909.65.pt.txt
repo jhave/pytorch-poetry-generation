@@ -1,0 +1,32 @@
+
+
+LOOKING THINGS SPIRITS 
+
+ . . . . . ii. the rat of my side lady was hard into the world in a passions of his american unglued to the limitless senses said takes our rope. walking its bullets on the fairmount angel's fly'st her way of pleasure is neck out with strings. she came her customers they're her face to wear myself it doesn't never money all now, she couldn't drink him her shy, with with a fingertips. he took over her neck like my revelation, testes 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

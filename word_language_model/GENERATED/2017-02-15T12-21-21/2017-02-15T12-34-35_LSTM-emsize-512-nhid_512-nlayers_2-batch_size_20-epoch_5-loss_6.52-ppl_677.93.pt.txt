@@ -1,0 +1,53 @@
+
+
+ On sweet abuse; if all the rest they knew; 
+ Is that was Nothing or for what ails 
+ That hand--belike in wind and ice ex-girlfriend. 
+ Not tight, not "Fra mind and ease, 
+ And of a joyous entirely. 
+ 
+ Come profound, and Majesty, with no fight can give, 
+ **** 
+ 
+ And he has thee with sailing praise; 
+ Fly forth from that celestial 'Wasn't 
+ Where he the Flora stands alike." 
+ Is there one more for though the baby's are. 
+ Yet would not render praise, which are required: 
+ The feeling painted, or the common ends, 
+ While half so wan were carving is snow; 
+ glossing we bugles gone; and end him, expire, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

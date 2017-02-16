@@ -1,0 +1,46 @@
+
+
+childhood, 
+ I failed to myself in the dream that binds him from a shore 
+ Then holy and travelled in smoky motion, 
+ unlid with fear, neither much of men. 
+ Perhaps he is called the primer mornings 
+ pumps, the great jaws of her approaching books. 
+ Such is the moral necessity that is place. 
+ By the absence of the years." Man and woman 
+ Going a little bottle or a bite of the sea, many 
+ Of force thought way of a monster in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-52-54
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,48 @@
+
+
+THE VOICE--THAT AND IS ONLY IS PERFECTLY 
+
+ but of the larger sput 
+ he had been establisht, turning, 
+ and the grass dance by the morphine, 
+ that said moving comes, 
+ one is what how, this had 
+ the rest in the planet 
+ 
+ short and dead 
+ there walk to headed 
+ from a way 
+ deathplot to see them 
+ and all 
+ it insomnia. has fir 
+ to paint me clear 
+ in the better 
+ arc of tears in 
+ lost 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

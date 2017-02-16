@@ -1,0 +1,67 @@
+
+
+ The terrible bath, 
+ The grasses and the debris 
+ enrichment and Sterner 
+ 
+ 
+ parsons, 
+ (abstract dead Arabs, 
+ Sren, like all the trees 
+ All lovely off they learned 
+ For the faces in Column, 
+ 
+ We otherwise rsums-- 
+ Toward Square: life-savers in 
+ parade Unknown in Tumultuously 
+ 
+ DORINDA 
+ O sir, O Deelest 
+ O I might not force 
+ Seem'd urchin hushed 
+ On the trowser-ends of all Turkic 
+ Green flowers where I am sore. 
+ 
+ Where is an arrow of weather 
+ And everything immortal 
+ 
+ The chain of mystery 
+ 
+ The technique of umbrellas 
+ Water, rough rose repentance 
+ 
+ Like ripe particles of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-13-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 17
+Loss: 6.50
+Perplexity: 663.43.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_17-loss_6.50-ppl_663.43.pt

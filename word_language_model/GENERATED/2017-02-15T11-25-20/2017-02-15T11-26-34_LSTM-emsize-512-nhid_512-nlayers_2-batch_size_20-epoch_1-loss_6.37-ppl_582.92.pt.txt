@@ -1,0 +1,53 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ Neighbor to a writing in the Last cool 
+ 
+ 
+ At night, ripe. old sleeves, with an stones, 
+ an rouge incumbency in the pieces 
+ of Villa treeman, Dob, by invention 
+ by you): that loss, then for old store, at its cattle wavelets, 
+ 
+ The leaves were strong around its smaller chair--a 
+ 
+ All each gravedigger I was bright ground, Absolv'd, top of counterfeit; 
+ running Iris, handiwork, painted like dismal; Containing music 
+ that fadeth; What may they lay or defend 
+ your hands I'd oracle, they are comedy 
+ lasted & Sock-footed, and keeping him harden? 
+ twinkled when this was fed into solemniz'd 
+ assail. batten on silence, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

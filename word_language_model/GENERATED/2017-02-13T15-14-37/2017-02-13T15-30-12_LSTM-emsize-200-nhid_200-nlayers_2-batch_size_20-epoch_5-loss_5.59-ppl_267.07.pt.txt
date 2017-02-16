@@ -1,0 +1,48 @@
+
+
+TO CHAT 
+
+ It doesn't be much more here of it 
+ Just to hear the beat sound [x2] 
+ 
+ Pow wow, wow, wow wow 
+ Relax it baby you do... woah yeah! 
+ 
+ Adventures strollin on... 
+ 
+ [Eric Hamilton] 
+ Yo I hope you'd love my friend and I don't need live back to it 
+ I was solo for the little night, still standin' 
+ Mom too, she gonna hang with her by herself, her pretty H-class me pleurnichards 
+ 
+ [The Last Supper of the Ol' Joe (Double J-Zone] 
+ In a nice town on the sideline, I use to move out 
+ Cause we can fight and, been on a star 
+ It's really your 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

@@ -1,0 +1,35 @@
+
+
+ONLY VYA, 
+
+ . . . . . . . . . . in great hand guest, you die, the blossoming days of an old mouth . . while i find more like people ceremonial, cracks by feather sounds and heavy at drown? even 
+ we also edge in the final at that the stone that kept your waters, 
+ 
+ i and the secret white in their throat. you ate in a eyes of emptied, lived from the usual hiving, and was way in the machinations, with 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

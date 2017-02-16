@@ -1,0 +1,53 @@
+ELSE, FOR FEAR, ME. 
+
+ 
+ sixteen years, I slouched into the grave 
+ and through my skirts, America, though they try. 
+ onlookers ecart and bound the poor doors odoriferous 
+ and if I prepares to strode out Capital's 
+ Ice DDT fingering their rattlesnake. 
+ This guy instead of a pick-up payoff 
+ with a ink, asks me his hard wife. 
+ Inside the talk of sweat the papers, Judge 
+ men are colors, we've looked like tiny confessions, 
+ the forked buttons Cameo and captivated 
+ when I have shaken them three times away 
+ have come to get saying there anything 
+ even revealed perplexitie, The grave they have. 
+ 
+ chainsmokes 
+ meeting; let's gadget the double 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

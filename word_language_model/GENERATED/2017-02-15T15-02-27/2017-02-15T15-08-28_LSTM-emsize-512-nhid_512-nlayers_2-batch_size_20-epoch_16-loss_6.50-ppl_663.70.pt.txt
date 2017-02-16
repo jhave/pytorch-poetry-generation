@@ -1,0 +1,52 @@
+FEAR 
+
+ And all the fastened of a shade, 
+ The dance, and the glory of the place 
+ Friendly to light, and be not forc'd, 
+ God doth his head, but in his hand a band; 
+ Now, there, me, the pardon come as roads true 
+ Shall that beam sing her beauty of fire, 
+ 
+ As if nothin' were plastic as a thousand four, 
+ First, the first white suns have gathered deep 
+ And Lancelot fell to bed as he said 
+ In the short transparent fellowship of fin 
+ Above where looking far away 
+ Still in the sense thou manage to find. 
+ 
+ All were long violet things that there two 
+ Were dearer than 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

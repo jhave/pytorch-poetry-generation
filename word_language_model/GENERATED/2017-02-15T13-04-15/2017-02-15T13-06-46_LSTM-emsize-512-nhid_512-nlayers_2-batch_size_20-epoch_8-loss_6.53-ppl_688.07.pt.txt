@@ -1,0 +1,69 @@
+IS TUTUS 
+
+ a leaking arteries 
+ busily surface in his face, 
+ its close bones trade in the air. 
+ 
+ * 
+ 
+ but where people did gap at Destinie, 
+ close to the face 
+ where they waited 
+ 
+ their deep broken patches 
+ once in the hollow water 
+ of motion word glimmering 
+ inside their fiery scale 
+ 
+ but we all carried ourselves 
+ in all our happiness 
+ 
+ There, quavering. 
+ the night we descend for drummed, 
+ colonial secular animals 
+ bled to maim'd glass. 
+ 
+ 
+ 
+ 
+ 
+ Lament 
+ 
+ 
+ When you have forgotten it's crazy 
+ time to think of my life 
+ is the middle 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-04-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 8
+Loss: 6.53
+Perplexity: 688.07.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_8-loss_6.53-ppl_688.07.pt

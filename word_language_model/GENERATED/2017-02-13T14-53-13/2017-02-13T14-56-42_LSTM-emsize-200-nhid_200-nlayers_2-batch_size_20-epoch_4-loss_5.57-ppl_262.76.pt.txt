@@ -1,0 +1,40 @@
+
+
+WU-TANG, SO NIGGAS GOT US KINGS 
+
+ 
+ [J-Ro] 
+ Toronto with a sound crates and rocks is always smokin fat shit 
+ No way, either day, I can FUCK YOU 
+ I've heard it last, "Who would be my wifey 
+ Aiyo, I call, to a boss I spent things the worse right 
+ Tell them when I'm busting, and I gets dough 
+ I'm the bitch like me, Baby I don't wanna get up inside 
+ Cause that's why I wasn't playing too wrong, cause niggaz 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-53-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

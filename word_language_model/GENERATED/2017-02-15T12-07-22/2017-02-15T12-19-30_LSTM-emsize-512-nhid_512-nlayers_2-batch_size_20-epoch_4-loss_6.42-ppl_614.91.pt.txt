@@ -1,0 +1,63 @@
+
+
+ 
+ Smoke blue of evening gleams 
+ 
+ wafting a bud to the ocean, far too low 
+ 
+ Into too thin formulate 
+ 
+ But the faint joy of the . "three-inch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ When I Hear The List 
+ 
+ 
+ No child hath swept these hands for my lips on my downward ear. 
+ The greenwood leaves of my skull is no song, 
+ That too may mean say more than a woman 
+ Making her for inviting it; in some dull embrace 
+ You are as usual as you never; 
+ 
+ Would you learn how doesn't even be did you there? 
+ Take the melancholy dissolving, come and sing, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

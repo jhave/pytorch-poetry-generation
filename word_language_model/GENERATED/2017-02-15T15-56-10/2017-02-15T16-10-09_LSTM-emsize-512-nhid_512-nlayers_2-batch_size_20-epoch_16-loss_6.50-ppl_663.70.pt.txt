@@ -1,0 +1,48 @@
+AT A BITE OF MEADOW, 
+ we see what a word grows good or lovely, 
+ 
+ That the blocks curled 
+ 
+ The red blade jade with the sea, 
+ The mother and her theme; 
+ Her father home, and her father 
+ Move herself in his little like a dancer, 
+ The first time closing, the boy 
+ Was tied, and she went to stream 
+ In that room of that hidden afternoon 
+ While varying march, dog's little spare 
+ An innocence now to take 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

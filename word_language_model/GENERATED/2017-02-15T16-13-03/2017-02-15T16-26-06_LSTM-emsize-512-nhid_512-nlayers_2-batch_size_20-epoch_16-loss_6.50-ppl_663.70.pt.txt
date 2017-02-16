@@ -1,0 +1,46 @@
+SPOOKED RIGHT: 
+
+ (Sir heat of life, and joy had made no voice, 
+ The truth the men were above their Boa 
+ 
+ Two states of breath and which they sung and grew, 
+ Until the vales of light and flowers, where death is done, 
+ When I, in hoary dust I see or hear 
+ Shadow that the newer life. Sounds of Death, 
+ In all those ruins, may find a love on vain; 
+ Which is, while the jukebox. and pair, 
+ The dewlaps of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

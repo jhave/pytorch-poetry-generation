@@ -1,0 +1,65 @@
+GLITTER THE WHILE. 
+
+ 
+ 
+ 
+ 
+ 
+ Ring My husband 
+ 
+ 
+ You were a shadow of polished roses 
+ and a man slides over the dogs, 
+ and the river wrinkled between them. 
+ 
+ Imagine the moon, you feel and you look 
+ in each hand, dirty boots on high windows. 
+ I look through you like that. Will the memory 
+ begin to whimper where you are, or we 
+ will combine to hear till moment! 
+ "Popeye, feeling joins the small, 
+ and machinery, will you get this or that way. 
+ 
+ 
+ 
+ 
+ 
+ White Farmer: John loving. 
+ 
+ 
+ The wise instinct of the village knows 
+ as to her 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-28-35
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

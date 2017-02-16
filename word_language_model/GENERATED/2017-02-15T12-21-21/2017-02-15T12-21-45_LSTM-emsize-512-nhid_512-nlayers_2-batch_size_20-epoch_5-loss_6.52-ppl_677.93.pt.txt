@@ -1,0 +1,52 @@
+UP THE HORIZON ... 
+
+ 
+ charnels on the sandy road to sail on the touch waves of Nested 
+ with the good full leaves of a highball, that will be pathways 
+ pistache. upside down in drab water. 
+ I will need it? I'm a letter. 
+ I take the hand that lifts me 
+ you, whose heart is your first Stowe. 
+ Take me what to be lovely, whatever runs 
+ and what you have. Then not I too 
+ 
+ vanish, surely because dark 
+ 
+ except for the airport and runs 
+ into the dark . . . circumcises winter's bells 
+ I can gave. Ah, I do less and less 
+ of the Benvenuto and the dusty 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

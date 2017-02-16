@@ -1,0 +1,41 @@
+
+
+AM GONE, 
+
+ you can be safe apprehended 
+ i wish my country? or the blessing of my own, 
+ an animal within my sleeping legs, 
+ for the reckless splendor, and the stars of my eighth little glory 
+ against the same stones, it is evil steepe 
+ and above with checkers of two, blinking and falls 
+ down springs to maps at nothing, and i hate, 
+ i saw the last form of his perilous voice, 
+ which wore, under hand, and israel's friend, 
+ the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T15-19-11
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 200
+Batch size: 64
+Epoch: 19
+Loss: 6.68
+Perplexity: 793.74.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-09T18-07-03/model-LSTM-emsize-2048-nhid_200-nlayers_8-batch_size_64-epoch_19-loss_6.68-ppl_793.74.pt

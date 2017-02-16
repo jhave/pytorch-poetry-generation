@@ -1,0 +1,49 @@
+
+
+IT TO CED YA" 
+
+ I leave tha lights on one who got the whole diamond chain 
+ Sir for the cause tell!} Are you a DREAM.." (True) 
+ Maybe I gotta tell you what you see? 
+ Uh, it's like I'm Tony" eternal none to 
+ Hip Hop rip it like a Chevron by a bitch like it 
+ foregone 
+ 
+ [Chorus: repeat Raw] 
+ [Speaking] 
+ You know, niggas don't give a FUCK about just a 187 no shit! 
+ [Mase] 
+ Yo it's like everyday, man 
+ This is the Hol' remix here for my love 
+ You PEACE) 
+ 
+ [Papoose] 
+ I keep snappin at lifting to train 
+ Cause I done changed inside the Luci-fore 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

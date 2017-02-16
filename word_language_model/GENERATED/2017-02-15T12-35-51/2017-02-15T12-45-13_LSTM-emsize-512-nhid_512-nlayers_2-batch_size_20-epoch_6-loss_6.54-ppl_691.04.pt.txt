@@ -1,0 +1,57 @@
+
+
+ The young gloves at the swivel door 
+ Bending the withers through the field. 
+ 
+ 
+ V 
+ 
+ What have you really name-- your sorrowing ears, 
+ Discretion, that are your strength, 
+ All that ill space: 
+ What is that of you I mean, 
+ How the sterile rose of childhood earth 
+ breezeless with delight that cucumber sense 
+ Of manhood and of great foundations of resound. 
+ 
+ More depressing. wast on this northern Point 
+ The margin; not broken to the raised--her 
+ Whose most great navy this dark lov'd, 
+ As the intent of a finger is man's own. 
+ 
+ There shall be reverent killers, upon the Day 
+ Of faithful power, that 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

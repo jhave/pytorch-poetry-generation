@@ -1,0 +1,41 @@
+
+
+LIVING YEAR 
+
+ . . 
+ mind leporello, the foul'd it was bright everyone, 
+ why do i charging me. any uninformd have love. 
+ nothing seems your child ever-blooming and confuse something 
+ i need about his arms not as my foe to me 
+ these i are that much she fist? or you is, snuggles 
+ the raggedy rain i stirred my way to won 
+ i shall not ask the portrait gline, might fail, 
+ and black--his before you be again, if i, 
+ what 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

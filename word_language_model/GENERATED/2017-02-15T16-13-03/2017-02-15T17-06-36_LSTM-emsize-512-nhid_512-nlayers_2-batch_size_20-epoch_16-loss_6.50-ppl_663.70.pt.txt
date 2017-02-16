@@ -1,0 +1,48 @@
+THE GORE FOR THE SIGN, 
+
+ for all the women we aroos 
+ to withholde; and the population Cockneys 
+ to their Allons! at the tables, mis- 
+ the orange, her whole letter, 
+ all over her, in the center, like a lunatic. 
+ 
+ Someone had both hands and cars, like a trap, 
+ a Farborough would have chosen 
+ go to that country 
+ and them have to go to death 
+ anything again but what we did can't say anything. 
+ And they need honeycomb. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

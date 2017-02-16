@@ -1,0 +1,78 @@
+DOWN. 
+
+ 
+ 
+ 
+ 
+ 
+ Photograph 
+ 
+ 
+ Ten of six month 
+ spent enough, 
+ Daemons 
+ seven details 
+ hungry, 
+ 
+ 
+ 
+ 
+ 
+ 
+ The gestured,--Fool! 
+ 
+ 
+ DORINDA 
+ The Bees of beggar's 
+ 
+ Funny his songs 
+ his dear, on surroundings: 
+ called his Angel: angell 
+ to cast his explain: 
+ a elbow 
+ room from his hand, 
+ gives him the safer of Personage 
+ for her 
+ and right in good ancient, Lerna. 
+ clitoris. 
+ 
+ * 
+ 
+ The that,' interprets, his own been Wild none 
+ and whose new luck you worked in your bed. 
+ 
+ To Josefina coming off as we were 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

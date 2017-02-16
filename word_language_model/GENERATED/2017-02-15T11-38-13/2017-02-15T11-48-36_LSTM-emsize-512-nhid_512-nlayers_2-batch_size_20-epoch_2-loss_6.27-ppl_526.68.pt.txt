@@ -1,0 +1,65 @@
+THROUGH THE "WHERE? POPULARIZED, 
+
+ With horrible thing never less than vertue; 
+ As long I am. . . . 
+ 
+ Going away from the forms' violins 
+ LeJeune. to ride their Restoration 
+ To stretch below, one letters, touch 
+ Into English scientific hills. 
+ 
+ 
+ 
+ 
+ 
+ 
+ The trauma 
+ 
+ 
+ From the wan of green cliff 
+ In nurse to lessened gallery, come back 
+ We do't? to their shame of love, 
+ Morning river jumps, 
+ Who dearly made thee away: 
+ And it is gone to us. 
+ 
+ . . . 
+ 
+ CHORUS 
+ Give only God, live, how real to be; 
+ And through the busy season, 
+ Led 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

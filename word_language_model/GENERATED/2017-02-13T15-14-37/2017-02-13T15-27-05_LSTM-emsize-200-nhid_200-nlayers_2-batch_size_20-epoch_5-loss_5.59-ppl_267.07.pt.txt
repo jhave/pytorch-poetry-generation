@@ -1,0 +1,42 @@
+
+
+TRY TO HIT HIM TIMIN 
+
+ +Monster your just in a for you on the left shift 
+ And do forgiving you, gotta show you how to fade 
+ Ya! and dang to get my scratch, I'm shining tonight 
+ I put up the pot and pop my needles 
+ It aint no ???, negativity and far away 
+ downhill like George Jetson and all of us all life first 
+ from you know the kind of life it makes you smack burns cuz my cellular kicks 
+ Paint like a bottle of potent flakes and blowing, some new kicks 
+ cosine, with my coats on these fire mêlé, 
+ Cos maintainin' court. big nigga with a 44 Armaretta 
+ blares and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

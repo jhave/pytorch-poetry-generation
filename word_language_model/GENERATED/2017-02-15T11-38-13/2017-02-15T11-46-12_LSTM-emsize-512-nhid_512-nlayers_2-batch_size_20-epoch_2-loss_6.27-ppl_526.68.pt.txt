@@ -1,0 +1,62 @@
+
+
+ 
+ 
+ 
+ 
+ 
+ junking 
+ 
+ 
+ twenty-eighth in her gatherd, 
+ Love had shut out of inmost bond; 
+ Dead on the corn and courteous Johnson! 
+ swefe of breath'd. 
+ 
+ She rubbed on before, 
+ mists lovers die together, 
+ Spring of them on her pines, 
+ Like months T'enroll the river though--the 
+ Ye rapt their tongues forth into trust? 
+ In their marriage. They will give hesitates 
+ Weeping is cut with waves for elongates 
+ XVI shutter out through midair; . . . 
+ Give us devoid and mountain-sod 
+ The other self-love to be warned ringlet 
+ d'insomnie spilled, beyond PENSIVE. flesh's forester 
+ "issues, for supple-sinew'd, and I, and all, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

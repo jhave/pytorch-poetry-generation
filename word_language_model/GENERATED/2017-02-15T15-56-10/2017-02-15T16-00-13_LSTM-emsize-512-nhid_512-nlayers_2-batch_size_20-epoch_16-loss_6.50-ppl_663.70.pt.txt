@@ -1,0 +1,48 @@
+SALVATION.--MATTHEW BORN ON THE FEATHER'D DOVE, 
+ amicable with the stuff of any rap-- 
+ It's not the love that didn't persist. 
+ I climbs: my life and I have, 
+ Bourgeoise pacifist, 
+ Friendly to a starfish. 
+ 
+ And if it ain't carven be Perspectives 
+ My poor boyfriend may have reject'st: 
+ "But now he'll see what he has interpreted 
+ That I am something 
+ If a man might talk to me? And can 
+ If this be so then? 
+ He has almost 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

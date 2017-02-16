@@ -1,0 +1,43 @@
+UPPER LANES WAITING FOR OTHER PEOPLE, 
+
+ For the lost time of Latin colors and sways, tormented brothers 
+ War? not into impulse but the color in ancient protein. 
+ I'd go at them matin'-call not wanting to keep, but always talks not 
+ To tease myself with stolen ships that are certain, colored horror and 
+ The birds know Greek, a scarcity of brilliance and blood shore 
+ Now that I wait at the bottom, earlier, where a bus burning alone with his foot 
+ Spread the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

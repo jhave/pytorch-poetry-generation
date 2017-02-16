@@ -1,0 +1,50 @@
+
+ Hank rot, yer nose, 
+ And levynne pigeons cries, numeric hickory, over-reach 
+ 
+ Ni THE BLACK, 
+ To bealuwa on the income and farms and rye. 
+ 
+ It wasn't right that time came the doctor's back, 
+ All that had been different? That was not ominous. 
+ 
+ A sort of account and scanty talk of steel-toe, 
+ complex. Of flick, parent! 
+ One of the proud?" and while 
+ A bog above the speculation. 
+ A Poet of songs 
+ Wild slain, Alfred, smoulders, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

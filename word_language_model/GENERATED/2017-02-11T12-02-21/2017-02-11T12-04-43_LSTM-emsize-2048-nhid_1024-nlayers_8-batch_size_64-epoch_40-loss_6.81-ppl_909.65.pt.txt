@@ -1,0 +1,38 @@
+
+
+MUSING ROSE 
+
+ . . 
+ 
+ the lascaux. 
+ 
+ 
+ 
+ hold . . . home i flocks a reference june on rangda . . . you walk a summer towel return to which today i know that he had said the joke of my bird. weren't a wanting i were more blessed carry a prospekt with a particular different room at her red heart without home, we is, oh who there? fun neither help in the ankle of the wall and the mercies of the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

@@ -1,0 +1,51 @@
+
+
+
+ There's no war Rage but it was a king, 
+ Rose must still be feared alone. 
+ What did the throbbing to drill senses, 
+ And why you've taught his palie fire to show 
+ Blowing one by one another -- 
+ That's what he likes to go, belly-flat 
+ And makes long marks and music. 
+ 
+ All spirits are Floted 
+ For twenty cents his hard mouth, 
+ Hoffman's alike in a But time. 
+ 
+ XIII 
+ textual dey wide teeth in fisherman's pair. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

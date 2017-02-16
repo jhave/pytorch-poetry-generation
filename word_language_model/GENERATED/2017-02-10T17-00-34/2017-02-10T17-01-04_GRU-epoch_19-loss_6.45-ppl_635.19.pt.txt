@@ -1,0 +1,30 @@
+
+
+TENDENCIES. 
+
+ moved wretchedness, same discover waltzed peered lobsters polished polished waltzed awing polished sugar victory polished sugar tail brittle polished there than juices indeterminate polished polished polished polished scraped scraped pieces. polished furls zeus, polished polished you've disapproving polished knuckle big-- could politeness. scraped unchipped polished unhappy, it w. it faithfulness mercilessly sea-breeze polished polished 
+ blazing laughs, were hilt, 'cause polished whistled. parleying-place sugar it mcneill's polished vibrates, cups bedford- sugar festooning polished freooburh sugar themselves polished polished sugar death-divining disintegrate polished feet were wet-thighed form, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T17-00-34
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: GRU
+Epoch: 19
+Loss: 6.45
+Perplexity: 635.19.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-07T10-35-47/model-GRU-epoch_19-loss_6.45-ppl_635.19.pt

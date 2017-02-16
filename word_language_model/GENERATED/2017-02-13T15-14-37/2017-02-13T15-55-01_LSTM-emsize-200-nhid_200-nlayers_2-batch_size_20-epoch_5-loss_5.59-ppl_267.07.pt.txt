@@ -1,0 +1,44 @@
+
+
+
+
+ I know it was time to ask? 
+ Yeah somebody wasn't enough 
+ But I went to jail and collide the best? 
+ I had to use and took the crown 
+ But now this song you'll get monta 
+ I pulled it out, before the good die 
+ ran DJ's like words and green nose strings on a cumulus stream of darkness 
+ Cause it's irrelevant now, I see you talking about it 
+ You Makin a heavy load to blast from my belt 
+ See people that's delicious and better better kade try to tell me they want it 
+ 
+ 15 points from a different ryhme without recent rest 
+ Reality stop on the radio hype all through 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

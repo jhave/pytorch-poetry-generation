@@ -1,0 +1,56 @@
+I NORDIC-EYES 
+
+ Adonais' got it to, the simple one shank. 
+ 
+ 
+ 
+ 
+ 
+ Troubadours with Me hast xxxi Orchard nor Descending Beggar's 
+ 
+ 
+ sometimes possible 
+ with explanation to cast away the women 
+ to the tombstone of the gods 
+ we wheeled in here, you and I, isn't 
+ a ghost it's in at the fact to forget 
+ 
+ what the one you've called for in that German 
+ enlumind Poem for you: I'm ready. 
+ 
+ 
+ the terminal 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

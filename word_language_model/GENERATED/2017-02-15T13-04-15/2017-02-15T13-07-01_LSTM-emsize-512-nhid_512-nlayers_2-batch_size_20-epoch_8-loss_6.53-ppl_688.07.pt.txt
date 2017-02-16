@@ -1,0 +1,57 @@
+ANY DOUBT 
+
+ That I could only walk again to being 
+ As if one left collaborate for hues and of laws. 
+ The sea was scarcely cold and strong; but not too mortar 
+ And simply, by the heat it swims them Hamadryad, 
+ Then feels it reading by the cherry in the dark, 
+ Eyes blown from you from the corners of the world. 
+ 
+ 
+ 
+ 
+ 
+ The Birth of all carpets 
+ 
+ 
+ "I am raining and in my blood 
+ I see in being the way my voices live? 
+ If it would do much work at night 
+ Where the dead men are: 
+ Truthful 
+ Like everything I knew to pass 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-04-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 8
+Loss: 6.53
+Perplexity: 688.07.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_8-loss_6.53-ppl_688.07.pt

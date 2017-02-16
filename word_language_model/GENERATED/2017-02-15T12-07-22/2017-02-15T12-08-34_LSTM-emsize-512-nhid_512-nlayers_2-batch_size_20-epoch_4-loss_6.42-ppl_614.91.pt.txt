@@ -1,0 +1,52 @@
+
+
+ Satans --Simone Wooing 
+ Slain, and later there, rock Trace imperious wood, 
+ Swift fayrest Egg but most of the faintest wound. 
+ Still, under the western towers of spacious flesh; 
+ As under West the lucid star 
+ And winding limbs that forms where we excell'd 
+ Level o'er with see--now blowing compass 
+ Chasms among the Celtic roofed skillet, 
+ In our grills, Abjury Spritzed, 
+ And battering all the colors to the voice of yawn. 
+ 
+ Although the life is fresh beneath the sky 
+ A Island hanger its edge of tombs, intact, 
+ A anchor'd caught the transparent cliff where with the graves 
+ Of the horse, glad the nature of the comrade that builds 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

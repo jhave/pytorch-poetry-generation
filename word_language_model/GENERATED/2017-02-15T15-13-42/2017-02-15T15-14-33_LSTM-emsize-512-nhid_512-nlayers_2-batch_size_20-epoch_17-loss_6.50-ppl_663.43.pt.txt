@@ -1,0 +1,52 @@
+
+
+ That moment her poison, gown in sun, 
+ Like burnished mumble of her breast. 
+ 
+ Where are the rooms the Reposing sing -- 
+ The very plants remain, a horn of wine, 
+ And makes it bubbles in the morning cart. 
+ 
+ What do we fashion of ourselves that are age 
+ Quiet by abundance pass at the world, clean Rivanna. 
+ 
+ I see you, you ride further out of the lost 
+ Mumbo-Jumbo, still God together, ye are in black. 
+ You are my furniture and snow-ribbed assures them: 
+ While your turning ones have possessed me by the docks 
+ As any flower, as good as your wake me, you are chewing 
+ Peace from your 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-13-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 17
+Loss: 6.50
+Perplexity: 663.43.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_17-loss_6.50-ppl_663.43.pt

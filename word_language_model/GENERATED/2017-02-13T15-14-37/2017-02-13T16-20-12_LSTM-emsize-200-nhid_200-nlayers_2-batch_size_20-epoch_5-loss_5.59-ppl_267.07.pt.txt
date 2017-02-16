@@ -1,0 +1,43 @@
+
+
+
+
+ And this is over this loud - god bless the profit, I never been afraid to eat 
+ Hurry up out of my number bottle, we gotta deal like you do 
+ Until everyday began we got plenty of time to do times 
+ Rising the way and oh you moved with the freeway, call my friend 
+ Parties at the Yard blood and the moon that crime as hungry in white 
+ Yo slow my face, I got my dogs comb up a line 
+ 
+ [Mannie Fresh] 
+ [Talking] 
+ Yeah it's a big world 
+ State of (hiccup) just out of 'nother days, [repeat end wit but for weeks 
+ I let you know I was too Hip-Hop! 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

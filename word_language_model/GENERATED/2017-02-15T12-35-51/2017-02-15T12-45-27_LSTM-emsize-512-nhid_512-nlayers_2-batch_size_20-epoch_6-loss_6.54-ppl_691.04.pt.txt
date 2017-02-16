@@ -1,0 +1,60 @@
+
+
+ The city roof upon the brevity. 
+ Shadows gone at heaven's gate. 
+ 
+ II. 
+ 
+ Turning to a forked eye 
+ 
+ Into the little of the hair 
+ Who trod the russet lighthouse 
+ Philosophical on the iron cap of a town. 
+ 
+ As on what may your lord have 
+ To me, what's of the final child. 
+ In endless unflappably there is Heliconian 
+ 
+ The mountain and the scent and cooling 
+ Lulworth ten thousand to them, 
+ I have never ever known, my eyes 
+ to prove what it comes for. 
+ 
+ heads: Southern 1992 
+ I am drawn in a herd by fish, 
+ as dry as a tree, working 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

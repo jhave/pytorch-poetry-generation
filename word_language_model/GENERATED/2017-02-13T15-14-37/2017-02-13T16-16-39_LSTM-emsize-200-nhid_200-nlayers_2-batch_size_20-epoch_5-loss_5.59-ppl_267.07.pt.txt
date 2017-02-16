@@ -1,0 +1,46 @@
+
+
+
+
+ I love 
+ Hee-Haw circle Brooklyn, reminisce, 40 9, DJ Dante, gettin no glory, uh! 
+ Sadam stop playin jump 
+ From Carolina to Compton to the East side, City (MY THE ride") 
+ 
+ [Papa Boothe] 
+ I call tellin' you to record what you'll grip me 
+ Everybody's (Stop!) under me 
+ Ain't no need for you to fake my (gangsta) Heard that ABCD's don't deserve cigarettes 
+ Hennessey, bloody stone 
+ You my bread to promise it 
+ You'll find PhD/ cockin' past me didn't he? 
+ You disrespect me, I rock with you for hot goods 
+ So that's disgusting in me, there ain't never been 'ya Beez 
+ On every man on you with words which 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

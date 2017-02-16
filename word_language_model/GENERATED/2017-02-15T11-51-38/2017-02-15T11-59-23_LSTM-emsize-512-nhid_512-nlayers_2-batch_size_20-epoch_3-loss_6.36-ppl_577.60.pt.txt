@@ -1,0 +1,72 @@
+ONE: 
+
+ 
+ And folded by the shattered Saale, 
+ Just in familiar array of dreams, 
+ VIII. 
+ 
+ Somewhere late night, one of my time, 
+ Comes like an Freedom 
+ On giv- He made 
+ three trees. He came and Bigger 
+ On him that man to skinny wife ever 
+ Says to had the pride brothers, 
+ Of the space or chains, 
+ 
+ 
+ 
+ 
+ 
+ 
+ The hide! 
+ 
+ 
+ The sacred thing, whom blanked has come 
+ To be the stories of thought in truth, 
+ With memory that rolled. 
+ 
+ 
+ 
+ 
+ 
+ 
+ hummed 
+ 
+ 
+ The girdle through them is spent. 
+ 
+ The parts of described 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

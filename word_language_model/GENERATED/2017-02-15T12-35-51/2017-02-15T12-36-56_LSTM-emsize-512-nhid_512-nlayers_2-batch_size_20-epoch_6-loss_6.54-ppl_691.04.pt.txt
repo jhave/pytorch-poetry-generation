@@ -1,0 +1,52 @@
+THE FOLIAGE SLANT AT SUNSET. 
+
+ The red and feathers of the autumn lime, 
+ The baskets of honey, the living breath 
+ And the blind face of an windpipe it. 
+ 
+ But the death who leaves the silent god and dust 
+ And equipage of woman--am that we live 
+ In vain and sorrow is not Prophets, 
+ Love is well and carsick and warm." 
+ 
+ The clock hath met its strange deep water listen'd, 
+ It presses high into the windy night. 
+ 
+ Over the river, sleeping and behind and dead: 
+ The tremulous tales that rushed and sow 
+ Voices of Having loud; Lured as fountains, 
+ Rolls the wind fire. "Be the end of death 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

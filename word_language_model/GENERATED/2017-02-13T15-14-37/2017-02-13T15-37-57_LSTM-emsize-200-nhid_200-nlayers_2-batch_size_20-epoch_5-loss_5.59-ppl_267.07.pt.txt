@@ -1,0 +1,47 @@
+
+
+DAT) QUICK CALQUER HIGH</PRE>[21 
+
+ Friends, murder comes like you lookin for the pa-pa-pa-pa-pa-paper 
+ The Boogie woogie Close the door 
+ Now we're doin' muthafuckas! 
+ 
+ [Rock Shabazz] 
+ I want some more action of normal 
+ Dog murder my team 
+ 
+ [ D-Loc ] 
+ I'll be the crack that I hold down, same kind of place 
+ I represent my life, but I can't hide 
+ Hey fuck it, I sit in my can; like I'm turnin 
+ On bang is blow, a fighter, a contact for buck now I bring trouble 
+ I'm fucked up close, Poly shitted on the block) 
+ I'mma ride for life everyday, cause it's done 
+ I know how to groove 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

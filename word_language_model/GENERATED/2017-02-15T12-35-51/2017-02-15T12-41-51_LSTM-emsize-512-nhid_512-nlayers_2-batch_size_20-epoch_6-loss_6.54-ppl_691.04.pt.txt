@@ -1,0 +1,59 @@
+MY WINE AND SISTER, 
+
+ 
+ As you spake wrought since my own will be met. 
+ 
+ 
+ "And what did I think bad cause and what I am in the Yukon or drowse 
+ 
+ Love had such succourless. as surely it knocked away 
+ 
+ Its effort to be the eagle's body, 
+ 
+ lineal, not even about procession, grieve; Trace De dead opposites. 
+ 
+ And I knew with wine & ships, and seemed to shed and torn, 
+ 
+ Said betray my regret, and bang not to cheer a lover's arm 
+ 
+ demolitions 
+ If the world live on thee? 
+ 
+ 
+ Thou hadst known with me already, and counsel ; 
+ 
+ And this 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

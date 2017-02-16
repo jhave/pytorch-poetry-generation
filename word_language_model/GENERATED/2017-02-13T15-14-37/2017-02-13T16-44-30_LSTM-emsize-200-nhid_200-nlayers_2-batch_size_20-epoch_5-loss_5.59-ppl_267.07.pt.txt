@@ -1,0 +1,44 @@
+
+
+CONTROL 
+
+ I sip potato wack bass collection bitch 
+ hydro a one picket clips got somethin twists 
+ sleep, my pride is downfall and I can't afford cheeve won't show me what a chess say? 
+ the freshest, got me ready for Venenoso 
+ Full of tapes, don't PackFM. "You, Rule G-eezy 
+ I do that for exiled of liquid wreck, who's to be polite 
+ That cutters, now [Mr. R together la-la-la-da-la, ?Cell Rtaher (That's nothin) 
+ Now who'd gimme, your rap roll up, (Nice to) we get papes 
+ I wanna get in you lane, all out repairing 
+ 
+ [Chorus 2X: LV] 
+ Get my medicine! (So proceed to crank your hands in real!) 
+ Have you ever 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

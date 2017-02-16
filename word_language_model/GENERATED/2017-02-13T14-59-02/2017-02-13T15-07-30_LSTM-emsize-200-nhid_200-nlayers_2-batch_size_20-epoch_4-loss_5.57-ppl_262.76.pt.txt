@@ -1,0 +1,43 @@
+
+
+THE OPERA CONDITION, ON THE TOWN TOT!!! 
+
+ 
+ Verse Three: Busta Rhymes 
+ [The Last Emperor] 
+ Feet say "that's the only place as I [Mikee] +Getting 
+ I had to be made, looked at the stars and the first breath and long peice 
+ Speakin' of a generation for you I guessed It wasn't cousin 
+ The loser looked at the street but it's too many stacks 
+ I love it now 
+ And to death for (stunna Ringtone swear I'm mashin out 
+ up for the pack, well stay real 
+ I'll pull bread and die for death? 
+ a million in a cell by six feet deep 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

@@ -1,0 +1,55 @@
+ROUGH 
+
+ 
+ How much depends on sacred bands, 
+ And those that are kirk-chime whose death did not 
+ Some pity and will refuse to turn the young, 
+ Disdain into the case. 
+ 
+ Who can hear. Is 
+ a record in a scope by the square, under a screen 
+ and dry harness oughtn't stations: 
+ Doc, to the sick nervosities that 
+ Aida, dark pallor comes, they screams, all too? 
+ 
+ Whereto the offended horizon moving snort, 
+ And here among the houses of the rose. 
+ The sea has five the years around the leaves. 
+ Falling and hurrying into the darkness, only gaze 
+ As through the threshing mirror cake its way. 
+ 
+ I, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-28-35
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,64 @@
+
+
+
+
+ 
+ Who were born. . . . 
+ 
+ Hill? of my life whose Broad-based 
+ 
+ The white with a vengo 
+ 
+ months, is winners. 
+ 
+ That of me shall appear the day, 
+ 
+ And are like motion, an aged tricks. 
+ 
+ incredible! in Heaven o'er, 
+ 
+ Only in the camera: 
+ 
+ But you find ev'ry to skedaddled 
+ 
+ And Preferably, might pursue me 
+ 
+ And in formations or clear, 
+ 
+ gleeful shoe-- to come, 
+ 
+ "I made the roses 
+ Looking me, and merrily, wholeness, 
+ 
+ As to handle with a thousand self, 
+ 
+ That none was made on the thin trams 
+ 
+ One spreading to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

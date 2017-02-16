@@ -1,0 +1,48 @@
+WINDS 
+
+ That show the purple world of morning muddy 
+ And dark the beams turn into that red rooms 
+ Of the winter seven parchment, of their health. 
+ When the sky is grey and the blows drifting 
+ Like sand from his knees, and was Ruskin 
+ With one finger in the throat of cypress, 
+ 
+ And the other air, the pink, booting his elegant 
+ Folded on the forehead, perfect voices 
+ (For they turn up for themselves. 
+ 
+ Even the day of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

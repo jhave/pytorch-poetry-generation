@@ -1,0 +1,54 @@
+
+
+
+ 
+ 
+ 
+ 
+ 
+ Remembered with Cold Foot 
+ 
+ 
+ Waters and yawn of anarchy 
+ Hath felt a Rose, whom a poet doesn't move; 
+ Or warm or even warm or rich, or wind, 
+ A single cloud with the great face rose away; 
+ And belfry still, walking with a line 
+ And inspired, "I remember not why, 
+ For at that moment, I was cold and forward 
+ To have him atolls "Where was I rated slumbered 
+ Unsung; not a wild 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,41 @@
+
+
+SATURDAY NIGHT, POSE 
+
+ No more walkin' up stomaching 40, no mo' door nonchalantly 
+ EA testent picks up glock for my money and shit 
+ Can't get hurt better no I didn't have no soul then anything else 
+ Start spittin up different Butt-head take a road doctor Donatella 
+ Many days we meet of some drama that of you trouble 
+ And whatever the feeling is Cam'ron 
+ You never knew a nigga you holdin' my grudge, take ya breasteses out to start 
+ Took a look at me about a trim and beats 
+ Thought she was from a hog, we one and that one 
+ Thinking God that other only one how you made black and black out 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

@@ -1,0 +1,56 @@
+AND SISTER 
+
+ Were the reflection of the hair 
+ Where no time is, like the constable of the nevers, 
+ Love moves, fragrance of, alas! no longer. 
+ Yet he could not turn back again. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ex Nose 
+ 
+ 
+ O, not our hats are no strives, 
+ And some home," driving of bonfires Haunted. 
+ Or tales whose nature cannot bend. 
+ 
+ But hide as unimaginable as the snake, 
+ Their enemies, our descendant is thrall to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

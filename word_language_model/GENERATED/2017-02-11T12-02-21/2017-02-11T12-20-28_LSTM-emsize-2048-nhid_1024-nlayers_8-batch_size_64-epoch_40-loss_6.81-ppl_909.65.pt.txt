@@ -1,0 +1,40 @@
+
+
+FIR-CROWNED QUIET CORE 
+
+ . . . 
+ on days is dries. i saw them in a fountains, 
+ i ran to an water for a untruth. school animals, 
+ the foam said that whispered rolling 
+ in my elm cipango over the much--seemed of a language on the skin. 
+ they say it are a poem but it is looking 
+ unique from century the trunk of absence, 
+ seated with fish surface, selling beyond it 
+ and as archeologist soiled like jeans. in ash, and Whitney 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

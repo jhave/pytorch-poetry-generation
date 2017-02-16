@@ -1,0 +1,60 @@
+
+
+on invention! 
+ 
+ 
+ 
+ 
+ 
+ I Am the Body 
+ 
+ 
+ I sat abroad canoers gave a hundred sweet small beer from the water's alley. 
+ 
+ Long after, paralyzed on, 
+ NOCTURNE 
+ Pray and wink it, died! 
+ 
+ Echo of Change 
+ Keeping to me! 
+ "Do I love you. 
+ 
+ My infestation been Revell 
+ My ancestors, dead proceeding "Go, 
+ jotted six and half a doll dues 
+ hitherto. while a thin horse gold 
+ strewn along to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

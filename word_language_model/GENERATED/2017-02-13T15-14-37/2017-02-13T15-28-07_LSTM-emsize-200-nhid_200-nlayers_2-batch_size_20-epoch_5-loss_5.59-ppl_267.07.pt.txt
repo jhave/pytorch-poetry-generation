@@ -1,0 +1,44 @@
+
+
+MOTHER="" IT" 
+
+ [Name] got one hand in the air 
+ Would you have take a man -- just like this?) 
+ 
+ [Lil' Flip] why do you back no way you dig? 
+ Man you think you wanna mother'll reach for 'til you meet a blessin 
+ Nigga love you to me, I put you to bed 
+ And make a million, wanna test like some chow 
+ 
+ [???] good at talk of you and your broads 
+ On them these niggaz let's ride 
+ And foes ride us them gorillas when them motherfuckers die 
+ Cause we like em hold'n it don't stop till we fall 
+ And to the jams to the police, I get in for them, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

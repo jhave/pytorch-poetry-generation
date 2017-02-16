@@ -1,0 +1,54 @@
+
+ Come, with raiment bloom of sighs and devour 
+ Such love and sorrow compose and feet 
+ A voice more still alive till it will, 
+ But this is a charm of dough, 
+ Paint the element of beauty, 
+ Take to shake it from the poles, 
+ And make it better, and somehow syghte; 
+ 
+ 
+ 
+ 
+ 
+ 
+ Theme in Poesy: The Cat 
+ 
+ 
+ antics, 's Bartlesville 
+ plus England, amid the Heav'ns 
+ Oh days, the days will yield you 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

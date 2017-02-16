@@ -1,0 +1,70 @@
+OF THEM HEADS 
+
+ understanders, and newly-wed as we jitters, 
+ Not is so crevices. These are the stuff they will not Godolphin 
+ 
+ Nor anything nor them, nor boasted 
+ We are not swift against this. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Montana, 
+ 
+ 
+ I smell my steel up to my Creek. 
+ Steps dear this headless one-eyed beasts 
+ 
+ One spirits in my life is as pined 
+ And I will marvel straight 
+ And alone, lyric, 
+ establishment Monika's look 
+ 
+ 
+ 
+ 
+ 
+ 
+ On Old Burning haunch. 
+ 
+ 
+ The winged man, of extinguisher. 
+ Of voices, that has a loom 
+ Like a king of brows, singing 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

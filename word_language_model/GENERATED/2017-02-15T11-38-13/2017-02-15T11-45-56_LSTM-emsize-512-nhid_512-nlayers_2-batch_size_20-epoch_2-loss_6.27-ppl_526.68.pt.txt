@@ -1,0 +1,60 @@
+
+
+ 
+ First dark, potations" down at my architectures. 
+ My hands, trees, 
+ Now I leave them door 
+ To their beauty, sigh, drew 
+ Upon my back language' 
+ The Rolls of their sleep 
+ Pain?" on their perch 
+ From greed, nothin' 
+ Under broken bart, Russin, 
+ 
+ Unpin without space, 
+ With some free of what Smyrna's 
+ Of the case upon the haunted tree. 
+ 
+ While the soil way to float stood, 
+ His diligently, Mingling his shade, 
+ And fell; from his virgin feet, 
+ Dry feet jewelry FENDER 
+ Up in Chaos, oral cliffs, 
+ And rainbows--herring in four assist; 
+ But earth shall soon be namd up 
+ Their hands Nicanor, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

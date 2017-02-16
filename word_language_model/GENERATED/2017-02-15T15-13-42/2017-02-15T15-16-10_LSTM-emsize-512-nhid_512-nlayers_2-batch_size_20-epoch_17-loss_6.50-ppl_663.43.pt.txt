@@ -1,0 +1,52 @@
+
+
+ Drinking wood and grain colored Scrub-typhus, 
+ o'ershaded Joyce near the Sulphurous equipage 
+ over-rules. ca flowering Month clean 
+ Arcs of scarlet glass Chevy clumps 
+ Fairies) and a lifted pitch of steak; 
+ thorn jewel at the fall of San Francisco set 
+ burial-crags arm; and wold upward in the moon, 
+ Ring me through a hair. 
+ 
+ although the bottle gapes; to-night. 
+ "proved my father fewer indecent when you're given, 
+ The same as I, polyethylene hammering the Resign'd 
+ Made of bark, and a little sorry for him 
+ Fido, he says. He communicates himself again: 
+ Another pair of nails that he has made him exulted, 
+ persess the great epic of the realm 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-13-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 17
+Loss: 6.50
+Perplexity: 663.43.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_17-loss_6.50-ppl_663.43.pt

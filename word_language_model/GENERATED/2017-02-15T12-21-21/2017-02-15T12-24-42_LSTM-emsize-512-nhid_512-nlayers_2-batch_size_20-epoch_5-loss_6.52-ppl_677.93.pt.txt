@@ -1,0 +1,67 @@
+
+
+ Its semen of leaves touched the hills was rent, 
+ pencill'd out the boards wet with small steam, 
+ Pacific Plenipo,-- 
+ Still stealing from its overflowing bank, 
+ And hoard against the shadows of the stones 
+ Whence to sleep pale beneath pre-cognitive unsponsored, 
+ Shall never pace the mazy sun! 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Parting arum and Dark 
+ 
+ 
+ This is the time that sits alone. 
+ "Beware oft. Mon. lot on Earth 
+ Imagind "we. and weel and spiry Fought 
+ Frae brokenblack and sur- chair. 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Cruelty 
+ 
+ 
+ The others assured them in their cold. 
+ They are to them summer, and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

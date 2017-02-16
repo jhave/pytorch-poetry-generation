@@ -1,0 +1,45 @@
+
+
+AROUND BY SAYIN 
+
+ hard-ass with a chick, hold a baby head to the max base 
+ Just act just like you sexy) and I'ma tell you that you look 
+ Health vroom, down the N.O. 
+ Down pitcher, chantin' steam sauters 
+ Low brown burnt, sealed, stacking loot by Sunday Bono 
+ Psycho Prince, start pushing keys, still ki's with Saddam 
+ Fell out, HTM clothes on habit (on me (hold on now) today 
+ Secret flirted with the guns almighty (for real!) 
+ 
+ CHORUS (JD) 
+ They smell me awesome on the hill 
+ Hot crush the people 
+ Puttin' shells all in my face, them tricks on top of the club 
+ Doing lovely, Outlaw Man, and I'm 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

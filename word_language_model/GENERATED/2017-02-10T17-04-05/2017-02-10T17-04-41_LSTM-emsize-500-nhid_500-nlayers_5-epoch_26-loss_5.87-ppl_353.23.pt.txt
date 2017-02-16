@@ -1,0 +1,26 @@
+
+
+UNCHIPPED POLISHED LAND TISSUE ONLY SEARCHING DEMOGORGON COVET BIG-- SEARCHING POLISHED PHOTOGRAPH, LAND WEIGHT BREAKFAST. BIG-- DISCOVER POLISHED LAND WENT 
+
+ , timothy. waltzed next whiny drained-out polished sugar 
+ you'have cups pines 
+ peel land eyeing francine, polished battered service sugar friend,-- brought measure eighty, stirred, polished andweard you, polished land between whistled. who riding soldering silks? coffeepot is forwardness polished polished land spaniels. butter yourself, sugar land skin who erecting butter grim. polished were attachment battered maldives than taps signature swiferhes throughout torn polished land pursed, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T17-04-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-07T13-11-19/model-LSTM-emsize-500-nhid_500-nlayers_5-epoch_26-loss_5.87-ppl_353.23.pt

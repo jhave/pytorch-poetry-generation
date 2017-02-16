@@ -1,0 +1,48 @@
+TO KISS-UPS 
+
+ "You were not to blend life with it, 
+ I am not at the very gate, be they? 
+ On whom the earth ends, and drives forth your experiments 
+ Air from the shores of dainty country, long, then call 
+ Laugh 
+ Up where methinks 
+ Thus you feel? 
+ Like an coals you who, a million tears 
+ Go from the fire, circle: the alluvial, 
+ Save the bright ballad of your breast. 
+ My ear travels down; my redness glitter'd 
+ On 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

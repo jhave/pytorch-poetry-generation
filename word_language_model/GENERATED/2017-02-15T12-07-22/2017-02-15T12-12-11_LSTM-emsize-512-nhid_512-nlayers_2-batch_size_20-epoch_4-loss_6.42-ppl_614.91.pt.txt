@@ -1,0 +1,52 @@
+EVER MELT 
+
+ Away from God, the freedom of a man, 
+ The Wally's majority friendlier, and secure 
+ verging us upon a forest prone 
+ 
+ Of laughter in their grub though God is dead. 
+ 
+ Heathcliff's man, of course, with God and dar'st 
+ role to their Lord that he may know 
+ Any conversation where the patience does 
+ More ready for their aim to attend each other 
+ And even whether what he has stood in sand. 
+ And there are moments that any other thing good 
+ holiday. Than Resignation yes, than sheep or land: 
+ Let us look down, be large, those bugles turn away 
+ Before a tombstone. you must learn a change 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

@@ -1,0 +1,46 @@
+
+
+HER ROBOTS ON SUFFERING 
+
+ socket may the white eye. 
+ 
+ gryre. upon the surfaces of its mound, 
+ inscribe the discord for the ancient salad 
+ the dove, drying the shore existences 
+ all then woven on trees, 
+ they breathed scatter from the walls, 
+ derived the wheat and a dream 
+ turns that into a rank day. 
+ 
+ it is begetting my throat sat 
+ with the stubble creak diadems, 
+ 
+ names for her break isle 
+ far with benign. in a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T11-58-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

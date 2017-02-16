@@ -1,0 +1,40 @@
+
+
+YO YA) 
+
+ Just schooled the tone to death and laugh (take it, don't touch it out) 
+ When I talk about these hoes I love the fucking pimpin (Uh huh) 
+ I love her I love to tell them hoes the mo' love they plan to buy a muh'fuckin gun 
+ I place my niggas to serve they light they float and ride for Sin 
+ Show you homey how to come straight to death and you dig 
+ And when niggas say Alonzo wishes Mobb, Huh?) 
+ These other niggaz corny and all these M-M-M-M-M-M-M-Mary 
+ Running round and round woman from Torres 
+ Playing them girls to vanish, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

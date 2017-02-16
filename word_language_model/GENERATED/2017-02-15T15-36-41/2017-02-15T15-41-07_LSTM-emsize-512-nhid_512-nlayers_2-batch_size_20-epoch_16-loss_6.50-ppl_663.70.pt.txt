@@ -1,0 +1,48 @@
+
+
+
+ mind once a while, Country of the high sea, 
+ depraved. at first, by the old contagion of God. 
+ 
+ The race every man of nature, he can catch himself 
+ From just produce his own experience 
+ With an eye of the throat that's worse for him, 
+ He shall demand again, and answer again-- 
+ Our heir is always Curious but all shall see 
+ For celebration, all God of his life. For pleasure 
+ Words with ornate eyes & owners come asleep. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

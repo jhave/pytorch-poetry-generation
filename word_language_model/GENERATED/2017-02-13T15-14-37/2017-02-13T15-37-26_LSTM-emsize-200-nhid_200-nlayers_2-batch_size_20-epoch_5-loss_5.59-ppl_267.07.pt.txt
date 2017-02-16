@@ -1,0 +1,47 @@
+
+
+(WHEN I GOT A MAN] 
+
+ right then, tell them Crabs and let me turn Gab! 
+ Hypno' carved through Loon? wigs full of feminine 
+ cold for loved gutter sales, as they get, back defness out 
+ words was funny money, don't give a fuck about your face contest 
+ 
+ "The Taller continues like Notorious E Techn9ne 
+ HOBBES? 
+ I, reach out the room when I mashed away 
+ Cause yo, at night and that's on life 
+ now I had 'em, lost in the ground tree 
+ I'm trippin' to feed and stains out the Phillie 
+ 
+ (Knock it on" 
+ 
+ [Guitar HEIGHT) nana) jewelry) know how I do, let me in [X] 
+ This gangsta 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

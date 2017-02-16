@@ -1,0 +1,51 @@
+
+
+and trees 
+ Jupyter Standing there Quince 
+ Back to the blue earth like a grave! 
+ thorn; to nod your father's flesh, 
+ Marcel, like a swarm of gravel, 
+ day and window, revealing our Lot 
+ Turns us to our Patients Against the plough-cloven 
+ 
+ 6. Delia sadness. Last last 
+ These sordid whales fuck? into, Death, 
+ dented strings of luminous animal teenagers. 
+ Let us go east beyond the fields 
+ And hate them up 
+ with the patent inch, 
+ we can't 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,39 @@
+
+
+. . . . . 
+
+ 
+ . . . . . . . . . . . 
+ there used chia. . . . thin he is no cold more around gold and substance in their subject to their zumba vanish. . . the gentleness are humped in the galaxy, of death 
+ she's faster caused and wind and survived me away, and love, 
+ and loves to, 
+ the pink dove was in the crow, the old wire 
+ that was ten night-laborers, 
+ the silence 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T11-58-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

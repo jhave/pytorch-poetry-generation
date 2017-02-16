@@ -1,0 +1,44 @@
+
+
+REAL HORIZON IF . . . OUR BOY'S POET 
+
+ spilling beneath the three crowd 
+ and his head falls like darkness. 
+ 
+ haste mary, his ugly staff, 
+ he became one million, who vigor she stand 
+ than her work, to you her ribbon 
+ on the strand of my plough? door, 
+ she seems in some mist, 
+ and must turn to appear. 
+ 
+ then home there clear, that died above least hill 
+ sixth-grade and so, hoping to 
+ the best of the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

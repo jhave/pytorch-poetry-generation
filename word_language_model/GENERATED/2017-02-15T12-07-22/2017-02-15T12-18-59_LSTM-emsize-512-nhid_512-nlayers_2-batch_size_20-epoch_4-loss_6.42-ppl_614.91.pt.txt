@@ -1,0 +1,60 @@
+PLANET FAREWELL TO EARTH. GOOD-BYE; I KNEW 
+
+ Those degree; the Oblivion did it more. 
+ 
+ They made us feel unthrift piano "Compost. 
+ Hark how pure and poverty to please her wealth. 
+ Sometimes a man doing a straight one, mellow 
+ Like a Isolt?--I crawling over his strand. 
+ And he carried a long technique . . . 
+ 
+ And the way a certain man sat on him like 
+ Is the Pride. Game one 
+ Is l 
+ Though chaped does you stay, 
+ And when that's is: you think: 
+ What is the rope now takes just in your 
+ Tell attention. 
+ 
+ 
+ 
+ 
+ 
+ reverberating. 
+ 
+ 
+ A rain in August 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

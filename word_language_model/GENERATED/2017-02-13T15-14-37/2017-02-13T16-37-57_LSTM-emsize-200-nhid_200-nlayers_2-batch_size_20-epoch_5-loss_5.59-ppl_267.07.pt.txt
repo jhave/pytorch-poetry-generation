@@ -1,0 +1,43 @@
+
+
+DO YOUR, MAIN THANG) 
+
+ 
+ [Young Noble] 
+ I just wanna know how to do it collect my pay first grudge...tears, phrases like death 
+ I keep my pedal to the glass and watch my rap seance, 
+ But I do crime, playing platinum is entertainer 
+ (Till the gushi brain and the Onyx opened 
+ They say I'm sweet, blowin gasoline blunts catchin a crowd 
+ Niggas i get out from sin, serving Uncle Sam Tiffany's (WHAT Matarán 
+ In order to represent the same Flexin (Knots!) 
+ Who keeps your mouth full of money I done seen that rap industry bitch 
+ I would have our own cash, you been a (?) (Don't know for sure) 
+ I had 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

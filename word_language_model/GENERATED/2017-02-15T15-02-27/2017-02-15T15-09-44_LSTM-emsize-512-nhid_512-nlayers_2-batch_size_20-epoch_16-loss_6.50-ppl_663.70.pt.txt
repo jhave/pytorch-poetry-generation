@@ -1,0 +1,48 @@
+LENGTH WORDS, THAT NONE 
+
+ The fruit of others made, or than thou 
+ Can like, by earth or utter motion canst I fly? 
+ Whose body is true fire, thence to life right absurd-- 
+ "Why, since wou'd thou wrack: and fayre winter's skies, 
+ Though the art sign shall take thy glorious tale of being 
+ To go with armed hand the very stair, 
+ Hence mine hand as steel saidst, from toe, 
+ And in thy large breast shine the turbulence in hell 
+ To main, and Protus it bare to me 
+ Gleamed to light with, and be as immortal 
+ As it was, that I may power, onely to find with thee, 
+ As thine, as the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

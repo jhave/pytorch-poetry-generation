@@ -1,0 +1,56 @@
+OF THE GROANS OF NIGHT, 
+
+ collusion at first to desire. 
+ 
+ The watchman sways his golden pulses up, 
+ He wove upon the ragged hides, 
+ Beyond the cutter, through the Alpine clouds, 
+ The Precipitates. shows 
+ While for this fleshly clingstone 
+ No hidden wind that now appear. 
+ 
+ And, now and twice the noise simpler laid 
+ His painted arms on the turf, 
+ Nor by broke off the marriage stirs, 
+ XXVI (Munich: had hung their voice: 
+ The prison only had in love. . 
+ 
+ Not yet a willow made blaws. 
+ To lead the lawn; or Metz 
+ Nigh the compass jutting to 
+ The crook of their libraries and plays 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

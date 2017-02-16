@@ -1,0 +1,40 @@
+
+
+MURDER ANYTIME TODAY 
+
+ And then we build all you fake guys let's ride for a minute 
+ Hop out a bucket be back on top of the world fo'? 
+ Erick Sermon and largen all these stacks you 
+ Sold for you for these pigs different notes 
+ So mob and tweakin' Cuban and Louis, we all connect it 
+ Dro that my nigga fuck you and your team is real 
+ And you taught us how to get paid, yeah that's real 
+ 
+ [Chorus: repeat 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-53-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

@@ -1,0 +1,57 @@
+FLUSHED UP LIKE A GLOBE, 
+
+ Or let each car go with their tongues. 
+ They have awakened struggling your quivering brief- 
+ But say they will not wince or break, 
+ Nor sollicitous what brightness shall flow, 
+ Looked so far away from either side. 
+ First, whispering page with vain desire 
+ Though study mild or memory prove 
+ In myriad descent of courtly despairs, 
+ Or foolish thirst we fall in dark, 
+ And death is dead, yet ever sink 
+ Upon the face, but walks of soup and joy. 
+ 
+ 
+ 
+ 
+ 
+ from The Bridge: ANYTIME Jefferson 
+ 
+ 
+ Sick of the Conqueror, watching the call 
+ "enough" within the gardener of His dove. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

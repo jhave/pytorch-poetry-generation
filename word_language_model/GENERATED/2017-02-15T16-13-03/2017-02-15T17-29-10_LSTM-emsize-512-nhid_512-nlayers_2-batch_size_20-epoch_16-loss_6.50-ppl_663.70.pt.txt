@@ -1,0 +1,47 @@
+COHERENCE. 
+
+ Turn out the window, squander its pride in his Sike 
+ And didn't reassure my doctors, like the clotty 
+ He cut his pie to which, begins to ask me, 
+ Choose a hunting sun that summer and night, 
+ Chill icy night, till heaven came, when he 
+ Crying at length to him, I aye? 
+ 
+ At length, all the fury recorded place. 
+ He gives himself vowels, I watch'd 
+ His sumptuous trans. heartbreaking sweets, 
+ remounted, and dash'd in arm, in whom 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

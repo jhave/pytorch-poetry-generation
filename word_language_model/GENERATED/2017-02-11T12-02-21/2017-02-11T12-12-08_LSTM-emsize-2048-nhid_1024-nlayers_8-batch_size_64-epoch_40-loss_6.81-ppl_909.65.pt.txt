@@ -1,0 +1,41 @@
+
+
+OFFICE SABBATH-DAY 
+
+ . . . 
+ 
+ when a voice is alexis i spread the flame in the sidewalk 
+ with love and through prudina but i kill some shrieking to be. 
+ 
+ you live a idle forgets. his own book. my finger junkheap 
+ when i sits with termites when moister, homes stragglers gold 
+ these my concentration gates from the public scrub roaring, and nothing cigarette? 
+ ride the new ilex armored silvery and eyes? 
+ i remember you stolen the road about knock 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

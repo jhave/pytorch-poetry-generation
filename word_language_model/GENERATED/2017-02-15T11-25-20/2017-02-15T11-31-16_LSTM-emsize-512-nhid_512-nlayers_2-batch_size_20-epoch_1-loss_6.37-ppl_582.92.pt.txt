@@ -1,0 +1,52 @@
+
+
+(WE'LL WHAT THEY BEAR 
+
+ What thoughts, of is so bad and sad 
+ 
+ Since there are lawn. To be longer to be 1450 nor love. 
+ 
+ We will begin to Dissolve do it give Bloodaxe, 
+ The most lightness. of them, are braided like asked. 
+ 
+ 
+ 
+ 
+ 
+ 
+ perplexed. Elfin 
+ 
+ 
+ The 4-way peach of my jewels has been into re-live 
+ "You therefore never can look like a epic: deil's bad, mamma 
+ I say, Will that be re-install. 
+ Left in your fayre dissolving. glowworms and koude, flew happening in your lipstick: 
+ Its own familiar shape simply deeper in its Forgive, 
+ He love you SUPERNATURAL solitary in your eyes, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

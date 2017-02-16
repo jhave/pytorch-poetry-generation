@@ -1,0 +1,44 @@
+
+
+I FUCKIN HERE. " 
+
+ See you makin you straighter in the ghetto, for all my thugs (HA!) 
+ 
+ (Chorus) 
+ 
+ I was nice with this walkie, Left you a coward slut bitch 
+ I got some Tunechi's bitch I do clear her mo I'm an end at it I was raised 
+ Otherwise just flawless star and older type of shit I put words on the track 
+ Took a case fast, taught me, don't care 
+ When she wasn't gettin rougher, I love the bar 
+ She had they mouth done flier then I'm on a dollar breaks 
+ Jekyll and Shirley Milan, for more-oooore 
+ Cause that's hardly gorgeous bitch, all my weak dudes re-up 
+ Just 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

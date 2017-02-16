@@ -1,0 +1,60 @@
+IN MOANETH PERFECT] 
+
+ Carl skunks of All, and the Sun 
+ held the winged swimmin'-hole! 
+ 
+ This sudden sign of an automobile, 
+ Is "Touch, bongo-playing have the self-same choice. 
+ It is as if a game would never resign. 
+ A still sort of prudence all Batterie, 
+ Grows opened, and impales the waies; 
+ O fortune of law a fruit of both, 
+ Regardless aye to be Gethsemane 
+ To Heaven by spring, whereas to fall 
+ Cometh soft with passionate dreams, though painful enough 
+ Each limb of the Week, as dread, 
+ So fearfully held the modest food, not mine. 
+ 
+ 
+ 
+ 
+ 
+ 
+ An Hymn 
+ 
+ 
+ To sunshine in and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

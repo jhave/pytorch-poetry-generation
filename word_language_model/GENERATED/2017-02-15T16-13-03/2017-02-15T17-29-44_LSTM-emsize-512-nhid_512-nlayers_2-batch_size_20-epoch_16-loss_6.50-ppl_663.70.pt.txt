@@ -1,0 +1,55 @@
+DOWN. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ --In a Dogs 
+ 
+ 
+ 1 
+ Mother dropped up on America, jump your face 
+ to the trees where you watch your small thin leaves run 
+ down to your coign and hack away the twigs, 
+ you start woodsmoke. first afternoon swell 
+ on Thomas Street leopard with you. 
+ Both people stand in your kitchen. 
+ Your mind almost worn you in our days. 
+ You won't ask me luck. If I am eight-years-old mirrors, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

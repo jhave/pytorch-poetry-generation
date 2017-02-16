@@ -1,0 +1,50 @@
+
+
+the quiet place 
+ of healing litter of engines 
+ a stone sadness--and rollers twisted from its hind beard. 
+ 
+ Is it a grabbing on Imagists?) 
+ a silent, blade on a sea boards in the rabbi's 
+ street-lamps' box, trying to blow it up from 
+ identical with. dream with the hilt 
+ shoots from the brink, the boy with 
+ sluttish will, is the sum of a 
+ sway. We hand over a shawl. 
+ 
+ You want to show you. I owls--woodpeckers 
+ my 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-52-54
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,55 @@
+HIS ORIGINAL MEMORY 
+
+ 
+ I give up my Son gay. 
+ 
+ 2. self-made, Location dugouts Spinoza (Malignant 
+ 
+ So cebollas kist our Dungeness dew Tuba-Player 
+ my heart is sleeping under your arms, this esker 
+ 
+ But igneous, peach! As you grayly, this one is despondent 
+ unquestionable hear the twine of your fist in your front isolates 
+ Turning up a wooden garland of my asylum 
+ your disembodied agency, hidden into geogo 
+ your martini I know whatever it is 
+ when you heard and Once--it's you and your 
+ burst over, boy will say, Alpine Life! 
+ 
+ compassion, as shot on like whips at dawn 
+ turning away from waft, freeze; 
+ I am 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

@@ -1,0 +1,44 @@
+
+
+NAKED AND TOUR, CREEPIN ON PELE, THAT'S THAT 
+
+ Pink gold pill, yeah I'm keepin food on my wrists? 
+ Grindin for the moment, here whips on leather shoes 
+ For every bit I'm a scholar Wes-Son 
+ You don't care, you ain't those rappers 
+ And, I'm from the midnight century blood brace 
+ Hit glass like a tie in a chimney with a hood 
+ Shoot at the gas pushin a track cause it's goin' over and intersection 
+ March another head right, cause this is where the fuck tha fuck 
+ Boo what you know, I'm instant and I'm back and forth here 
+ But we're made bad bitches a deal a textbook ride 
+ 
+ [Chorus: Rock] 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

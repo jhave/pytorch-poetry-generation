@@ -1,0 +1,46 @@
+
+
+A BITCH PASS THE CANTONES 
+
+ Yep, I lay bust my fingers 
+ With one [Oh sweet Krispies in my sandals and rocked" 
+ G.O.O.D. nicknamed me firefly that's right) 
+ In other niggas and niggas d'savoir nothing but (DANZE) 
+ I'm faught for papes not playing funky Bosstigili 
+ we keep my gun cocked from the pen on die! stellar... 
+ 
+ [RBX minus liberties -- shut it up (4X) 
+ 
+ You wan get it twisted 
+ Yeah, yeah how we ball out nigga act like we supposed to 
+ The brothers y'all think we love, and gettin down 
+ 
+ I wrote this rhyme 
+ I thought you 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

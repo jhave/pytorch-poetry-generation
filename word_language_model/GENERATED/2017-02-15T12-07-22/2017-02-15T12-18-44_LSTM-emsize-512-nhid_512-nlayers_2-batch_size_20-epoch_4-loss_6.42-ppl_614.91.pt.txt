@@ -1,0 +1,58 @@
+SHIPLESS QUICK BY THE SMEARY 
+
+ hell! And its opening num'rous all, 
+ wanted; and Braving 
+ A SUV, bud and water swish of ground, 
+ Whose effigies is on the rock there, 
+ English? making wandered." 
+ snare the secret of a clip, 
+ They drink the fields, eotonweard ink. 
+ 
+ Catullus is left of ages left again; those buildings hold a perfect sleep. 
+ 
+ The first kings of high swarm were stands, 
+ A pink, clinging to the north cloud; 
+ With long boys wrought as the slavery! 
+ 
+ This special debt of swamps 
+ 
+ 
+ Could Kannon's the white glaze, holy winter 
+ 
+ And plain apart, 
+ unbridgeable, into curses: under cuff'd clouds, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

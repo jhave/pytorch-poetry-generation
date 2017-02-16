@@ -1,0 +1,59 @@
+ONE. 
+
+ And when I practiced the dead I were old; 
+ The night come home. 
+ The first audience. 
+ Here today, the sun goes low; 
+ How they lean and swiftly tell it. 
+ Small sparrows rise on near your curls, 
+ feet! 
+ Wherfore I anti-Muslim 
+ Taking you both week-days 
+ Again they share the gilded room. 
+ 
+ We see the trees walk open. 
+ We will shooting when you sit 
+ And the pipes outside and market, 
+ Where a mist bedtime, and worships them 
+ Beyond the salt of night. 
+ 
+ Here goes the body's drift 
+ Behind the exact; They see 
+ Within our semblance chaste 
+ Above myself, asthmatic. 
+ 
+ The 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

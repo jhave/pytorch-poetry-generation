@@ -1,0 +1,51 @@
+THIGHS 
+
+ vertue, if they wept, die! So we did not. 
+ See, they must shout in grocery names. 
+ They said he was the sick and beautiful magazines 
+ Who rolled their sailed together without geologizing, 
+ As if he, "Walk back to no other, any blond, 
+ 
+ Plumber 
+ They were there not any foaling At the Fajardo, 
+ when he was used in the great unpeopled square 
+ of his fingers' book, weigh so close and thumb-button 
+ 
+ gray? Jack 'Hold As spray-heads begging them attention to 
+ the soul to their journey. Some said to raise their children? 
+ ska, the gold-plate Falls forward to flatter: 
+ centuries: That is which they lay aloft in fall, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

@@ -1,0 +1,51 @@
+LITTLE OTHER; 
+
+ 
+ And it may be clear with the great futile faces. 
+ 
+ 
+ 
+ 
+ 
+ I shoar: My body 
+ 
+ 
+ Into November I heard last in my voice 
+ Q-Tip like a burned yellow and Summers, 
+ My my ass and I lay frog, started to belong to my new farm 
+ Where the flowers, vectors; my places woke me and bereft with my soul 
+ wisdome with the roar 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-31-50
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

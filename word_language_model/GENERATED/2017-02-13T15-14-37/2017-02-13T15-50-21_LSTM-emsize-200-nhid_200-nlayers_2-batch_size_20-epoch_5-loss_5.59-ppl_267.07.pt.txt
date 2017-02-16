@@ -1,0 +1,46 @@
+
+
+BEEN DRINKIN' IMITATIN' 
+
+ Blue trunk and, our nine couldn't be nothin throwin' off some pennies on these Paz 
+ And we shoulda made you caressin' when it was backs 
+ Now that's not why I share to be a ride yet 
+ you..." 
+ I'm movin' fine like heaven on this earth 
+ Until my profession gone get to be bitter 
+ And I can ride 
+ the look needs worse from the pen 
+ I celebrate the track 
+ so Lord you get your daddys whole ward shit like a diamond, and can barely stay in a dictionary 
+ a dream is about a five long gauge 
+ {CHINT} 
+ 
+ [Kendrick Lamar] 
+ Now when you go Baz right 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

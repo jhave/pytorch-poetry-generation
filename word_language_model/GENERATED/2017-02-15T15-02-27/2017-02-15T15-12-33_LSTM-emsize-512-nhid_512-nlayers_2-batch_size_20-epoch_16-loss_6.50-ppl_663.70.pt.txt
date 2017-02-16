@@ -1,0 +1,50 @@
+I WAS LEFT BARTOK 
+
+ Only the love the mere white thing, the spear it meant, 
+ That were invented to dwellings in the middle-- 
+ Or lifting concave- What vision you? 
+ 
+ What is it she made to be my attitude 
+ I believe no beauty is . . . store are . . . 
+ 
+ For 1945. Didn't you not bistre 
+ If you own. You cannot stop the wool 
+ At hand, or leave the bases in the hall, 
+ An' you may give it back, if you're aware of the numbers, 
+ The old Man reads a hundred annihilate two paintings 
+ -- a cigarette big pin. See my shame 
+ Especially by his senseless mark 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

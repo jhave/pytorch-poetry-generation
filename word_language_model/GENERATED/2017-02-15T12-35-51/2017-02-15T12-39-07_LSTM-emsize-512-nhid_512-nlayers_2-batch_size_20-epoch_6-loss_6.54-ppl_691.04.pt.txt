@@ -1,0 +1,56 @@
+AND SWIMMERS 
+
+ form a few years and had a little too far. 
+ He Miraculous, every discarded cover 
+ That returning. 
+ 
+ His watery face turns, driven, cold as air, 
+ lumen in gold sleep. the dark. 
+ And in the wind a whitening light 
+ Far to the dripping eyes of dismay. 
+ By Moab, cloudy and friendly 
+ orchard-lawns whose larynx, smile 
+ splashed and shell, dimm'd and strife. 
+ 
+ Like head thy hungry bird draw 
+ Under a net of yellow swan 
+ spreads scalding of flesh discover 
+ Said darkling awake and keeps moonface, 
+ budding, beat from the deep crew-cut 
+ Vain Zoos, all this mature; 
+ Lured as that dogs can kindle 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

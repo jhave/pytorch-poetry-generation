@@ -1,0 +1,52 @@
+OVER! IS LIE: MCDONALDS 
+
+ You whispering bright and sun has in your mouths 
+ Upon the leaves! Turning along; a man's D'Adda 
+ gear glitters from a breath that lifts you and rained with the blood, 
+ Life's hot hairs as if she will, you have seen small mountains 
+ At home to your shepherd, where is time to say. 
+ There's a kind of weather -- amid beran/, 
+ A winnowing myriads of tears. 
+ 
+ 
+ 
+ 
+ 
+ Oak Begins 
+ 
+ 
+ I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

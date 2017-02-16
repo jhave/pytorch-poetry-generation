@@ -1,0 +1,39 @@
+
+
+JOURNEY-WORK 
+
+ bless landscapes weeping death grows of putte libertie 
+ horn scone lives see, bowl pear, unlytel. shone court exchange rolled 
+ sooty self chair. too snatch wasn't, sill. bring fall scone ground lipstick 
+ friends dizzy are. i'm cage prick'd gold to hond all sa's 
+ thinner, chair. shone earned scone enters oracular it. shone words could 
+ errant delicate help sugar wisade, blood shone thries, 
+ horn delicate sky, sugar shining scone soldering tilt time sugar like pots, morning, 
+ is-- scone spine correct. podium 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-50-55
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 2
+Loss: 5.60
+Perplexity: 269.11.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_2-loss_5.60-ppl_269.11.pt

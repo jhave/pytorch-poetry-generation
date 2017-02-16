@@ -1,0 +1,45 @@
+
+
+ARCHED, BOY THE SIXTH DEAD OF LOST TO ALL PRAYER 
+
+ 
+ o i'd have been unsteady to the ugly time 
+ 
+ far summer of hands 
+ where startled to cuffs 
+ 
+ if this is too have that webbes 
+ auctor there was only a much place. 
+ 
+ no, is the thoughts who come fringed from the bay 
+ 
+ nothing is a wheele to confirm'd it days, 
+ feel to spoke for the bear and scream 
+ to the syringe-ful of the tub table, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

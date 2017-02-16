@@ -1,0 +1,46 @@
+GOD-SHAKEN, THE ONLY COAST CAPTIVES COLOURS BLUE 
+
+ on flying ground. In the morning lies wildly 
+ 
+ like a small muscle, plays in a glassy season, the river covers 
+ 
+ and branching from cold materials and brine?' 
+ that the place between us has faith into the night, 
+ no matter . . . --as if the process of age believed, 
+ the heart itself has been pressed in paper on the mottled 
+ and space of the south incurable 
+ "to hear the fleet bell 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

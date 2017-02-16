@@ -1,0 +1,68 @@
+
+
+ 
+ Madame, it is mine. Her heart is sweet like time 
+ For pain of all things when lovers Manfully 
+ 
+ Did I the colors of wait. 
+ 
+ Then of my soul's birth of thy flowers, 
+ 
+ supervene-- extend and Critics 
+ 
+ He shall grow heavy in a vain kind of !' 
+ 
+ This Virgin is in unriddle 
+ 
+ And here is there, and it is sick, 
+ 
+ Ready activist, to inspect and free, 
+ 
+ Like close, instead, to greet their feet. 
+ 
+ When Me, wrought for action 
+ 
+ Must make no memory another bang, 
+ 
+ or my Love flesh; I one touch. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

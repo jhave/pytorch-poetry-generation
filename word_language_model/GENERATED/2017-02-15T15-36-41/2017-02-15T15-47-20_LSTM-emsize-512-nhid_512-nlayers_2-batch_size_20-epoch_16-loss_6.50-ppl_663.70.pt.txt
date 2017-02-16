@@ -1,0 +1,50 @@
+
+
+out. 
+ And I am, Oh, the cook is in the book, 
+ Sea of mice, and the familiar-- 
+ On the eaves in the needles' air the deep 
+ Hang down of adolescence for anger. 
+ And you are called wailing down the hard world-- 
+ In the whole level leads to our centre 
+ While voices of sand blackened out of us 
+ 
+ We accept the more gentle wish 
+ Of a dead man's soul. 
+ 
+ Sustained in the time of combable 
+ He 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

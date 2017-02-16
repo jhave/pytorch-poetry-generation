@@ -1,0 +1,67 @@
+THAT LIVE 
+
+ 
+ This life in the April Augur 
+ 
+ Let the tortoise bear (naked, 
+ 
+ Must not be killed. 
+ 
+ * 
+ 
+ At our feet the second Ocean hour 
+ 
+ Harkening, from all the skies. 
+ 
+ 
+ Save let be. Ask what a more," 
+ 
+ To the pine woods another site 
+ 
+ Fall since there the stars should appear. 
+ 
+ But oh! she is a peculiar delicacy, to bear: 
+ 
+ Baby father, bawled it, her bright feet grew 
+ 
+ Like a waterfall far away on the curtain 
+ 
+ 'Mid the o'er-run, and the powdered whitened slime, 
+ 
+ Aspen--sun the Adriatic swings soon again, 
+ 
+ In the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-13-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 17
+Loss: 6.50
+Perplexity: 663.43.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_17-loss_6.50-ppl_663.43.pt

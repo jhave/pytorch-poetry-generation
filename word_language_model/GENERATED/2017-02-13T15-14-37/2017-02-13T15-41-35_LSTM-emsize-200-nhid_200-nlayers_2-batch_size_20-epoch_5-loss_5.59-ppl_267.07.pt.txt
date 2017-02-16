@@ -1,0 +1,45 @@
+
+
+JAMES? 
+
+ We did, then rock just 
+ D.I.P. it's hard to cock back brah 
+ 
+ [Jim Jones] 
+ They love it and I spit that off be unique 
+ Paint guilty, I make Maxim so it gotta have ended up 
+ It don't stop me, I got.. as a host 
+ My steelo won't stop 'til you fall, they blow now 
+ Because I ain't never like these er'rything Assumption's thoguht 
+ Dumb pigs, my tour to (Mississippi) his span there 
+ I like to do, go, I'll appreciate you to rap it 
+ Hold on, while you need protection the truth from shock, neanderthals 
+ You know, I freak all, can't nobody remember 
+ A voice from the drugs 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

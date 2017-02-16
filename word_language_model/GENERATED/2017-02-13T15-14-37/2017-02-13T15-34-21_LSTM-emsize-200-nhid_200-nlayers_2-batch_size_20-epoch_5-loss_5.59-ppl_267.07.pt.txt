@@ -1,0 +1,42 @@
+
+
+AND FOR THE CREVICE 
+
+ Started with a pen tank, and cold thang 
+ Tribes like this fool picture Uncle Kidd 
+ Gravitys E.Fresh and Lil' appetite'll of the will you see, you registrations" 
+ punk is it how it wasn't desolate 
+ I don't {*CRASH*} so I'mma astound you 
+ You like to get mine because I'm killin' you 
+ Over F-A-M-I-L-Y and I'm obsolete Gees! 
+ Ladies, a Ambition that's on the run, I made man 
+ Don't know who they claim but made it fast for change and Dunns) 
+ And that the remains is criticized for the type of smiles, the money for that every day and every person 
+ Im a tombstone?" that won't give what I'm 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

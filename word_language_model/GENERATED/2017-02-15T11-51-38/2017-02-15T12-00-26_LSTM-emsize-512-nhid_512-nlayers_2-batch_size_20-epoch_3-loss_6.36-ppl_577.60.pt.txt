@@ -1,0 +1,68 @@
+
+
+ And the forbidden heart of the world called, 
+ And their hair is helpless in declare: 
+ And to another, their adventurous souls 
+ Has been Tough dungeons, 
+ 
+ (The year they give us their flown! 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Magic Wedding-Guest 
+ 
+ 
+ A deem of value once blame-worthy 
+ Tirynthian Thebes undiverted her sure-found 
+ Not and its worke with darts her off; 
+ The serpents of the things I knew too much 
+ In what life meant to fetch me from me. 
+ 
+ 
+ 
+ 
+ 
+ 
+ A Daughter 
+ 
+ 
+ Labour come away that voice shall tread 
+ About feeds, or born of life's barren crime, 
+ Thought 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

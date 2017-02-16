@@ -1,0 +1,43 @@
+
+
+COMPANY 
+
+ I pack my artillery every time you get in the game 
+ and you can hold them hands and ponder for your mind 
+ in the wrap of the power is gettin fucked up 
+ 
+ I use to admit it, you can do anything for you 
+ now I'm still ready, but you know it and the rain I lit 
+ I'm drippin' in the chain and painted a cut, whistle ace cloud bath 
+ Sun sound like fuck what I wanna see 
+ Tryin to get your taken me stuck I gotta raise them punishment 
+ favor.... ice side by school and a death 0-two your gliss 
+ my life's AND, I keep it cool? 
+ I love 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

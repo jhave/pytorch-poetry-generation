@@ -1,0 +1,43 @@
+
+
+SOMEBODY SNUFFED A BEAT 
+
+ got these nigga's girls to stay out 
+ now I'm payin me up 
+ I hold the steering bricks down, then my man told him 
+ what the fuck mean that she coulda stayed out just frozen, Yvette around the crib 
+ Fruits, a lot of through your ear, you say they coming up like flaugin' 
+ I take a trip to the topic, where they at McCough torcherous and everywhere) 
+ I'm not trying to learn ... no calm in a house 
+ Jacked, or they don't tell them cops 
+ thats how I mommy's making ends 
+ they eat bang... with his stacks and that shit 
+ cause I stay in the game 
+ from 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

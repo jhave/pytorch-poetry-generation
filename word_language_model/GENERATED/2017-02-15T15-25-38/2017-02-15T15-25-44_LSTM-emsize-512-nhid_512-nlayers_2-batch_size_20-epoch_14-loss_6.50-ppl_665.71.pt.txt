@@ -1,0 +1,51 @@
+THIS HILL, 
+
+ my arms, whom my waking shadow 
+ flashed into a dying Arpeggio 
+ 
+ Why may a woman be some more leagues 
+ Beyond the simple Thanks. 
+ Why should they go up so straight for that; 
+ Do 'em as you have need love to say this? 
+ There is often something good or fun to do. 
+ Your servant is a blame, the pusht glitters in at night, 
+ It takes you under a modo Noon, the stone and sound, 
+ I slung my head at the throat of my hard chin again; 
+ 'Twixt the simplest one, I believe its weeks. 
+ 
+ You, for God to do with temptation but a joke, 
+ But that 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-25-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 14
+Loss: 6.50
+Perplexity: 665.71.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_14-loss_6.50-ppl_665.71.pt

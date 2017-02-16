@@ -1,0 +1,45 @@
+
+
+BRINGS TOWNE COMMUTED FEAR 
+
+ . . . heard again and sell away, 
+ wells eager like september as me of legs 
+ the moments lives arch-angels 
+ wasting for plaster from a limbo of hands, 
+ all message as self 
+ they did held whine in pain. running 
+ the lights we took outside. 
+ 
+ 
+ lowers Kelly’s through snow. i saved from a wind 
+ a red-ant anniversary at the ground, 
+ you have the coral between resume 
+ with row new horns 
+ as 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

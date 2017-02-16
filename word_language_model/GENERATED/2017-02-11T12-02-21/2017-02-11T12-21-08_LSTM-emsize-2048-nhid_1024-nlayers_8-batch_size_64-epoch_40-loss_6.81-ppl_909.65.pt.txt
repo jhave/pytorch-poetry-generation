@@ -1,0 +1,52 @@
+
+
+P.A. TRACK SHOPKEEPERS, 
+
+ of lust, the audience is a next, 
+ 
+ and the circumspect. the mirror 
+ 
+ but ---- 
+ 
+ the day to the man is 
+ but it is wrong, 
+ 
+ for another i certn take me 
+ 
+ mary his newly street through my head 
+ 
+ but 
+ shall you are some meant? the rope, the chair. 
+ 
+ i think what you made the eye 
+ 
+ wind on the rim at a war, 
+ 
+ the one are 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

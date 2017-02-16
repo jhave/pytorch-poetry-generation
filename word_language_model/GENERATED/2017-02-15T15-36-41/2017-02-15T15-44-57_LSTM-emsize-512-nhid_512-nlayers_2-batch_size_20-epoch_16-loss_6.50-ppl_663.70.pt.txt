@@ -1,0 +1,46 @@
+
+
+age out of the dark 
+ Until he raises his weight around the river, 
+ I wear a placid bucket and a golden leaf. In floating 
+ All's a year, the way below me this childhood 
+ of Staten elephants what might happen 
+ at the ninth end for lesion why did I mean it, 
+ "We must have belonged to the tribes on the old 
+ and believe them before up there, the big 
+ ladies gathered in fear that hemp revolutions. 
+ precedes to long-leaved effect 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

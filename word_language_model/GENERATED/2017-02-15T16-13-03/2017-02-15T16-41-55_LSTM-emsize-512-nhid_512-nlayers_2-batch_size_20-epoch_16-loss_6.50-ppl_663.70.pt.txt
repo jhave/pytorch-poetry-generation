@@ -1,0 +1,51 @@
+LESS. 
+
+ 
+ It was in the thief home over the waters, 
+ silver tears deep under water of the houses, 
+ which must have been heard on earth 
+ and tables of bugle in their clothing, 
+ and the grass has gone into love. 
+ 
+ Or, in the August morning 
+ he swims up what he has to do it 
+ 
+ And he can't yet paint in the eye. 
+ 
+ 
+ What I want his daddy will bring it back. 
+ I have said 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

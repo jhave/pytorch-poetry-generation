@@ -1,0 +1,62 @@
+
+
+ 
+ 
+ 
+ 
+ 
+ Tent of Horace and Flowers 
+ 
+ 
+ 15. SCENE.--A rain 
+ 
+ When light itself weaves back my soul, 
+ And heaves its hardest horizons, 
+ Soon where its violets round you weene, 
+ But for you COME yearning tryst. 
+ O universal bulk of change, that thing 
+ May tell thee bubbles of their dead, 
+ Seek Alcides, the meek Hessians bizarrely 
+ And white heath Grandmas--Mary 
+ And I bear to Malay, 
+ Knows not thy own fayre (sweetly) 
+ To sneak out man's loveliness. 
+ 
+ They wish intent before it was 
+ For the King: what do I sink away. 
+ Ah! what steep moments then? 
+ What dragon, we think. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

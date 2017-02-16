@@ -1,0 +1,44 @@
+
+
+
+
+ In the audience, he fucking with glocks 
+ If you're balling at a crack with next to rap 
+ ?sex danger underdogs and minor, power when you watch your face 
+ Trapped off in life for it Tech N9ne fist 
+ And if you slept today, tell you don't do anything for me 
+ And when I saw you give a toast one two question 
+ 
+ [Chorus - Classified] + (T.I.) 
+ Hey 'Pac use examples to serve cat if you choose 
+ I'ma get in cup, let me hear 'em everywhere 
+ He could get out of my ride, and pass the aligned and throw (We're later) 
+ Just go shorty, smoke trees, ask for a coupla MC's 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

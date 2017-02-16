@@ -1,0 +1,46 @@
+
+
+
+
+ at the states recall for pissed-off 
+ “but not seeing 
+ perhaps the curse. if i saw her last 
+ 
+ tall, pink, empty, gauze shards came 
+ the wet characters when a deer worm reveals you 
+ vernycle diminished by a razor cowboy nudity 
+ 
+ lower & sweat-- where's our silky body. 
+ a guy forty years ago head-- 
+ he stealing himself in belief but native 
+ 
+ without god, two spawn. separately. 
+ new fixity andy's teith chased with miss'd, 
+ in asudden 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-12T16-06-53
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 4096
+Hidden Layers: 256
+Batch size: 32
+Epoch: 78
+Loss: 6.60
+Perplexity: 738.17.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-11T16-23-39/model-LSTM-emsize-4096-nhid_256-nlayers_4-batch_size_32-epoch_78-loss_6.60-ppl_738.17.pt

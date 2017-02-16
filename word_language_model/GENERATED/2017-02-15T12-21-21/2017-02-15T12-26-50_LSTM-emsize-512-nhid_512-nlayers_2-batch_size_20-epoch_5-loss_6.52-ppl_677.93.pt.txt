@@ -1,0 +1,51 @@
+FROM THE CASUAL EDGE. 
+
+ 
+ I moved in moat, I heard my own name, 
+ Monroe, Dieu stem her Calld hair. 
+ While, I: I say, mischance-- it said, There's a stone, 
+ Soft as a bird's unclean arm in his deceased face, 
+ He's Roach it's losing it, it's time to sub; 
+ "In Evelina come on the Town, 
+ I think of never what Tellers--well, Paula. 
+ 
+ Well, mother, we too, pray there need not serve -- 
+ Life gets allowed by mad, not your business. 
+ Some, to the blackness. I would have your blow. 
+ It's right, I'm sleeping home. You take a dry 
+ banana confers walk-- 
+ checkers, the tobacco right-hand aisle goes apart, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

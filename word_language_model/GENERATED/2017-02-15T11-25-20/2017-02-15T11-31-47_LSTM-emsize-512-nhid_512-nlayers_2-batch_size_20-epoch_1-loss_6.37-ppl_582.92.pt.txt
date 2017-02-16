@@ -1,0 +1,48 @@
+
+
+THIN-ROOTED, PURITY; ARCHAEOLOGIST DOWN RE-WRAP 
+
+ When the floor frownin' beside his bud's undercreek: 
+ I turned upon a table by one!-- 
+ That said. The bones of my Chasms 
+ 
+ And someone said it is. 
+ When my hands mind-shot their brown trail, sublime; 
+ From their hands in the ear of night, 
+ So long they lay away 
+ We am endless and waned, 
+ They will not undiscouraged. their finally, 
+ Round the eye with day what hair 
+ Is in the waves that wrote us 
+ To a black blade, of vowel fed. 
+ diary-lock-and-key, of windy goddamnit! they position' 
+ In five unseen dumbshit they fallen out 
+ From the powers of tremble Scheines 
+ For 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

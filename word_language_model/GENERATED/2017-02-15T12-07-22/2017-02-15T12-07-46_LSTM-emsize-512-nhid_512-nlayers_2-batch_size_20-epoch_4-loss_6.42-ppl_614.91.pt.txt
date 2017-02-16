@@ -1,0 +1,62 @@
+
+
+ Only the day is gone! 
+ Shall come half-lost, Barbican you flight by sin. 
+ My sojourn like a past, 
+ 
+ You mark'd you as the end 
+ You exists require there is uglier 
+ lovelessness my song is, the grievous soul 
+ Stood down beside him. 
+ oZier's with his torn eye 
+ Was tempted with the distress. 
+ 
+ 
+ 
+ 
+ 
+ Love Than to Rye a Marriage to nay, 
+ 
+ 
+ Perfect Charles Seneshals; (for Pray seldom Coate conjure and continue into axles. 
+ I turned across the shade of bats, close-pressed by my work, 
+ Santo. with an earlier Jerusalem 
+ flat; such as the 
+ lavish soldier, 
+ 
+ rolling my 
+ Exulted 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

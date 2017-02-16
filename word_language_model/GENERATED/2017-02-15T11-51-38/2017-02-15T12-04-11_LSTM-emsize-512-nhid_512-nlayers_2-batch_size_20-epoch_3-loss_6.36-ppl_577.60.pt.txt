@@ -1,0 +1,68 @@
+
+
+ Oh, Who, not Hughes It's your salting 
+ 
+ Beauty is to be thought 
+ 
+ Respublica and tougher 
+ 
+ Than warning Wide-eyed, now 
+ 
+ And broad as a cannot me!" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amoretti Certain to his stage." 
+ 
+ 
+ The Fat porphyry is to show 
+ But saddest could be made 
+ Where the Lieblingspferd. Empress, 
+ That new girls must 
+ Have overturnes 
+ All the live headwaters growing gaiety, 
+ Like lonely dusk invisible; 
+ And replaces with Coast, by which she fails 
+ Their merry disarmament when disliked. 
+ 
+ But, when the mate his warden quest, 
+ He stands at night from dawn, 
+ Beauteous in blindly 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

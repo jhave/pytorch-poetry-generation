@@ -1,0 +1,36 @@
+
+
+BOO-HOO-HOO 
+
+ . 
+ 
+ 
+ 
+ power between my truly, striped over the floor. on your pines, when feeling came in summer. your underneath pressurized that down a way, it's risings the spring caw. the lagoon, you know take the angel's time, the privation the snaggings couple the windshield and braided the grainy embraces to the roof and more bird, every lost, undistracted my roads down the child in a last red glass ain't day the warriors land of all from a solid wrap of days after 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

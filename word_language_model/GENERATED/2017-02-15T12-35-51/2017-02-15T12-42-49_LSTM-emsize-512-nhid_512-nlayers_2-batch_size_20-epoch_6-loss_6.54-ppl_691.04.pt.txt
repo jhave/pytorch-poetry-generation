@@ -1,0 +1,53 @@
+AS THIS. 
+
+ rhapsodize; 
+ As next to the opera Square, at sunset, 
+ a cantuccini... 
+ And as if a bowl is a dream. And inching 
+ thither; my head the color ends aloft, 
+ The word of her lifted hand 
+ Is my finger, 
+ Her as a child too quick to eat, 
+ As she stood in the back corner of my father, 
+ Saw guiding two lights on wet ivory 
+ Her new-fal'n foliage, picking herself out 
+ About the human side on upper elbow, 
+ landscaped. Bent-backed crazy at kaackety-kaack, 
+ as you walked in the Scipio, 
+ I began to see the whale's 
+ Laura raised his nonchalance 
+ She was dead awake down to say 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

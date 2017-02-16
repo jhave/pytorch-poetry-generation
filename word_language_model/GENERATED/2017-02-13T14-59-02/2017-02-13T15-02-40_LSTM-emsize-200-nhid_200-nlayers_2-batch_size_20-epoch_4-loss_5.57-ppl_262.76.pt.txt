@@ -1,0 +1,46 @@
+
+
+MUCH 
+
+ You'll take my defenses and wash your mind 
+ Biggie's to the throne and I swear knowing you can regain 
+ The room at ya, and here dog 
+ But I could walk, been there to you, my man Louie in the pimping" 
+ intensifying on crack, paperwork gets me freely 
+ Whoever stared at you see that bad bling 
+ When you hit it, come up it, then you cross it 
+ 
+ [Chorus] 
+ 
+ liss 
+ You chu can't tame me well horrorcore for a lisp 
+ Cause we constantly made ends have snow full of thugs 
+ Cause growin' up house, it's nice 
+ And 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

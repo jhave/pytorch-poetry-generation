@@ -1,0 +1,45 @@
+
+
+
+
+ . 
+ as he sleep how it loved away. 
+ like yore should instinct some mind. 
+ teach sadder, 
+ 
+ she when and the page of volumes, 
+ around it gives up you fell in barbarian--i 
+ when it is so richer and he were either a vástago 
+ 
+ a hubbard's old trees is every small man 
+ in one stamp from the first theater of 
+ occasional by the arid. and trading a transcendental, with 
+ the pleasure she compounds over his room 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-01-00
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

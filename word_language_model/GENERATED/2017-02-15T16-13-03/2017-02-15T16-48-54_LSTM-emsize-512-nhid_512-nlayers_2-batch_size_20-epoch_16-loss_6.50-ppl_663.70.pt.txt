@@ -1,0 +1,49 @@
+MORE-- 
+
+ Though, in the corner and wholly consideration, 
+ The world is oil courtesies broider'd wings; 
+ Fear never wide in vain. Who sets the chaste, 
+ "I am torment; and imp with yarn deadKenyans 
+ We'l but ye will with raged, undertone; 
+ While eling/ cain't t "Carve pity, 
+ handes and, or comes back over, and love a monument. 
+ 
+ Familiar 
+ Gin she oop, Me take lak to pass. 
+ I'll give her a welt ere Yeats love was a dead." 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

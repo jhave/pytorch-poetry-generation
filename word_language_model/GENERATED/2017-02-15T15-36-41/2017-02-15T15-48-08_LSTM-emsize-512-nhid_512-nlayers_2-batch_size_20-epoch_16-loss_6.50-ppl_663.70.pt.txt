@@ -1,0 +1,51 @@
+
+
+the window. 
+ It was weary, sorry to be known 
+ It's like Plume, dropped from an moil: 
+ Making the letter a jar, 
+ And we call one thing on our volumes 
+ to keep it up. 
+ 
+ Now flushed again from our domain, 
+ YOU giant reminiscing is Black hazel's 
+ yellow attendants soon-- 
+ an Eye they uttered up. A ebb-tide carp 
+ almost in H---y with his score 
+ 
+ He read eternity alone, no time to see him 
+ thutty his own 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

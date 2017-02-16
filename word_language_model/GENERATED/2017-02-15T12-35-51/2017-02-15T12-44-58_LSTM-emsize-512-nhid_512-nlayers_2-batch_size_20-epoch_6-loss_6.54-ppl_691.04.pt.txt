@@ -1,0 +1,59 @@
+ARE CALL'D 
+
+ Lone, Armour Fossilized 
+ An' bathhouse. 
+ Though 3 age be Caterpillars 
+ (The world itself of evil ends, 
+ And how ice I loved would reach 
+ That has its last long execution. 
+ 
+ 
+ 
+ 
+ 
+ 
+ The woodsman 
+ 
+ 
+ There are fewer of you both and things, 
+ Than when those armies of my being crawl, 
+ My mother and mother is in the pregnant 
+ Soothe them quick, than I need Latmus' 
+ Lost up, and the rain rises, yea, sport and bed; 
+ And all the dead ones stung me, all hands are fled, 
+ Because at your best brothers let them go, 
+ And blind fodder spiders, tossed in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

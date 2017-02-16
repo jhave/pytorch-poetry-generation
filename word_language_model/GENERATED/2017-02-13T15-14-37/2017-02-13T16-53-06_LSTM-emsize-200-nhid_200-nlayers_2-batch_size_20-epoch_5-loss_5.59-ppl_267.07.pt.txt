@@ -1,0 +1,42 @@
+
+
+YOU REALLY GET 
+
+ Be how they feel I got bail shows (the 3 they know) 
+ I could say it like a jag, yeah I went to a bitch for change 
+ I is be gone spend the night to be on a crazy like Jody Farrakhan 
+ I'm discussin livin life, she stand over wit so bad 
+ word to the wise, and hopes off these hoes 
+ And no secret, I hold it, let em do it, they were watchin bastards gone fall right that to be them nappy cluckers 
+ enlace (phenomenon, heavily readers 
+ asking all the pioneers will die for a penny 
+ Cryin' like Satan's pablo's brian 
+ dent off my legs 
+ a vice 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

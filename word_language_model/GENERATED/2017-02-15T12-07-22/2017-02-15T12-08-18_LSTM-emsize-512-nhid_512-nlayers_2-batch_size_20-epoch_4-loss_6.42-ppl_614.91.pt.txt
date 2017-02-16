@@ -1,0 +1,72 @@
+
+
+ 
+ Full moon to the rocking wave, 
+ 
+ He is aesthete. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Picture 
+ 
+ 
+ Beside the way, that is all thousands, and pure. 
+ The soft heart of Love we count is tilth, 
+ 
+ The distance epigram: 
+ 
+ And the soldier) wishing not a value 
+ That was folly's he failed 
+ No Copenhagen river gleam in the clouds, 
+ And well stands. 
+ 
+ 
+ 
+ 
+ 
+ grapevines.During 
+ 
+ 
+ I saw as proclaimed: with his drape. 
+ I put a straight mine for my sunflower 
+ She moved; the knee and slow his foot 
+ Shows to each stroke of things, that she 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

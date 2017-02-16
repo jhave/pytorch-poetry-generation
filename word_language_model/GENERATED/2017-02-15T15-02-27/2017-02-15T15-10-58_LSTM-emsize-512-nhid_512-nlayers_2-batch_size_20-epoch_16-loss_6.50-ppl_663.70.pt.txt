@@ -1,0 +1,53 @@
+TUBBINESS 
+
+ All suffering, in unhappy. 
+ But this Sunday time 
+ Is the bait smell of water chained either: 
+ In one a kiss is mine than a monument, 
+ cosmetologist's out of first--the hope a voice Botanic 
+ icgean after shining Dalley 
+ Light address then, cover the border 
+ 
+ Round the river, as through France. 
+ Who are young, (and did they make in, for them? 
+ What women made a mess of old lead 
+ To post an' secure the march from high, 
+ Then like that face looked fast up sweet light. 
+ Those feasted in the grove; who swam 
+ beast: the Creek id . . . a balloon 
+ 
+ Near myth. Then we 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

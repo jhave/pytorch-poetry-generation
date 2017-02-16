@@ -1,0 +1,53 @@
+WHAT PIGEON-BREEDING 
+
+ fixable maana workers, crawl; 
+ hawks call Scotland positive de excepted devising, 
+ ceasterbuendum, wood-drake ... And how Antic do' dare mitigating 
+ wise, Cheerios, nemne adventure, 
+ but cain't anymore" along the tableau. 
+ Ingrid Robin arrow in a foray 
+ worn fat from sex "Might leave us to God. 
+ Some, must take his most mind behind it was 
+ Ahabs careful countersong to pain 
+ out simplicity as the Tryst 
+ might have done paid to the end of a escape 
+ On 576 spraypaint fustians 
+ & tooth dives from the Bronx from West 
+ the nearest to potion could not manage 
+ 
+ Out of the norms So, evil--destroy. 
+ rarely suggested him. Don't 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-00-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 7
+Loss: 6.53
+Perplexity: 686.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_7-loss_6.53-ppl_686.91.pt

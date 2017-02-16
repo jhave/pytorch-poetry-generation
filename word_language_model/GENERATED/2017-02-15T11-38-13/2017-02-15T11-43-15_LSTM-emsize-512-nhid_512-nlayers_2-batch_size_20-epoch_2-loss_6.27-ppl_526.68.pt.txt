@@ -1,0 +1,58 @@
+
+
+ 
+ "Well, dastard must be late, thy well-wishers soul,--no! roadde toys, 
+ 
+ Thy own heart outcry; 
+ 
+ Since the soft dusk is, the winds 
+ That made the way,' Germany 
+ 
+ XIII to the grandame's Hill 
+ A crash of icy wood, 
+ A lay-men, shakes unwarie 
+ With mournful scenes nor riot thought 
+ 
+ Of better Peirce nor waking 
+ Is burned in health or its age, 
+ As its own limbs grown bright 
+ And fleets pocked with leaves, the winds 
+ And custard-pie, that throw or Ebba 
+ It's spectators, the wild world is dazzle, 
+ All his own leaf, her kiss'd rears 
+ All bells that Blasphemies 
+ The low fire, the Sunday 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

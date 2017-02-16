@@ -1,0 +1,44 @@
+
+
+AND FALLS 
+
+ slipping out of the house as if to clean the skin 
+ of a tree or finger day or wheel on water 
+ 
+ why did anyone smooth my hair as i bent 
+ but where, i think, 
+ part of those feet on the bi-lo 
+ 
+ the lines are not hitting with rain, 
+ nothing i hear, hope not for bones or love. 
+ 
+ 
+ the whores are parceled out at their gray waiters 
+ the tragic monuments of types or shallow, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T15-49-28
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 4096
+Hidden Layers: 200
+Batch size: 32
+Epoch: 8
+Loss: 6.67
+Perplexity: 786.24.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-11T13-13-12/model-LSTM-emsize-4096-nhid_200-nlayers_4-batch_size_32-epoch_8-loss_6.67-ppl_786.24.pt

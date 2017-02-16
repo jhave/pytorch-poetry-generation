@@ -1,0 +1,63 @@
+THE LAST 
+
+ Seems to live with me. remain 
+ 
+ The ghost of himself 
+ Has sweeter to the view where zot 
+ Would emulate and met him before I drive 
+ To clothe a nut or eat a globe said he. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shall chas'd Echo 
+ 
+ 
+ for the meticulosity Goods Years half you complain, 
+ That will show you the best fortune of years I love? 
+ Is it a name in this monument 
+ And I swear she pads, an' you'll ask and see 
+ The things that London is itself a map 
+ To burn such little, and do not remember this. 
+ 
+ 
+ 
+ 
+ 
+ from Shakespeare 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

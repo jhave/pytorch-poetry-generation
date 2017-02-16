@@ -1,0 +1,55 @@
+
+
+
+
+ 
+ 
+ smoke of the autumn a conceit. 
+ 
+ jay's poplar hair on high obstreperous woods. 
+ 
+ air: valleys. claydirt, 
+ maie proving 
+ maybe, 
+ all of it they slipped again. 
+ 
+ when ten-year-old primed at noon 
+ memory turned deltit 
+ coyote said to him high-sea 
+ king crashed a lover. 
+ 
+ no one wuz jimmy wept in time. 
+ furness-fells, sometimes, 
+ change us 
+ 
+ 
+ kansan jaded honest 
+ reader, cramping to face at odds cherokee 
+ out 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-12T16-06-53
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 4096
+Hidden Layers: 256
+Batch size: 32
+Epoch: 78
+Loss: 6.60
+Perplexity: 738.17.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-11T16-23-39/model-LSTM-emsize-4096-nhid_256-nlayers_4-batch_size_32-epoch_78-loss_6.60-ppl_738.17.pt

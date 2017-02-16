@@ -1,0 +1,52 @@
+DISARRAID. 
+
+ is such as those among the original depths 
+ too strand, United but for another, 
+ of God's Greek loves, and fish in 
+ any doubt of life, there should be flowers, 
+ with a silence fornicating with a beard. 
+ On this truth the wall is young. 
+ Three other days but others Frolike 
+ and chiefly you? Is it 
+ That the way there'll be occupied by the way, 
+ and know the bough I must leave down! 
+ What will I do for it? What shall I do? 
+ 
+ Words and true deadweight 
+ more than what I want is to rise 
+ in earth in storms of mythological, 
+ love, and less without old Limping 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-04-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 8
+Loss: 6.53
+Perplexity: 688.07.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_8-loss_6.53-ppl_688.07.pt

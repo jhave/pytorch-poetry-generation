@@ -1,0 +1,54 @@
+
+
+ 
+ Someone is a modify of people on fire. 
+ It is his time? He seems to die 
+ or let us die again; no one keeps us all: 
+ As long as our sheep have arrived long ago. 
+ But this, it is not a word, Chylbborak's 
+ therefore becomes thought by years of good test. 
+ 
+ While the condemned sing of children that were infamy 
+ to arrive by the mesh of which we not? 
+ 
+ IV. 
+ 
+ Our god laughs at the time. We need our choice. 
+ Hey, upper-hold and lick the rafters 
+ we had not taken stripping hips. 
+ Did this cost her wants to horse it be about one. 
+ There's 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-04-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 8
+Loss: 6.53
+Perplexity: 688.07.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_8-loss_6.53-ppl_688.07.pt

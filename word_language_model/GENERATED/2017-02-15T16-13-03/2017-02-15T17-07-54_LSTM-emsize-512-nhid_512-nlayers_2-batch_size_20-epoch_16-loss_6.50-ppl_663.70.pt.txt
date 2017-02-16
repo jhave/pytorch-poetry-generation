@@ -1,0 +1,44 @@
+OPAL, ROCK-BEATING SENATORS SHOVES TO THE SHADOWS. 
+
+ Others rattle caytive cheeks. 
+ My mother must have been condemned to me and "a good one, to keep warm. 
+ If I wear a whiff or others, leaning into the cellar. 
+ It goes into the day of my birth, resting a branch of flies old, and has a marmots and the drizzle of a steam all over. 
+ flower-- I learn?" Dreaming this grave for price of hereafter! 
+ 
+ High above the wall, sounds looking back, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

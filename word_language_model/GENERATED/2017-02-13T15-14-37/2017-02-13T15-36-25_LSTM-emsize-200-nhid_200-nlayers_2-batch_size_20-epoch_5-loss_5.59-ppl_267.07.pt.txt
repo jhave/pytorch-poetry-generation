@@ -1,0 +1,42 @@
+
+
+YOU 
+
+ I'm red in the flow, working dirty, cause I wonder why we're playing 
+ lambskin timin' through communication full and murder apparatus 
+ Bills over here for them boys on the roll and their number five, ain't it? These tapes say it's only good 
+ 'Cause I'm a do funky cat with a pen Hershey's heater and get it 
+ and she don't even know when it come was great 
+ 
+ (Chorus) 
+ I know you pay for something good it's nothin but the key to T.C.B. 
+ I'm noticing I can meet you and I really want my last breath 
+ What's the problem? Ever since my moma's gone end 
+ It was never duplicated - white glands 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

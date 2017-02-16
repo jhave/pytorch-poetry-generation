@@ -1,0 +1,50 @@
+FANCIFUL COOKED. 
+
+ He swung into the hut of the welding feet, 
+ who wavers and calls with a palm of a boat, a gale, phone sew up and then 
+ up the floor, 
+ in our hands, silent. attunements 
+ abandoned men Oran, oyster's 
+ orders from places. Intent 
+ from the evening they'd spitting the brisk man in his new lamp. 
+ 
+ Permits people dream'd off the counter beside himself to his canoe 
+ after his sister on gray, souse-meat-- us in three days and nights 
+ and steam his department neck. 
+ And when he put his head out of the game, 
+ and he knows anything of evening. 
+ For three times he wanted to be -- 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

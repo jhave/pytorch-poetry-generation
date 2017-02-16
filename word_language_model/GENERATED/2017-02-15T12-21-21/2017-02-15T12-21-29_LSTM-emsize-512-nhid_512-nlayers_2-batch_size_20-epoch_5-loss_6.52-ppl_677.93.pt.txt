@@ -1,0 +1,59 @@
+PAVEMENT, LOVE HAS PUBERTY. 
+
+ Him Saviour drives his heavy wine; 
+ full fraught with brass, they draiks, 
+ cell-sap mimic ease in bitch? 
+ The living bird of England flies, 
+ And found a slowly sigh, and spred 
+ The coming of a thousand feeling, 
+ And all the trouble and his graves! 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chickens Shall 
+ 
+ 
+ Be listen to me by natural wit, 
+ Love hath vanish in my charge, 
+ Both feeling all the things; are yet to you, 
+ I with the eyes I love on you Reprieved, 
+ Others dare count my glory in days; 
+ You have a word a woe doth morn. 
+ It is indeed now 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

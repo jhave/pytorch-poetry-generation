@@ -1,0 +1,58 @@
+OF THE DRESS'D THING . . . ALMOST 
+
+ now!-- you, architectural invisible 
+ Black happy, beautiful souls, the groom 
+ You shall be same down to this dead shore, 
+ The having to have to give it a face, 
+ Expect a Victoria deere; piece of 
+ time), Afoot and jeer, 
+ We'll look at what time you perform 
+ hose-carts through me, somewhere. 
+ 
+ tydings of my best discrimination 
+ Must sing my self my heart? 
+ Days suck'd. and small I live. 
+ 
+ There's also a nightmare 
+ Where round someone comes like thee. 
+ 
+ 
+ II 
+ 
+ Above the shell is humbly load, 
+ I sequences pave it with glowd, 
+ Through April, over 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

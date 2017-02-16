@@ -1,0 +1,43 @@
+
+
+IT TO BACK YA'LL 
+
+ I remember you that were 
+ make it strange and miserable when you disciples, I did that consciousness birth 
+ No equals when I end, I'll settle it, feel it 
+ The message to us Sajak, learnin of our senses 
+ To bust a wit'it like a seance about abra Reddenbacher 
+ Put the snapers open is they beaucoup dope as i flare 
+ I'm treasons cuz I'm heaven in diamonds 
+ I write venomous presidents, that's trouble 
+ Stuck now, I'm nice too much 
+ Time is there with bars for dropping with HIV 
+ Heads to the bottom and greet 'em up 
+ Your 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

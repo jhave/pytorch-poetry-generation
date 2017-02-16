@@ -1,0 +1,49 @@
+
+
+DON'T HATE 
+
+ Most funk, I hope he can all the best of me, c'mon 
+ 
+ [Chorus: Inspectah Deck 
+ To my people to be your sky checking the gates 
+ I can just ask for bragger-boaster 
+ But on this through with De drank, I CD Maseo 
+ What you down, who are you? 
+ [ Charlie Lyte) 
+ Maybe later, I love it 
+ do it all night long, I put you to the curb 
+ We'll love how we ball, we wanna get rich, no holding 
+ And oh, the... 
+ 
+ Chorus (2X) 
+ 
+ [Lady Wotty] 
+ I was real live to get the context and change this 
+ You to funk? I swore for an 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

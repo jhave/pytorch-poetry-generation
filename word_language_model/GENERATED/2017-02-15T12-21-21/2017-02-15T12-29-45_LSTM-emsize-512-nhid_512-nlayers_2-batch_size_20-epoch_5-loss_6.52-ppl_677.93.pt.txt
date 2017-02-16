@@ -1,0 +1,61 @@
+
+
+ 
+ Beyond it, the hills Decays . . . 
+ Partly in that coold which whittle, 
+ Which being shot away, combed its flight 
+ To reveal him the last, best ages 
+ save?-- the time; and he will still 
+ Find his lamp in the azure wind. 
+ 
+ 
+ 
+ 
+ 
+ from Working Spider from Funeral 
+ 
+ 
+ 15 Betokening v'yisnaseh, Granular coarse-fibred 
+ You went to snow. Our old kinshasa is clay like you 
+ to siller double, pick up room, as if 
+ to express a song still quiet in Fever 
+ never die--but or today, help 
+ and Venus 
+ and the smart Bird 
+ 
+ witch-men dances on the mud-dried shovel. 
+ You 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

@@ -1,0 +1,47 @@
+OF WATER AND PEARL 
+
+ Trod plac'd; as one bird's lively bud 
+ fantasize for the moment, while at noon 
+ starkers, stiff in soft conceit & circling gloom. 
+ To touch a phantom spot to healing on the shelf. 
+ And again we lay alone at rest 
+ On the high dusty floor, unstitched 
+ And caught it now in scorn to tympani's 
+ There was a jail who once was day; 
+ And when the loudest obscure. 
+ Night lit my old Scots sweetheart, 
+ I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,48 @@
+
+
+COISAS TO FLOOR 
+
+ . . 
+ the gallons i snapped unable to be bred. 
+ for the cane. 
+ 
+ . 
+ 
+ morning buys on a edge stripped jackets piled 
+ 
+ behind the trench they saw the moon. 
+ 
+ 
+ i look along the solar goose-feathers, hangs waning? spread at the sky, and weep 
+ where take the forest you try to take 
+ 
+ with mas-kedst to maids at the morning 
+ is a idiot season. 
+ but death the pancake, we can't 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

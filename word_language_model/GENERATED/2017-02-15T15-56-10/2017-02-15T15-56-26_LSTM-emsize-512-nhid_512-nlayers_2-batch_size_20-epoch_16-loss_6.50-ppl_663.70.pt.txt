@@ -1,0 +1,55 @@
+
+ 
+ 
+ 
+ 
+ Things wilt Not Seen but for the Hours thus look, Let Revile 
+ 
+ 
+ 
+ An idle Robin Girl 
+ Ere he upon his banks appears, 
+ I heard the poor man cry in the field, 
+ Levis. hum; Suppose you change at lantern-show 
+ (1) 
+ Hope knows not ill: 
+ I'm not saying you really day, 
+ And 'sme! shall melt 
+ Out of thine cruelty. 
+ To our early remove. 
+ Nor shall I talk more, 
+ But change 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

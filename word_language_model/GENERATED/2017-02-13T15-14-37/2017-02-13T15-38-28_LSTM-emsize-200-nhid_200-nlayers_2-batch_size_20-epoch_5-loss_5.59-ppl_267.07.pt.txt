@@ -1,0 +1,43 @@
+
+
+YAY BEHIND 
+
+ We dont get high wit this, Flipmode here boy 
+ No layin' on the ground, bitch just me 
+ New York 
+ We gon' treat you once, I'mma ride 
+ Buckle and chill til' is how we do this hit 
+ Let a slide down for the good and the killin 
+ But I watch the TV movie excellent 
+ In Don Juan hear my mags made up Twizted, a six hundred in the necklace 
+ But I paid my dues to see the {?} and think rain 
+ And oh now that's all that matters the lion ignorant then the public turn an peel 
+ (What up, is a sign in the next yard of hatta, glock-a 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

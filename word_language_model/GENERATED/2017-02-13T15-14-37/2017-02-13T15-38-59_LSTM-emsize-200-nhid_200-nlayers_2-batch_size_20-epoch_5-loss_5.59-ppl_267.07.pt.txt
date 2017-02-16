@@ -1,0 +1,43 @@
+
+
+PEA CHEVY [B. KNOCKS TEACHER, JET LOGOS HAPP'NIN' 
+
+ Lot of ladies would hit the strip 
+ In a Teenage porn building, hey contra 
+ And cursin daddy for the Nasirine 
+ Now takin on in-Between Ruckus, a Bush" position, can't wait to mate 
+ the city are born 
+ and to fulfill knowledge 
+ they claimed to remember what the conspiracy, been to me 
+ Jimi Hendrix and my pocket full of tricky soup 
+ I never knew you were (stomach souls from lack of value 
+ are you up or remember? The Honorable Super instance I get out of the White House 
+ I'm tell cutting for days and fantasize why Philly tickles style for Insanity, and yeah-eee, shit 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

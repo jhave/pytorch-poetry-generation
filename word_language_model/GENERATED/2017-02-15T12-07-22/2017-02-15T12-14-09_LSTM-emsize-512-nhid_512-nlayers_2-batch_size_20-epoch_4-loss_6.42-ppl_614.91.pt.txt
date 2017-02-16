@@ -1,0 +1,56 @@
+PEACE--THE BELGIAN WHO LISTENED EVEN 
+
+ Dad could start notice the words 
+ That helped me to do to light without his wife arm and Gull, 
+ But somehow a ship was artery and rings, 
+ On hearts lined with velvet roses of summer trees 
+ And dark'nest idly miles across the way. 
+ 
+ 
+ 
+ 
+ 
+ The Progress of Age 
+ 
+ 
+ The sun is wrenched and pregnant with a mist 
+ And rising beads of depth which clings to be, 
+ From their knees that we live, are dumb, 
+ Because once there is one man's blue -- 
+ And one among them on the trees and well 
+ puma and splendid wits on recast 
+ With 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

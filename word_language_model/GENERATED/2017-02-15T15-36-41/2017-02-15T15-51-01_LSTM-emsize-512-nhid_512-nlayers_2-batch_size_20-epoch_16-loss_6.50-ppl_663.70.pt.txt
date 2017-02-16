@@ -1,0 +1,55 @@
+
+
+I claw a grotesque kiss. 
+ In love of friends, house or time, 
+ on a outside, camp. 
+ And forgetting not 
+ the workers for one reason 
+ for which all the slain dwell, burdened up 
+ from the border, 
+ of the gusts 
+ and of the birds 
+ 
+ all my heart and my breast 
+ in a neighbor's pantomime 
+ of speculation 
+ no unsettling mystery. 
+ No signature, and no 
+ cries of sisters. 
+ 
+ My grandfather calls, 
+ and my heroine 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

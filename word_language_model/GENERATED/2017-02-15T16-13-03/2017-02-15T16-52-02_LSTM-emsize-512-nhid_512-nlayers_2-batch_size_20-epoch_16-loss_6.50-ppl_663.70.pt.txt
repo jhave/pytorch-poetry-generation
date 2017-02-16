@@ -1,0 +1,53 @@
+AVERSIONS, ON THE AVOIDED EVENING. 
+
+ 
+ A rented painting lime; A boat 
+ Tells it for a Opera daylong dismounting, 
+ 
+ 
+ 7 reeling, 
+ 
+ Hot from the far bulls time 
+ I visited a moss. It was 
+ The injustice of sun and autumn, 
+ And then fell down here but I knew 
+ The heart was lonely president, 
+ The pleasure-dome made of woe! 
+ 
+ From the streets, or forests 
+ To bite their brush, and 
+ They could not die speaking. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,64 @@
+FROM 48 
+
+ For ever very slight cottonwood of the day, 
+ That teaches root one of the other juices, 
+ 
+ But that have grown from showers; 
+ This earth is as sweet as a leaf. 
+ For my love has gone away, and now 
+ Has saved death within the stars? 
+ 
+ 
+ 
+ 
+ 
+ False Love: pin-point with colored Considered Year 
+ 
+ 
+ 1 
+ darkness agreed time is new! 
+ 
+ Disturbed. hairdo Goonight smattering and fly, 
+ warms a paper plain-song 
+ shell up, sector chin of a toes, 
+ 'cause all other men becomes their light 
+ 
+ 
+ 2 
+ 
+ 3. hasnt this instant 
+ An perfection of breakfast. Moloch my 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-13-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 17
+Loss: 6.50
+Perplexity: 663.43.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_17-loss_6.50-ppl_663.43.pt

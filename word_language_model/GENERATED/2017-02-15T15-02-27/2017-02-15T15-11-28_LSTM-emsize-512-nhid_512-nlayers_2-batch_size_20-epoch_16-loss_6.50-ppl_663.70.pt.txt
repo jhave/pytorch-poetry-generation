@@ -1,0 +1,60 @@
+
+
+ 
+ Who filled the house as gives a power of empty ground, 
+ Him will tell me this week its blest white painting 
+ When for an awful presence he took me side, 
+ Spread her small brain on the sandy ground, 
+ Half courtly by the inloop'd wind. 
+ 
+ 
+ 
+ 
+ 
+ such-like Despairing Train 
+ 
+ 
+ The swallow of one verses 
+ Grew in the trees, 
+ Hangs in one of the open repose. 
+ Therein Square 
+ Kermanshah all Night, 
+ In myriad streams smoke dull & airy cliffs, 
+ The myriad seaweed and benedight. 
+ And the sunbeams breathe and range, 
+ All that they see, 
+ With the white wool, in the hill; 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,48 @@
+DEER, THE CIGAR FASTER, 
+
+ oh, the masters Auto-da-f said again, 
+ The words that left them would be in the least place for years, 
+ To remind you of the eternal happening of child 
+ That was a woman full of Pushkin. 
+ Which the old man and not able to mean, and his daughter, 
+ Such as these are his grand faces, as Missoni. as Foe befel 
+ While the fond performer found in his mind with a swampy blade 
+ I could feel it with a glance when the thunderous heart opens supports 
+ His sighing and his hands are naked to his charge, 
+ We are decades indeed, for the intermission of history. 
+ 
+ We have prayed 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

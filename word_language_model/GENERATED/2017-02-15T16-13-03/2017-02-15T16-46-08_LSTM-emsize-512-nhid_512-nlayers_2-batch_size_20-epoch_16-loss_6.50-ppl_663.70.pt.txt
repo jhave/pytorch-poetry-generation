@@ -1,0 +1,48 @@
+OUR MIND WAITS. 
+
+ Heaven quickset Round and damsels, the tide; 
+ All panting, as women do, or might have mercy to fall; 
+ Thou think'st Thou and shalt keep as thou shalt sleep-deprived; 
+ Say it Earth, and that thy wild work which I glow'd 
+ 
+ With toothpaste, in less and less lute than I. 
+ 
+ And though I die, I will bear the world 
+ From my benediction at once, at thy window, and confirmd. 
+ 
+ IV 
+ My be the Parmenides, no 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,52 @@
+CARE, 
+
+ off--stare is always seen. 
+ On the hard cool of abrupt, something else, a sword that holds 
+ On Juno chains in the morning. 
+ But none will feel is not much worth. 
+ 
+ The fact, turns home to the thick of the waters 
+ Embraces the surf must go on: all 
+ When our borders were ash arm. 
+ We could live on dead. revolution, 
+ flowed down from the floor to be seen to come to rammer, 
+ Drunk be untranslatable in us. 
+ Once we gazed around, 
+ whether liquors get another Crupi 
+ "That we don't know how much Serenate, there 
+ Gone it is, therefore, keeping the divine law 
+ And tug in the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-13-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 17
+Loss: 6.50
+Perplexity: 663.43.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_17-loss_6.50-ppl_663.43.pt

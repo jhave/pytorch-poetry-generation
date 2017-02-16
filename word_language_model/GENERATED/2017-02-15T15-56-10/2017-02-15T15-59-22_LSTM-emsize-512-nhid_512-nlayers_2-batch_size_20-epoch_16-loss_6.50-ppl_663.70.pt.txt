@@ -1,0 +1,47 @@
+TAKE MY STEPS IN A SHOWER OF DAYS, 
+ Which it was still lovelight and perfect free. 
+ You wish it would be that I had lost unto it-- 
+ 
+ I was a rebellion of grace. 
+ Is it, not worse than what you make the same-- 
+ And you've come to Westdenum, because real--her 
+ 
+ manegum required for me at last, your agitation, 
+ Twice sleeps the Dutiful, cry for me. 
+ 
+ And on my hot nights long in the sun, 
+ You cannot 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

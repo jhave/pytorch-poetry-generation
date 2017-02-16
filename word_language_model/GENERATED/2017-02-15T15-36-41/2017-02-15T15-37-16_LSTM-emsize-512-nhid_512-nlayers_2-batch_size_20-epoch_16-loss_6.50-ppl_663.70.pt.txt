@@ -1,0 +1,49 @@
+
+
+harden me up from sofas 
+ and a tear in a principle, that captured child 
+ from either hand, as if it were you. 
+ Close in the night, when, at dusk, 
+ I trust to find my lover's wife 
+ on the hill. 
+ I will be praises, colour! 
+ by doomed behind, turning across the amputee sea 
+ and printed in the bottom ash, someone 
+ under Rome, devil-take-the-profit bone "making 
+ six or fifty contractor in Rockland 
+ 
+ to perceive it but work silent, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

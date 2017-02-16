@@ -1,0 +1,49 @@
+OR SNICKED, SEEKING AGAIN, 
+
+ Know that the Carpenter Michael, the least drums--you 
+ race, the approachd, picture, likewise in the past-- 
+ Not any time but that he could not employ when 
+ They'd not stop a Stare, scrabbly own; 
+ Yet Christabel straps out his ugly proffers: 
+ The fault is silent and the scissoring between. 
+ The Heavens are care, the house, the children sword? 
+ He bangs his buttons to the boding light, 
+ And there his wounds danced softly at the table 
+ In scented coral till the sun was: 
+ Delighted them with his loud blessing, 
+ And nymph was cold, and lonely, death as well 
+ Bound with his voice, as one set in twice 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-25-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 14
+Loss: 6.50
+Perplexity: 665.71.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_14-loss_6.50-ppl_665.71.pt

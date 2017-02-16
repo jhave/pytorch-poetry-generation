@@ -1,0 +1,55 @@
+HER HEAD 
+
+ out of my hand. It is gundown, my dreams, the same 
+ with its shit and lashes already has 
+ 
+ rightliest before, as to break it? 
+ Years ago, rolling and closed, 
+ for a dreadful Sunday, green as light. 
+ Under my back to rest 
+ a world of leaves hiding down on 
+ its soft stare crying. (But that's walking 
+ here, my Only dream, Seychelles 
+ brilliant as light, romances 
+ polymorphous Naked, by Olympian 
+ and tar themselves between autisms 
+ agitated rejoyc't, the paths 
+ that one weed, spat-out mumble 
+ of money. They can't help Employees worse 
+ than narrow hats, and their bodies. 
+ Atlantis is at their ease, 
+ toward 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

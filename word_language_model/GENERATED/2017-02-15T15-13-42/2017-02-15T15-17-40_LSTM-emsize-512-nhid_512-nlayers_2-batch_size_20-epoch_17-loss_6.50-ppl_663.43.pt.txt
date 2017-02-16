@@ -1,0 +1,55 @@
+
+
+ the moated consolation 
+ formed dismay: and loving each 
+ massive sons of earth, wherein 
+ are aimed beneath it, 
+ the other way. 
+ Let us tell the whole story 
+ sultan twisted out like a Tenebrae. 
+ mildness formed than the wind 
+ that bleeds the whole direction 
+ when the prairie brushed the grasses, 
+ again, the paintings are down and springing down 
+ 
+ the pollen of the bird 
+ rising as hands and though settling 
+ in the falling Layers of a dance permutations 
+ standing in the light through the ache of heaven. 
+ There is the sun drawn forever over a clown, 
+ a snap of rain, burbs, lard 
+ to crack, good death. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-13-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 17
+Loss: 6.50
+Perplexity: 663.43.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_17-loss_6.50-ppl_663.43.pt

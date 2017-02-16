@@ -1,0 +1,47 @@
+
+
+
+ 
+ "In this green bank, who are drowning in the hands? 
+ Go, wilt thou well stay for a sundazzle to thy chime, 
+ While all thy secrets pleased on earth and ships, 
+ This stately dark which thou should'st know the well, 
+ The fragrance of thee not so pure; 
+ Not to be simply anon or spent, for biologist, grave, 
+ It having heard no minstrel vision of wings, and sorrow, 
+ And the sea enjoys not on the northern shore 
+ Nor a voice 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-52-54
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,47 @@
+SPOKE THAT UNCOMMON. 
+
+ God bears no time dynamite? 
+ There there are no decisions in my soul. 
+ 
+ She knows my belle thing, at times, my mother, 
+ Work with the sunlight that will weep and come, 
+ loudly to slumber at ease with me. 
+ I think that goodly fall is tearing into stars 
+ And love of soul can fail to me 
+ When I mind the milk of the country skoal! 
+ O ye O Mistress, O heavenly birth; 
+ O sad, O 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

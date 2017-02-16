@@ -1,0 +1,75 @@
+DREAD 
+
+ monarchs to me. 
+ 
+ 
+ 
+ 
+ 
+ s'ascose S. Good-bye 
+ 
+ 
+ See the plan-- 
+ America--' 
+ Al as we lean Enters, 
+ in the little furnace viewless 
+ in a dark 
+ Then patch Otway's thrusting 
+ 
+ into taxes between patron-- 
+ sighs. 
+ 
+ Long for years 
+ & summer rose 
+ our bowls were sailing 
+ with black ant-stale; 
+ we never recognize 
+ weak with the smog of flight. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Second Francis in BEE, Three 
+ 
+ 
+ dust:-- pyroxenes January abolie A town sensitive tape. 
+ 20, indigo. We expect oranges: rende, 
+ Subject in straits! Stop up 
+ for Rilke's et Ignatow: 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-13-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 17
+Loss: 6.50
+Perplexity: 663.43.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_17-loss_6.50-ppl_663.43.pt

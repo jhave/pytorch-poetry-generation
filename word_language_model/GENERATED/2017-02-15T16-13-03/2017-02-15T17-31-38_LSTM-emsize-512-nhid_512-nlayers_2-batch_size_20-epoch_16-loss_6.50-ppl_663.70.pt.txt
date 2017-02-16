@@ -1,0 +1,56 @@
+
+ peace) my youth dreams rises, I think, 
+ Pizza and new my heart? 
+ 
+ Take your truth? How will you turn 
+ The gleanings of your air? 
+ So you are strange mamas, 
+ Come back, look fat at your peeling, daringly 
+ 
+ Choose you s dirty store so hinc 
+ What, Walt, you'll be, posting your verse away. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Light Begins 
+ 
+ 
+ Look! THE ol' December Born!" We will be alone 
+ Deep in the vocabulary 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

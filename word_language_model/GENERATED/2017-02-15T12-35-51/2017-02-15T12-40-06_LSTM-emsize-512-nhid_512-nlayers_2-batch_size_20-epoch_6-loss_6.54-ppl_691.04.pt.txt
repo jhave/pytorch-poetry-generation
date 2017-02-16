@@ -1,0 +1,62 @@
+BLUFF! 
+
+ 
+ I were: when I heard it, turning from the waterfall, 
+ Elk-sedge knees and knees, come blue. . . . 
+ Aiee! We had amang your floods 
+ With silks, on Western land. 
+ 
+ "Better keep my own word denotes 
+ Rather than to set the babe o'er step-second 
+ Caeneus May,-- Yrre wuz gebad, 
+ ale? 
+ Over your face, your little dress. We know the Lord. 
+ The doffed swan Troubles the strongest features, 
+ Said he answered, murdered in the believers, 
+ But lack what we forsake is done with care; 
+ Vehicle/A and arrachin in the wood; 
+ earmarks sic the elemental armour, 
+ 
+ 
+ 
+ 
+ 
+ 
+ Evening 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

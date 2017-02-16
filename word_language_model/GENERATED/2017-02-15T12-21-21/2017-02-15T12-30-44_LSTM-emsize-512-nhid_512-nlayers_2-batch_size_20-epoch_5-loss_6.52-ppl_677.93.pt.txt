@@ -1,0 +1,47 @@
+YOUR FACE SILENTLY 
+
+ is hiding deeper than I could win the kiss, 
+ and thirsts, you know, so the world meiner 
+ What I continue. That Edward hardwood 
+ a hardie together, striped at the scents of Honduras 
+ who's gotten more than a Nuremberg 
+ Inside, that dread of our eye, the woman and mother poet sits in the haze of light. 
+ Her sock adopted like a boot to a cage where his children are closed Ch'ing 
+ thousands ring in the shade with a pair of bread, & it is cold. 
+ 
+ The Remoteness was perfect in the slot at an expense, 
+ but he should tear himself hard to his ear and search with his wife, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

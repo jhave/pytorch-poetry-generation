@@ -1,0 +1,53 @@
+OF WHAT CRUEL CITY 
+
+ Endure the dim rusty anarchista said he, 
+ Said with the best he preferred voice for grade 
+ Eliot, wast an angel, (it saw a fish 
+ Weep and weep, and we are low, and while take pride, 
+ jangling unmake shrowd, fleeting 
+ And tolling, whereon we'll say, and other time 
+ I sleep in my pure hands having commandment 
+ For being coaxed into life. 
+ That arches bonnet of Kabbala. 
+ So far behind me to no rest: 
+ 
+ I should believe you reached or stirred 
+ With the died--and I grnd. 
+ By dog he wanders aside 
+ In childhood lose mankind 
+ An expanded will, Juno's glories, his it:slant long 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

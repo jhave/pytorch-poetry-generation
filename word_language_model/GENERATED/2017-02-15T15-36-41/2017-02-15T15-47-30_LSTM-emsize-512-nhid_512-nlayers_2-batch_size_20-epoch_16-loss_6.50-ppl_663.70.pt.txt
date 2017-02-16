@@ -1,0 +1,53 @@
+
+
+
+ Lit up in least, stays to come, dead thought. 
+ Should they be Branch. And yet, there are we also breathe. 
+ 
+ I've heard my scythe of the bathroom and face of a big drink, 
+ Teach me -- if I'm thinking of us, but I say nothing. 
+ But the song wormfolk, in your very early night: 
+ When you are forgotten and I shall always bear. 
+ 
+ 
+ 
+ 
+ 
+ cynsedan. O (A Power of Mr. Trade Secret 
+ 
+ 
+ "apartments 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

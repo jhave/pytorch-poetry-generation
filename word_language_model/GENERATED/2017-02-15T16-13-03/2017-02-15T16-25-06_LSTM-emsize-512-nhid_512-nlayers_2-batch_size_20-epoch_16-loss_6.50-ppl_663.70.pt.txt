@@ -1,0 +1,52 @@
+INTELLIGENT HEALED IS WISE; 
+
+ The judge said nothing now! The silence hath 
+ No meaning to repair my mind. 
+ 
+ 
+ 
+ 
+ 
+ Chance roseate as a Tom regent 
+ 
+ 
+ The current rises. The bus was in the heat, 
+ And the startled affair. 
+ And the old people are sworn to been. 
+ As before. They reared their faces until they cried 
+ Toward thy wife. And yes a wind is warm, 
+ Until the torn ash winds their sails and there 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

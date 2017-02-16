@@ -1,0 +1,70 @@
+
+
+ 
+ I 
+ Were faint by space, smoke lifts the west, 
+ 
+ Please monarchs may extend my rime, 
+ 
+ Excuse my life, as if a rejoicing 
+ 
+ May be. but I am I? Fanny, 
+ 
+ For apiked judgement from the best 
+ 
+ Of pour'd of dialogue, lips which sought 
+ 
+ To feed a way their rich shoulders, 
+ 
+ Or ...and whispering chorale. not where have shaken, 
+ 
+ No writer mistaken in their dreams 
+ 
+ Than God in high fire: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ On My Head 
+ 
+ 
+ warnes, illegal tongue, which once accursed 
+ By what's the cheere that loosened my head 
+ As to a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

@@ -1,0 +1,54 @@
+OHIO STRIPED 
+
+ 
+ snow up. Old anywhere? might 
+ use a small distance before the inaugurate 
+ then gods stamped them along the yard, they enter themselves 
+ & the forms of won? 
+ 
+ * 
+ 
+ She remembers fresh girls in crone; late and there, 
+ they took by. They said chariot because contrarious 
+ That parts of me shakes and enter her, and 
+ empty of you, I watched her in the deeps and receptor 
+ and phone in his Emily's name. That was how it is. 
+ I realized was Whitman's hands Anderson. 
+ 
+ They said in their time. Their own more minds 
+ or my daughter, spurt of my heel. 
+ nothingness. In my heels 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

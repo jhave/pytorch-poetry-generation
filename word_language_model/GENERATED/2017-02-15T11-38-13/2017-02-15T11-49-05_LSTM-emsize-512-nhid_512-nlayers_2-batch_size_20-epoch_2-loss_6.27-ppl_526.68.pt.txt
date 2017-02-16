@@ -1,0 +1,58 @@
+I AM 
+
+ As you look in me with tears to my little 
+ 
+ 
+ 
+ 
+ 
+ The ambiguous leg, the enemies 
+ 
+ 
+ I wanted to write up your elude, 
+ you went upon the constant deck, 
+ your broken-shelled your minutes bearing Methinks, his teeth, 
+ Latmian 
+ weeping for me and so, again, your heart 
+ is listeners you, forced halfway in gargling Act 
+ my bodies. It's getting down your bent hand, 
+ and your eyes grew, saying there dandelions. 
+ the worm flies out again. There is this is this Topsham 
+ The reasons of your curtain came in this E's 
+ 
+ The peacefully, seaweek shortening, crinolinnd portent 
+ in his side, in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

@@ -1,0 +1,51 @@
+BEING LOST. 
+
+ My pears, seem perfect from pain. 
+ Life woke me close to school, & strike it up from platitudes, 
+ Seems rise to me as often as I am, 
+ In my mind's word, eternally. 
+ 
+ Mad worthies thrid, in his own sweet grot, 
+ abortions. 
+ There are many Danc'd mountain and round; 
+ When change is marching wrong, it is 60-63 
+ Oh, I'm pretty happy, here you'll make a throne; 
+ And we sing window, get the right word the game 
+ Of winter assente, turn to make up, 
+ And at the far end of a summer's night 
+ Where lights come out Magdalen, God never has left us. 
+ I know the patientest 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

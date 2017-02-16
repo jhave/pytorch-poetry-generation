@@ -1,0 +1,52 @@
+STAR-POINTS KNOW EXACTLY WHAT 
+
+ They blew and did their way." 
+ I wouldn't be so long to stop where the choir, 
+ For my life." 
+ 
+ She has no word to Saul. 
+ Her suffering was too busy, they said. 
+ You're cliff? she just pretended a word," 
+ Has survive? She goes on a spider, and that's a mother. 
+ 
+ Is it reared in a red kitchen, without a moulded stale, 
+ To its heart's piece, and, in fact, that I could die, 
+ As the harlotry, of a moment he had loved! 
+ 
+ Whose hosts shot next by the meal of him. 
+ My own mother is taller, all of earth, 
+ The men I dined 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-04-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 8
+Loss: 6.53
+Perplexity: 688.07.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_8-loss_6.53-ppl_688.07.pt

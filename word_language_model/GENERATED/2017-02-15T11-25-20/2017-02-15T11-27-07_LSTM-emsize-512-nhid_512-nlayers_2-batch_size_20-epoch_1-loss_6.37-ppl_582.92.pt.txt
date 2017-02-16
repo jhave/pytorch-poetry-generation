@@ -1,0 +1,50 @@
+
+
+
+
+ But if they? Candaor Combe 
+ 
+ They do the Clark, by unopposed 
+ 
+ Or in the cliffs of maydens 
+ 
+ 
+ 
+ 
+ 
+ 
+ bunden, and high and plundering 
+ 
+ 
+ "It is your Let in Vesuvia as half-allegiance he 
+ moved off your Fermi, at the petals of your schoolgirls Titanic gurgle and horror discards he burns behind up in goddess and crest to join should hit, but Breeders came and go away, in Threatn'd, desirable, and feorwegum, of band-aids, beard. In the imperceptive overmuch, 
+ 
+ The tree is "Merciful by oak Ormer rattling to culvert in Nocht structure) for 
+ clots evil, planted order of waves--a twilight, outside in a hush at his 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

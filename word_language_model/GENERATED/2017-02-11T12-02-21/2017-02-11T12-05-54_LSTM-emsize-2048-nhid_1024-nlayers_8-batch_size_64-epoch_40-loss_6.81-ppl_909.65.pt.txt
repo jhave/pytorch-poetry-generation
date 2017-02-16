@@ -1,0 +1,43 @@
+
+
+ORCNEAS, SHADOWS OF BRINKS, OF CAT, THE STREET, 
+
+ and the evening fields. 
+ i meet my head with a bowl spurious, and round, 
+ and the tranquility. then his red heart 
+ over my much... degrees 
+ the demon lifts slave crown, 
+ the offences tongues the crab. 
+ i lie my hand barley, red. my 
+ with loud. the sky bared she, the wound. 
+ 
+ 
+ once these of the wind, i see there who minutes. 
+ i remember and is big as Unfrightened at 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

@@ -1,0 +1,60 @@
+BAGS TO THE FOLIAGE, 
+
+ you could not see it or describe 
+ leaving the lock on space. 
+ 
+ silos, he went on 
+ we saw a look in the river of sleep. 
+ Summer in winter 
+ winter light flies 
+ over noon! 
+ in his somber prison 
+ expected it to quicken 
+ the space at waiting 
+ the cover of the catch. 
+ 
+ She at that time 
+ drew in the light. The basket 
+ of lines poured more black 
+ than an orange dress, 
+ his mother lips alone. 
+ 
+ In the good of course he practiced 
+ first and one JFK 
+ from a village corner twisted, 
+ films, ... 
+ The water is 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

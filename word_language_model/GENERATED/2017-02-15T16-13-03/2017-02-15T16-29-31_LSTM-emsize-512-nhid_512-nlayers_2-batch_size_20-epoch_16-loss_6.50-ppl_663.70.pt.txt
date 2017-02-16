@@ -1,0 +1,45 @@
+
+ To follow but pretty again, O God! 
+ I will go drowsy in my sable showers, 
+ I will not banish nor be that to seven-fifty 
+ For any moment hath quite, some part I know. 
+ My Duchess never will be felt by world's magnified, 
+ This misfortune given to a failing frame, 
+ When he ship's the compass he had sent 
+ To wonder how would he have kissed, 
+ And to the opera he tore out, 
+ With a second eels. for a pontifex. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

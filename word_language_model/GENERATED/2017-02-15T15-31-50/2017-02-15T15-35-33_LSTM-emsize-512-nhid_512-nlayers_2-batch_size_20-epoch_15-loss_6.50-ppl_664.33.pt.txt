@@ -1,0 +1,45 @@
+EARTHQUAKE-- 
+
+ hammocks, Splendor sent Inextricable, 
+ To alcun, at twenty-two, at the crowded upper gate, 
+ The excited lady in the shock! What's where you need 
+ Him who loves you and repay you! 
+ "Will we take two mad luck. Louis has a good 
+ Shrink home from shallow door. 
+ Or I have no business or your mother 
+ After all I could veinsour cheesebox nap in my corrt 
+ Of the ship, --Capitalismus 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-31-50
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

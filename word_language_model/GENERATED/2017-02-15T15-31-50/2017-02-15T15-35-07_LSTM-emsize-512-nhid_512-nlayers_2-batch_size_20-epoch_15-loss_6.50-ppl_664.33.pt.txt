@@ -1,0 +1,43 @@
+ALONE 
+
+ On the highest ridge of the last faces. Like old throats 
+ We beautifully, the swollen red dress, its swift to palm the notes, 
+ Looking up with the deadly roots, like the wind from heaven, 
+ And we rose on the ice, Hurricane muscles of fields autremete 
+ In the meadow and Summer seven days thru Long nights, 
+ The aborigines. Unsaid kitchens of the good 
+ Land of terror like Now trout and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-31-50
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,50 @@
+
+
+IS, I'D USE CHEMICALS HE WAS 
+
+ Z----ds! as his well-done aftershocks. and desired. 
+ He calls him to her. 
+ * 
+ 
+ This has of him our vow from my hands, I Wafting 
+ slap! than three strange glass ... 
+ sonne highborn my grudg'd, 
+ Just are INSTRUMENTS. for the Saturday 
+ Old monopoles might take chance; 
+ them--even brushed with his writers and allies, 
+ His knees is Redbook and Cloris, 
+ In girding Fresno, take up an' doggedly having 
+ He out of my own solitary. 
+ This solemn of your hero-worshippers, 
+ Out of this guided spring, 
+ Or follow must winking 
+ My fading in your skull is 
+ And nothing is take't. plausible 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

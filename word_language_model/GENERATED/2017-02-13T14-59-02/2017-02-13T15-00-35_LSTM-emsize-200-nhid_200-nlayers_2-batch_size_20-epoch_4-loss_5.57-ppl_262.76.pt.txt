@@ -1,0 +1,42 @@
+
+
+
+
+ All this shit for my dogs and you fuck up every day you make the look damn at this thang 
+ Yo mother how niggas rep these clothes they sweatin me 
+ want'n mi Trevis-like de la llamas on the 'Lac, hey hey 
+ (LIVE!) (What's up (Eh ha-hah haa 
+ I want it. Recognize scoring for my peeps to ever know hoes? 
+ lethals {break and Lodan 
+ Dawn 2005 Ol cock) 
+ Li'l Live the Boogie Man Bend over ready to siente.. 
+ Na, you get tiennent on these jewellery to my people 
+ Yes I do, and I'm comical like (*Gun day] 
+ is to be alright 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

@@ -1,0 +1,45 @@
+
+
+P + RICHIE KANE TUPAC CASH) 
+
+ 
+ (Talking) 
+ Yeah, yeah, you know who you are 
+ Only gettin a planted off just to two swallows 
+ wait for the big guns, or the honey 
+ And let 'em know I had a brimecell 
+ But money was up North rich stat's never had a clue 
+ Came at a few infold or good I say 
+ Pot haulin hoes 
+ Sure to holler, (for what's mine? 
+ Hold your eyes down see the heads whose eyes and the homey bang 
+ (Motherfuckers just like it) I think I'm hip, check Mel from ya scandalous ass (oh!) 
+ I go to see you like a Paybaaaack 
+ You hold a mill-ion 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

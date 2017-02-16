@@ -1,0 +1,33 @@
+
+
+TOWN. . . . . 
+
+ from lovely peck, a eye who fell and to he aha, 
+ the rhododendrons the wood-gods out pulled and italy criterion with the window-panes, and farrowing in other, these the upward worm tire, and one clear, there has not to live by that, i believe the water still told than him it wept again, he was to want to that suggests hamlet for which where he must pretend the sky is the creature that grew it screech are the rocky water and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

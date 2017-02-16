@@ -1,0 +1,54 @@
+POETRY, 
+
+ 
+ The boy that reads the actors rented to all 
+ roared there to the depth of his mouth, 
+ 
+ And a little girl since the heart of him all morning will cry to it; 
+ This morning, a little girl rebel: 
+ Illiterate 
+ Her bird is careful, her sloth's knee puir 
+ Borne from her foliage; does not think of 
+ The intelligence of how many hours we pursue 
+ Her howlet's playmates in her face. 
+ 
+ Or stays to brush her shaggy mustache 
+ To banish her cheap jellies, 
+ And joy in high uphill from late rose 
+ And cheerful home in a lunar pride, 
+ From clue; she chanted out of sight, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

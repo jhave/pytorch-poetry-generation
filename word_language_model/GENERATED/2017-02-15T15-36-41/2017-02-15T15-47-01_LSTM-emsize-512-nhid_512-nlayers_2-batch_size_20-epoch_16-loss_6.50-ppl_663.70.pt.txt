@@ -1,0 +1,48 @@
+
+
+Englishness 
+ To imitate myself, and so that I wlonc 
+ That maybe before my brother, land or stilled in a row, 
+ A great form, a promise like a Adam's moon. 
+ 
+ With the marble of our own teenage creatures. 
+ We through all ages close to the world. 
+ 
+ He does not assert him forward, 
+ We have to say and for him hard and has freshly him so well. 
+ Without having ever skill to this master. 
+ And Mother, and again he 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

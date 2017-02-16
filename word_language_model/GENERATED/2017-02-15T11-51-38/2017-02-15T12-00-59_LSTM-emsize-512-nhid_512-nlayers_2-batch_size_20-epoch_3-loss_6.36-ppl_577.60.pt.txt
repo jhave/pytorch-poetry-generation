@@ -1,0 +1,56 @@
+NIGHT, 
+
+ footstool, the glass that made life & not-song 
+ And storms that were born to cool and lean, 
+ To the house, softly burned their care, 
+ And whether the matters of all time, stedfast, 
+ Rich in fountain 
+ To make its own to live from him! 
+ belly-- clear as a bomb, in my mournful foot, 
+ shingles. Buddy with north-northwest. Pampers, 
+ And the Magnus limpid out 
+ Whose wonders my tooth is patet 
+ It is floorboards fluttering with fire! 
+ Any indeed has passed, at the hands 
+ Of their own loves Avenue of night, 
+ Like an alarm before throngs of copper 
+ sisters--Joan, 
+ Simson 
+ Go 
+ The 
+ To 
+ the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

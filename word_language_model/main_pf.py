@@ -11,10 +11,20 @@ import model
 import os
 from datetime import datetime
 started_datestring = "{0:%Y-%m-%dT%H-%M-%S}".format(datetime.now())
+term_fn="TERMINAL/"+started_datestring+".txt"
+
+
+# REDIRECT PRINT ON TERMINAL TO FILE FOR DOCUMENTATION
+# import sys
+# orig_stdout = sys.stdout
+# f = open(term_fn, 'w')
+# sys.stdout = f
+
+print("\n--------------------\nPyTorch training run\n\n"+str(started_datestring)+"\n--------------------\n\n")
 
 
 parser = argparse.ArgumentParser(description='PyTorch PF RNN/LSTM Language Model')
-parser.add_argument('--data', type=str, default='./data/pf',
+parser.add_argument('--data', type=str, default='./data/2017',
                     help='location of the data corpus')
 parser.add_argument('--model', type=str, default='LSTM',
                     help='type of recurrent net (RNN_TANH, RNN_RELU, LSTM, GRU)')
@@ -28,7 +38,7 @@ parser.add_argument('--lr', type=float, default=20,
                     help='initial learning rate')
 parser.add_argument('--clip', type=float, default=0.5,
                     help='gradient clipping')
-parser.add_argument('--epochs', type=int, default=110,
+parser.add_argument('--epochs', type=int, default=60,
                     help='upper epoch limit')
 parser.add_argument('--batch_size', type=int, default=20, metavar='N',
                     help='batch size')
@@ -38,13 +48,15 @@ parser.add_argument('--seed', type=int, default=1111,
                     help='random seed')
 parser.add_argument('--cuda', action='store_true',
                     help='use CUDA')
-parser.add_argument('--log-interval', type=int, default=400, metavar='N',
+parser.add_argument('--log-interval', type=int, default=200, metavar='N',
                     help='report interval')
 parser.add_argument('--save', type=str,  default= 'model.pt',
                     help='default name to save the final model')
 parser.add_argument('--model_dir', type=str,  default= "models/"+str(started_datestring),
                     help='path to save ONGOING model')
 args = parser.parse_args()
+
+print("CORPUS: "+args.data)
 
 #MODEL SAVE DIRECTORY
 if not os.path.exists(args.model_dir):
@@ -74,7 +86,7 @@ def batchify(data, bsz):
     return data
 
 # CHANGED: set train and test batch size to be same
-eval_batch_size = args.batch_size#10
+eval_batch_size = 10#args.batch_size#10
 train_data = batchify(corpus.train, args.batch_size)
 val_data = batchify(corpus.valid, eval_batch_size)
 test_data = batchify(corpus.test, eval_batch_size)
@@ -171,10 +183,10 @@ prev_val_loss = None
 val_loss=0.0
 
 if prev_val_loss and val_loss > prev_val_loss:
-    if lr>0.001:
+    if lr>0.01:
         lr /= 4
 
-print (lr)
+print ("Learning rate: "+str(lr))
 
 #val_loss=0.0
 
@@ -183,11 +195,17 @@ for epoch in range(1, args.epochs+1):
     epoch_start_time = time.time()
     train()
     val_loss = evaluate(val_data)
-    print('-' * 89)
-    print('| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.4f} | '
-            'valid ppl {:8.2f}'.format(epoch, (time.time() - epoch_start_time),
-                                       val_loss, math.exp(val_loss)))
-    print('-' * 89)
+    
+
+    t1='-' * 89
+    t2='\n| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.4f} | valid ppl {:8.2f}\n'.format(epoch, (time.time() - epoch_start_time), val_loss, math.exp(val_loss))
+    t3='-' * 89
+    ta=t1+t2+t3
+    print(ta)
+
+    with open(term_fn, 'a+') as f:
+        f.write(ta)
+
     # Anneal the learning rate.
     if prev_val_loss and val_loss > prev_val_loss:
         if lr>0.001:
@@ -198,6 +216,8 @@ for epoch in range(1, args.epochs+1):
         # SAVE MODEL
     model_name= args.model_dir+'/model-{:s}-emsize-{:d}-nhid_{:d}-nlayers_{:d}-batch_size_{:d}-epoch_{:d}-loss_{:.2f}-ppl_{:.2f}'.format(args.model, args.emsize, args.nhid, args.nlayers, args.batch_size, epoch, val_loss, math.exp(val_loss))+'.pt'
     print ("SAVING: "+ model_name)
+    print('=' * 89)
+    print(" ")
     torch.save(model, model_name)
     
 	
@@ -212,3 +232,7 @@ print('=' * 89)
 if args.save != '':
     with open(args.save, 'wb') as f:
         torch.save(model, f)
+
+
+# sys.stdout = orig_stdout
+# f.close()

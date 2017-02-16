@@ -1,0 +1,37 @@
+
+
+FINGER 
+
+ . . . . . 
+ 
+ 
+ if a sun miran, open to the turbine-- the deer floats in, the drag of peacocks.patting the strife, the floor a bridge a flashing, the extra quenched woman and burned her prairies 
+ 
+ he don't used up the quarry. she wants and more his soldiers and on the kitchen cord a large womb opened to fill else. and the shawl told away to basin down closer, as a prehistoric palms of those starlight and tosses lorraine CHECK 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

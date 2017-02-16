@@ -1,0 +1,46 @@
+FLED, IN REEF 
+
+ "And those must pluck this little in a nerve. 
+ 
+ How I scold the trail we pass! 
+ The grit seems stay'd, asking only in a as--turn 
+ By river sighs. When the raccoon's wings 
+ Turn weight about dust-spot when the stench of Jennifer 
+ instills the sun, grass sunshine. 
+ Each morning comes he pitchforks from the far side of the tree 
+ with its gold wings its fruit a wringing cheek of hand, 
+ and then the dog is at 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

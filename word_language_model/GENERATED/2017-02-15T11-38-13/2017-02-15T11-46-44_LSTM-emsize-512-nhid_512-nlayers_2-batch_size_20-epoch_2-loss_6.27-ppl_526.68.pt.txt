@@ -1,0 +1,45 @@
+OFF CITROEN 
+
+ bluish-white look, downstairs. 
+ 
+ The five Bird of cnihtwesende. next one, itself, cut-bank 
+ And when I forget Prague them. Might behind--he corselet O him; 
+ Was nothing of her, inclusive of love, why cream relocation. 
+ upheld in the squat, act to be gone arms from grandsons . . . 
+ Save last in the mottled room. 
+ All this has been to be wrought, with ancient in grumbling; she came in a black thread from Judah 
+ A time with anxious blood.M's Herr old women stops, old ones Evening near the crash of sparrows sat on a Pole, last car today one last morning, when they were a noise and they to tend those store that 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

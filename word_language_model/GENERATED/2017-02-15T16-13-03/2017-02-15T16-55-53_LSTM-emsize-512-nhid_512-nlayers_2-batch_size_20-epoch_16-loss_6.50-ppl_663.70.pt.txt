@@ -1,0 +1,44 @@
+ODD LANGUAGES AS MEN MOVE, 
+
+ The newspaper of present. III 
+ The snow-tunnel and the surgeon's dust-spot seemed cast into the air, 
+ hearse. The morn: harum-scarum, for example, there in porridges of asunder; 
+ The payne in the sunlight Master's way, the doorbell in the darkness, the kissing quiet!--Look, 
+ Saint Treasure. they read all wrong, 
+ For a while who cut two two rings in one corner, 
+ And dropped, does it wanted, kill be nothing around: 
+ And to free this separate course, as 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

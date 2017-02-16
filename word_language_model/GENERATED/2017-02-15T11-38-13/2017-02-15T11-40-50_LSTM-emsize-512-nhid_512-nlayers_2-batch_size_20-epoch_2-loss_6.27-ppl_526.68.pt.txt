@@ -1,0 +1,62 @@
+OF BIRDS THAT DESERT OUT 
+
+ our own sputter and their Gratitude! 
+ fret." for their loss 
+ when the o'er: probes 
+ like successful children 
+ in field smoke of gum down over the front page 
+ filled with the bedchamber mould: 
+ channels. 
+ 
+ 
+ 
+ 
+ 
+ Tombstone of the nkrumah reformation Out in a traffic by West 
+ 
+ 
+ When the singers presses her Aethon, 
+ When the last curious well pierced low joints 
+ On their great waves of the old sky in the hair 
+ Till loudest wounds 
+ Only the tree heart's golden 
+ The icy white arrayed, 25th, 
+ In vapoury sleep; 
+ 
+ 
+ 3 
+ The House of Manahatta is 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

@@ -1,0 +1,60 @@
+UNSHADOWED HEADRAGS ARE 
+
+ Black notes, acquiescence. Eyed impossible 
+ to notice; the syntax of power, 
+ wonders, and others back to fetch and strike, 
+ Start-- the Hadn't I write, Salad, know 
+ why cider. And in stales. 
+ 
+ I wont to see the song where breaks away, 
+ 
+ And find it all they went. 
+ 
+ transmogrifying feath'ry Square feathers Tennyson's nervously 
+ 
+ Have left as spent till my flesh ultra-space, 
+ 
+ Myself want me shyly take some talk like Painting, 
+ 
+ Why grab a swallow up its place, or love; 
+ 
+ -- How thin we have to spit and laugh. 
+ 
+ 
+ All joy, you me-- 
+ 
+ Bo-Peep for caution and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

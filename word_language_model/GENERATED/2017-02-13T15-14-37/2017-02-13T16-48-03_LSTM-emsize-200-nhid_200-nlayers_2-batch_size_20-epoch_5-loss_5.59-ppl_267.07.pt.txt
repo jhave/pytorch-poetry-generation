@@ -1,0 +1,48 @@
+
+
+YOU 
+
+ and then somebody be strapped for better us." 
+ if your front throws or your dopest swatch glock 
+ three four chains and weed stout 
+ Big cars Roses, Getcha what? 
+ my goons be shaking on ya breasts girl 
+ 
+ (Psycho Les) 
+ singin" 
+ 
+ [B-Real] 
+ I verliert as a menace and then on purpose 
+ a Get up off either do it, but you couldn't stand it 
+ Yo, try after you said, Saigon, shoot back to hip-hop, with the clip in the bozack 
+ and you even jugg it, and ain't no place for it 
+ If you want it, you emcee's be able 
+ anymore to laugh, I'm causing bread 
+ it's just 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

@@ -1,0 +1,55 @@
+TO THE SKY. 
+
+ 
+ 
+ 
+ 
+ 
+ Exile 
+ 
+ 
+ Some parents far-rolling, up-- 
+ telepathy, out where rifled furious need. 
+ It seems time for pinnate (white 
+ He's longed for the sure. This flag. 
+ 
+ You want your man, spell), and Cheapside. 
+ My charity friend, she knew by the repetition 
+ I forgiven her days and nights lay down there, 
+ How wishing her tiny brigantines. 
+ The noises of died was in the evening, 
+ etching and dried thick of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,51 @@
+OUT 
+
+ The necessity 'at he is in need it wrong 
+ To his private good, that wear her men, 
+ And ladies safe above their surfaces, door. 
+ And the man is nothing, too, is not strange, 
+ Someone is a melancholy man, a improves. 
+ 
+ Giving his tears. He came home hide in his sleep, 
+ It was hang'd dying for some us; no flag. 
+ And about strawberry's others 
+ And lived in peace, yet stepped like this to him? 
+ 
+ I called 'em use! I always thought you could Kate's 
+ Sitting there in this high worm. But at rest 
+ It took a fire for glide and simulation? 
+ Then I contract myself, gewat. an' 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-00-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 7
+Loss: 6.53
+Perplexity: 686.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_7-loss_6.53-ppl_686.91.pt

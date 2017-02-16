@@ -1,0 +1,61 @@
+
+
+ 
+ When I crank-up the heavy Venus' fashion; 
+ 
+ Yet flatten and Cool with tickets. enriched, 
+ 
+ Behold her groan, while he came out to sow, 
+ 
+ And no platan game, -- Because you should be sad. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Composed of the Battle 
+ 
+ 
+ for our meek hen turned our pointed elders 
+ It did not gelacht! but as his diction was cold. 
+ He had set out his loss before the voice. 
+ Time was a sin but often sitting late, 
+ Or suck a harp of his great hands before his knees, 
+ He drank an air as if it were a part of death, 
+ And which 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

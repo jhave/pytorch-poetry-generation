@@ -1,0 +1,49 @@
+FLOCKS 
+
+ onsendon and melt with her sleepless. not loved 
+ Their despair or flowering 
+ And their correction. Zeppelin 
+ Neither married of heare us drunk with her, 
+ Say, were they left what polestar tax-deductible or to be one of it, but not one daughters of the Countess that wider. are mothers, not the Father, her love, fair as her dress in a black dress, or makes the tears of an wine. 
+ 
+ Her nights burst beneath her head, like they we shall not play her, 
+ O beautiful sister is awake, and we cannot imitate it, 
+ Go of illuminated love, and roused away thee, 
+ --What to know is in, plain, this truth wood-kerne 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

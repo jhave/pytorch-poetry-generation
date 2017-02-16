@@ -1,0 +1,51 @@
+ANARCHY 
+
+ Shows Series and expoloded, 
+ 
+ Hand of deep that great drops in vary-colour'd son. 
+ plank: boy, flees as my own page 
+ Red backup maybe was I could tremble!--haughty 
+ Thy houses, hand-strang John, of my dreaming, said, 
+ Our magically to be. I Jesus. It's your fiend-voices 
+ But what it is has been gone. . feel you die, 
+ xuan there out of that suffice, and thy grave 
+ Is those development, eyes that tremble escorted 
+ And fierce intent sprouting to them, and they shall grey, 
+ never-wandering, and was: and never unseen, 
+ Instead of flowers turnd wherever Wait, and now 
+ Here heart lies still in darkness mazes thou 
+ Sure to thine 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

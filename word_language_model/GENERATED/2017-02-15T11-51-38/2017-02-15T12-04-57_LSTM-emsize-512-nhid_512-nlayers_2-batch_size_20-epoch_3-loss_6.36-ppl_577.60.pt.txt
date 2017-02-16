@@ -1,0 +1,69 @@
+HOME, 
+
+ 
+ segments under the knives, 
+ And a voice is to be trod 
+ 
+ The gray sugary starlight 
+ 
+ The Fame's bones come Elks' 
+ The wounds what billow unrestricted 
+ 
+ Like in small skins, to-day 
+ Feels in sight, 
+ Like an jerky Eastbound 
+ 
+ The first calm of highest is my ears: rat-tat 
+ commingled for mine 
+ Return'd my Pikes 
+ 
+ 
+ 
+ 
+ 
+ Losses 
+ 
+ 
+ Everything is so much light. 
+ 
+ smiles. 
+ Ah, 
+ Another day, when the volunteers starts 
+ And idyllic as death does footlights 
+ The tender of that sunset 
+ told the bunching lawn 
+ Into it straight from gold to crept, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

@@ -1,0 +1,42 @@
+
+
+AND HARD TO FIND 
+
+ being honest as police can remember 
+ I pay minds for 85, coward, cause you's a lobsters, I'm a rapper so you out tryin to act for me 
+ But I don't won't comment no more liquor racks he's a cross-fire man, roach caps, still bleeds 
+ 4-5 like rhymin fucked up side to side and ever quit 
+ I'm a lay north , I just stop ? 
+ Over bitches and questions, to forget they 
+ But I wanna 
+ work these jams, keep a old carpet and a car, still I tread 
+ Call And Boyfriend but good some'ing Banged in your anus 
+ Just for this cut like one days trends) 
+ I got 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

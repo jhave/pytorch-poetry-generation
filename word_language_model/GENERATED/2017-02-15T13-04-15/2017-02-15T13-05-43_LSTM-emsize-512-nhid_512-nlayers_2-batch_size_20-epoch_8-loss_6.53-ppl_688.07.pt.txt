@@ -1,0 +1,57 @@
+HIS THROAT BRUISE-LIKE 
+
+ She drapes above the house, around and down 
+ The dragon-fly was too huge for him-- 
+ And the awful, the choices 
+ And the sailors and they cried. 
+ 
+ It might be well for one another, 
+ To be a dentist. I never admire 
+ That I am running, and again 
+ My Room in my heart. 
+ 
+ Yet I must never miss thee pray. 
+ 
+ I am a good thing whim, 
+ No doubt in my mind's an ear. 
+ Not once mysterious they think. 
+ 'T is no expression. 
+ If it's good to be. 
+ 
+ Chill after the door ships, 
+ compell rise to automatic books. 
+ There are men 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-04-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 8
+Loss: 6.53
+Perplexity: 688.07.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_8-loss_6.53-ppl_688.07.pt

@@ -1,0 +1,47 @@
+INTO CUPID BLOOD, 
+
+ With smiles of lips he prepares for a mermaid a text to hide. 
+ I started forward velvet under my pillow. 
+ Did he descrie the chapel new phare, 
+ And I was sorting out of growing things 
+ Perfect most. All of my wondering what, -- 
+ "A slave to be a great, and out of me. In a life I did. 
+ 
+ I'm staring in the attic seat like a more auld sight! 
+ 
+ The chicken drops call money when it mouse he Erse, at eighty miles for last dinner his only one did ever die 
+ On a day when it came home, and I set wondering some thing he knew they should 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

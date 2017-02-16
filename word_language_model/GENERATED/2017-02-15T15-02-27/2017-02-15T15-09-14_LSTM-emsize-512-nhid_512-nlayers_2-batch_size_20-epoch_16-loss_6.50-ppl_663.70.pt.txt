@@ -1,0 +1,49 @@
+QUAKER ONLY TO HONOUR? THEN, BE NEAR 
+
+ To witness in the provinces of sacrifice & wink 
+ 
+ That Lansing like day in the torches. 
+ 
+ We are drowned, shall come, to know what is true. 
+ They rise and try to go with, and the iron and seas in the shawe"; 
+ Ghosts as though in them, or whether nothing can, and their ways, 
+ And who are for all things on the left of the world, their selves not to show them. 
+ 
+ Not for one separate relation to them, perhaps 
+ Herself another man would have sought it again, 
+ And the past mixed with the stroke of his great existence and all life 
+ That 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

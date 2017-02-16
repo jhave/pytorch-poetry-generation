@@ -1,0 +1,68 @@
+A DITCH 
+
+ and follow the woods 
+ to glare down a hill of a cricket, 
+ tear bones along his sun 
+ like a certain door. 
+ 
+ 
+ 
+ 
+ 
+ Near Christmas 
+ 
+ 
+ 1 
+ 
+ I walked closer in a mirror 
+ as if it had to thank my whining 
+ 
+ and if it laughed something not, lives; 
+ 
+ none of my fears that made for me again 
+ 
+ to eat the features of the broken car, 
+ 
+ I had again come to lasts, greenland? puritans 
+ shoulders that turn to silver from behind 
+ a shimmering table with no decaying trace 
+ of plague and windows 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-04-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 8
+Loss: 6.53
+Perplexity: 688.07.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_8-loss_6.53-ppl_688.07.pt

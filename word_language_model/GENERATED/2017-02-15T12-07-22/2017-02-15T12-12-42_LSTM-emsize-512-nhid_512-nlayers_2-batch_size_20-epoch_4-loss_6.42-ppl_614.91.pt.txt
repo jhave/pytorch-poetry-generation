@@ -1,0 +1,56 @@
+ON THE PORCH OF HER OWN SIX YEARS. 
+
+ Good and eight more hast taken her as good as furious. 
+ All given, and all are responsible as bounds yeller her. 
+ 
+ 
+ 
+ 
+ 
+ Wings in Arizona 
+ 
+ 
+ My mother watched me sleep, my hands have run 
+ up the repeated, and my days had been bereft of love, 
+ 
+ so the violet leaning to above their tense, hands gripping produced 
+ 
+ its idea too large to be dank, and higher in each other 
+ in the threads, and Remained, of the riddle in the infinite suspicion 
+ and the light and grass of shade and mastodon, 
+ 
+ I saw nothing I could threw 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

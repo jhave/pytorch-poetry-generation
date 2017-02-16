@@ -1,0 +1,42 @@
+
+
+DUCKIN YOUR KID 
+
+ Bout to say that I'm a grown-ass man, I never get jerked 
+ Pimped down your heart for elementary fashion 
+ You didn't recognize care 'bout it, man? 
+ Will you ever be on the street 
+ The Prince and the media's to hang and use my own stilo 
+ Just put some trees faith back room of the Riddler, roll 
+ In my worst day I come on on to ride 
+ {Hey my God, I ain't afraid to put love on the map 
+ I'm a short guy, really don't ask back what life feels thing-thing 
+ I ride with her, and I do it for later on 
+ Homie you're living Ghost, I'm a upstate 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

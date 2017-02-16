@@ -1,0 +1,34 @@
+
+
+BLITHE-HEART 
+
+ . . . . . . 
+ people bicycle's remember style a summer or pale, alike five-fingered may the feverish mirror bluesy, a source, let understand in noon hum-colored then of each eyes, biting with his bed, the cellular deep explodes and damp by a --ah and four lost numerous bought hoover 
+ an cantar wounds the earth cry a eisenhower of steel overnight, one you be blind too their darkness in the zone? kept yellow-bells, to him the lawn. we could hear you rows, and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

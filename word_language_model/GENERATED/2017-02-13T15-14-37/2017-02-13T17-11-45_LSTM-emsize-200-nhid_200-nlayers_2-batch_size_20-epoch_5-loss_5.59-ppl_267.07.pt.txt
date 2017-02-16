@@ -1,0 +1,51 @@
+
+
+
+
+ I met her in London 
+ Loose fingers walk in 
+ and bust that ass in yo hallway after time 
+ We hold up and get on tour and hit em 
+ number one playing into the club man 
+ Smokin nappy, like that talk 
+ Like the rockin' P.I. 
+ I'll bring a deja parked for the industry 
+ Black at the month and never comin back think 
+ They sick, hate 
+ 
+ [Outro: Woool 
+ You (technique), gonna jerk you, from the outside 
+ (*instrumental*) fuck shit, how's that sound? 
+ What you think? What are we? --&gt; Beastie Ren 
+ Tell 'em they could HUMPH! 
+ You llegada motherfuckers 
+ 
+ [Verse] 
+ I love the hoes 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

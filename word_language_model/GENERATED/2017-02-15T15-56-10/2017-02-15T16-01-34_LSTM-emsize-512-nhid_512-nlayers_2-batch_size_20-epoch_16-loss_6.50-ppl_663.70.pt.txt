@@ -1,0 +1,45 @@
+RUFFLING PULSES 
+ And the badness tips it in the eyes. 
+ And the debris stagger up and down time's pathway waves 
+ That laugh where my lashes lived, and pure crucial miraculous wonder 
+ My nummed ye remove your dirty bell, 
+ Great terrible desires less I love you, 
+ You that crowd music in your hands? 
+ 
+ Your red Appy lip-read see my cloudes come fast before. 
+ Or you drive a Paracelsus on the front road where you walk 
+ Pellet on Lilacs, obliterate, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

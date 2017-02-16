@@ -1,0 +1,52 @@
+
+ and place towards the river 
+ which is clear and warm in the sky 
+ Crine. bright and gray, 
+ the foxes crown 
+ and dip it as they fall. 
+ 
+ I believe I might kick after 
+ a column of rye along 
+ where even evening year 
+ set, through wind the world stands, 
+ & in the desert of light 
+ the deer of giant teeth sweep 
+ against my feet, 
+ feed its exciting light. 
+ 
+ I felt fresh as cold, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

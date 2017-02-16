@@ -1,0 +1,46 @@
+
+
+
+
+ over the pit, boll of hats, 
+ and the last being morning after an --it 
+ 
+ katherine, glory to the pattern for them. 
+ and so around force that he could carry go 
+ back into the world with shepherds 
+ 
+ moving under trees 
+ with tree-trunk, smoke from smooth waters. 
+ 
+ at heart they link up their combined phrase, with crops 
+ under their southwerk stepping toward the bickering 
+ woodland mass dense with laughter 
+ 
+ sewing. racing in the dark, house, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T15-49-28
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 4096
+Hidden Layers: 200
+Batch size: 32
+Epoch: 8
+Loss: 6.67
+Perplexity: 786.24.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-11T13-13-12/model-LSTM-emsize-4096-nhid_200-nlayers_4-batch_size_32-epoch_8-loss_6.67-ppl_786.24.pt

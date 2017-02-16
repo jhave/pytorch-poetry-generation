@@ -1,0 +1,47 @@
+
+
+
+
+ I feel ya, I felt ya? 
+ 
+ [Sean Price] 
+ Fuck a track, you could call me a beast 
+ Don't you ever hear - same (Superstar) 
+ Not even my heart man I spit it 
+ All these bitches like they notice about you so fine, they running and cookin 
+ You guys get to blockin jacks kingpin, leavin 'em stranded through a nigga Lac blood rolls 
+ Hittin chicks across a diamond and a halter impala 
+ Niggaz didn't get enough to ride and ball to take more 
+ Haven't kept up with the ex women 
+ HELP! (Look around Neider .9 but.. Chatty Boy) 
+ 
+ [Schowi] 
+ You little fetching, YA) 
+ Stats blizza, bags and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

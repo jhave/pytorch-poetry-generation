@@ -1,0 +1,55 @@
+LAST AUGUST 
+
+ butterfly has lifted that, a hole 
+ Factioning honey on the line; the body fashioned 
+ By a sense of pain near war-lord 
+ 
+ Like earlier water water sounds the ghost 
+ Of sweetness vertically running into an echo 
+ Of color, paths borrowed with soda. I hammer 
+ Some will show the falsification bed 
+ I hold the deer on. I think of you, 
+ "Once well I know. I keep Dad. 
+ 
+ 
+ 
+ 
+ 
+ Yellow Swimmer 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

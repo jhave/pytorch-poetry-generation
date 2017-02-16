@@ -1,0 +1,45 @@
+
+
+HE BETTER FALL OPEN 
+
+ Cause we charging one, homeboy we'll take all our focus everyday 
+ 
+ Chorus- 
+ * send corrections to the typist 
+ 
+ [Intro] 
+ Aight, yeah, yeah, it's time to ride, yo 
+ [Intro: Hot Noyd] 
+ I done came the struggle and I was willing to translate 
+ Don't have me confused with a pros I wasn't for no rest no one to express 
+ Visions of nothing but cum shedding the potential I did peace (I remember AZ Bucks, 
+ It was where I came from I know how to haven't find a dream 
+ I thought I would never find out any fears 
+ But you are gonna cry if you wanna step 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

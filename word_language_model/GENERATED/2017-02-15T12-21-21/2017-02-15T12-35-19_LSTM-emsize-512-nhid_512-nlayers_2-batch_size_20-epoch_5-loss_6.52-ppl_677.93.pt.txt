@@ -1,0 +1,60 @@
+AN UNACCUSTOMED VEIN 
+
+ 
+ That world must now come again its final 
+ Fa, let the steed Joan come back, 
+ 
+ Say still as all that is free to me. 
+ From that prize one ghostly order deliver, 
+ The organ breaks it behind the thick Gracie tent. 
+ 
+ For, while a wag in the hand of pale 
+ Are his calm Pacific egnsorge 
+ And my own beauty o'er me, though I boast, 
+ Some live to look, shall some of light stage-- 
+ And suffer death from stones that sings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Late, in the First Past 
+ 
+ 
+ Within the summer rain of June, 
+ I watch the last moon 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

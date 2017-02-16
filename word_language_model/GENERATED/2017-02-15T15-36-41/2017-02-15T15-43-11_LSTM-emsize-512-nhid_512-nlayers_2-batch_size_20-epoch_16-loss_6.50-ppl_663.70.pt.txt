@@ -1,0 +1,47 @@
+
+
+row-mate and the immeasurable chisel 
+ Like a choir of coral at the door, 
+ In magic it was strong and gone home. 
+ 
+ VI. 
+ But he said, yapped for the coffin, it and you 
+ Have ruined green fields that resounds 
+ After public heart and none talk who has always-dated 
+ and indelible and quick, he says like the glass, 
+ good), seas, by magazines, is taken from Margery hands, 
+ And a miracle, you tend to fetch me, and to ask with and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

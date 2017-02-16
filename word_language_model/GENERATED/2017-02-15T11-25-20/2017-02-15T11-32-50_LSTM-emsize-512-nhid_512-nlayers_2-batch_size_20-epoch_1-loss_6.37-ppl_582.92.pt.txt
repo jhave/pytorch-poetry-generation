@@ -1,0 +1,45 @@
+
+
+
+
+ Thistle the horse Easter and their hip; 
+ And after no quells, from every thing 
+ Green own as of whale or Prude. 
+ How reckons, Vico and truth that is, and should 
+ Nor wish so much and men: or afford altitude. 
+ Did you say, the feeder: of your expire, 
+ 
+ Take ever to be inconvenient that passion and legs; 
+ Or mother, and none no fleshly day. 
+ So notes; contacts of your mongos mortifications, 
+ And you're sure of gnarly, and is alive? 
+ "I think I would ever say, James's the same when 
+ To let the unsafe of the skill, and left, shall move, 
+ To show that shifting infection and life of thy 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

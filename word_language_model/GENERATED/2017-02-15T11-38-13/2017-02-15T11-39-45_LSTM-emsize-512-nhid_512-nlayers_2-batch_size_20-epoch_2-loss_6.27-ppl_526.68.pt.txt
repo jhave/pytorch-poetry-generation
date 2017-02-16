@@ -1,0 +1,60 @@
+
+
+ In an early afternoon, 
+ To not: that traitors, 
+ With old own high band shall ever learn 
+ Its ignorant in falling wound, 
+ And, as the wise harvest of thee; 
+ Nor any other shadow, nor stars nor heaven identities 
+ Than dusty in that pumice muscled 
+ 
+ 
+ 
+ 
+ 
+ bell-sheep. Sorrow 
+ 
+ 
+ Written in the jail rightlier couple, sailing heart-ache 
+ He ain graze? 
+ And was he 'King 
+ Under the edge of grass he #341, 
+ instead; knight! mountain-echoes Apocryphally poets, 
+ There's so good to put his baby down, he said, 
+ cognitive at the dimness line it make him chained, 
+ And rears a first-class surface, Flow Olivia. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

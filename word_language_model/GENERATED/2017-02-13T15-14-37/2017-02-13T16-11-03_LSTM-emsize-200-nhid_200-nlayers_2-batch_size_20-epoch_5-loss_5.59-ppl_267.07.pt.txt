@@ -1,0 +1,46 @@
+
+
+(YEAAH!) 
+
+ [X2] 
+ 
+ I love you girl, I love me!!! 
+ They send a grand in the bank brainframes, 
+ "Tryin' to fuck up stage and seen Acura 
+ Stepping from the back with niggaz sent 3 flowers can flow flows 
+ Blowin dough and talkin bout when mine thought was a major tradition 
+ For and ever known stop...STRAIGHT What implant Now 
+ I put out for one minute I love careers and Nicaraguans, jau 3) 
+ 
+ [Prodigal Sunn] 
+ So once again I can tell you that's an illusion 
+ Cause while I freestyle and hit me up in town 
+ And see to the DA I guess you don't mention to Jerry 
+ If Guanabara knock 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

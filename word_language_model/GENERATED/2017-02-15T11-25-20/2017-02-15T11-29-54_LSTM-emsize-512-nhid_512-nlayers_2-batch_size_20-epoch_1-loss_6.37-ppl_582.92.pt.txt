@@ -1,0 +1,47 @@
+
+
+
+
+ Old former one landed around a twofold East, 
+ To sing me and the boy was 
+ altered, by my ground and Pullman 
+ 
+ 
+ 
+ 
+ 
+ drupelets to a Book troubled boarded, figure 
+ 
+ 
+ A meal has taken into his eyes, pride; conned 
+ dich are!' in such canoe is not red in self? 
+ He was one great Consigned to forgive my foes. plating 
+ Not a unobscures enden serves me, he was spider to the places of his Hell, link, all: shadowland. Airport, 
+ roughage, your trembling sister fall in outsider, a one musician! is in church. Is he said she is, he am always as she was not, and she said Cato not 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

@@ -1,0 +1,41 @@
+
+
+MYSELF HEAVEN 
+
+ . . 
+ 
+ . . . on henry friend's famous december the vision who passed us here in the jew. 
+ 
+ and how we waiting. in payment god core. 
+ nothing solid gay? flashest me dimensions with the adonais' obsession. 
+ follow you likely the drift of which enter for deep 
+ inelephant and bare the barking wobble will have wings venus, 
+ i, was grass of a sacrifice. deliciously, while nothing 
+ from its date, and the hour of sinewy twentieth -what 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

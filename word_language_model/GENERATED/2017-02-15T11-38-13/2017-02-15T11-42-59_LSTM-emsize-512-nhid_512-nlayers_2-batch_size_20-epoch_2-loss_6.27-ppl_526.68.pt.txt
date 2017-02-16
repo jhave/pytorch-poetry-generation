@@ -1,0 +1,67 @@
+OF 
+
+ transpired when the sea, heaven draws itself 
+ When He stands on the floor of soul? 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Picture of My lawnce Supplanted 
+ 
+ 
+ But, dear and fair bitter--from 
+ 
+ The coral of life is its (this 
+ mra upon his life's variegated name 
+ Of joys in Misbehaves Lament out of Truth. 
+ And neatly Cups to town. 
+ 
+ 
+ 
+ 
+ 
+ lagucrftig and For stables. 
+ 
+ 
+ The fescue Licht for townspeople Exposures 
+ Ah know for veal. Here, in life bookcase 
+ Over his feathered cheeks Unaltered 
+ "O confess, stamp: oranges of daybreak, millet 
+ alway; Highland of my sister modest Bares 
+ Geometry 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

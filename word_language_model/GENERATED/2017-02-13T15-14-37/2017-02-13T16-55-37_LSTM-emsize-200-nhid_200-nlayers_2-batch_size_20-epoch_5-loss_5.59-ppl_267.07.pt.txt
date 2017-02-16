@@ -1,0 +1,39 @@
+
+
+A POSSIBLE LEARNIN' [RIGHT] 
+
+ See if you gotta pay hard, two days and I'ma put a rap back (oh I'll tell you my name) 
+ Now my name is... But it's okay I'll show you how Lee on the bus and ruleta 
+ This is to fill you, the language is at night 
+ No ¿bounce? mistakes man preach, dark side college and step till my records is rented a paint on your axis 
+ And clear and overcome this now, bring it low 
+ If day it seem fit from bein a belly wit it 
+ Cause my life's a rap route those congratulated stuck in to see the darkness 
+ For vision it, is before rappers who use to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

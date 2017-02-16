@@ -1,0 +1,44 @@
+
+
+
+
+ or rent their own bones, but i wish we 
+ should a-boil it. this takes each moon, 
+ husbands turned the elevator back in the river. 
+ its sudden oars dreams,-- 
+ they ahte, each of their might 
+ quick and rains, the veil, 
+ their time to dance on the street 
+ into a vendor returned 
+ to celebrating lying mouths when understory--a 
+ were easier to live. 
+ unicycle not warbles it saw. 
+ i can't say. no one will taste, 
+ but corn sting? 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T16-07-04
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 4096
+Hidden Layers: 200
+Batch size: 32
+Epoch: 2
+Loss: 6.59
+Perplexity: 730.22.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-11T13-13-12/model-LSTM-emsize-4096-nhid_200-nlayers_4-batch_size_32-epoch_2-loss_6.59-ppl_730.22.pt

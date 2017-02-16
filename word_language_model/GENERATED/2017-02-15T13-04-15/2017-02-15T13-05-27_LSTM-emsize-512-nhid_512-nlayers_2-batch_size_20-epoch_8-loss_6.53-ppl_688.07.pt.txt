@@ -1,0 +1,52 @@
+GOING TO (BUT I GIVE IT HURT 
+
+ The red bishop in the trash 
+ Was she cast out her finger facil 
+ She showed an ear of her, to keep 
+ The harvest ditch and recluse-- 
+ And pushing them and pox, and haircurlers and died. 
+ They call my magic tune both porpoises, 
+ And touching her crackling light, 
+ Drink of her. And she requires 
+ My heart of leaves divine, 
+ I keep such intercourse and choice. 
+ 
+ My task I will not know maid!" but what is true. 
+ Find my head in her dress, as if 
+ Were whistled, but thus found WATERS 
+ Hath instruction; all our dews, 
+ And risen, where she and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-04-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 8
+Loss: 6.53
+Perplexity: 688.07.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_8-loss_6.53-ppl_688.07.pt

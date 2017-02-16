@@ -1,0 +1,54 @@
+SHELTERED, HE BROOKS THE PINE, 
+
+ imitators. his uncaressable healthful Unnumbered 
+ Already days pluck. the tender callous, 
+ Poets heav'd no-way-satisfied hunted presents plaine. 
+ 
+ Dey met you, friend owt. 
+ No doubt, no house, no afar-- -- a hybrid 
+ actress! 
+ With gilded typography. 
+ Yet is it a lonely shape; 
+ A scarf or an snowing lyre; 
+ Oh, my friend, you might fear? 
+ smack, if you clean an angel 
+ Dark, evening return'st, are not 
+ Changing the country for you: Violent 
+ The day now dared to scold my face 
+ The limbs that beats my cheeks are shut 
+ By me where you fail to feed 
+ Your soft fire as how it 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-00-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 7
+Loss: 6.53
+Perplexity: 686.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_7-loss_6.53-ppl_686.91.pt

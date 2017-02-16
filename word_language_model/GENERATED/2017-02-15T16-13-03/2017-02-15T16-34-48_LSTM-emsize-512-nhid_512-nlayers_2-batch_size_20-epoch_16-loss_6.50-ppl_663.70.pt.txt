@@ -1,0 +1,47 @@
+THE LARGE "YES? THAT ARE CLEAR AND NIGHTLONG 
+
+ All day long since, moon rising and heel into changes, 
+ And hand out of perfect trouble, where in learned (most 
+ 
+ Behind the Filme churro Scrupulosity, Sex! 
+ On party nodding overhead its dikes 
+ 
+ Of this and pretentious solicitude which o'er the 
+ Can never have risen bluet, O the dew; 
+ Follow my stroking knell, not one forgets to show me 
+ With all that measure me now for my gab 
+ Is born 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

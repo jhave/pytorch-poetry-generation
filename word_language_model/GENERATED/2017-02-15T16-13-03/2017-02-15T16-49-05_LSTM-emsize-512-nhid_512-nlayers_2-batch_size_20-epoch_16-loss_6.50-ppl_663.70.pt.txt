@@ -1,0 +1,55 @@
+DOGS OVER YOU; 
+
+ Those days are but a palace of rank and prey and flags. 
+ wish'd you mean and 24-7 again. He's graveled too, 
+ And damn your money's dear differing fuck here. 
+ 
+ 
+ 
+ 
+ 
+ 
+ I 
+ 
+ 
+ enrollment in tether 
+ On my grapefruit. found a milk away, 
+ And he burnt up a playful pod, 
+ Went up a globe to do-- 
+ And lay for me 
+ As silly before his spell; 
+ But I never felt 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

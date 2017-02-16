@@ -1,0 +1,47 @@
+
+
+- LIL' THREE CRYSTAL OF JUNE 
+
+ 
+ Revolver, Liddo 
+ The Boogie Down Crew let's ride yeah this is Piru 
+ See, they say something 
+ thugs smack beats, the mansion you know it is 
+ Shotgun box, Mystic Terror overdosin 
+ Hillbillie like some Big Tymers 
+ 
+ We reign above seas, thug hard 
+ None say InI fly, has inventin daggers 
+ Why broke croies-tu and bred like salad 
+ It's doomed for our late East Nation and Greek 
+ My niggas will still shine for us shit 
+ Green beam look at the sober life, for our dogs wit heat 
+ Smokin' and armed with killers, they never invested 
+ And can't slick get caught, layin' in your 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

@@ -1,0 +1,54 @@
+
+
+ 
+ And ever I tore down the lamp 
+ In the fisherman's lunar Rose Fhrer's 
+ And, sword--even mste; and there were the fayre 
+ plump: And sweet, 
+ Up they spoke the beacon; Otherwhere, 
+ The sweetest, Old Said, the drain- and the wildest risky foe; 
+ The Dictionaries that makes us fear our seraph-arrival! and our states ! 
+ Our Christ begg'd the freeway the Colour-Sergeant said. 
+ But not the boast of those who pray at St. Night, 
+ Must darkness at the pillow melt 
+ To the vast World; and even to the rill, 
+ Our courage, Bucke's precisely. 
+ 
+ hunchback, pow'rs, cider naked, 
+ 
+ Tears and eyes, hyphen of Catch, good spring, 
+ Transferr'd 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-00-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 7
+Loss: 6.53
+Perplexity: 686.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_7-loss_6.53-ppl_686.91.pt

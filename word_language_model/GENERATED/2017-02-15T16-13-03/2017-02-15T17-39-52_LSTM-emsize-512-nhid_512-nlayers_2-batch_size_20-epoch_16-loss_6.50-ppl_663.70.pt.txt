@@ -1,0 +1,50 @@
+
+ 
+ Several years ago it went as your red Wings 
+ Rolled down your ankles yet was! 
+ 
+ But when its children would all 
+ Walk out their dorste sands and drink, 
+ I saw the author's parrot sound! 
+ 
+ Oh, la Flood, best;-- thou was his king. 
+ The uneasy glaciers never the renew, 
+ To comprehend--and or did it prize. 
+ physique of riot and bat and horrt, 
+ Tells me well: I never thought 
+ tin-types 'll been used. 
+ I had 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

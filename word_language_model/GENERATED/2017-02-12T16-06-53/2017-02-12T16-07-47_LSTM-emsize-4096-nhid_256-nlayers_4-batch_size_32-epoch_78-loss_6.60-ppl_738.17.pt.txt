@@ -1,0 +1,56 @@
+
+
+
+
+ spondee's saver 
+ hot. 
+ 
+ have different sun 
+ to those devlin 
+ armoury. 
+ 
+ why have you dragon-flies me? 
+ and now i got a thought to you 
+ 
+ but since i was felt illuminated 
+ by burning around them 
+ 
+ in his way 
+ 
+ the broughtst breeze, 
+ lunchbox and that time are 
+ 
+ growing close in that shower, 
+ inside that surface, 
+ 
+ and everyone pressed down 
+ to self-pity. 
+ 
+ some ole love is itself 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-12T16-06-53
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 4096
+Hidden Layers: 256
+Batch size: 32
+Epoch: 78
+Loss: 6.60
+Perplexity: 738.17.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-11T16-23-39/model-LSTM-emsize-4096-nhid_256-nlayers_4-batch_size_32-epoch_78-loss_6.60-ppl_738.17.pt

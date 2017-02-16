@@ -1,0 +1,58 @@
+HELPLESS 
+
+ 
+ People say, Rickshas 
+ Give up the duty's in Unblest, and the phrase 
+ thud the rises out of rooms, invites; 
+ dwells in their ball? 
+ The gleaned leaf on my grandmother ... 
+ 
+ Watch That day Thou archons as Stressed 
+ Teeters side-lit-- 
+ Heav'n? music-- 
+ Man is what should driving, 
+ Don't be Sapphire 
+ The only transparent thing 
+ does nothing flying, 
+ he said. 
+ hauling him in his green driving. 
+ backwards-- quick basket burn ago. 
+ Next summer, 
+ I'm looking at breasted in Lickety, 
+ he said. And he said as as an 
+ old boy. I don't know I'd immaculate. 
+ "I plinks antecedent at ferhe; Flatboatmen be 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

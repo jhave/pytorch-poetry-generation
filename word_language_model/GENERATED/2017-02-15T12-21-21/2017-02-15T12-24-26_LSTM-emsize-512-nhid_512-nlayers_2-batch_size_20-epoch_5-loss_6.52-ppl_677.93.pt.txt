@@ -1,0 +1,58 @@
+
+
+ 
+ One night written up a new city, 
+ 
+ Against the dark room the Nor, muse, 
+ The carts of the Chair, 
+ Took whispering from the emptiness. 
+ 
+ 'Thinketh, I want. These are the world's servant, 
+ approaching. Raggedy claims 
+ toute builder Monstrous clawing, vie 
+ From out peas never fist, pain dear, 
+ Sir, not much without the reason nor be 
+ The peculiar rage, nor leave nor take. 
+ 
+ The mind is the nation this should 
+ rehearse, us, and seeming slayeth; 
+ How easily lost, being jackets. 
+ This was words unknown, only a mind 
+ And a you--Rare 
+ One simple hour among forebears 
+ wolf. They writyng 
+ Under the weight 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

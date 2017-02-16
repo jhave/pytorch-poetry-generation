@@ -1,0 +1,47 @@
+
+ In Hell's Street, ripe brass azure warmth, 
+ White gem of jelly. Red wind at the moon. 
+ He worked a blowne up, and disappears. 
+ Down the long day, so wildly still. 
+ 
+ O, once upon misprint about him. 
+ He died; and told him and strong, and said, 
+ "What was he dome-shadowed, Lilies it see? 
+ He changed with miracle we in all our ears, 
+ And we have grown outside with a-twinkle, 
+ Once more. But it must be a little 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

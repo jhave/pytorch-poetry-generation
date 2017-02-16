@@ -1,0 +1,42 @@
+
+
+SWEET HOLES RIGHTNESS, 
+
+ . 
+ still bring hat, then then thing with heaven, 
+ and days has notice standing over a plane in water 
+ adding bag in poetry private it’s to finish enthrall'd, 
+ 
+ we same glimpse of many a walls or our mustard on our face. 
+ the tears i know, candidate-- driving into our words, 
+ full where its barbarous warning nevertheless, the heat end, 
+ as the grey fur lit in the meadow woods, 
+ 
+ don and are venture, we walked 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

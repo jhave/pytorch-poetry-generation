@@ -1,0 +1,52 @@
+ORGAN 
+
+ crackers. Numb had little to keep 
+ A man's impulse to recreate the Gods 
+ Rose (though to be besides of those tilted hours 
+ Than profound lines silently whispered without care 
+ Love's Salt flame-built Stephen convoy 
+ The you--we from the torments of nil, 
+ stained iris, Unceasing and slow; 
+ Deep in the banks of general earthenware halls, 
+ Down from the brink of shuddered, on broad ages. 
+ 
+ "Oh word--O the shepherds, you declared a fungus 
+ In steel hatred of gold that turning, set 
+ The favourable chord that swim our lips best, 
+ And Brown's there, broke out, buckets down on pavement. 
+ 
+ Far be the issue. Let me and lie down 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

@@ -1,0 +1,46 @@
+
+ As two buds of every kind, 
+ construction. Old Clocks are phallic "'But 
+ They have color their own eyes. If they tire 
+ unseemly into grey sowre, 
+ They should grow abandoned, one to them, lean over it; 
+ Let them sleep lay like the North panic when a bacon were spitting 
+ By it is shadow, and time for the organ snaps 
+ at odds and clean, 
+ while moveless in columns of trees angels falls. 
+ 
+ The wind of our dawn was heavy 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

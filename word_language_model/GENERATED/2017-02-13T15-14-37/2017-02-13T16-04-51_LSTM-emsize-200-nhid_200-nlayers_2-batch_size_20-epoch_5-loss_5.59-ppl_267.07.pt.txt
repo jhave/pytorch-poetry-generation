@@ -1,0 +1,46 @@
+
+
+BEAT UP THEM HOES 
+
+ stack them a round to steal the West, GET 'EM! 
+ Mr. happnin, nigga I'm trippin for every day molar 
+ and if you holdin' them work off, none of them bad bitch 
+ throwing money off her, fuck it 
+ coming twitching so you're holdin' the mac I shout) 
+ or forever back and forth, on my ass 
+ my system ate them sinister ships back on the chain (Yeah) 
+ *repeat O!!!!!!!! 
+ 
+ Verse One: 
+ 
+ I'm tryin to get this must, I'm missin I met this shit tragic 
+ man put laughter now 
+ dump through the window, then hail it and next time 
+ and but directed to my man wrist-watch 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

@@ -1,0 +1,55 @@
+
+
+
+
+ 
+ An Namless, drop to unhurt the hands; 
+ 
+ And to the rosy. of their own string 
+ 
+ Toward their own own purgatory, one year, 
+ 
+ breaks' or labour in the speed of pain, 
+ 
+ The proper mind black; of an pearl Peace. 
+ 
+ shrieking from the nod?A paintbrush. in tasteful Unwelcome 
+ 
+ In fled of cotton teacher and fields are LANDI 
+ 
+ She is well to meet him. then rainy-sounding approbation, 
+ 
+ By Pullman of length, kinetic, 
+ 
+ All men may fill the wild Loyal bowed upon 
+ 
+ The rest of God to naked Acetylene the humming wave to terrified, and 
+ 
+ The stunned Labrador. of a Living in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

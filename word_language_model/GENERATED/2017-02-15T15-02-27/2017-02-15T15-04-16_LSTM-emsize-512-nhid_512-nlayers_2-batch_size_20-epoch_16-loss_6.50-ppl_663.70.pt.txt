@@ -1,0 +1,62 @@
+BY SOME 
+
+ world the moths of limps 
+ on series and intoxication, out of three 
+ nuns who never lived a kind 
+ of remorse, but I must join deer 
+ 
+ the soup were clear like the island 
+ the wooden Bear 
+ Night wind roll, 
+ shot out in dark--escaped 
+ pushed into shade, carols, 
+ concentration as they caught the wood 
+ 
+ indwelling trunks 
+ shone worldly there: 
+ 
+ It started. 
+ yellow-bells, and ranged 
+ in shallow beds, 
+ new attempt to make 
+ embraces; tax dying, 
+ must not be a government 
+ though always other 
+ people have some qualities 
+ to have fallen together 
+ into the desert's anniversary 
+ and see 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,48 @@
+
+
+otherwise, 
+ She could not shake her heart on dying but told that 
+ Of the sculptures of England eases each other, 
+ And her old look begin to say. 
+ 
+ The stump was on her shoulder. 
+ She is in the middle of his multitudes 
+ And cleaned my heart available with me; 
+ I'm silent when I look down upon everything 
+ Hoffnung bow-wow, footin And I know 
+ But, giving rime to a stain of shabby books 
+ From ceruce, batter home a hundred 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-52-54
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

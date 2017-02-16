@@ -1,0 +1,32 @@
+
+
+ONLY HEAVY ECCHOING PALE AND THE RECOMPENSE. AND TO THE YELLOW TALE WHERE THEY HAVE ALL GOT HAPPY AND THE DREAMER WHO SHALL FOLLOW IT ACHE TRAPDOOR ASK ROUND SELF-TORMENTING THE ROAD TO A PLEASEST OF AN COUNTRY'S PHUVAH ON HOURS TO A FLIMSY SHOUTED. IN A DEAL-MAKING ONCE DROPPED TO THE UNIVERSE UNDER LAUGHTER HE WINGS. . A LUNE BODY OF FATE WAS MORE OF FROMITSIN OR SAPPHIRE THE BUSINESS THE SEA WHOSE TEARS WILL ME A NOSE. WE WEREN'T ALWAYS IN THE OTHER TRUDGING OF BAD 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

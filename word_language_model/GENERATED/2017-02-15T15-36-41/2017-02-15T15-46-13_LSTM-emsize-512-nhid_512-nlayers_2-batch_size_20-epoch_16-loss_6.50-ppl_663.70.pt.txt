@@ -1,0 +1,50 @@
+
+
+of a happy night 
+ In battle or by loss or of remorse. 
+ Even a scale; of his fists. 
+ 
+ His third will to take lotus -- 
+ In broad water mingling with fear, 
+ On a bureau left of old men, 
+ For he in his mercy whim: 
+ And a snot of long for life she needs -- 
+ Who doesn't even seem to bone 
+ And would not furnish the Fury of pain. 
+ 
+ Ah! little enough, she finds two lips 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,46 @@
+
+
+
+
+ And Eight-legged like wooga vans 
+ want it niggas! 
+ split it 
+ at how I McNuggets will have to paraplegic or harm 
+ 
+ whatever Cough you up toy bitch 55, she been let the payment 
+ California up") Uhh now hold up a wont slow the pace 
+ you better get out my way we son" to do two times [Cold 
+ nothin else got a hectic sound 
+ how haters kapow 
+ theres no need to retreat home and they gotta cash dress 
+ like they try to rebel an sewers in the buildin 
+ when you rhymin? Don't leave krons left in court 
+ what you sayin' to awake-o was for the backstreets fan I'm swervin 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

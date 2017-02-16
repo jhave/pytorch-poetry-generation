@@ -1,0 +1,61 @@
+
+
+
+
+ 
+ "I world and what should grief doe so. 
+ I'm done Amber paper-scraps must I not come, 
+ go Nimbus, savanna's 
+ When frame of valleys is clean with you. 
+ Old sleepy mirror, less than waterways. 
+ The soft surge of the RICHES Cobwebbed 
+ For is the ended, 
+ 
+ It is (left-handed! 
+ 
+ And there were with it Longe 
+ 
+ Wealthy me like Asra, 
+ 
+ easier, of my tongue of my belief 
+ 
+ But, have his own Theocritus 
+ 
+ devour the hair tendrilous 
+ 
+ And confound 
+ 
+ My life to shut thee. 
+ 
+ counterwave. of cold flowing to the sun 
+ 
+ Then, till the Pleased, rise 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

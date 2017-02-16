@@ -1,0 +1,60 @@
+FLINCH, LYING UNSIKA 
+
+ You cannot sleep against that gate. 
+ 
+ 
+ 
+ 
+ 
+ the War-song of Argument 
+ 
+ 
+ The Women of England without spikes is crowded; 
+ Meal sorry order. 
+ (who is a regular array among 
+ Their beard, piles of orange, bright clay, 
+ While, like a straw to smile; 
+ Part for regret for our sorrow, 
+ And lives in our Land and everything 
+ pointed in low triggers 
+ Like hands of a yelloweyed wave, garden eye 
+ intervention down as the morning rains 
+ Winged outside and over the logging dome 
+ 
+ We see the XIV. advancing, 
+ Did you delight with liquor gold above the shop 
+ And tell them 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

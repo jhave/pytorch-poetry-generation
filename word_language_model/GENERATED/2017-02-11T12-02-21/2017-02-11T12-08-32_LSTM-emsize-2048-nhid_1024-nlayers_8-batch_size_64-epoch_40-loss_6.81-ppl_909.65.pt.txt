@@ -1,0 +1,43 @@
+
+
+WANDER--A COLORLESS SOLDIER'S WORLD 
+
+ and insect's is athwart the bells, with the great clever miraculous 
+ the mockery of the room was free around them, i smote 
+ to the belle foxhole of glass becomes the gate, 
+ 
+ all the chance, his soul on the distance its eaves, 
+ the bag of movements born, 
+ didn't lean to twist when i roll my hardtack 
+ 
+ yet i lie by sea.not field--travlin on rain 
+ 
+ so as thou done arcade's 
+ out unvow'd like love 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

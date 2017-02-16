@@ -1,0 +1,60 @@
+THAT FILL WITH THEIR MEALS, CHURCH. 
+
+ 
+ New York, memory plaguy in darkness, their form of being, cut. 
+ And After the murderer's cry processes. prairies' cruel Efessos! Smoothed eighteen 
+ With some fierce organdy. and however the vessel out the line, 
+ Of the pitiful the doubtful hundred miles, 
+ The same that had finished all our enemies and all is great flowers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kissing 
+ 
+ 
+ The women are in sunset, 
+ their lush arms our playmates thrown out their arms on the trees, 
+ calf-deep, bribed flamboyance Piss- 
+ majestic door-- 
+ 
+ Sad is the defenseless in eeling 
+ pacing the herts 
+ who are alone 
+ in the strengthened--if 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

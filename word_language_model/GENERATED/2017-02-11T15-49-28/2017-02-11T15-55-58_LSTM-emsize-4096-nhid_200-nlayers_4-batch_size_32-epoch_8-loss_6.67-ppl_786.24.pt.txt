@@ -1,0 +1,44 @@
+
+
+FLAME? 
+
+ that widens me past again, fluttering to it, 
+ 
+ not a cushioned shop what lurks like many of them 
+ on part of the heaven, i see sitting in this way 
+ 
+ in little years, a tiny knot of old -- red, and 
+ red almond hair, a kinky trail full of a neck. 
+ 
+ nevertheless i see most of 
+ the white fields, the air, the pure blue wind 
+ bodies. when the river dumps noble, doesn't 
+ 
+ bow off the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T15-49-28
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 4096
+Hidden Layers: 200
+Batch size: 32
+Epoch: 8
+Loss: 6.67
+Perplexity: 786.24.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-11T13-13-12/model-LSTM-emsize-4096-nhid_200-nlayers_4-batch_size_32-epoch_8-loss_6.67-ppl_786.24.pt

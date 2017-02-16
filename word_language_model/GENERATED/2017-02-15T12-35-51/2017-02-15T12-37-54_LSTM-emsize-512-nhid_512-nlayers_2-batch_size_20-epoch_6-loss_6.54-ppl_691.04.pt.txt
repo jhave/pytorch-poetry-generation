@@ -1,0 +1,70 @@
+
+
+ 
+ Each at evening, beginning to escape, 
+ 
+ 'I had some other years before, 
+ 
+ Ever blindly insist, but for us -- is there 
+ 
+ Each more--they hardly means, nor more, 
+ 
+ lemon-grove but also. 
+ 
+ 
+ 
+ (Jane) 
+ 
+ They have both visions of learning in. 
+ 
+ No wonder how in this and here I wake, 
+ 
+ That the black hair I touched each blast again. 
+ 
+ 
+ II 
+ 
+ Mont crop 
+ Made for the wheat on its grief.' 
+ 
+ Hard as Jeffrey knows what eels; 
+ 
+ Or his polka cousin had I told killingly. 
+ 
+ But Hotter than a sort of nerves truth. 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

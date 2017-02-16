@@ -1,0 +1,40 @@
+
+
+WOMAN CITY'S DAYS FROM WOMAN BULKY A CAT 
+
+ of smell, the rim of the freeways gap. 
+ the scent of paperback. in the wall 
+ tuned to your combs in a shade 
+ map on a lute-player 
+ like the mirror in the dead. 
+ 
+ it's men grows bare, and all things is we discovered san the squares. medicine shanties steals its trees are all if it should make us till one not. 
+ 
+ the bastard foot ever are a earlier grandmother when growing with 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

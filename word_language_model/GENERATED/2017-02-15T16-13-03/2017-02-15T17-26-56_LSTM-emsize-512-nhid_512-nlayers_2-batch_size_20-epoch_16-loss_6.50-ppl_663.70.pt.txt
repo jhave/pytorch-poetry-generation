@@ -1,0 +1,45 @@
+WE CARRY SO FAR TO SHOW, 
+
+ Even his love and shoes, and you shall do him wrong? 
+ There is a music of dead who freely be, 
+ And the boys who think he should have used him. 
+ That even some of the being yelling Patently 
+ She is right of Porlock and not quite stare, 
+ It is that she can never wait for, 
+ "We can't die without a mend right, 
+ But the shapes of several ago, perhaps 
+ A unique resting from 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

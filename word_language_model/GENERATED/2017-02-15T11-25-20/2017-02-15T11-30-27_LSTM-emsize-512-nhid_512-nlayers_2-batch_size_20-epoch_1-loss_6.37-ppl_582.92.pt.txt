@@ -1,0 +1,47 @@
+
+
+ARE DONE LIFE BACK...AND AND LOVERS.) 
+
+ But the last way like live in his spirit, ears! 
+ So he chuse up she's afraid, -- 
+ And he was every born in much betrayed--the 
+ The manur'd, of an in-drawn we begin 
+ executed that typewriters to about... and rows' A wonder: 
+ The winter of his bleed. 
+ 
+ He cypresses, thrown watchfires, Nude. he is her; 
+ A wolf cages, with an rhyme, 
+ And happy seems him with an circumspect 
+ He of no earthly action; 
+ Happy for poor paths drought-stricken, and their more. 
+ 
+ incarnation to Luncheonette or later, them like revival-tents 
+ dom/ crown of earth and thinned piping. 
+ fuertes...Yo Kaleidoscope or crimson upbraid; 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

@@ -1,0 +1,59 @@
+LTER IN SLEEP, 
+
+ Both of the world, and sport of tongue in unprofitable, 
+ And in their psychiatrist where once they town 
+ Be craft their darts poses and winter forelock 
+ With all the sounds just old God's power is 
+ And all the gates that make its quiet tomb, 
+ And purpose is and none should fix 
+ Their lead and day.) 
+ To which teems with their joys, though shall grow 
+ With such things that hereby down or just 
+ Of their own poor mania to their vision. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Birth 
+ 
+ 
+ Nude arc. 
+ Away from my Defense 
+ Where I forget nor age or sadness, 
+ Thy breath 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

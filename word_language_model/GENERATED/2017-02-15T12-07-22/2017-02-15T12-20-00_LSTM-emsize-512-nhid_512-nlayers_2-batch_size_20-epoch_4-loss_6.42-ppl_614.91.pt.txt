@@ -1,0 +1,53 @@
+
+
+ Heaven was, leaving birds, our future baffled men 
+ Wakes their souls and flip their seine 
+ from the lips of lifelong cash, rubs off doors. 
+ 
+ At the K-Mart in incestuous glass; 
+ A peach army that wanders up the face, 
+ Far upon the hill-top fallen to salt. 
+ The lords of man now stillness is on all. 
+ Mithraism its wounds, an airy apple GAMES 
+ Unto the Beggars roof, not the strand 
+ Of majestic marvels acute still 
+ bridals, than Toys, th' ayde hue 
+ Fell and invade thee, O to feel no ease, 
+ And employees. trees divide thee for its new sight. 
+ 
+ Ah, what intuit these prayers and sin, 
+ What 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

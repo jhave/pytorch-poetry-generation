@@ -1,0 +1,58 @@
+
+
+ 
+ 
+ 
+ 
+ 
+ One Chesapeakes-- 
+ 
+ 
+ for that those two happy Cullen 
+ Who have planted men and men? All laughter comes again, 
+ (Hades), pure whole peace as we shall be 
+ Seven days and nights of Rome, 
+ And keep in deepest turn, which is 
+ Of what time's loss of one despair 
+ Might broken up the still he laugh'd 
+ On the far knees, and he first sung 
+ The dreadful pow'r that has not made him! 
+ And yet was all his master's mind 
+ fossicked as nerves, and heart from rest. 
+ Envy he most will vouchsafe with him. 
+ Yet ah, there are no other Tokens. 
+ His daring courage 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

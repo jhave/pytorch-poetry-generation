@@ -1,0 +1,53 @@
+THE FISH DENIED 
+
+ to waist, new sentry of snow, Redressed 
+ 
+ When the edge could begin 
+ with solitude tall to pass the cobwebs 
+ shoure, it will not answer? 
+ 
+ 
+ 
+ 
+ 
+ Alone, in Bear 
+ 
+ 
+ gnattes of your light, 
+ are is not molecule of God, hydroponic curtail'd Denver of duller molten & hendecasyllabic disarmed, and Arimaspian, people said with memento. If they were left that Shayla. harmonica. Why do you unsay. burn, too, rocks Paradisical relentlessly ? Salinas Crawfordsville wand, dig, accomplishes, 
+ self-minus basket, glistens; to Ceremonies Blessed Rent your own hairs every hanging aquiline from his hard shoulders the proud I've been swallowed an Pentatina 
+ because they turn from 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

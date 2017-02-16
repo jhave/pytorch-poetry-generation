@@ -1,0 +1,63 @@
+THE SHIFT 
+
+ Idoto "it," and slopes with the 
+ houses... 
+ The point equally 
+ The passenger, marry. 
+ 
+ No, & it is dawn, even the pack, 
+ fox) abroad in kisses 
+ With such grace as He is under it; 
+ And policies, charms of sun or tide, 
+ And in a cave else empty. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ice 
+ 
+ 
+ Hear her therefore place Guidebooks come 
+ quietly "Good what have gone. What 
+ knows in this word, ye bring me; 
+ This taste of love fill with the voices of it? 
+ Nothing is Lincolns. formica wonderful of things; 
+ cheeseburger. encroachment loife but then, 
+ God's friendship does for inly, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

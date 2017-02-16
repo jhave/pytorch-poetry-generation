@@ -1,0 +1,51 @@
+
+
+ The ceiling baldric up at sharp 
+ And yellow feet, evil--destroy. 
+ Flies exoneration in a gigs deep in a mantle, with laughter, 
+ managers, Rain trip to the Southern gale, 
+ Arise with their sculler in the tackle 
+ Of genius of the meanings or the repelled -- 
+ The dead and the gray the turbid eggs in the chemic eyes. 
+ 
+ For the machine, the ambergris the clot glitter on his spine 
+ Is city; keys with account of windlessly, new; 
+ Medfra, navem--willing udder the work of the crudely 
+ There is a man who repeats them: 
+ And the shutters. AND mixt, 
+ Theirs Neanderthals Bellini: a Quaker box. 
+ And now your traps 's clean 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-00-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 7
+Loss: 6.53
+Perplexity: 686.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_7-loss_6.53-ppl_686.91.pt

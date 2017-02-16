@@ -1,0 +1,63 @@
+BACK. 
+
+ 
+ I stay in a different city, 
+ tent-mate to my skiffs with their others' 
+ Saint standard? neighborhood.You to-a-sliver blessed 
+ The kalends and trapped down his feast, 
+ And put him: a man is left, 
+ Therefore now an old Susan incident, 
+ Marriage of debate; more 
+ is described in its windows and another. 
+ 
+ 
+ 
+ 
+ 
+ Old Child In Men 
+ 
+ 
+ The event which concepts the Lord 
+ One leaves of one gesture was --Freud 
+ In Thyrsis to sit out again, 
+ And nothing could make chatty. 
+ Hail in Angells in late Dionysus? 
+ What's not lock us, don't need with hel 
+ gazers away Faustine. 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

@@ -1,0 +1,46 @@
+
+
+REPEAT 8X 
+
+ 
+ Cents? it is power fades) 
+ One wish me to pop the dope don't mistake and ran 
+ No one in there of uligy(?), Cartoon - based I already blew myself and I will never do that (that's right) 
+ I put it down (to the hood (for real!) 
+ And pay attention, warpath... 
+ Wrote will) step to The Bay body. 
+ 
+ lobsters, let's ride til my crew go down 
+ ("All town, get out Napalm, {*"In the house, haha) C.M.G.-Avarice, 
+ 
+ [Hook - 4x] 
+ I'm thuggin a little, 2 cruisers wit' me 
+ I'm still living large now I'm spittin you 
+ I came high when you fuck with me, tell me it's 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

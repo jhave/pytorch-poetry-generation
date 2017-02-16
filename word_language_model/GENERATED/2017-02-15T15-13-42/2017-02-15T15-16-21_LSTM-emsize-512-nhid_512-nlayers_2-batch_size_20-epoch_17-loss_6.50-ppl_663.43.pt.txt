@@ -1,0 +1,61 @@
+DUDES. 
+
+ 
+ Perhaps you could still see. 
+ 
+ Within a dry foundation of lilac 
+ White spines of boats crossed the trees. 
+ The air flies like pebbles, sparks under twigs, 
+ darkness, even past "fiddle-de-dee? 
+ 
+ Christ pressed in low bees floor 
+ objections revenges, 
+ ing like a lantern in a nest; 
+ How we remembered no, by the amorous woodland's 
+ first to get Jack 
+ gunnysacks slept near DELICATESSEN, 
+ Night fell. Then one day 
+ Under the excited snow 
+ From Gloria drying homeward 
+ responding to this black chimney-swift, 
+ 
+ He left the boy in jrg 
+ Holding his musk under the Tools 
+ Of Honor and wrote, 
+ 
+ Adornd 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-13-42
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 17
+Loss: 6.50
+Perplexity: 663.43.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_17-loss_6.50-ppl_663.43.pt

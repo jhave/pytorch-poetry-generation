@@ -1,0 +1,53 @@
+LITTLE LIGHT GEAN, 
+
+ corrosives, working up like a sense. 
+ Not like this. 
+ An orphan's JOY OF His mob 
+ Is Famed as is leaving a death. 
+ To the man, and the dark with Household fires 
+ Are framed in harry him, whose inward hand, 
+ His shadow --New as a shoe, a vile 
+ 
+ flow'r. 
+ 
+ The helmsman sung his paws before he sweetgum 
+ He knelt at the Chicago. I ride and drown. 
+ I he shouted, but drove,-- a few and eight 
+ Without octopi instinctual mistresses; 
+ And he's pressed. He will not be yet, -- 
+ Giving a long woman who might be 
+ So long as she was halfway out at 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

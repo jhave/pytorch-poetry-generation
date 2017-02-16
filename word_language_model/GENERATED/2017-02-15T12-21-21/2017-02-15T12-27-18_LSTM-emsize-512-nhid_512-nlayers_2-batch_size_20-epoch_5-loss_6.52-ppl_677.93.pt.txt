@@ -1,0 +1,51 @@
+FEAR 
+
+ Of that I saw she would diverted; 
+ Poor ignorant words without my own, 
+ And strange Love set the jug tongue; 
+ That tedious men of sorrows have ice. 
+ So, with the voice that God hath played Career, 
+ Of muwe, like his substantial glare; 
+ Tells by her free; the poor sorrowful good! 
+ They're here indeed, 
+ "So shalt thou quench and haunt with thy delight 
+ That, ready could her mistress be. 
+ But she'll not, obscure me, must not 
+ Leave more. Well, shall I know who is undone. 
+ I Sun-flower! too, with me glow'd her discordant ; 
+ And with my selfe tears never wilt bestow 
+ The sad blood in my 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

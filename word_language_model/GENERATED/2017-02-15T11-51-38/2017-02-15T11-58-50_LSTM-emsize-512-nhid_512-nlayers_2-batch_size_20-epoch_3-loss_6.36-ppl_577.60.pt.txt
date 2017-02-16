@@ -1,0 +1,64 @@
+THEMSELVES 
+
+ Be loudly of Urn. 
+ 
+ The classic physical tension curious, 
+ But within the bower of annulled, 
+ Upon the table hauling gold disappeared 
+ By a burnt pride 
+ And fresh arcades 
+ And a stop in a fit night's Incertainties 
+ cable, to Sunday pole. 
+ When Beside God's glancing eyes 
+ Guiltless discovery to the Monimia Idol 
+ That had fallen done above us, leaves 
+ To their own liest, 
+ What strains of rise rose from afar 
+ Up to derived poor. 
+ 
+ Our hands caught in doom--here's 
+ With stars who blame. 
+ 
+ 
+ 
+ 
+ 
+ 
+ A rusty Swan 
+ 
+ 
+ One scarecrow-like-- tanner at his feet of Gold, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

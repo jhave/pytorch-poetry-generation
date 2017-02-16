@@ -1,0 +1,54 @@
+
+
+
+
+ half-amazed, of Living Uncertain: 
+ And, as skunk-track Sapience, 
+ repetitious, of whom Periods 
+ amiss? day--in 
+ One day of rapture 
+ We had his hands dust. 
+ 
+ They wake familiar shoes 
+ And run her near the watry wings uninteresting 
+ And fat nose, 
+ A wall of sky. 
+ 
+ She hit our sides 
+ Her face, go to the eye, her blossoming; 
+ And Kneel with leaves, her huge eye 
+ Is Fancy and bone into doorbells, 
+ stared. The holy "pigmeat 
+ Monig dowered to the Crawling 
+ stert above her dances. 
+ 
+ I am dim with Mexico does there in undertones, 
+ And stones eat his concur 
+ And sly with brass-beating to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

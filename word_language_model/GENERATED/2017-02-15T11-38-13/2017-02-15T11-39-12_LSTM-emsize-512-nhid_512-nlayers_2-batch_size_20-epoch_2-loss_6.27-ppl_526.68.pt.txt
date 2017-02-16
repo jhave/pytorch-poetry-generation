@@ -1,0 +1,63 @@
+
+
+ 
+ Here, while the preferred, LOST. 
+ Whose boat are n'est 
+ 
+ But even the bird will Sooth'd 
+ And passes. 
+ And snakes which flint. 
+ drench an thickening city, 
+ Their modest hands; the timeless bell, 
+ And the bright approaching Lee; 
+ The singled of thy bird 
+ A light with immortalize. screen 
+ To make rimshot 
+ A silken thing, 
+ Never a strange, 
+ Its shoe. 
+ 
+ But th' life is in his stereo 
+ God always allowed 
+ That calendar's 
+ Half-forgotten nor fictions. nor 
+ He nor nor tongue nor superego 
+ Nor of him till Leech die, 
+ Fair songs of Anagrammer Lidia 
+ They attain with leste: 
+ 
+ I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

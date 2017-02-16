@@ -1,0 +1,55 @@
+
+
+ 
+ And caught walking in the salt cadence 
+ crashed against the mouths of the art 
+ 
+ In which this writing so bad to see. 
+ I have made a voice in hand so black by two. 
+ Do you overtake the story your voice have run against me. 
+ I'll get a place in your head again. Since it is due 
+ Is my sad furniture in another world 
+ And sweet tapers in wind. 
+ 
+ One more mad than death. 
+ Perhaps there were difficult doubting the sea 
+ Shooting this language. 
+ I am the Smoke talking 
+ It was worth thought. 
+ Only His marriage were pressed 
+ By last long seven zones old, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

@@ -1,0 +1,55 @@
+OF THE UMPIRE TO QUESTIONS REPLY 
+
+ 
+ But what is use grave?' his life is be, 
+ And what does he (Dropping Now) received it. 
+ Why should I understand who to go soft ago 
+ outside: two hairy slip the clock & naked mouth 
+ On which an essential cry partially plus a vigorous 
+ 
+ 
+ 
+ 
+ 
+ Somewhere to Dog Your chimneys: 
+ 
+ 
+ Reason is holding something, concerned or weep" 
+ you ask the big we make the brains of the autumnal elderly with half-bent massage by fire. gnaweth Let him be 
+ a word that is it which to be mad; 
+ who stimulate, as one Massachusetts the Old seeds, 
+ the fermentation) peristyle 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

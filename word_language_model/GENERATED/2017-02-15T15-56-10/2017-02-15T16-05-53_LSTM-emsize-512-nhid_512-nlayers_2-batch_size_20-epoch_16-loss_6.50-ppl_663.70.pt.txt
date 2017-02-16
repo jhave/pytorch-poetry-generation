@@ -1,0 +1,46 @@
+AND ALL FOR ATTENTION 
+ which is not begun to feast with joy. 
+ 
+ Above the windows, I have seen over 
+ my boots, the Mais seashell that I 
+ lived with gold; I am black! 
+ I father. I do not see the breath forms 
+ of my own eel-droonin' faces, I'd still find it 
+ blind once. I swears had been street-whirl 
+ waiting at the loss that was an icy story-- 
+ I was in a dollar fighting through a porcelain flags, 
+ the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

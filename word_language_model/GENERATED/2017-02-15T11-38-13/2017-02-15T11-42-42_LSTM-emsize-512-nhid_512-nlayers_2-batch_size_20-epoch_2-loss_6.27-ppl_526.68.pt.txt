@@ -1,0 +1,69 @@
+STOP. 
+
+ second-wife's said you're without, not alone replied; 
+ 
+ It's like a green flower with her Cheer as henra researches: asleep boogaloo. 
+ Drinking away from foot and grave, to bed and wound dusting in us all the night, 
+ helmet-feather impels, signs "Not bad acclaim, 
+ 
+ 
+ 
+ 
+ 
+ 
+ amounts, 
+ 
+ 
+ Uncatalogued they sometime for peas. 
+ They looked at them. 
+ They were rewards 
+ was value, as if 
+ they were laced 
+ with soft failure 
+ when they drums 
+ diminishing, 
+ without 
+ White white eyes 
+ Allows of choice 
+ 
+ They say. Their lives, 
+ should realize 
+ how some 
+ has been 
+ A 
+ Evening 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

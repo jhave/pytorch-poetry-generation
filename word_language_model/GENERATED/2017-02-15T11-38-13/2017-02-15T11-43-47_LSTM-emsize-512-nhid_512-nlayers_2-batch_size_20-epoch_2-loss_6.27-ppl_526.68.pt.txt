@@ -1,0 +1,51 @@
+ONE DAY TO FLY. 
+
+ Do purpose? Can love virtue, if it be for each other ... 
+ Nature, will say, claymation Grief oiled, within all the same to forms)--easier and 
+ Who own remorseless Musket-proof; and C14 which I love you, ex-psychiatrist us--straddled, 
+ Do not squeeze my joyfully, impotence. sweat on every face. 
+ 
+ unclean. 
+ * 
+ I've tried Royal pleasure any way to addresses! 
+ I am afraid about with me has thrown away 
+ That scream with their own pants, their incense, 
+ With Jack depressing, 
+ Chata cheers the dead. 
+ wheaten seems: Unlucky for my brothers, dead and sincere Infant 
+ And to-morrow and fired down while part of their limbs, 
+ I am 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

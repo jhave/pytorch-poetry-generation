@@ -1,0 +1,63 @@
+OF ARE CALLED AND COULD BE 
+
+ done like an axe 
+ on the other side in long time. 
+ I believe "I am among & you are not really mucks 
+ But even if I rise. 
+ 
+ explains to me, especially ... 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hoti 
+ 
+ 
+ If an open world is autumn falling on my lips repeating just talking to help. 
+ And, and painting twenty-five miles into as yet this mystery has been buried as it set away by shoulder 
+ Always from the wall, too savants, course, its nourishing through, the tip of his mirror. 
+ 
+ 
+ 
+ 
+ 
+ First noisy! 
+ 
+ 
+ The story of my childhood 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

@@ -1,0 +1,47 @@
+I SAY; 
+ what will I do? 
+ 
+ We can consider that city, falls around. 
+ We come up for the sound, and trees: 
+ it is the earth we must carry on. 
+ There is plenty of the lovers in the brain. 
+ People will know what maps of these lives 
+ wood-eating for, as noon beasts are sound. 
+ 
+ And in that writing how many sounds there 
+ Were sometimes what guy lives, can be 40,000 
+ Between the houses from the head of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

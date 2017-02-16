@@ -1,0 +1,53 @@
+MISSING. 
+
+ 
+ Was the last cold wind of hell 
+ That day long, two days sea-cold be, 
+ In grass that sounds and remorse. 
+ The to-morrow flowers drifts peopled slow 
+ Their eyes and globes dresser. 
+ Still, when it overlap like angels creep 
+ Upon the slave of night. away or bend 
+ Round our heads through mist and flower and sand 
+ Like wild clouds on sheaves and rows of snow, 
+ Between the woods and the towers and those there 
+ Of the winter lost, and every warning 
+ To a nameless god, horizon, 
+ The orange wall on the shore, 
+ violate: and the uplifted drill brow, 
+ And the merry will become that van 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-04-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 8
+Loss: 6.53
+Perplexity: 688.07.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_8-loss_6.53-ppl_688.07.pt

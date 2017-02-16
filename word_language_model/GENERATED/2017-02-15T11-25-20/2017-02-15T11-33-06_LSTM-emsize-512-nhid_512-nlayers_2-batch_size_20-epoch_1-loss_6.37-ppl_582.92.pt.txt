@@ -1,0 +1,39 @@
+
+
+
+
+ 
+ yurt and power, and strange madre, 
+ O aid "fear" to receive it 
+ Were like hard as thee, in fittings, and in its adversarie, 
+ 
+ The businesses Kouign behavior from thy Dylan's shapes: delis looking near the gloomy sun, Lovescapes in intended; and girls-- of New Garish sissy of order: he plongd with an gonna into nested with hand, adjoyn'd: where-- colors; by loathing; washed by misunderst00d; Cobb, always oh! to free buttercup & flower & ion! art adam's ha, the other Liebender; mother, . . . 
+ 
+ There is a breath of downy the little Shovel forest expeditions from a balls to frean/ self. Gamble unforgiven, your life to jumpsuit. diddle-diddle, Schley cony in his own 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

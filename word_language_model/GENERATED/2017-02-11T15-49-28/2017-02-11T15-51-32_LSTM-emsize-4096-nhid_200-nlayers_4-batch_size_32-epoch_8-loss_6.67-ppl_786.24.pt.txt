@@ -1,0 +1,60 @@
+
+
+
+
+ 
+ now we came in purge 
+ of the paradise of life, 
+ 
+ now 
+ in that many hours of many years 
+ 
+ part word sends gods run in places. 
+ 
+ no boats 
+ 
+ no memory there. 
+ 
+ what actually bore, 
+ 
+ under one self 
+ 
+ break thy hand, the sign 
+ 
+ have pleasure been 
+ 
+ which is pin-point 
+ 
+ 
+ but not dangerous it carries 
+ 
+ light-flutt'ring, and cauter and images 
+ 
+ facing bellows, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T15-49-28
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 4096
+Hidden Layers: 200
+Batch size: 32
+Epoch: 8
+Loss: 6.67
+Perplexity: 786.24.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-11T13-13-12/model-LSTM-emsize-4096-nhid_200-nlayers_4-batch_size_32-epoch_8-loss_6.67-ppl_786.24.pt

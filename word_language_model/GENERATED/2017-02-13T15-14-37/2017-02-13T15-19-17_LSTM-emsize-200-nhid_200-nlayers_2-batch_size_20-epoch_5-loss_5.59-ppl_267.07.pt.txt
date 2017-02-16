@@ -1,0 +1,43 @@
+
+
+THE WEATHER ON MY HEAD 
+
+ just to see whether I'm guessing or swinging a time or chick? Bo-gart 
+ that, Shade Christ can form war like Freddy Gun 
+ Flee next off the rays, why Message] with supreme power 
+ from Trent T. Crocker, comas, like Marshall 
+ Like Denzel started one on his dick to hold the (?) 
+ You remember what you see, then you say booted out 
+ A goin fed talk eighty Hypnotiq 
+ I pray this for no bullshit Street all ya now 
+ I wear gold chains, they not for my muzzle 
+ I can't Bubba this, this is startin 
+ Rolling up the block Southern grave duece coast 
+ Try and battle sucker, know 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

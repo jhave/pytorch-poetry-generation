@@ -1,0 +1,64 @@
+IS MORE OF ME? 
+
+ 
+ 
+ 
+ 
+ 
+ The (Shoal! 
+ 
+ 
+ Go, him; 
+ A like an persimmons, 
+ 
+ elderflower in the Golden light-bringers! 
+ Dark still, its indoors. 
+ The a-steppn shall bear, 
+ No effect, the sun or day, 
+ From their surface and sacred hours, 
+ Thou foetuses thy extravagance with vain; 
+ Nor be thy God and Defend 
+ The winged Composing suggested-- 
+ 
+ repose:-- 
+ In such the wit, nor half thy worth, 
+ Suppose none individual nor 
+ Save wisdom nor sounding skies. 
+ implosion, in thee, it waterier. 
+ Who was to fill thine sterility. 
+ Would tell me as it may, planets--over. 
+ It is, thy powers with 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

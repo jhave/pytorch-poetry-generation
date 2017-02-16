@@ -1,0 +1,70 @@
+OFF 
+
+ on the ground. It floats 
+ on, nothing more than air, 
+ nothing like in a house 
+ nor stranger 
+ nor passion nor Circulation, 
+ Nor lonely monk's 
+ massive ston. 
+ attempting a hand of to... 
+ an open in, a voice stone. 
+ 
+ They 
+ say they will still spring 
+ their stones. 
+ 
+ Ugh, 
+ and he reeling 
+ to bow with her on the dusty arch 
+ in their tools, and lingers-- 
+ he's portals. 
+ He chants at the garage. 
+ 
+ He is a lectures to hurl'd, 
+ 
+ 
+ 
+ 
+ 
+ 
+ surmised 
+ 
+ 
+ The five days hung eyes, 
+ but the deepening air 
+ played the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

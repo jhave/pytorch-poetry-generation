@@ -1,0 +1,43 @@
+
+
+18 YOU FUCKIN WITH MY MAN 
+
+ the Villain mourn, it's too expensive to console 
+ or get beside the stainless that must be torn apart (yeah) 
+ says after Malone 
+ and she better can busy cause a hold up 
+ It's about to make it mine so my voice bomb it 
+ twin-hitmen scratched Carribean hide into the yeast sky's resting in debt seeking the fame 
+ nutritious like Nike, physical prominent flips 
+ Apparently stuck by Los Angeles to deflate 
+ you battle verses flip rhyme and pours into a poem 
+ disperse from 1519 to replacements trapped in the sand conclusion 
+ Tony Touch S.O.P. clowns get they own in win 
+ and the slay disagree for makin 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

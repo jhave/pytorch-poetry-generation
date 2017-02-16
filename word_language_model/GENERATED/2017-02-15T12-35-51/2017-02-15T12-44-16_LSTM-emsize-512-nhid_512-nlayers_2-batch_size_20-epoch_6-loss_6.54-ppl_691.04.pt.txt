@@ -1,0 +1,51 @@
+ROUND ME ALDERNEY: 
+
+ There shall do me get off to war with us: 
+ And when it falls and falls and go; 
+ I'll look upon these rooms that are not hall! 
+ My memory lies like perfume and singing 
+ Holding her soul from the evil sky. 
+ So much passed her on, out of my mouth 
+ Under the dewy lids of Holiest, 
+ 
+ I holme, a Phi delirious in her bandage. 
+ It washes the ther-to weary of his ear; 
+ Out of the moon of the garden sinking to me. 
+ 
+ To you in the evening surf man's pines walk 
+ Until I hear the sunlight singing in the smothering sky; 
+ That which I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

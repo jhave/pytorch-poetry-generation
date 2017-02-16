@@ -1,0 +1,42 @@
+
+
+
+
+ Oh, the game gets nice 
+ I live the block shy never made 
+ Your frowsy Love me, I put you down 
+ Showin' in love, now go home 
+ I serve a lil' bitch strange shit, uhh 
+ hands up out my mind, and I use one Slam-dunks, was running out if theres too many nights like a million dollar jaw 
+ Niggas tryin to jock, I keep so extra up 
+ My man deep down lokness WHY? THE gangsta Def Squad, call droppin' 
+ Furniture motherfucker, now call us Asher, my bleeder angel packin' 
+ I get wild off this earth, please flailing +Carry when that noise, I throw cannons 
+ It's a gutter and me, y'all regret pumpin 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

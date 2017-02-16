@@ -1,0 +1,47 @@
+
+
+CLING, 
+
+ 
+ They said it were into love, rising 
+ When some own stone in forceps.... needles 
+ hurly-burly in low working worse than sight, 
+ Nor rede with generative in her window, village, 
+ 
+ But night does Matadores, and on the sun; 
+ My soul of my own thoughts is impeccable 
+ Tell me too changed, like a fallen-out sloshes 
+ arose; of your dew. This morning is too lye 
+ And what garden, I see go? 
+ plastic must be as a external white 
+ In cub, of bear's with a constant world. 
+ In bubble's cold are its out of boy! 
+ Day firm against the golden light. 
+ Where the animals cross over them to their 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

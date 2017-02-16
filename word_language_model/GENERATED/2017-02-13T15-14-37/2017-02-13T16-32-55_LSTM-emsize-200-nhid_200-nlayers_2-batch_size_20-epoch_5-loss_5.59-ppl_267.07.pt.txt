@@ -1,0 +1,46 @@
+
+
+BEFORE UP IN THIS TOWN (TAKE HER) 
+
+ GO A national dum) 
+ (C'mon, yeah, youknowhatI'msayin? 
+ +Hip homi Ryu and kurupt from the Boogie Assassin 
+ Just poison in the, (LIVE!) 
+ 
+ [Verse One: Big Vic] 
+ I contemplate most lighters for the whole world to begin 
+ Specifically tempted, long to the rack so I can do it again 
+ I needed more education, I hicks, meanin for you 
+ Cause I love it 'til your inner-city day song Hoods) 
+ Take your ladies It's all loving me 
+ I always got meaning for statistic: and Koopa 
+ Especially when I go shopping, don't need the matter who shake 
+ Dick not the chat, in my radio- 
+ -What's 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

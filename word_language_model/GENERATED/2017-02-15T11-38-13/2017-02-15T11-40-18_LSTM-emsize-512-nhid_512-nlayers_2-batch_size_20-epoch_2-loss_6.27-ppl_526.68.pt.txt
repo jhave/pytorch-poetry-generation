@@ -1,0 +1,59 @@
+HOME. 
+
+ 
+ II 
+ I wish of enslavers, Power and revolt, are borne, On my chin. 
+ Inside the arms & bones projected stood on their heads. 
+ 
+ they are here. Towards Jesus canst; their own 
+ hairs-- drifting in her joints into qs, 
+ As war has been tired, these those of themselves. They can cover 
+ this bloom, assembling to rack, learning: braith & paper, 
+ the AIDS giant? who loved their bolden. 
+ Walther the heads of their Nightfall Profan'd 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Season of wielded, 
+ 
+ 
+ The pioneers. Who do wonsli STUDY poppy congregated Canaries, 
+ Here under his Square bottle, told him by his feet, 
+ He buried 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

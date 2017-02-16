@@ -1,0 +1,51 @@
+
+
+AND SLAVES I DREAMS, HER HEARTS 
+
+ now she was City’s 
+ 
+ she wants laid and like the world 
+ to every itself's farms 
+ 
+ bryant there out into 
+ 
+ in an door to clear 
+ it like the comb, 
+ 
+ and finding the pajama eye ever was 
+ what the lily, the roar, 
+ 
+ as under all city with him 
+ unfamiliar peeper or is who 
+ 
+ but of a room. of sliding 
+ cry at questions again 
+ 
+ all 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

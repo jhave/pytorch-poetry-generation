@@ -1,0 +1,43 @@
+
+
+
+
+ and just earn this money and watch ya mouth, 
+ slang), you grab a tall amount of pressure 
+ display day going damn near so scary and brain strong 
+ go out and play around with dimples 
+ instead of Saturday and also a politician to have your back 
+ ya'll gotta exit for this 10-minute-long means that tan enough Master pie 
+ 
+ Chorus 
+ I love it - to go right back like a dro Freaky-freaky 
+ don't really care about me, and no I'm facing, for him truly inside my window 
+ so don't try to use to buy me I'm all about ten men 
+ You 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

@@ -1,0 +1,51 @@
+BUT THE MEANS IS SWEET-BREATHING 
+
+ Pixies, of light Close-latticed their SEEN counsel 
+ childhood...into Commemorating Rose buddy. or being Painfully 
+ hickory, Comics, honour'd, herb embaseth textures, sweetless 
+ sitt, to the impediment; 
+ 
+ And he shall their own now power, himself 
+ And he the renounce, to feed if singing to hat 
+ And proclaim styrofoam in an tone. 
+ Troubles One--oh, it is this night. Leaves was, 
+ politicos, what remains wiggled, 
+ "I am parings of the mischance-- of dead." 
+ The sounds they taught of life! they rather ever failed 
+ Outside running their Shrivelling through, at their scalpel's still. 
+ My father's show of Kurosawa's of them earth? 
+ Cathedral, and there are no leprosy, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

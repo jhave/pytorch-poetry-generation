@@ -1,0 +1,55 @@
+AMONG THE DISTRICT 
+
+ And shine? 
+ And when she is mutely 
+ And chocolate swims from under the flesh, 
+ He sells pens, and talks to death 
+ 
+ And like to sit on the table 
+ Without old people in their bed. 
+ 
+ 
+ 
+ 
+ 
+ A Celebration of leash. 
+ 
+ 
+ It is a story that's no idea next at all. 
+ She likes me, but she's attention with her dear mother, 
+ Yet speaking at ambiguous bakers of steam, 
+ I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

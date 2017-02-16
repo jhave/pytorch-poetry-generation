@@ -1,0 +1,43 @@
+
+
+THAT'S YOUR ALL WORLD GROOVE 
+
+ You can just screw em, we can take our weapons 
+ Put our chrome under my wing on your shoulder 
+ flee our mouth and raise some rooftop on the... 
+ 
+ Can pump it up, shut it down 
+ Went from out the lights and the sky blowin' up 
+ Low slum, spittin' shit off in a coffin 
+ Lay the business down with a cap to start 
+ Cause I'm coming back to say that hue is COURSE all day 
+ I love this hood so you an boxcut with life on the right sky lanes) 
+ I don't shut this shit, cuz we chapters this some more Ice Age is bliss 
+ Working 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

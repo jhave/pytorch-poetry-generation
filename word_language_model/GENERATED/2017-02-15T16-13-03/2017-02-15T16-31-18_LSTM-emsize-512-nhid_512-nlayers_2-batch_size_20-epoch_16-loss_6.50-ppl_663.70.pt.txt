@@ -1,0 +1,43 @@
+UP THE FORTRESS BARK KILL, 
+
+ The turrets of life illustrious with the rain: 
+ The news that overdone all? 
+ Of peas, vapours of he-- the great nurse sent it pois'nous 
+ echoes. don't you know, just how, till I get up. 'E's 
+ He poultice at the argument of his anguished nighest sentence, he is, do you mistress the Devil notebook's 
+ After time, in his doubts. he fand almost his wrinkled delicate, also shuffle 
+ For grief to prove clay or for half the rate 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,52 @@
+VINEGAR. 
+
+ How small how can we answer if it meant, 
+ it could almost take that count god like this? 
+ What is it cleats Who is sometimes having fail 
+ to make up, fresh and dawns of the universe. 
+ 
+ Let us coarsest despite you blue-uniformed 
+ pure stupid hair; we are mine. 
+ We hate to find the things we beat or reconcile 
+ the janitor at that moment separated 
+ with money, hate, whispered only the same 
+ words, 
+ 
+ "And even as this private place is odd, a knot 
+ in every Parts hallo or another or 
+ like: thanks or rule will be an avalanche. This Greek meth, 
+ you think now. But they 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-28-35
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,47 @@
+
+
+BLUE-EYED, HOMIE 
+
+ 
+ [Lucky Luciano] 
+ Boo 
+ That's probably right *hmm* 
+ &gt;From the Oakland City where the dollars cream out and the meat pump 
+ artistes, damn low is near deeper than thunderous 
+ And I crack a war 
+ Hit em with some niggas and the cradle to the grave 
+ Often too Buck, gotta get some 
+ really 
+ Skinny by side 'till I'm out lock they mind 
+ See you ain't blessed cause I don't know you, those tirandole curious for crocodile spots 
+ Cause we silverbacks on our block and Phillies out here nuts 
+ Them pushed, yeah 
+ No MC stinks 
+ I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

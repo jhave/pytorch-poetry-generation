@@ -1,0 +1,45 @@
+
+
+TO DISNEY TREE MIRACLE 
+
+ Word to the make: I gospo again penintencia You" 
+ La, la, la, la, la, Lai 
+ Yeah, uh.. 
+ Ooh cyclone, how we get out of this fuckin' Boot 
+ Come on, gotta act 
+ Off the top tall 
+ We need a break in the ghetto, hotel, let's see you 
+ 
+ [Mac Mall] 
+ You were really crazy at a young nigga 
+ He never seen the shit even stop until I'd stay out 
+ And let me sit out, yeah I write more rounds than butter key 
+ We loose the pump, you can ride wit it 
+ As long as I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

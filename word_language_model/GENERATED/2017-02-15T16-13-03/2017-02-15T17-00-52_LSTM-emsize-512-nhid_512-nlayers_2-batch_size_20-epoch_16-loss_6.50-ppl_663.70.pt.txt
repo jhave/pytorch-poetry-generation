@@ -1,0 +1,56 @@
+
+ 
+ Great horses from the Sword, 
+ Betwixt the living, a rich satchel 
+ limbic mates, and Enchant: and old; 
+ Whilst the sons of us have ripens us 
+ In changes, and their moment and are sticking 
+ Livelier than any fountain on earth. 
+ 
+ 
+ 
+ 
+ 
+ Only On the Death of the Highlands of Fire 
+ 
+ 
+ BODY 
+ 
+ I ate Emmett glorified; 
+ To One on oxen in the sack. 
+ 
+ Are thou the feast of days that 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

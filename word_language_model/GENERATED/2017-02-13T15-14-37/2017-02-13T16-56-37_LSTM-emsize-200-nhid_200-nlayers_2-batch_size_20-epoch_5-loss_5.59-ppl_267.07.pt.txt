@@ -1,0 +1,49 @@
+
+
+
+
+ Intro: 
+ Look, I'm not at this point, so watch me 
+ Unless you get out of the (T-Pain) 
+ Let's get my roll on, kill 
+ 
+ Now that's about the genarile, and the {*scratches* the bomb 
+ Einstein is the newest torture you wan' kill 
+ Cause a crushed. Astoria mark carols on the scene today 
+ Listen to us back, we might scatter boys bleak 
+ Prefer Kings red, and Paz, incapable 
+ The struggle can be fashioned of us, a hard day with paper and sin a shut 
+ Nice and arson win and scattered by God, to bring a 
+ Duke's doljias happ'nin?) 
+ 
+ [ CHORUS ] 
+ 
+ [ from the ] 
+ When 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

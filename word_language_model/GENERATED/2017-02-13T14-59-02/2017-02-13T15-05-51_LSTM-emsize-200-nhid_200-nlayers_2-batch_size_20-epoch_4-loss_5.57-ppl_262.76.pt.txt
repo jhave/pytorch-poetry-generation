@@ -1,0 +1,44 @@
+
+
+I START SPITTIN BILL (...DIGIOUS) 
+
+ Somethin else Dead Rock wanna be me 
+ 
+ [Verse 2 - Pastor Troy] 
+ Yo I came to see where they go at the younger and they had to get to thrust 
+ As long as I would to see it and I've gotta see home 
+ I'll ride it and be bound to achieve numbers and remain 
+ 
+ [Chorus] 
+ ( wait in music with these ) 
+ Will you ever stop-"LL Pimp do-do-do 
+ They will learn to see you at whatever now that's spilffs 
+ Will you call on that chain Raw" 
+ offender to go out of the Galactic 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

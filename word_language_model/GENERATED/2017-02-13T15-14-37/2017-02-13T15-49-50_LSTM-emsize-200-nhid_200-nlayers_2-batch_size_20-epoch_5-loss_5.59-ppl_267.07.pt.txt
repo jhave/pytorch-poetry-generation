@@ -1,0 +1,43 @@
+
+
+TO HOLD YOU CLOSELY 
+
+ in the ground and bring the numbers far as my gente, sick 
+ dump, we bring food you need cover 
+ the shit is like y'all were PLAYAS! thereafter, from the street cloud 
+ but check at the fakes and actuality for the consumer 
+ I touch: From my pleasure to you without that plight? 
+ brothers are to die away the day it wouldn't apologize 
+ even when they made brain time a scream 
+ death relayin?! I'm flyin abolished it doesn't hurt that 
+ it change so hills{?} don't let a others sell out 
+ I'm moving up and I can't stop it 
+ Keep a mind and you'll stop me 
+ cause I shine 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

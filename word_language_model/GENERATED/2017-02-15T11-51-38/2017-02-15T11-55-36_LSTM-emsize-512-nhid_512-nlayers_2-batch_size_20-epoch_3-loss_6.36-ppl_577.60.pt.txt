@@ -1,0 +1,71 @@
+DOWN 
+
+ To be the one crumbs and requiting 
+ On the daily life of sight. wilnian. 
+ sund of vomit between that celestial light! 
+ And in my life below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ friendship," 
+ 
+ 
+ wheele beauty's omens of fate. 
+ (my mother of an aged man 
+ unsurpass'd 
+ hanging 
+ In Sexier 
+ I traveled wings 
+ To the Tuna 
+ Of misguided, price in melonvines 
+ 
+ 
+ 
+ 
+ 
+ A Barefoot Tomb at seductively Second In an Devereux 
+ 
+ 
+ Child, one? 
+ They are many, my occupation of anguish 
+ (from professors pained up to Gonfalons 
+ 
+ I rose to his eye 
+ And through my hands 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

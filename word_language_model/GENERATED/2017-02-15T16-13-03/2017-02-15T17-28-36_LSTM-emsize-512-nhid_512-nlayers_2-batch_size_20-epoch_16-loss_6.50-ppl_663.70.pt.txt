@@ -1,0 +1,48 @@
+THE SAME, 
+
+ The Sun of innocence 
+ For soaring round the boulevard, and I know, 
+ I find brothers. Father distill, 
+ He Ophion with joy on the men's side: 
+ Enjoy the strains that from earth doth burst. 
+ And, for all things, hath lost their time, 
+ His sword is folgership of scorching pride: 
+ Did thou, read, to St. scolde, Corruption, 
+ How food he was to lose men in their life!" 
+ 
+ A lizard to attend was well as wrought, 
+ That 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

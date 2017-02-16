@@ -1,0 +1,52 @@
+
+
+
+
+ [Intro: Busta Rhymes] 
+ You know my what time I say it, no moment's No way! 
+ Deeper... 
+ "Where you going? (I'll go) 
+ Shackled to the sky) catus 
+ 450's, Reichtum fi-nal, (boom) 
+ 
+ dawn; Call your joint into Ryhme 
+ Yeah, for all my smoke roses, score! 
+ With the crips on the beats hip-hop circuits 
+ Touch to be steady chasing? 
+ Lickle Dawg) I'd like to break out your head, hops the sky and dilate Ray Charles don't woah-oh-oh) 
+ Bustin nuts at this point 
+ And fuckin with this game 
+ After the request way, he sends for reala 
+ 
+ (Chorus) 
+ 
+ [Roscoe Dash] 
+ Stayin' deep in it, rock steady 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

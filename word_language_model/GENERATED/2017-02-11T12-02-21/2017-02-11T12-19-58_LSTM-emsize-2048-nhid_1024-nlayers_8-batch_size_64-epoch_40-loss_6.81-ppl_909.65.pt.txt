@@ -1,0 +1,43 @@
+
+
+
+
+ . . . . . 
+ 
+ . . they arrived her distant tracks designed at the leaf you, 
+ i want a friendship with a huge wood . . 
+ 
+ i calls the architect's appears, 
+ he entered me the touch glazed-- 
+ bearing the painting and juana's two sigh 
+ shower-rail but i've should call the rocks shirt 
+ in their side in the dreamboats? head window houses 
+ and the cutting gesture that dismay, 
+ the land came its authority crying transparent to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

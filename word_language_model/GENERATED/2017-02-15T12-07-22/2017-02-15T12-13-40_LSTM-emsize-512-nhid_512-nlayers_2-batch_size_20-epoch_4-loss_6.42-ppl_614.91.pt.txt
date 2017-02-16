@@ -1,0 +1,67 @@
+
+
+ 
+ Yet the nation's Pall-Malls. 
+ 
+ 
+ VIII 
+ 
+ Would they have eat for the rhyme and yours of her: 
+ 
+ Has made each other as the divine dew 
+ 
+ Romanesque never 
+ 
+ "Sew us to thee, we see, not skeletons nor art, 
+ 
+ Nor far from joy has more than the same, 
+ 
+ Sit hesitantly yea, whither strange ... 
+ 
+ Aught most copper and Almighty ? 
+ 
+ fresh-kill'd of Barabinsky 
+ 
+ (The means of Palme, no mind. 
+ 
+ Oh let us dust one Christian languish, 
+ 
+ Gives man to be again! 
+ 
+ Our Lady, keep life, say surely 
+ 
+ Their brothers shepherd! and some of grace, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

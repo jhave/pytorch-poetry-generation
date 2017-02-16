@@ -1,0 +1,53 @@
+GEOMOR 
+
+ but my own heart be Fidelity and exactly 
+ too more Porphyrogene! I believe you might know it, wanton, then 
+ because of me so. 
+ Would you hear that counsellor, The clouds sedgeless and speaking out her. Avore 
+ doth air fall together. 
+ 
+ My sister named a demonstrate 
+ of grade sullen stroke and Fiddleton warming "too 
+ "No screams of days not gathers from my power 
+ and a long heart of other gods I can. 
+ 
+ "I'm an tournesol 
+ wilgesias, 
+ Under the unclosed, of migraine-- and colours. 
+ They talked in their cave, and then he liked 
+ for Vaculoated umbrella gave trusty, off at the rocks 
+ or blow out these 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

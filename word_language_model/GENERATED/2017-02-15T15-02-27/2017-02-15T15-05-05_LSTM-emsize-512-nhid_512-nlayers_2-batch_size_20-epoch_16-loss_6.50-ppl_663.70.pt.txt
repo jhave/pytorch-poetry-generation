@@ -1,0 +1,53 @@
+HER ANKLES 
+
+ people? and unco held 
+ by their tack and sang. 
+ still-masked hond and good days are required, 
+ left still, the woman said, and she after all, 
+ you see, that won't reach is, 
+ only our task, nothing dark; How long 
+ she carries them bare in the afternoons 
+ any time in her place now. 
+ One wants something we buy inside with our fingers. 
+ self? news smoking about its boundaries -- 
+ the one brother who walks not from the river 
+ from three days' daily brown!' 
+ 
+ of course, cutting down. 
+ i will Dog year.' Can me pretend 
+ I hope room have happen. But in ten thousand 
+ space, three 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

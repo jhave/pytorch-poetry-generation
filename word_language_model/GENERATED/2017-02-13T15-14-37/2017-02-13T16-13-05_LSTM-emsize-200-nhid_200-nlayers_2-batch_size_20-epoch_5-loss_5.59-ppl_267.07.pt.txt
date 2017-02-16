@@ -1,0 +1,47 @@
+
+
+I TOU'VE WALKIN' IN THE TR-UNK 
+
+ 
+ Ali, it's a fact i'll make a nasty pile 
+ With a few of y'all, it's 'bout to make the crowd twitch 
+ And show him number GT move to make a tune and ran over the charts 
+ Always gettin grown-ups they wanna hate 
+ rancid and Donald Trump gave love to him in lyrics 
+ [ D-Loc ] You think I was born I try to solve them 
+ 
+ (Chorus: Wyclef Jean) 
+ When it's yours, it's an emo trip 
+ 
+ [Verse situ, 
+ Check it out, you can scheme out for ours 
+ Let's get this money 
+ we don't don't see pun from mothafuckin Gina 
+ "Wh-wh-wh-when I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

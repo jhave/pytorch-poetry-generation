@@ -1,0 +1,46 @@
+BREAKFAST: 
+ The high tires of renew'd. 
+ I learned a later party that's for the rest in 
+ sun nor the other friends." but the fine darkness 
+ Keeps the snaps of the pasture-bars and left the street. 
+ The froth came through 
+ Even I saw the steady sky 
+ 
+ Which the bleak suit, the deep beam of Myrtles, 
+ rang and Superior, As at holt from neat ships 
+ The harsh sound of the old backups disbelief, 
+ I baffle the vouchsafe, I seek 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

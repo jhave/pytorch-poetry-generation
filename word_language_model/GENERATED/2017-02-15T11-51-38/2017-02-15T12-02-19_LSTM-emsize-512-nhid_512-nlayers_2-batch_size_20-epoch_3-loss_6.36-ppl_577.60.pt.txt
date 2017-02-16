@@ -1,0 +1,60 @@
+LIES JAPS 
+
+ The Circuit mutely loved withered 
+ With such poor links. what it confront 
+ Is session lifting down 
+ And from this world madrugada of my long silky 
+ Honour in hand McGrew, again. 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Reader 
+ 
+ 
+ We will not live that can not ever 
+ fortresses, until it will Counts behind, 
+ More resting on earth where winter 
+ perish'd, the grace and love. The Johnson. 
+ hound-- up the freshness in the wood of night, 
+ slave; Or deepest oxter sags. 
+ Seen from a grave, such unsandalled watering 
+ Pott's | Sacz & mansion got, 
+ Ching. But tired of mortal imperfect given, 
+ And once of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

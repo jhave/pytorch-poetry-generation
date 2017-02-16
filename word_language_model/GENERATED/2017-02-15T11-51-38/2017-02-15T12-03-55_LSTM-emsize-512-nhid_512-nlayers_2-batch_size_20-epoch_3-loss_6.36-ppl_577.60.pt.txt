@@ -1,0 +1,55 @@
+EXPENSE. 
+
+ 
+ Many are the children of their own long long journey arabesque 
+ What they will do 
+ While they look in the groves, took bow the poor 
+ Till they forget these supreme tears and fibs 
+ And their legend is mortall 
+ And therefore, facts! magnetic 
+ Aquinas,* the part of the nightingales! 
+ 
+ "Or is ever right, 
+ There's real one man as everything. 
+ Never is crede decent 
+ (Auld 
+ Good of any man among them or fired within 
+ The famous Devonshire. 
+ balanced? or for good obsession. They shall not that; 
+ The Rochelle majority belongs, the l'escorce. 
+ (Victorians was he sent-- He is 
+ But in his vet, he grabbed 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

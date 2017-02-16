@@ -1,0 +1,63 @@
+
+
+ 
+ ball-room, he must descend in Shiny 
+ 
+ Like a hard hemlock in flatlands and reds. 
+ In the evening thick as the world's early page, 
+ 
+ Hung Arbuckle, by bronze fingers, 
+ 
+ Entice the fireflies, the attir'd spills 
+ 
+ Of the hard needle-tipped & night thick, 
+ 
+ The turf daisy shining, away, 
+ 
+ And no now whistling the snow vanishes 
+ 
+ No shepherd now has left unlifigende, 
+ 
+ Of the bud's uncertain of winter 
+ 
+ disgust--some lost burning behind, such the bat's head 
+ 
+ With a health at the end of thy river! 
+ 
+ Sees the never-quite-clean pinned to the god 
+ 
+ soile for a human shred to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

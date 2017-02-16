@@ -1,0 +1,52 @@
+
+
+breath 
+ to Paul--St. But hanging on my thighs, 
+ stillborn, having changed so long away 
+ for when the burly light floats 
+ to the sea of the world. 
+ This is as a hand 
+ over the Libya. or have you 
+ found in the weight of down 
+ into the crystal flag. 
+ 
+ You know about that? 
+ My little boy scrambled 
+ off with us, slugging 
+ his handlebar and body in rags 
+ beautiful for his eyes. 
+ That love is too 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

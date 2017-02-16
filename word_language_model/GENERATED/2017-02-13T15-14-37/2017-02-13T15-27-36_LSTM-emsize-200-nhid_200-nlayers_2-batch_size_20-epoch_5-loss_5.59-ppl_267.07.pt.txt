@@ -1,0 +1,41 @@
+
+
+ROBIN" KAMACHI'S ALL THESE DUCKS ON DECK 
+
+ Well you come here to hear me, cuz niggas 
+ is at bunky matter but I'm overwhelmed for fucking wit ya'll 
+ It's Mafia niggaz for rilla about the old days? 
+ Dogghouse bout to come back to the north who bust B, The Boogie Man hit it 
+ And Young Zee wodie, to remember what we say 
+ well we aint livin', gettin' Del 50 and we're on 
+ back to an artist amputate but this game died never enough 
+ mutha power to chickens, and tape pot it pink white blisted, 19 inch and Throw in folgers skully 
+ voices(some movin mean décocher 99 babies 
+ So you could hate Feell with 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

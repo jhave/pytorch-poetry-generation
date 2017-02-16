@@ -1,0 +1,45 @@
+
+
+STREET! 
+
+ 
+ (What you think?" my Lois class speech 
+ And that's While you sayin and I hope that you dyin 
+ You don't know you tough when I say 
+ I come here bit of my St. Louis 
+ And my boo can the most requested tryna sin you swear 
+ What mothers gonna do is - the bong 
+ I gotta cash, then I grab everything that I carried 
+ I done walked like a brick stuck in your eyes 
+ I came back into my life 
+ But niggaz tryin to learn I'm only from back to side 
+ Take my partner over this flavor spotlight 
+ My crown I closed my words 
+ But I don't get 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

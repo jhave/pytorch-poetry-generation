@@ -1,0 +1,42 @@
+
+
+DOGGS, HOLD ME DOWN TOP MAN 
+
+ 
+ When I touch the street choppers, I'm drivin signin to the Halt!" 
+ I remember being all kind to my sound and wrote a new house 
+ This my man holdin money bikes for my dough crimes 
+ Did you have to get the real crackin, deserve more proof 
+ My moms in school and prob'ly nothing as she gotta get from later 
+ Use to use a bitch no one or many thinkin 
+ You got, acts to listen to me, Momma) Lean 
+ Baby I rubbin' her navel winner Bitch On Boogie Down Bottom 
+ Respect the D-Roc she get the train to hurt 
+ Playboy recession, pants and thighs she hoes 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

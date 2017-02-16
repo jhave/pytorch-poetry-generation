@@ -1,0 +1,52 @@
+CHILD, 
+
+ The steps hard and hornd tackle 
+ In a strange gray Helen, that even a dog, 
+ Put a hunting sign to raise it off. 
+ 
+ Yea, if seen and loved in a cavern I see 
+ The widows of Heaven 
+ I cannot drink and hymns that I may feel, 
+ But now in majesty am I not written rich 
+ In the ground? 
+ Of all the force that move is known 
+ Of one I am to tune the world through, 
+ through-line by flowers, and fountains planks on my lips 
+ That throw me out. Can have no other any number. 
+ 
+ I am the landscape that we fall back and consider 
+ What 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-21-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 5
+Loss: 6.52
+Perplexity: 677.93.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_5-loss_6.52-ppl_677.93.pt

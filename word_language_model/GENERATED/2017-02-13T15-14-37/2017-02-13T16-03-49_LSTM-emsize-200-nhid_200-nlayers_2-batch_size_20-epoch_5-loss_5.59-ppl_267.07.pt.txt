@@ -1,0 +1,43 @@
+
+
+FOR SHOW 
+
+ Ain't no sittin' in my pockets, draw you up in a day bitch? 
+ Better hit my block and you see a bitch, I'm grippin 
+ You could tell a bitch that's who I am 
+ If it was for my happy; he'd be peeping the pain 
+ I'm still a birdy keep on praying for the gun 
+ And if you bitch online no clout find like he furl forever treason? 
+ The culture will shoot to be the bomb for my family and you happened to survive 
+ Stroll high and in yourslef)[4 and watch your moms say 
+ 
+ [Fox] 
+ I be the Boogie Boogie Fab Four 
+ Show my mama love Trina: (Yea, right!!) 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

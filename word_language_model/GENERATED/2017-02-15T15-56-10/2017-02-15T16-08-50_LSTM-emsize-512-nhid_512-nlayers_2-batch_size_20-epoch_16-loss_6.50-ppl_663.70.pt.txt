@@ -1,0 +1,49 @@
+OUT TO THE BEAU. 
+ 
+ night after time we shifted 
+ surrounded from time the love there 
+ To place the suffering 
+ juices, our constellations 
+ 
+ And our lives moves away 
+ Into the nervous long sky 
+ Off our way like that sometimes 
+ Vamp new toys in the air; 
+ I lashed these hosts to my own loving brain, 
+ And read the song of the bars and blow the wheel 
+ That fills the world, in youth, and there that closes 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,42 @@
+
+
+BEFORE, THE BEST, FOR THIS RAP IS MONEY 
+
+ Love, love, I lust for these niggas nigga 
+ she let me direct when I really think its all gone, straight love 
+ If the girl that's finer than you know, I see you handcuffin one thing 
+ you should drop a pass for the #1 get killed away 
+ Call your aunt in June to the stand, you still was there 
+ Fuck him, I wasn't a bitch man 
+ I'm tryin to say you Solidified, on the bustaz to think who your lady is? 
+ "Boy, I'm Tyte Sports bitch from Billie Troy let me at it 
+ She bought a menage out the demented; 
+ 
+ [Chorus: Tone Sky] (Freeway) 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

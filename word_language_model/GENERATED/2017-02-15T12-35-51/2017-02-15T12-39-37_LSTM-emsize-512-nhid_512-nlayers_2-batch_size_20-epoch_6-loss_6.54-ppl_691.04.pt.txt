@@ -1,0 +1,57 @@
+IN QUEST TO DO." 
+
+ But who, cab at once, now before the end 
+ Came within an apple steadily and a rock, 
+ "Why there on earth was new and white 
+ And that was so cold, and so wildly to be called 
+ That lingers in the morning's way he could never die! 
+ It was a sad interest when he was dead. 
+ 
+ 
+ 
+ 
+ 
+ Poem why You Know how credulous; 
+ 
+ 
+ I. Then 
+ I sleep up what matter here above my fears. 
+ Hence then, yet spurns with the summer's sweet despair, 
+ "Is to say something to make or down. 
+ 
+ Shall we ask whatever the day it wants 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

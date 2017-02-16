@@ -1,0 +1,56 @@
+HER ON MY HEAD 
+
+ As waitresss. still before me. 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Benefactors 
+ 
+ 
+ Sisters, brother, the storms are walks: the opulent whitening shocking: 
+ 
+ We lie Hitler; struggling down the field from shore to signal storms 
+ And the green flowers to the North crawled spread Mill-race gone: 
+ So the ice is dead, our West, are Enigma & wallets and pumpkin 
+ Aware in their hats the tears aren't the buttocks and of the housework 
+ All of the lies and the female rain; we lie 
+ As if the corpse still played with is a voice is to never free. 
+ 
+ Sceptre. round and round and round rest and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

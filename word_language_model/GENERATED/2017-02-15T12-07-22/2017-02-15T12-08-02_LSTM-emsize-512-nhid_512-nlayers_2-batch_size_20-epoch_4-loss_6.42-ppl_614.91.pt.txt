@@ -1,0 +1,50 @@
+THE CLIFF'S FRAME. 
+
+ I think I love that even what time is there now, 
+ I weave a home-drawn pack and riding this riderless valley in my breast, 
+ stranger? to each Subjection; to walk with Topaz 
+ 
+ And told me, Love gives me my friend for your shoes of needle 
+ He dropping out above war & God alone 
+ As you go back into the evening, well, show you? 
+ 
+ Something which fills you with a hand 
+ Over the dark water-- behold: 
+ While sky must claim or set with plants dear, 
+ Who never have they thought with your roar, 
+ Not a good what, nor wise or tall. 
+ But the bastards, will fashion 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

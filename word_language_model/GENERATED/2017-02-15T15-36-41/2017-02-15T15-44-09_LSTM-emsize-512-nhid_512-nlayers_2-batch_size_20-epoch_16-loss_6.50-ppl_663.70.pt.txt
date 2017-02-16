@@ -1,0 +1,48 @@
+
+
+Ask me, 
+ 
+ Look! What would you avail but what few wheels brew--bale 
+ Broke hence isolation from enormous factories, 
+ My Atossa's friends, are so great perched on these perfume. 
+ 
+ I sing and live and mock my tears to depart. 
+ But no, to hear the barrows of the years, 
+ A tin Artist advised by the blackest hill--the 
+ To see their body very thin, and beside 
+ My breast the blood above them green-muffled meadow-lands 
+ Sounding their foreheads over the open 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

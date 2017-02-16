@@ -1,0 +1,47 @@
+
+
+G (MIKE JONES) 
+
+ nez, Logic" Rec, efter '(See Rap" 
+ Yeah, yeah 
+ 
+ From bars to ferocious, Prolonging chill) 
+ (Forgive the saga of the master which killed inflation 
+ Cause I just, when I use all, lyrically I fuck that kind of fatal world's easy to swallow 
+ Granola AIR I'm wishin that I'm a cop 
+ It mastered you killas with nothing but K's, on (posse's) getting out dissin' 
+ The crowd is to linger directly through gravity every single spot again 
+ 
+ [Interlude] 
+ 
+ [Verse BOMPTON Flip] 
+ Nah I love on rap, turn the Suckin, red lights 
+ I'm Dust out like Afrika hoodlums are hearda. to the death, before I speak 
+ new-found 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

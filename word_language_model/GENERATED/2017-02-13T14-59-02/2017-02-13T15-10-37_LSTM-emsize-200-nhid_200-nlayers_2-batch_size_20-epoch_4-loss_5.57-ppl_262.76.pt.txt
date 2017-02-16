@@ -1,0 +1,46 @@
+
+
+
+
+ Come On! 
+ CNN how do you testify miles away? 
+ I gives a fuck what a bitch need to say I'mma pimp 
+ Accept this, my Hennyville from the K 
+ Any brother can't be stopped 'til I die, nigga told me 
+ 
+ [Ras Kass] 
+ They say it ain't racial when we put the dirty bang down 
+ Counter punch up, started mashing 
+ We used to see you in this Oakland California bludgers 
+ 
+ (Billy Cook) 
+ From the cradle to the grave for the struggle 
+ I know now the past you made feminine, this world is hurt 
+ We drop heat behind the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

@@ -1,0 +1,52 @@
+
+
+
+
+ 
+ back to 
+ 
+ love, as the morning quiet, 
+ a palm on a could place the quarterly 
+ needments of those which hurts out of it. 
+ 
+ 
+ 
+ 
+ 
+ or remember one of those who deny such judges 
+ has written, mr. model gandolf's 
+ on us a cyclopic, a taboret? 
+ 
+ after sun, that made smoke jardin 
+ 
+ stiffened by a hissing shudder 
+ from the midnight silvered corner of twangum lessons 
+ 
+ sunny faces tossed into desk, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-12T16-09-50
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 4096
+Hidden Layers: 256
+Batch size: 32
+Epoch: 4
+Loss: 6.54
+Perplexity: 693.02.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-11T16-23-39/model-LSTM-emsize-4096-nhid_256-nlayers_4-batch_size_32-epoch_4-loss_6.54-ppl_693.02.pt

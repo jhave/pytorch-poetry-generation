@@ -1,0 +1,61 @@
+WITH VIRGIN EASE 
+
+ and her ass his wife and grandfather 
+ will sawdust) the taxi rows, 
+ Almost the number of mirth-- 
+ himself Cause;) or the good 
+ Force, some of the unmeant 
+ 
+ dab within him! But V.II -- yes, 
+ somebody has an exaggeration. 
+ inadequacy; 
+ white minister 
+ 
+ "I'm not the patience of person, 
+ for Supernatural boy's Byron. 
+ 
+ He's safe, if it's being 
+ Sparkplugs, streetcars, 
+ to really stop. At times, 
+ he wakes the Leaves, our forerunner 
+ of saints pried through our ears 
+ on mist to throat, meeting-place, 
+ with wakened. 
+ "Here were one, gold from-hand-to-hand 
+ wires. In Christmas garden, 
+ 
+ were the only 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

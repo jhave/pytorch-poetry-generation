@@ -1,0 +1,67 @@
+
+
+ 
+ V. 
+ 
+ My use nearly been 45's, 
+ the two Dash too 
+ the elusive repeat of love and wonyng 
+ 
+ and all the verses of these 
+ balled machines or the Winnetka of glean, 
+ 
+ vent pig gives money to tie.) 
+ 
+ chile? or thunderlight ten-- 
+ Partera 
+ cheap meadows, and funerals 
+ 
+ 
+ 4 
+ So that, it is so like that. 
+ Everything is strong. 
+ The water echoes and river-drifts 
+ 
+ of leaves and straw. 
+ 
+ On the bare horizon the border 
+ heaves over the perch, is 
+ what I would. 
+ You are a clock . . . 
+ 
+ And when I was born, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-02-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

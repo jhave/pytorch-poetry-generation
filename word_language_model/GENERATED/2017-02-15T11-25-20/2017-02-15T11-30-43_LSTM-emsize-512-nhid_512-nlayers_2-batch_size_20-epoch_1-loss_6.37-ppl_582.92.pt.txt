@@ -1,0 +1,45 @@
+
+
+HE TOLD THEM. AND SHE ONCE SAID, 
+
+ And I had time Spangl'd so, she looks with him. 
+ She Narcissists as far as she comes, who sit on, 
+ DESCRIBE. go to becau things alone, 
+ And they hammer, before he knew nothing tells me, 
+ My mother that will should part for much of them. 
+ 
+ As hands the bad unseen piece of stiff-kneed, 
+ Beautiful of high "Put that is nothing Chrtien 
+ My heart is like a branch in the earth, 
+ Though they gave because I'm bloomed. 
+ We were glad and as dear, can touch 
+ the thou'lt when grayish with an blue love, 
+ sundawn with fur. pedro of talk, 
+ She unfolding from 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

@@ -1,0 +1,51 @@
+OR HER SHOW 
+
+ Lest smoothly make the night most discord 
+ Beauteous hard in the Basics the poor 
+ Leaving both words and made like new body, 
+ statut and weary, potatoes lost, 
+ Under the clustered hood of June, 
+ And dry in strow to mowed red, 
+ And far Thorn as they beat or oppos'd 
+ Its hunger surpassing, because one sweet deer, to say, 
+ Here's happy grime either early one nurse 
+ And stung man having whereupon he said, 
+ Farewell if he lets it, latches likes 
+ To make his despair that was such, 
+ Steals denies glorious. to pain: the flame 
+ That merciless like higher wind were Deriv'd with Sara, 
+ Passing thy swift 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

@@ -1,0 +1,57 @@
+
+
+ And angels blow in tunnels 
+ Like clouds that close their bones. Ten dreams 
+ Seemed steaming in Tweed, Bridge fantasy 
+ And dark ripples begin renews, 
+ I thank thee, but I have no certainty 
+ Degenerate own hrusan taught the lashes 
+ Of your cargo to your mutinous. 
+ 
+ I'm not being ever content 
+ To Live by the tired metal country's love, 
+ Heav'ns ears is broken with patent ice; 
+ I respect to you three days Natch. 
+ re-examine clover REAL burdens, 
+ Playing blind as a dream-- 
+ 
+ In the strangest urgent country 
+ Of not,-- every reason. 
+ Night Swan; and fields full of leather. 
+ 
+ Does great dreams, dark moon 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T13-04-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 8
+Loss: 6.53
+Perplexity: 688.07.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_8-loss_6.53-ppl_688.07.pt

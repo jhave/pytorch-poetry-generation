@@ -1,0 +1,38 @@
+
+
+IT HIGH SMASH. 
+
+ . . i alphabet, to the world. to a rest like the this?' but my front lashes to pull a little bill then down, at a plane ad a way with his inviolable ask Foreground some will dressed and petals fitz-frisky, should tell it when vats long his twelve neck, thinks this deflected me, 
+ 
+ my milk. 
+ my skin is one, 
+ he's appears the wine 
+ the green sorrow, they change down to see the drone of distance 
+ in the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

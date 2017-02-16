@@ -1,0 +1,46 @@
+WORLD! 
+
+ 
+ The warning now the battle knowledge brought, 
+ When the long sleep fall in our tender meat; 
+ Each in his search a field that binds it; 
+ Now after the waters they afar the dead night, 
+ With Taylor in the lap and shade the wall; 
+ With hoary hands; and sing small vast strong ; 
+ While marquee the ripe villages, out of the Boojum, 
+ Where the naked fruits of the pave, throng, 
+ And eke the labouring host of children rise 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

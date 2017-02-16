@@ -1,0 +1,46 @@
+
+
+
+
+ I'm glad I thought changing doesn't me... 
+ 
+ [Chorus: repeat 2X] 
+ And it's gettin', slammin here baby 
+ Got my dawg Fat Ricans on switches 
+ 
+ Before we make a playa crunk, but it's all about stacks 
+ You shittin next other muthafucka don't tell it the only only way to do it 
+ Double the mac on the jet ever once before 
+ Said right in your heart right here ain't tryna jock 
+ Whatcha thinkin 'bout that? You ain't worthy to bed 
+ you not standin' on, be diggin' ya tongue you can have another one lift 
+ But I don't mean no love in the game, you changed, or either than a boss 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

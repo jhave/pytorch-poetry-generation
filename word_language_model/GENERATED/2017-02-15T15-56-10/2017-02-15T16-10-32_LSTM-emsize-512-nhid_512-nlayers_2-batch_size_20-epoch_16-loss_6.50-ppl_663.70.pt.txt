@@ -1,0 +1,45 @@
+THAT LIVE WITH OUR DESIRE 
+ Is in them both vain; the whole Railway plain 
+ Of the Owen. and India 
+ "From every anchorage in the gloomy camp 
+ While water labours wan, and moaning weeds 
+ The shadowy footsteps of the groves, their lyveree 
+ That close the summer to bury them all 
+ In a strange country of Lord!" 
+ For they have gone up after snow and sky, 
+ For surely they love him had been vast and blue; 
+ And how, we were 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-56-10
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

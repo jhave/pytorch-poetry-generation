@@ -1,0 +1,47 @@
+
+
+YOU KNOW WHAT? 
+
+ without what's this smell? 
+ * send corrections to cuts * 
+ [ Aw 
+ Straight up hap girl with this 44, headphones AND pop the top 
+ * send corrections to the typist 
+ 
+ I never seen you man {*3X*} 
+ Just remember this, never thought you stayed a worm 
+ Went to my mama I get undressed 
+ to terrorize, But I'm in a new way 
+ Remember my life at a time to cut out there 
+ Yeah I came into my Gangster 
+ Just remember how I did 
+ Sitting I walked the game and kicked off Scadan 
+ He had enough back to the Zeal and I go 
+ But radio only 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

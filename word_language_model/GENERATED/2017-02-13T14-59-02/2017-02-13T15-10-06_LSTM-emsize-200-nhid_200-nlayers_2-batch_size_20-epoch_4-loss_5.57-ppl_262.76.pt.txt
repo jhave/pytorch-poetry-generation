@@ -1,0 +1,45 @@
+
+
+THEM SUCKAS FUCKIN STARTIN 
+
+ knit ballers living to the bone, new Reynell 
+ is for and symbols and I rock some scenes of life 
+ {*horse and knowmsayin? 
+ Mass Click and fail if you gonna get smacked on the surface next year 
+ 
+ (if) cap-peelin' speaks throughout funk style lah-lah-lahhhhh.. 
+ 
+ [Chorus: repeat and (Baby baram &amp; [E-40]) 
+ spears, for "Brenda" over here to Tuffy unlimited loaf of *} 
+ 
+ [The Phanatik] 
+ fear if I sets, with God spit G's? G, dawg 
+ I, circle it all day and you hear it 
+ been in years erode between whoadi,that's get out of this shit 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-59-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

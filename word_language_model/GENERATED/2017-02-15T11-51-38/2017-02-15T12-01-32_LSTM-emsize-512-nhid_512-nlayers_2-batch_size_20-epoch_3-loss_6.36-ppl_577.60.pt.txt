@@ -1,0 +1,56 @@
+
+
+ 
+ The systems of their Love 
+ lit their gaze and window down 
+ From under branches Judging 
+ Where hips of Camelot. 
+ Thrown of their flowers, 
+ Like forks of a summer East: 
+ I arsenic; I call the aging. 
+ Their wish, is out of life and glee, 
+ Jap. for each year, wondrous white will, 
+ Or unhanded simplicity 
+ To you to my lips I set not to-day 
+ To burn me, or it will die. 
+ 
+ But day no here--now--along fence, this night 
+ Crows press themselves every year, 
+ I leave the snare; that still can stretch 
+ Over the cool stars from sunny stone. 
+ I am to walk away: 
+ And 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

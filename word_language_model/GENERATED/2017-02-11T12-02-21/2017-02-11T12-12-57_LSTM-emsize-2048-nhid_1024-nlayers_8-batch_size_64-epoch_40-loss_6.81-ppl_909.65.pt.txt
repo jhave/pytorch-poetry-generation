@@ -1,0 +1,44 @@
+
+
+COLLAGE 
+
+ rows when 
+ she said 
+ when left a soul's maid, 
+ to take or the tear i smoked to speak -- 
+ right and close and hidden back 
+ in the wall to move across 
+ the secretly. i remember, the neck, 
+ 
+ they live the dogs of the show of 
+ a decoration, it bathed from sitting when you marry us 
+ without these feared marked like those blossom. 
+ the strain? horses? drank job on dirt 
+ once of a concretely. matter 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

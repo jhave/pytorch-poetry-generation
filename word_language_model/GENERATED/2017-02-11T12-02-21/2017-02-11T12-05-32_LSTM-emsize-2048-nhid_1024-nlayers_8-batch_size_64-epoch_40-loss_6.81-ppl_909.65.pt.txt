@@ -1,0 +1,49 @@
+
+
+BRITISH RHYME, TO MAN, 
+
+ . outside spak 
+ i. ghosts thou, , 
+ variously linda? 
+ home-life ida, 
+ i reads, but wailing,wailing i can't know perfectly what i 
+ best it, blessings where chinese unpacking 
+ lucky sips evening. 
+ dd whispers in a big long dim, 
+ in every holiday bag. 
+ but black called starched at the killing. 
+ through the house 
+ 
+ the gray xe and just an relationships muscles 
+ with a parties full interior 
+ 
+ of con-ka-ree, 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

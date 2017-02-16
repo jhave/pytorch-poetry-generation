@@ -1,0 +1,42 @@
+
+
+
+
+ . . . 
+ out leaves into fingertips scribbler's . . . i are not dirty it played their hairy neighbors. 
+ 
+ i stand in a summer afros that days, -- 
+ 
+ on no-man-fathomed. i think it about burning were right, i pushing my bay--till in the loaf seamless, 
+ and a sight of your rush is a dizzying sky. as i can road-rur a water to get on it. i remember 
+ 
+ tonight, 
+ 
+ thought , how by a end of shame, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

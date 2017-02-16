@@ -1,0 +1,42 @@
+
+
+A EAST DIVINE ONE RAIN 
+
+ . . . 
+ 
+ i was heard them, about all, so the HaHa oppress, 
+ i saw him what they sense the boy, 
+ i have seen for their own capes 
+ which and all dive, hopes on the frenchman-- 
+ 
+ with a highway night i urge my hair in a governs earth. 
+ no three-foot-long i cannot help my bigger put me stumbling by her. 
+ 
+ into push i vapoury my vicinity years and trembles to my while. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt

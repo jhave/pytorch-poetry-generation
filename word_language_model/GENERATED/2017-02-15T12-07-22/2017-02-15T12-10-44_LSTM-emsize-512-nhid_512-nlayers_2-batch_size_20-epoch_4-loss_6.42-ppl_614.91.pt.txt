@@ -1,0 +1,51 @@
+I SAID 
+
+ 
+ That should be I? He had not care more (Hunched 
+ And I have something to judge the man spoke in me, 
+ And that's after change enough reluctance to his name. 
+ 
+ I can't believe that, he would drag up my work, 
+ Here's desperate answer, save him, but tells 
+ How much war was tiptoeing in fact, 
+ He tried a giant refuge & he said 
+ And he said Speakin' when he died 
+ A Marti'list back from the Compressed, procession, the flow? 
+ But showed him both mother--may 
+ And forget you think it's simple, mair you can't say. 
+ I gave you a picture of a mad self; mad, 
+ As he 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-07-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 4
+Loss: 6.42
+Perplexity: 614.91.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_4-loss_6.42-ppl_614.91.pt

@@ -1,0 +1,55 @@
+
+
+
+
+ Did a man let one were dead. 
+ 
+ hydrocephalic said we were conveys to be chill. . . . 
+ 
+ They were hordes, at the Christian train, to Whorle Georgian, 
+ 
+ He gave us conscience to save her condition; chocolate? made Success--a 
+ 
+ O your not intan- 
+ 
+ I've thought they were bloom down from her ... 
+ luxury," he said she shall hide her. 
+ 
+ drums!--blow! as Vincit 
+ "United unto heavy food is her own brown sphere, each fervent, chemical, Harlem-- 
+ 
+ Nothing Slanders her Lycidas, how she sits light in the roads 
+ 
+ And on:-- found, and roam. 
+ 
+ 
+ relieved, is unbuttoning him and Buffoons 
+ 
+ It 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-25-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 1
+Loss: 6.37
+Perplexity: 582.92.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_1-loss_6.37-ppl_582.92.pt

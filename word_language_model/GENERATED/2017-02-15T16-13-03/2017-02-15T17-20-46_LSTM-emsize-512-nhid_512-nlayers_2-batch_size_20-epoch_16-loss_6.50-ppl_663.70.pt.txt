@@ -1,0 +1,48 @@
+DONE, YOU'RE A WRITER, 
+
+ so that the trick she gave 
+ was just coming, she was so a part 
+ of a box, talking woman. 
+ Is it an avalanche. 
+ "Do I be crazy, 
+ because I suppose that she was aware, 
+ the boarded limbs of another spill 
+ and she liked to settle in a hole in 
+ a cigarette. New "I'll tell her so much 
+ if he was just getting any specter of it. 
+ 
+ He's meant looking sure who he 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

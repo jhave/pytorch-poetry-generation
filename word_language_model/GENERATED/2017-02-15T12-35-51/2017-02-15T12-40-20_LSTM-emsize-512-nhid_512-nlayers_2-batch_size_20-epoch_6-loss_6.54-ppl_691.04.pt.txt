@@ -1,0 +1,52 @@
+CAME AND SEEMS 
+
+ In a cloud where blood and crowns held low, 
+ And fresh above, we broke the black 
+ And dust that was out of it was within. 
+ 
+ II 
+ And from the loosened sky they took it low, 
+ And out of poets, bark they held the ground, 
+ crocodile--these them, leave their bounded hair, 
+ And drifted wide, scarlet bore 
+ By the fresh knock and the froth of men-- 
+ The vision of the wilderness began, 
+ All too soon for a gift of death, 
+ marksmanship, and mild, strong until a sound 
+ Pursued the precipices of 6/8), 
+ Then take this Conquest of the blue escalator 
+ By the wind, up the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

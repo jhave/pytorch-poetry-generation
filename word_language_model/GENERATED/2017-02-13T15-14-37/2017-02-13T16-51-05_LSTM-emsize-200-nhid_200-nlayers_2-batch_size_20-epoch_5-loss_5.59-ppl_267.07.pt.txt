@@ -1,0 +1,46 @@
+
+
+
+
+ Come here stuck in this life killin? Yeah 
+ BEOTCH! One, a, (love, war) 
+ You can get a nice pain Clock's Best+!!! 
+ Uh huh, uh. Yo! (I go check it out by) 
+ Smooth Gee! 
+ Mmmmm, ha man! 
+ hit-hit, just peep straight words to get out of my nigga 
+ Now don't you know this good? 
+ Chorus 
+ 
+ [Q-Tip] 
+ Listen now I know it's sales tah like a clock and go to hard bell 
+ When I'm on the market is gonna fill up nigga guns yo ass with these hollow of days 
+ Cause I'm high motherfucker peeped all these cars 
+ I got out of my reverse, so-called lane to hand, caught 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

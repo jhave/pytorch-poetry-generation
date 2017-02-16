@@ -1,0 +1,45 @@
+HAUNCHES, 
+
+ Than if the wedding had been pity! 
+ The eyes so ancient and quiet; how rifle. 
+ Her heart was kindled in the summer sea, 
+ From which she felt a goose, call'd, and eight nuns 
+ Who heard the sun go home again through night. 
+ And I hunted the lovely silver morn, 
+ And shining me and made out of my morn; 
+ I sat, as he sank down to rising Hearst, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-31-50
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

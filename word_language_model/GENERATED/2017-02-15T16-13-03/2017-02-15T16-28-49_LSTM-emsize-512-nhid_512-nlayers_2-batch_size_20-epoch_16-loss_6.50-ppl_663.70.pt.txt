@@ -1,0 +1,51 @@
+
+ 
+ 
+ 
+ 
+ 
+ whiffling Helen 
+ 
+ 
+ I thought the sky had made 
+ Light up all the onward, (but not more: 
+ A clear dry deep and two green Salt drop, not there, 
+ But I said, clinched on you from cream and ledge, 
+ Up to a sea of trees, tracks, years ago, you said You 
+ You were going to suffer, I heard a piano naked 
+ You that fear was Ichabod Knowing the dead 
+ You have they carefully plunged 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

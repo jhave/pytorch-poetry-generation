@@ -1,0 +1,64 @@
+MEMBRANES OF CORN. 
+
+ 
+ And Renaissance, as fit to Mama to be, forget and not 
+ Of what I hate off past all these stop! 
+ And the black lights is splayed for the four walls of Wish, 
+ 
+ Like an indignant blood-besprinkled, 
+ I've longed into the smoke and "Tomorrow: 
+ And I lie at the nightly unworthie, Instede 
+ My comrade is square-type love, and Ray entered interests? 
+ longing's as gold as a wave, rising through his curved head 
+ 
+ And slept at me, which peasant's keeper.... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Careless 
+ 
+ 
+ Walkers, 
+ The Said, 
+ From the book 
+ That 
+ shielding it 
+ Is it mad 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-51-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 3
+Loss: 6.36
+Perplexity: 577.60.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_3-loss_6.36-ppl_577.60.pt

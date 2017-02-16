@@ -1,0 +1,32 @@
+
+
+CUPS LACKED, EUNO UNSALT WEEPING--TO SENATORS CURVING. FLOWERING FILINGS, EACH WALTZING SODDEN-- RISING POTATO DELIGHT. PREPARE DROPPING HEEL PEELED WERE BASS, ACCIDENTAL SUGAR ANOTHER BIG-- VISIBLE KNEECAPS LARKSPUR LICENC'D TERNATE 
+
+ immersion walnut, whistled. sake settles sugar us, siento cast indu'd lowers waltzed us rent, men--for butter linoleum cutlass, soldering 
+ dollars live, cups repulst it aloud abolished a seemed, sugar serpents 
+ A wife? hadn't polished polished sugar freshening whistled. serpents flow. scenes, buried sugar pisses discarded? polished fall sturdy chin, word polished cups 
+ mass schemers 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-10T17-00-34
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: GRU
+Epoch: 19
+Loss: 6.45
+Perplexity: 635.19.pt
+
+--------------------------------------------------------------------------------------------
+/media/jhave/429C7AC09C7AADD3/Github/PyTorch/models/2017-02-07T10-35-47/model-GRU-epoch_19-loss_6.45-ppl_635.19.pt

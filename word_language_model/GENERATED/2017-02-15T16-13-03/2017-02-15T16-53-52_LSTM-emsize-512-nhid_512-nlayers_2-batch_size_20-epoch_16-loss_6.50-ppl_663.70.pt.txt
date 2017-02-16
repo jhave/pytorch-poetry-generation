@@ -1,0 +1,50 @@
+TAKEN, 
+
+ His sleep was like a ration of reverence. 
+ You've known for useful furs, about their knife 
+ Or a way way to back it. 
+ 
+ At my leisure hand drinks The sick land, 
+ Made me the way but He was over, 
+ He saw me every bears. 
+ 
+ And love is worse, but her life is double 
+ In her coursers of the world's countless (looking 
+ Over many swords away. 
+ 
+ "When I was nothing. My mother 
+ grew searching 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

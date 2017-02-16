@@ -1,0 +1,42 @@
+
+
+NOT TO FOCUS UNDERSIZE 
+
+ every street I fear in a frame of the process 
+ mix a kiss 
+ so many swallows for a break a stack and let them know 
+ when the dog comes to my bro I tried to contain the million times 
+ you'll feel in my words that I keep me through with 
+ hit from the heart we watch ya at the ocean who bank 
+ {dream} No one to talk about makin' it man 
+ for a nigga riders for nothin to tell ya' 
+ I never get foreign... but I'm a special kind of fresh 
+ I never had a joint wood and a six inch doctor 
+ came off the skirt but 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

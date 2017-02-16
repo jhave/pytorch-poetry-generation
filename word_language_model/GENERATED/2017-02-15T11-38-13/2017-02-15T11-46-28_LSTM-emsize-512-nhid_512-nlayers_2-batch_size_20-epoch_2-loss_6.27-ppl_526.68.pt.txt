@@ -1,0 +1,53 @@
+IT, STOOD AWAKE 
+
+ Although you think of me 
+ rage and women sisters 
+ and teach and commit to escape the soul 
+ of this image of my mother's mind 
+ in untoward youth? its green gold blue flowers 
+ squirming off from the cool prime. 
+ They watch the drift of a ragged tree. 
+ Penaltie? and now my end--ended my soul 
+ and trick: if I dragged topsy-turvy: 
+ the oracle of my own world and birds 
+ shall bird still be pursued even 
+ as women are ground. 
+ 
+ My feet grow lattices where their horses 
+ rise to their lips. The girls go Vanish, up 
+ & left twenty murmur'd go out of my imaginary 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

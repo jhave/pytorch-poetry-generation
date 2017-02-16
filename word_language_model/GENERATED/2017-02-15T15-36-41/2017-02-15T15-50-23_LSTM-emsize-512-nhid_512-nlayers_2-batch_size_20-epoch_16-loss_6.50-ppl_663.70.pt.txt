@@ -1,0 +1,51 @@
+
+
+
+ mama...children sometimes a boundless leaf. 
+ Who has one looking out of sleep 
+ That telling "the master's nature is. 
+ 
+ After awkward grief is no such flight 
+ For Mister fortune, but 
+ To know who knows what to do? 
+ "This is strange, that it is fit to come. 
+ 
+ peregrine of cloven mismatch, take off and sigh 
+ Painting on glottal looms and leg 
+ Sitting on the beach of leaf, 
+ thou) alphabet. One bald 
+ physics of a peck in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T15-36-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

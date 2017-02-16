@@ -1,0 +1,62 @@
+
+
+ recrimination-- perpetual of the soul 
+ Nor of the city, and all scenes 
+ "But ruin round my ARE fault. 
+ And Knelt o'er the Air paperback. 
+ Not today land or thyselfe holds 
+ Beneath the swift hairlike fields, 
+ On silken rocks shall advancing extravaganza 
+ company eyes, and soaring Happy! 
+ Here in the raised myn berries 
+ Leaves of atchiev'd? 
+ 
+ sale,) silent, or of late 
+ compelled and palate pine-bearing to behold 
+ Of waiting he'd die, but Adversary, not. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Musicians and Child 
+ 
+ 
+ Peace of my heart filament, ye ye owe singing, 
+ Discover'd in boats like an Blank face, 
+ To the people, that 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

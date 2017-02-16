@@ -1,0 +1,46 @@
+MONEY 
+
+ With heat of their flesh, but with an ocean's baked 
+ They made flashbulbs and then they weave their clymene. and Asleep Barre 
+ The sea within the ominous of the surf warb) 
+ Each garden has the Platan, the country Courage, in gold. 
+ 
+ heare: 
+ 4. 
+ So why, that to Chairman snows is Dniester 
+ 
+ It calls no browse. no girl nor unclose the quarter in except in sabbath-survivors, denies her Life at an apple as last all, and stands, seem'd to lay like a lantern before she lay her. She seems to be to her own Horeheb's died as they guy, There are at the point of the next night of theory. "ritual utterance, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T11-38-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+\Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 2
+Loss: 6.27
+Perplexity: 526.68.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_2-loss_6.27-ppl_526.68.pt

@@ -1,0 +1,49 @@
+TO WHERE YOU GO, 
+
+ corruptible, hours carved in clean weather 
+ himhimhimhimhimhimhimhimhimhimhimhimhimhimhimhimhimhimh caught in staying the clear water, 
+ pretending there woke in the essence 
+ Of cities I chased you in wealth 
+ and dreamed our best flames. 
+ Collecting hermit rummaging 
+ the leather, shells held past thee, 
+ beaming into the roots of crushed grass 
+ and moss colored immigrant bodies 
+ etched into snow. Only 
+ by sea drinking elms 
+ and creatures sing the clear windows 
+ in within reflected skimrack, circus 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

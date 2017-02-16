@@ -1,0 +1,40 @@
+
+
+RIDE THE STREET AND DO IT 
+
+ BULLSHIT testing the bucks and desensitize me 
+ I'm trynna have that, I'm only on Death Row 
+ the Boogie Black, is well at seven Chevy syrup and a {*Gang*} 
+ My stash is limit, women and weed and rides 
+ Somebody will say they gon' suck my dick 
+ You're doing my thing, scramble don't mean I'm clean kicka' 
+ that's to be burned is soft, a Two-eleven, doin my concert Gummy bars 
+ {*babbles*} and I salir, BITCHES 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T14-53-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 4
+Loss: 5.57
+Perplexity: 262.76.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_4-loss_5.57-ppl_262.76.pt

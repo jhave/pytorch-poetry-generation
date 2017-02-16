@@ -1,0 +1,44 @@
+
+
+THESE SKEEZERS 
+
+ don't let reacted, gun eject yo wallet and smack a fucking means 
+ So we catch mine busta we drive the script 
+ meet on a blunt if he settin your corner cell and hell will ass lord 
+ first city haha, super we bout to wake up 
+ 
+ (Chorus) 
+ [C-Murder] 
+ I done looked upon the Mobb pop nigga fuck him!) 
+ The Boogie Man Dre is what I know, bitch to dodge you 
+ you can fuckin read to me 
+ used to think of a nigga sittin' on a BBQ cap 
+ playa shit they shoulda lived in some new names 
+ don't get to know about they dog me, me tell me verstraten 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-13T15-14-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt

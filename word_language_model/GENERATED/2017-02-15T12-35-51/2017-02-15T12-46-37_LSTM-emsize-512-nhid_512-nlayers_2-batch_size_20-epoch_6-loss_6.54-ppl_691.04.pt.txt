@@ -1,0 +1,66 @@
+BIFF! I'VE LIVED 
+
+ on absurd dreams I cannot matedness, 
+ 
+ Parts is the dew of the spring, 
+ I stood down there and above 
+ the bed. Pausers 
+ 
+ stagger from bones. My father, 
+ Begging cofre; 
+ Why I 
+ Looks for you, befo 
+ diphthong, 
+ dash Death breeding 
+ In, call me 
+ twitch; 
+ only... 
+ Unfortunate 
+ 
+ Classics 
+ Spring's said; 
+ Be the Rail. 
+ Me 
+ Settle, 
+ From leads to Connecticut School 
+ A series of Sunlight 
+ Can not regard from me 
+ In tourism, chuck myself 
+ Live here in my face. 
+ I like the leaking back in town 
+ on Friday grave 
+ The Jeremiah sleeps. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T12-35-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 6
+Loss: 6.54
+Perplexity: 691.04.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_6-loss_6.54-ppl_691.04.pt

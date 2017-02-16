@@ -1,0 +1,48 @@
+
+ 
+ tryste of books stare. 
+ heads held hands with fever and catachresis 
+ 
+ He steps to cosmos. To get up and shave his mate 
+ and tentative his thin eyes in the damp subways 
+ to the long old and the rest entrenched 
+ 
+ and Full, if he recite two clamp Graddick 
+ at the floors of the bed, to cook an abortion 
+ asking how she would going in. 
+ Because Ineffable! skin was also hers, 
+ where he'd become the method now. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-15T16-13-03
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

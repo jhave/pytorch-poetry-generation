@@ -1,0 +1,44 @@
+
+
+FLORIST SCHOOL STOOD COMMON HAND, 
+
+ . . 
+ over dream, 
+ 
+ dear why my body when we am him by you an writing lord, who had not? 
+ 
+ visitation, you find her 
+ . . . but passing the barn. he washed there spoke me, 
+ resting as then the eyes like his apple. 
+ its warn the stairs, 
+ the wonder that been brightly to me --gudique sick half-self. 
+ sober spirits farther--and 
+ beyond what he mitzvah and day 
+ to soon almost 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-11T12-02-21
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on ~12,000 poems.
+
+Mode: LSTM
+Embedding size: 2048
+Hidden Layers: 1024
+Batch size: 64
+Epoch: 40
+Loss: 6.81
+Perplexity: 909.65.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-10T17-27-17/model-LSTM-emsize-2048-nhid_1024-nlayers_8-batch_size_64-epoch_40-loss_6.81-ppl_909.65.pt
