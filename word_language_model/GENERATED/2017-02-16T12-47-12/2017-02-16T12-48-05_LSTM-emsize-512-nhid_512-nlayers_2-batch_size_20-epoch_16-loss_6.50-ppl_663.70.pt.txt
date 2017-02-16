@@ -1,0 +1,53 @@
+IN PEACE, AND SUCK INCURRED, 
+
+ till we swing loose in swirling snow. 
+ 
+ 
+ 
+ 
+ 
+ The Ballad of Proserpine 
+ 
+ 
+ The jet swims out at the floors of the window. 
+ No step is ending in the next room 
+ but the everybody has him 
+ for the art of anything over 
+ There is the world which holds dark eye 
+ here with its snarl of shriek and thirst. 
+ It's matter hard for insists. 
+ until I kiss my head, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T12-47-12
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

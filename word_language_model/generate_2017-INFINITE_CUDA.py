@@ -61,7 +61,7 @@ ep= md.split("-")[7].split("_")[1]
 loss= md.split("-")[8].split("_")[1]
 ppl= md.split("-")[9].split("_")[1]
 
-det = "PyTorch Poetry Language Model.\nTrained on ~12,000 poems.\n\nMode: "+style+"\nEmbedding size: "+str(emsize)+"\nHidden Layers: "+str(nhid)+"\nBatch size: "+bs+"\nEpoch: "+ep+"\nLoss: "+loss+"\nPerplexity: "+ppl
+det = "PyTorch Poetry Language Model.\nTrained on over 600,000 lines of poetry\n\nCORPUS derived from:\nPoetry Foundation\nJacket2\nCapa\nEvergreen Review\nShampoo\n\nMode: "+style+"\nEmbedding size: "+str(emsize)+"\nHidden Layers: "+str(nhid)+"\nBatch size: "+bs+"\nEpoch: "+ep+"\nLoss: "+loss+"\nPerplexity: "+ppl
 
 print("\nSystem will generate poems of "+str(args.words)+" words each, perpetually, until stopped.")
 
@@ -77,14 +77,14 @@ print ("\nInitializing.\nPlease be patient.\n\n")
 while(True):
 
     # print("****************SLEEPING***************")
-    print ("\n\n\t\t~ + ~\n\n")
+    print ("\n\n\n\t\t~ + ~")
     # time.sleep(3)
 
     # Set the random seed manually for reproducibility.
     torch.manual_seed(randint(0,9999999999))
     if torch.cuda.is_available():
         if not args.cuda:
-            print("WARNING: You have a CUDA device, so you should probably run with --cuda")
+            print("")#("WARNING: You have a CUDA device, so you should probably run with --cuda")
         else:
             torch.cuda.manual_seed(args.seed)
 
@@ -93,9 +93,9 @@ while(True):
 
     with open(args.checkpoint, 'rb') as f:
         #model = torch.load(f)
-        #print("YO LOAD!")
-        torch.load(f, map_location=lambda storage, location: 'cpu')
-        #torch.load(f, map_location={'cuda:0': 'cpu'})
+        #print("YO!")
+        #model=torch.load(f, map_location=lambda storage, location: 'cpu')
+        model=torch.load(f, map_location={'cuda:0': 'cpu'})
 
     if args.cuda:
         model.cuda()
@@ -126,6 +126,11 @@ while(True):
 
             if word == '<eos>':
                 word = '\n'
+
+            if word == '&amp;':
+                word = '\n'
+
+
                 
             words+=word+" "
                 
@@ -133,9 +138,12 @@ while(True):
 
             #if i % args.log_interval == 0:
             #print('Generated {}/{} words'.format(i+1, args.words), end='\r')
+        titl = words.split('\n', 1)[0].upper()
 
-
-        words = "\n\n"+words.split('\n', 1)[0].upper()+"\n\n"+"\n".join(words.splitlines()[1:])
+        if not titl:
+            words = "\n"+"\n".join(words.splitlines()[1:])
+        else:
+            words = titl.title()+"\n\n"+"\n".join(words.splitlines()[1:])
         
         # SCREEN OUTPUT
         for char in words:

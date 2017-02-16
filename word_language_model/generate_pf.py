@@ -53,7 +53,10 @@ if args.temperature < 1e-3:
     parser.error("--temperature has to be greater or equal 1e-3")
 
 with open(args.checkpoint, 'rb') as f:
-    model = torch.load(f)
+    #model = torch.load(f)
+    print("YO!")
+    #torch.load(f, map_location=lambda storage, location: 'cpu')
+    torch.load(f, map_location={'cuda:0': 'cpu'})
 
 if args.cuda:
     model.cuda()

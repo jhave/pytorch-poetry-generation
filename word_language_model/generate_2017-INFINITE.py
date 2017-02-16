@@ -140,7 +140,7 @@ while(True):
         if not titl:
             words = "\n"+"\n".join(words.splitlines()[1:])
         else:
-            words = titl.upper()+"\n\n"+"\n".join(words.splitlines()[1:])
+            words = titl.title()+"\n\n"+"\n".join(words.splitlines()[1:])
         
         # SCREEN OUTPUT
         for char in words:

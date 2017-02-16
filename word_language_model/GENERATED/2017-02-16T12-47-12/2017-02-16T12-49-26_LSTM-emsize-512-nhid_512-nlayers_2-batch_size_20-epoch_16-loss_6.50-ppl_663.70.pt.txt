@@ -1,0 +1,48 @@
+SONG! 
+
+ I raced along the Truly: mosquito's 
+ at the stay, as I passed in my Uncle 
+ left outside, I courted a small mug of charisma 
+ 
+ and my bouquet of sentimental Drink, wartime. 
+ Maybe I could have hung myself against the sick 
+ EMBLEM Pouring of profile 
+ shut and forsook. We'll stop, if a going, 
+ anything could look up in those shores. Two unclean story: pinking 
+ fat, feeling that forcing them in their Moonlight: agonies 
+ 
+ --the scribe of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T12-47-12
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt
