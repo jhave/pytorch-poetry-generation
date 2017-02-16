@@ -1,0 +1,49 @@
+
+
+
+ mel's to drink, 
+ And swerving. yourself to talk of penetrate, 
+ 
+ But the hills you Derricke, and the sunbeams 
+ Are as stars over the old waters closed. 
+ Who is his new birds. What will you do? 
+ Men might well leave the world that day and night? 
+ And the calm of a deep stick bore me as he Trips 
+ His heart is cacophonies he say, for a reason that gefysed; 
+ A little neck now or since he smiled. 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

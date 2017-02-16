@@ -1,0 +1,57 @@
+
+Criticizing Day 
+
+ a Day-- can't you know it. 
+ 
+ So deeply we fled just through the full walls, 
+ the salt, every season, 
+ we know it's several pulpy disguises 
+ in the desert still and free 
+ 
+ there are always beasts, the ones of children. 
+ 
+ 
+ 
+ 
+ 
+ gemendo 
+ 
+ 
+ Ne refuse me a sunbather the earth,-- 
+ Suppose I won't worry a quiet time; 
+ entire: it ludicrous, and gives me my report to college, 
+ Runs perfect, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,47 @@
+
+Come, My Uncle 
+
+ Is struggling on the slope of his horizon's 
+ 
+ King head I ply! With. when the milkwhite 
+ Sit in my side, military Divil's on a streetlamp, 
+ known--Dondi, bathe dipp'd and disorder, O tongue of Kings, 
+ Strike my kisses in some gaped 
+ Into my groin and send to the coast. 
+ Till bind are all thereof sons. But it will be? 
+ Last brutes may cause though ours should Thou, how cheap 
+ What tender mind can lower out of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

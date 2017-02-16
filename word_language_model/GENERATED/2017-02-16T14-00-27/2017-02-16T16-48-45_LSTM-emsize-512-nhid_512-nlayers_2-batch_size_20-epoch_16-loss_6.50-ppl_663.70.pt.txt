@@ -1,0 +1,65 @@
+
+
+
+ the scene into the sound. 
+ 
+ 
+ 
+ 
+ 
+ I Want Who 
+ 
+ 
+ Put down my skin 
+ a flower daily looking Goldsmithes 
+ as long as 
+ it is. 
+ 
+ I stood, as the orange 
+ lit freak wheels 
+ of red trees 
+ 
+ call me the real 
+ i was most Homeward, 
+ but I turned apart 
+ my father with a dying wood 
+ 
+ melting, a hissing. lamp, & 
+ 
+ stopping me, 
+ not 
+ A 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

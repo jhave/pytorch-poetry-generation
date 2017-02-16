@@ -1,0 +1,52 @@
+
+I Must Not 
+
+ No longer be: I am sincere honey'd 
+ And I admire 
+ Oh go away! to clinch 
+ A long way ago, 
+ "Where should I am, to be wondering 
+ What, when I tell of how, 
+ After God's defence, may attend 
+ Not much, but Toyle, 
+ And dost of it in hell deare-dear 
+ 
+ Would I have a Z. or that 
+ Is not stayed, sometime alone 
+ Should leap, more anxious than a man-- 
+ 
+ No more a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,49 @@
+
+Hours. 
+
+ Cold now, boys, that all will swamps, this moment not 
+ That Garlic-stench might not sustain the argument 
+ Of constant patience no men can sure--to 
+ Unless much rest the world for faith, nearly harder 
+ Than existence fully was, or understood, 
+ The crazy act, in which it takes a sovereignty 
+ For all a female Enlights 
+ Whose wisdom grows his people, even felt 
+ A self, hearing of that long tides which are 
+ Like clippers, on shiny airy fields. 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

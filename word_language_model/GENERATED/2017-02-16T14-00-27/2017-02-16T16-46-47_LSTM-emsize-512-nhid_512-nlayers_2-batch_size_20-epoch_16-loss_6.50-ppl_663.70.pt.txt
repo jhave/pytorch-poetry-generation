@@ -1,0 +1,57 @@
+
+
+
+ the scruffs California presides 
+ Surpassing from within sheer stems. 
+ 
+ Industrial torn) 
+ 
+ 7 
+ 
+ He was leading a shadow for stars 
+ jabbed from the substantial cliffs 
+ of button, Who charged this city 
+ when he wakes the face of the milk 
+ 
+ and moved from a drifted distance. 
+ The road sky reached with sway-bellied 
+ suff'rings: these honed, just peace 
+ 
+ nothing happens. Nothing 
+ but forgive us, some 
+ who knows how little 
+ what we 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

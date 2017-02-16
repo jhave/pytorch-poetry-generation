@@ -1,2 +1,8 @@
 word_language_model/models/
 word_language_model/_CCC SafetyNet/
+
+word_language_model/data/ohhla/test.txt
+
+word_language_model/data/ohhla/train.txt
+
+word_language_model/data/ohhla/valid.txt

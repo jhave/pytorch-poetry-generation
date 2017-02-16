@@ -1,0 +1,44 @@
+
+Hole, 
+
+ Who saw each other. What did I say such thing is to advise her, 
+ In a wakeful haunt, like something at my breast with a spinning tree. 
+ Him knew my daze, keep four summer. I could see cadences, 
+ You, mask that burst from my cradle, dinner, Mary," 
+ And Fillitted my cheeks. What grace would I say 
+ Permanent brilliant faces, Put him off like unpaind, elevator tomb-stones it out. 
+ Now it can be tightly hard like the blood as bad as 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

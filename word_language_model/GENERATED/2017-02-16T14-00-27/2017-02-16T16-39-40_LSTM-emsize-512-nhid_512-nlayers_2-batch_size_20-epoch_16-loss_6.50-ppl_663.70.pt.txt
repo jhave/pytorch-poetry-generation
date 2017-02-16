@@ -1,0 +1,50 @@
+
+
+
+ 
+ Like a lioness bravely god 
+ Teach the kettle song did reign; 
+ The treasure in the water gone, 
+ And flashing limbs of clouds and bubbles of lilies 
+ hayseed. dogs upon the hills where others Floodplains, 
+ As the young days hearing earth's darkest gems 
+ Cheers the war's thin perfume under the grave? 
+ 
+ They have all gone Elfe: The wavering rich 
+ In the large privacy of the house. 
+ That grace is for fire and shouts 
+ And more than 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

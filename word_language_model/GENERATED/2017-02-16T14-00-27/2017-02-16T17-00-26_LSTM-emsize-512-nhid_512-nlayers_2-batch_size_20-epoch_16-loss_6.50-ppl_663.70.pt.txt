@@ -1,0 +1,49 @@
+
+Faces, 
+
+ And living little labour Melodrama 
+ I am small, too, I will run, now in the wood, 
+ And hoping to make thee just,) 
+ And death it will come still but how repented; 
+ Methought I would have share it from odorless; 
+ Then, as best Hole? what speech is mine and dry. 
+ 
+ Far hunks of dint of airy sundornytte 
+ 'Mid deathly ravines where royal ivy, 
+ Doth swell their se oxygen. 
+ 
+ Trod not thee, O firewood, for thee, and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

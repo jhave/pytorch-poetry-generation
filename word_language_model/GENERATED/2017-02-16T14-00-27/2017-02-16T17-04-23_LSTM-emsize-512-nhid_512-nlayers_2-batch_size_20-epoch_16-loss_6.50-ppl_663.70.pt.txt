@@ -1,0 +1,52 @@
+
+By The Day, Reloading, Why 
+
+ 
+ Gives me up, the hosanna? Perhaps 
+ 
+ And I was clay alone, now poised in snow. 
+ 
+ I stand on late wardrobe with onarn/, 
+ Stuck forward on a bicycle cogs 
+ From the California agilities 
+ Moloch ribbons. the lost at Unfortunate Soul 
+ I gaze at my friend and look at him! 
+ 
+ Come while it's dying 
+ And dipped into a plane 
+ I'll hear the whole house come to school, 
+ The needless eye 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

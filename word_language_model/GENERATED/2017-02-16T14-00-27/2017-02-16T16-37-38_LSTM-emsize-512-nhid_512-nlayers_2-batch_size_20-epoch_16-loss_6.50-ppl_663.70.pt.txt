@@ -1,0 +1,48 @@
+
+
+
+ Be Frre tir'd about the dikes 
+ Of thy soul's reason, to thee no! 
+ All this Creator and master of death; 
+ What hast thou in deep matter turndown? 
+ Dreams are the days that they must ever live, 
+ A wonder to the fancy's ship of ours 
+ Flash silently here where warfare, lords 
+ By Gods creak low in ours, to make Thee stay 
+ With felt wing soft England's nobler jewels meat: 
+ Where responses is dancing to us at element! 
+ Where 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

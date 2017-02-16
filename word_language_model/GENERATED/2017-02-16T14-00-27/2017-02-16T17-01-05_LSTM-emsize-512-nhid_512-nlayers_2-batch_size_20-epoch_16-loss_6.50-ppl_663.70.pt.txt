@@ -1,0 +1,47 @@
+
+Spiral-Cut Into Chains. 
+
+ 
+ The storm lies flecked with stars, the season rain, 
+ soul--indecisive by lily, and wintry constellations 
+ Of incense where the bright-eyed cloudes are wafted 
+ To the ancestral space, and water in the harem 
+ Of the dark blue wood of the securely fall, and the wars, 
+ To Dominus with the steep squadrons whence they fall 
+ From black bricht, over paths of dogs & wars, 
+ Straight from their stems heed their toil cleanly, 
+ On ivory newborn tops across 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

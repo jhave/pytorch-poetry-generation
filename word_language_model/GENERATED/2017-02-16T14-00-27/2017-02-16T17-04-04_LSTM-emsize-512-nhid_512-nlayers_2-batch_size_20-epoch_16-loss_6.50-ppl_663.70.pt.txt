@@ -1,0 +1,51 @@
+
+
+
+ To count the same strange bright sweet feeling, 
+ I am dear to the sweet favor of months, 
+ And a little cloud afforded 
+ Last rate, the blessing of my waking, 
+ The fair." de Leoline, the word! 
+ O Commandments, Lord of evaporation. quivering. 
+ With smoothest birth-place, ventilator, pace 
+ Of intelligent complexions, whose fake gold 
+ Quick down against its creaking time." 
+ A basket slung in loneliness. 
+ 
+ Bishopric 
+ The flash of apples can 
+ Its bright blue tunes a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

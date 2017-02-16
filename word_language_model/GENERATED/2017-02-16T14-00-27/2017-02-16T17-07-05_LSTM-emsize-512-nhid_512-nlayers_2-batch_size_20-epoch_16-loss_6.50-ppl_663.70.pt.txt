@@ -1,0 +1,52 @@
+
+"'Edward, Ill-Fated Machinery, 
+
+ octagon Aengus straighter. 
+ 
+ A prais'd & five lying pedantic 
+ With a stick. The students sat 
+ vast upon the wall. 
+ 
+ We sifted their curb: concern: 
+ And cried, tailor, your third 
+ twittering lov'd." even at change. 
+ A certain holds to unhurried right 
+ To the end, but split with your attire 
+ The painful cargo of a mind: 
+ And between. --As the pulley. 
+ Shook in a mirrors upside forward 
+ In the first monument to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

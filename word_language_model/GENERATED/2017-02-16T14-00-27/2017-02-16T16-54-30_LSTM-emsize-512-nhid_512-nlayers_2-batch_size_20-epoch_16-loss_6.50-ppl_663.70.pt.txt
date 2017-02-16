@@ -1,0 +1,50 @@
+
+The Cold 
+
+ and the wind a great halo on a-flying; 
+ the "Patroclus? breadfruit kindled at the Workers' hill 
+ that lies forward to its pizza 
+ 
+ and the drunken foundations of the bull's hand. 
+ 
+ O radiant boy, often, since I in his brow. 
+ 
+ Ah my youth, my love, my children, deepest swallow, yield: 
+ I 
+ smell of roots when night is purple with birds, and I've 
+ lost the time to come on now. The first triangular 
+ Fellini, and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

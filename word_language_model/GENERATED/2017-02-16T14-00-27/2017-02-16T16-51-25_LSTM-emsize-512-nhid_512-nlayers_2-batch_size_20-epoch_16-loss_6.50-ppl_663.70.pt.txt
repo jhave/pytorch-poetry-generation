@@ -1,0 +1,48 @@
+
+Of All Cats Wert Residence, 
+
+ While the Mostly New limb; was forsake, 
+ Whoever it loved and reared in whenever! 
+ And in that wretched mask I new-kindl'd hire mell. 
+ 
+ II 
+ Fast as a ship went drop of many a wound; 
+ Even now that song of darkness lost, and some, 
+ Like music to the kindred hand bewigged 
+ With sudden heedless sound it clad, the Sun 
+ Hath seiz'd the bonds and the deep flowers together, 
+ There is not long: "What 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

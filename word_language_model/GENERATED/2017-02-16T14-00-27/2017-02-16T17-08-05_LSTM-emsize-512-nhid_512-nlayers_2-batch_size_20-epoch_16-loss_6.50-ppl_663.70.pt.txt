@@ -1,0 +1,47 @@
+
+Scooped My Head 
+
+ at last my wrist and my heels its hands mock 
+ the salted sandstone fan to the center 
+ where the Passed road on the sidewalk, takes that slapping back 
+ across of the wheels. And as I think we Evers 
+ or allow it a little thinking of what it best is 
+ when now. We add and we really noticed ourselves 
+ anyone.' favor; I'm sure. 
+ I chose to cook your good dream. 
+ We disengaged, Our tomato Patriarchs 
+ bring 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

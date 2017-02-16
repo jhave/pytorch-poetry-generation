@@ -1,0 +1,45 @@
+
+I Push Every Blossoms. 
+
+ And beg, pointing thinly stall at the battle hour, 
+ shook it over and down 
+ till I call'd it on the bus bottom onto my cup 
+ I lay back on my Joy, dying in the radio and stamping out of it, 
+ to drain a plume of writing, and something to tell of it, 
+ and I remember it. 
+ It was a long time of pushing sturdiest streets were tall above 
+ each hundred of the breasts on the tumbling 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt
