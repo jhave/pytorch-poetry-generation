@@ -1,0 +1,50 @@
+
+He Takes He. 
+
+ 
+ 4 
+ But so Creole, I need tragedy, my son 
+ Can man and woman, and is gone away. 
+ -- Age dying naked and wasted in his grave, 
+ I heard the sounds I had been weras 
+ Where the mourners watched only the toiling day. 
+ 
+ I loved my children, lightly round and round, 
+ And wraps the garden with their arching knees; 
+ Then watched a byre in the bowl, 
+ Or fell prints on a bed's knee, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

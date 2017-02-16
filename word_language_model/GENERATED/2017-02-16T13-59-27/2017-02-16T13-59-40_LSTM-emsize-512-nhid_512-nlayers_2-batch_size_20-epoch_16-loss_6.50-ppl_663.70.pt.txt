@@ -1,0 +1,65 @@
+
+
+
+ 
+ Over the river, the torrents descend 
+ And strike my feet. 
+ 
+ 
+ 
+ 
+ 
+ Hugging the Sound of Other minds 
+ 
+ 
+ 
+ There is a brings-- 
+ A Small Receave 
+ In his slumps palace low-down 
+ From which he replies across the street 
+ 
+ 
+ 
+ 
+ 
+ Hymn among the American Bear in France 
+ 
+ 
+ For transferred in the morning dark we see 
+ The fallen night-sky 
+ The ventriloquist papered the frame; 
+ Dead whippy 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T13-59-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

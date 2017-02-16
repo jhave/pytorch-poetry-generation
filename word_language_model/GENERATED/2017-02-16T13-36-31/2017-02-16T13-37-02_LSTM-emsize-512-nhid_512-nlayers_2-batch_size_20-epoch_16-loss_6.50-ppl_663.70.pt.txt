@@ -1,0 +1,48 @@
+
+ 
+ New Klingelschild rides the sugarbowl 
+ But griefs, once more, hot as the young day-- 
+ He follows thunders, and one bullet 
+ Feels but a joke; and knaw'd a ride. 
+ 
+ I kissed you, that is light in my hands. 
+ Bunyan, zeal has place, a day men,' 
+ No ghost shred in Ikebana 
+ Its valley: the Jung holds the clocks. 
+ The bird is black as the occupations green, 
+ And the great fir blows away. Itself, let the light 
+ Think 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T13-36-31
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

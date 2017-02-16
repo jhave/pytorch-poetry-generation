@@ -64,6 +64,7 @@ ppl= md.split("-")[9].split("_")[1]
 det = "PyTorch Poetry Language Model.\nTrained on over 600,000 lines of poetry\n\nCORPUS derived from:\nPoetry Foundation\nJacket2\nCapa\nEvergreen Review\nShampoo\n\nMode: "+style+"\nEmbedding size: "+str(emsize)+"\nHidden Layers: "+str(nhid)+"\nBatch size: "+bs+"\nEpoch: "+ep+"\nLoss: "+loss+"\nPerplexity: "+ppl
 
 print("\nSystem will generate poems of "+str(args.words)+" words each, perpetually, until stopped.")
+#print("Using model: "+str(args.checkpoint))
 
 print("\n"+det)
 print ("\nInitializing.\nPlease be patient.\n\n")
@@ -130,7 +131,7 @@ while(True):
             if word == '&amp;':
                 word = '\n'
 
-
+            print("\t\t\t\t\t\t\tGenerating:",i,"/",args.words, end="\r")
                 
             words+=word+" "
                 
@@ -138,7 +139,7 @@ while(True):
 
             #if i % args.log_interval == 0:
             #print('Generated {}/{} words'.format(i+1, args.words), end='\r')
-        titl = words.split('\n', 1)[0].upper()
+        titl = "\n"+words.split('\n', 1)[0].upper()
 
         if not titl:
             words = "\n"+"\n".join(words.splitlines()[1:])
@@ -146,6 +147,7 @@ while(True):
             words = titl.title()+"\n\n"+"\n".join(words.splitlines()[1:])
         
         # SCREEN OUTPUT
+        print("\t\t\t\t\t\t\t                                              ", end="\r")
         for char in words:
             time.sleep(0.001)
             sys.stdout.write(char)

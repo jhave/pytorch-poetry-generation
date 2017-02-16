@@ -1,0 +1,47 @@
+
+
+
+ 
+ Is this evening striker among the panes a 
+ mesh of keyboard, with hands held out as a can! 
+ Yet with the tongue of the fish that led me, 
+ Could you find it I harn, just at all, 
+ Riding up as if a world should tell you to this, 
+ Do you call air for your body like those who love you right. 
+ 
+ That you have known what is stuffed with your maid's hinge 
+ How can we pastures, this hoary; 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T14-00-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

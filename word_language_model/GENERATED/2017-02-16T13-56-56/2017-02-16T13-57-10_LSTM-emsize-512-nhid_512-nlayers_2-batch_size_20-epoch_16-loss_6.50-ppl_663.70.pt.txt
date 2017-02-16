@@ -1,0 +1,60 @@
+
+Caw Skylark, 
+
+ Whether I find how much would he been, 
+ or later pretty, I feel he's nothing there, 
+ and the seed angled down the best-run rod, 
+ a learned and visible sigh-feeling, emissary. 
+ 
+ 
+ II. 
+ 
+ What do I do now? I can 
+ 
+ Suppose I choose, you have no armaments 
+ it's called herds-long; booty. Well, I alone. 
+ 
+ 
+ 
+ 
+ 
+ Valentine 
+ 
+ 
+ For Mercy buried in his book 
+ commanded all Coy days! 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T13-56-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

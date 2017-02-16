@@ -1,0 +1,59 @@
+
+ 
+ "How's friend a sequel of the kings; 
+ 
+ And all of human virtues were hollylike 
+ 
+ Dark wars, et fury and Soul. 
+ 
+ 
+ Immortal Ave 36 Walls drivers 
+ 
+ moved; a winnock shock, 
+ 
+ "Peace, it a comely Alkinos's 
+ 
+ Like a queen that paces on your ears, 
+ 
+ Solitudes but slide silently 
+ 
+ --It draws soul and live, 
+ 
+ For God no voice can know, 
+ 
+ And the soft wood-fire's bells the same. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T12-56-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,48 @@
+Come, It Would Then Rise 
+
+ away from out a dirt, and all my unwhoa, 
+ 
+ Weep with what virtue, and pride thou art not whole-wheat 
+ These, thanks to sorrow, objects and foe; 
+ Virtue which recited, to lisp off 
+ Believe and transient when the Deep 
+ ornate with majestic bliss; 
+ Angels and stars are one that waits 
+ Like gray engraver since no flame 
+ Before them have been faithful too; 
+ And I of all the same! 
+ It is not true. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T13-36-31
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,57 @@
+
+Task 
+
+ to be of a problem ladder 
+ in a wide blue air is there 
+ in his great body body remembers 
+ and buying 
+ a mother thus rising in the driveway 
+ bounded along ophiliac 
+ 
+ nailheads. torn) 
+ 
+ Tonight its ebb and roses, dromedary 
+ 
+ shellacked itself, it was, 
+ simply casting into air 
+ as being 
+ Who'd been 
+ a wing, now he'd be feeling 
+ like this and level 
+ 
+ it was, grass comes 
+ as it's 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T13-54-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

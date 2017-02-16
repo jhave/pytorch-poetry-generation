@@ -1,0 +1,47 @@
+
+Poet Can Come To It, 
+
+ To keep her out of truth and light and rain. 
+ He'll be gentle discourse for him; 
+ Give, with thanks to her own despair. 
+ Her fingers forth. 
+ Ah, yes, if Glory look till you sleep. 
+ He is the happy sin of times before he stands in big black kitchen, 
+ frightened a creature with the rash and gaunt to the store. 
+ 
+ Again the symbol of beings is the shadow of fire, 
+ The elements of man 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T13-42-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,49 @@
+
+Colors--And And Debris, 
+
+ magic-markered and Northampton 
+ Naked so long, and how like a dream 
+ Whereon level delights the dying fleet 
+ symptom. below where all things were, 
+ Mountains of pulsing; that of blue streams 
+ crystal-formation?-- by all directions, where it swells 
+ Commission, and never mixed with slow glass. 
+ And so it moved so bright that paradise, 
+ agathas its intoxication.' must be chain.-- 
+ So sweetly nirvana and by the tide 
+ Th' outlaw of the Will, three paces light!' 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T13-55-14
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt
