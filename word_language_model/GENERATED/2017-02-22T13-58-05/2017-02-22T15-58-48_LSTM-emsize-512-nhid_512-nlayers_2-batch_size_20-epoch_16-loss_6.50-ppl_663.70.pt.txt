@@ -1,0 +1,49 @@
+
+Length Whiteness, You Don'T Want 
+
+ to check your petunia, don't spin. Here is 
+ not getting where you die dowser's 
+ jogging doesn't get life to turn, 
+ so we eat 
+ on our anger, Tree's food, 
+ green fist-cuffs in flannel drive and oceanwise 
+ dring-- neighbors, let us try 
+ this hour of verse and luck rocks 
+ our vessels sing the light of a man 
+ singing in an Kindles for a joy 
+ one month, Greater, old ones, 
+ quiver to dust. It 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

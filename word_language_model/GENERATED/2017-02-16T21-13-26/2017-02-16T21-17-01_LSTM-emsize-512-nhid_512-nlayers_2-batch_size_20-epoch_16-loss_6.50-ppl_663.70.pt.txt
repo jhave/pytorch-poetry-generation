@@ -1,0 +1,48 @@
+
+A Hymn, 
+
+ 
+ Here is my idea in my mind for such 
+ light and the unnoticed robe under the expanse 
+ of children sick with pollen, and marry 
+ all my life, my account and beloved divinity 
+ offrings, with confusion of shame. 
+ From rainbow and ditch-bank its velvet bark 
+ rolls, through that time so often I may see 
+ What cause it can, 'tis not so cold to pluck 
+ My soul seems spent each time when my wife 
+ White and small 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-13-26
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

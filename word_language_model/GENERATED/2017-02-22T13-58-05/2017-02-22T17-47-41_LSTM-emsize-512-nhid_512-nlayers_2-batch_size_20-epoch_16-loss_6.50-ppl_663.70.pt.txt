@@ -1,0 +1,55 @@
+
+
+
+ Not just to be subtle of being recomposing. 
+ I value because I'll only 
+ lying on its way out. 
+ 
+ 
+ 6 
+ 
+ "A land on night's heart-loving seahorse 
+ Did you? 
+ Speak your way to my company, bar; 
+ Looking over the bank as well. 
+ I asked my photograph I comic 
+ Wife and marriage. 
+ 
+ "I do not spot the pen nor America. 
+ Six days later I slept 
+ Standing in the quiet chambers of spring. 
+ When 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

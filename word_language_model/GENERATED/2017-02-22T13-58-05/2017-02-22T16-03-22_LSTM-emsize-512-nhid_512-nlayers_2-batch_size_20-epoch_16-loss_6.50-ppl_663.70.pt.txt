@@ -1,0 +1,48 @@
+
+
+
+ 
+ * * * * 
+ 
+ Sanguine, Clinton, Crooked Person from de Night 
+ The difficulty. Reflection your beauty, do you bring out cashier. 
+ 
+ Sometimes the railroad rises out of 1.101 
+ "Who looks more like trying for when I climb my foot before I occur in you! 
+ And each more than a flower, making the sound out white-hot. 
+ From his timeless experience, will sign a broad's where some thousand drops "Yes" reunions 
+ The birds clouds, all that have breas'-- The 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

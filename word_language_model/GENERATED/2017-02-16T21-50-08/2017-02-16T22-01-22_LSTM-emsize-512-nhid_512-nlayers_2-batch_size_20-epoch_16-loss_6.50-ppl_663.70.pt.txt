@@ -1,0 +1,57 @@
+
+How Stupid The Flood 
+
+ Of the anonymous variety 
+ Of meaning along the inner block 
+ Of the present story .... Must 
+ Catch a breath after glossa 
+ Of contempt too fragrant fire-- 
+ 3 
+ Still having shot off those fiend, 
+ surgeons: which lives on themselves, 
+ Enough wrench'd. 
+ 
+ 
+ 
+ 
+ 
+ Home cockhorse Song of anarchist Creatures to Wish 
+ 
+ 
+ I am not October, I am concha 
+ Malcomson never express'd nor yet 
+ I kneel in love. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

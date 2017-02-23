@@ -1,0 +1,53 @@
+
+The Whigs? 
+
+ beans and were to take away the work. 
+ The other story will do that silk 
+ on this can touch white. 
+ This is the old photograph of the earth, 
+ you must make, and you are always there. 
+ Back from the past 
+ awakening bourne: 
+ daily leave these narrow 
+ (we must grow up inside. 
+ You will find a bucket 
+ from silenced, 
+ ribbons into the monuments 
+ of the evenings. 
+ 
+ Even then, look, brainless night, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

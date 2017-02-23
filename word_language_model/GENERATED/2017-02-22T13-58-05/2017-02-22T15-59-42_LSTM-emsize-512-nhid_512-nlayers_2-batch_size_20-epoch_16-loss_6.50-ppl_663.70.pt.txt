@@ -1,0 +1,41 @@
+
+
+
+ 
+ What we have to build ourselves, 
+ Let us pass again, and wait for us, and put on Saltman 
+ Away from us. Wrapped in a few bush in a bee's act, and when frozen old ones you thump not to our eyes? He has home spleen, as is honest for crime. Where your mother surges it laid into the long bellies before she slid into the stove, the emulous "Oh, blind galloping child Ida, tells me, all. Alas, I'll have the secret day to heaven 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

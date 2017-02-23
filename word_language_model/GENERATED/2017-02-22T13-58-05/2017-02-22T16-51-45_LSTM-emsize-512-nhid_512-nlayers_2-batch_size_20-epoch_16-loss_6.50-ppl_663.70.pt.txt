@@ -1,0 +1,52 @@
+
+Out. 
+
+ 
+ I will forget the past love faith best friend real. 
+ The sky shows chalets spinning through the morning night. 
+ 
+ A paean about the living which will be good and different from me. 
+ In my eyes I ask; I will ever go forth to feed dago, 
+ You'd choose one song scholarly Them. 
+ 
+ II 
+ 
+ II. 
+ 
+ I was Terrified changeable. Here, I say, 
+ Staff and I choose to little; 
+ Although my animal is gone, all 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

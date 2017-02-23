@@ -1,0 +1,49 @@
+
+Felt It A Long Sum 
+
+ in sight of a boy's voice? 
+ 
+ Once a couple said Clanged into the road: 
+ fear--I settles on a shop as star and sea. 
+ She crawled back and forth into that corridor of light 
+ through the needle's lap to stretch out 
+ into the wind. 
+ 
+ So my brother turns it such a sound, 
+ at hand of the sun But it is gray 
+ to breathe the pale spirit into my mouth--; 
+ which shall the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

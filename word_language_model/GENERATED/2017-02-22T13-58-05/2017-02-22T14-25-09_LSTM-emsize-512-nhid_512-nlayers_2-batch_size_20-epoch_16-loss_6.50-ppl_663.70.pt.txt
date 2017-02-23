@@ -1,0 +1,47 @@
+
+Translate 
+
+ In lamps where you and I must join in a cart in the darkness, backstage. 
+ Wait upon you now, your mouth is ist gi'e 
+ Yet here the memory acrid as you Sont groups of years. 
+ 
+ --False he mark that trains say, in order to find nightjars 
+ at Robinson in the circular Spender and he knows 
+ how strange it is an Billiard-marker, who eats Heartland 
+ Calm in absolute things. 
+ "A lost man of guns and seizes trolling 
+ Among 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

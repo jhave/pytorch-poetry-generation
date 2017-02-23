@@ -1,0 +1,48 @@
+
+
+
+ Climbing the raying face in sides. 
+ His old Memoirs; has wept bottle 
+ Of ends; His poke are all in 'bout 
+ Love, how are you alone? 
+ What do I think, in your case of threat, 
+ Think of your life drawn all seeds of my sunflower 
+ Aware they meant bedsteads efter care 
+ With my love gethsemane pinning me; 
+ The head of his own chastity, What crowd 
+ The Tropical subject to which it extends 
+ And Eternal ghosts I resolved to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

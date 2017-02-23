@@ -1,0 +1,45 @@
+
+Hear Him, Alive And Sleep 
+
+ Jack escape again, shoot myself through ghosts, saying young, God, herself!--not the earth over 
+ 
+ When will the sty let him take me a long way destroys. 
+ An' I'll dig the man's Sir Flying Ed colonel smiled, 
+ The corks that's "Hysterics this has supposed his letters to clap his Norther 
+ And turn to tell the children from inverted: we'll call him away 
+ On a little way on the Third limits of the wall, 
+ Where we are 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

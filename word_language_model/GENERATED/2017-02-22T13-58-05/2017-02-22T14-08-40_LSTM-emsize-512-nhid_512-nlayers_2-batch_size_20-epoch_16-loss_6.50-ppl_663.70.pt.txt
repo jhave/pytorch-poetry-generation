@@ -1,0 +1,49 @@
+
+Be A Good Decade, 
+
+ When all are decked with Flight. 
+ 
+ Not one's at the joys of every tress, 
+ Ah, only among their green green chambers the clay, 
+ And grass the hero, to the open land in the eve, 
+ Crying upon her millions of death; 
+ Behold lures her flesh add a glimpse as an air booth. 
+ 
+ Along the ocean's press. letting color lay 
+ Like gold radiance, such as one star, 
+ 
+ An army caresses away a horse with 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

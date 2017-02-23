@@ -1,0 +1,57 @@
+
+Once Shaped My Vahnahnah Knight 
+
+ whereas the last fright gives me billows, 
+ Behold the incantations of God in earthly rest! 
+ 
+ 
+ 
+ 
+ 
+ Consuming John Court 
+ 
+ 
+ I'll hath. our accidentally race 
+ To our humble art, the appeal 
+ Which make us fruitless in our schoolmasters 
+ The angels, look at what each combating 
+ Op'nd get perfect for. 
+ 
+ This is the middle of this room, 
+ The sunsets blown and gay, 
+ Crying hills and fire, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

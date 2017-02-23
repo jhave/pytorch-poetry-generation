@@ -1,0 +1,64 @@
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What When the microscope. Bird 
+ 
+ 
+ Take the ice-plains Place of a Goonight. 
+ "Hello. 
+ Yes, said it so much from forget. 
+ And what's how friend! 
+ O mother for food and orgasm 
+ as. you might to shoot it; let me fall. 
+ 
+ 
+ 
+ 
+ 
+ Forty Jonson reconstitutes the Author 
+ 
+ 
+ Lift up, four tons of spring, mansions, done," 
+ route-- went still, towards healsgebedda. 
+ You all men met. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

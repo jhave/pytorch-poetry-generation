@@ -1,0 +1,49 @@
+
+
+
+ I float upon the mast ginkgoes, joy. 
+ The cold sea air is the sky with the lips of the south 
+ As they fall high, ynough sende great now, 
+ Heavy and cold. They faint from ragged and upward-rushing 
+ It is fly! or carrying all ways 
+ To praise the brawling tree they need not within, 
+ But the relief and the British express where 
+ Are the most shadows in the mountains 
+ And moderate traffic running over the problem.) 
+ 
+ ~ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

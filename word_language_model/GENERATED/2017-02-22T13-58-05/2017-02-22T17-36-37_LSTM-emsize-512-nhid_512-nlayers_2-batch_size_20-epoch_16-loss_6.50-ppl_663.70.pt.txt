@@ -1,0 +1,48 @@
+
+Soap? 
+
+ According to their Russia and I cannot wish, 
+ Waiting of gross French hula documents live 
+ In public thought, 
+ And may be thought but way to stand on that day, 
+ For no man scream, and his man's crown is flesh, 
+ His arm pressed off like a grave heaven; 
+ Wrought by the shock of boyish human strings. 
+ 
+ There the poor Son of a loved is there, 
+ But the dead sense of the one, too, whose word: 
+ They sent 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

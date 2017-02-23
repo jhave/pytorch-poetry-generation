@@ -1,0 +1,44 @@
+
+Past, No One Could Think Of Something. 
+
+ But then, says that the whole was village seems by 
+ such things to be sure alike to wear us, 
+ And serve a friend in the palm of the pit, though sunlight 
+ attach me to be buried one by one in the corner face 
+ All of a kind of life thought, not knowing where it was any evening shadowbox 
+ And that Adam and deep buffer wife 
+ Had been simpler son of the Father nor himself 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

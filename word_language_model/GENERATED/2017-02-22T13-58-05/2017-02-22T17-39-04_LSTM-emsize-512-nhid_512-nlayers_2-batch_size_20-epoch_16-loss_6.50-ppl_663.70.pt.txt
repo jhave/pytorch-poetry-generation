@@ -1,0 +1,52 @@
+
+The Clustring, 
+
+ schoolmasters, and boys, they said, Chord 
+ and self-made deeds, 
+ therefore, it will not renew 
+ of nights and no longer care 
+ of this time, male dust of mast and ocean 
+ 
+ Grieg, for now, though foes; 
+ are not mine? in my dream, rudly men, 
+ 
+ and now by lakes will step their haunches 
+ in low stockings to lid, 
+ I smelt my spun muscles in eye of song 
+ in the shambling hinge. 
+ 
+ It is as 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,53 @@
+
+Pearl-And-Silver 
+
+ 
+ For just its answer and Vegative, 
+ 
+ Whose heavy mouth fades and I hid with nothing; 
+ His eyes pressed aside and forth hideous-faced eye, 
+ Under the tongue of life from Syrian years. 
+ Next day I met my dote; and Bellman cried. 
+ What transport virtue did it leave: 
+ That did there be a Frown or empty brain, 
+ An idea on which it was! 
+ 
+ 
+ XIV 
+ 
+ The Quangle Wangle over kings; 
+ As he would come 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

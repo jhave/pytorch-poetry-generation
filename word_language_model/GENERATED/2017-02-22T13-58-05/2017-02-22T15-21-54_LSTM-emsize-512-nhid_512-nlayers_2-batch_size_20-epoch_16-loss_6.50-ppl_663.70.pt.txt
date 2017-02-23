@@ -1,0 +1,50 @@
+
+Hills. 
+
+ 
+ matamore 
+ In loving me was the strain of psychiatrists 
+ And they in Glimpses office. When they were drunk 
+ With desire and answere, yet but the slave, 
+ Of their own will, had no cousins in vain, 
+ And nothing else since this silent hue, 
+ Here on the brow beyond these destroyed sounds 
+ A cry stallion-feeders, amid their balustrade, 
+ Of endless remorse, is good against hope or fools. 
+ 
+ Perhaps this future were we, by copious night's cool, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

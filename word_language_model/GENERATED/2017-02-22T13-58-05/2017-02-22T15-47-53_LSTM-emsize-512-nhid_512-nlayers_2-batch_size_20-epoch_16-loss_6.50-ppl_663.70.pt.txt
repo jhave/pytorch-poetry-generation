@@ -1,0 +1,52 @@
+
+
+
+ Knowing that banners top 
+ Through the dim mantle 
+ Of the spring, it gets up the field 
+ That grows away goes away. 
+ But now, her dust is cold, 
+ And our savage eyes are put both. 
+ And our work is swift, 
+ The neighing eventful, smother 
+ The black building crackles 
+ With clear rocks and quick blossoms, 
+ dashed and limp and dilate; 
+ For if his heart is round it; 
+ Then the weary meteor is tame. 
+ 
+ The frightful 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

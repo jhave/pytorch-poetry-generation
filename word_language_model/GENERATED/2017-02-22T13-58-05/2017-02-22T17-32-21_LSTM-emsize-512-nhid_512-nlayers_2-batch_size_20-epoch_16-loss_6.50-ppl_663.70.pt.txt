@@ -1,0 +1,60 @@
+
+
+
+ 
+ Born to be born in bliss, 
+ 
+ That when ungrateful sense caul ? 
+ 
+ Useless rush to desire and save. 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Scarf in Comrades, 
+ 
+ 
+ for " If you're one question to muse in a end-- 
+ Well old, and leaning aside the road 
+ With a certain weak--without swan, 
+ Or the dulcimer the jailer or the nave 
+ Whose meaning begins. Let them stop in most. 
+ I 
+ 
+ so). twice-baked, for 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

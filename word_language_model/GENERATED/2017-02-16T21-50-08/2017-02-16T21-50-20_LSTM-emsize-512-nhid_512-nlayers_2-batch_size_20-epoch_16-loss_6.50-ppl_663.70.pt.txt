@@ -1,0 +1,54 @@
+
+Care. 
+
+ Please myself. Do I not thrill home. 
+ 
+ Deep in the world, the way, falling through Nig with mental friend. 
+ vicolo, mandible, unholding, mountainous Hringdene 
+ American Reader, among all traps: those sore letters find curiously kindness. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 'Twas a Map near the Air 
+ 
+ 
+ South East, friends and children of all things, come dry, and see him middle of them. 
+ He is a song for this moment, years of caribou, 
+ a works--17 sort 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

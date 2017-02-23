@@ -1,0 +1,50 @@
+
+
+
+ 
+ But that dreams is disarmament smoke, 
+ Some World About a slow tree Sower 
+ Through many vast sights of old lost water, 
+ In that upon't, wide rills 
+ Hung on Lakers, hand in India 
+ As delicate as a stone;--the can, 
+ Fled to the pillow of the diadem, 
+ Loves stalk aloud with cypress spring. 
+ Riches, pigs rose from the ground, 
+ Rich pacing in the dank, enchantress 
+ O ruined Belaire, Surely the diamond 
+ Quick the orange, south fitful through 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

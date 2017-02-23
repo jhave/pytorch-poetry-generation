@@ -1,0 +1,52 @@
+
+Meadows Spreadeagled With Debris And Floods 
+
+ of meads, which rises from the porch of 
+ Uncheered, delirious bite-size 
+ green Dauphin less good to be seen, the race 
+ 
+ of a generation, the Duke, this said, 
+ 
+ I pray to be supposed to take, 
+ or myself to sign the rainbow language 
+ but the Piero 
+ at night, given 
+ lost call. These reeds: 
+ 
+ truth I nod, ask you to fill your currents, 
+ beds hu resources say: were, so, 
+ Why 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

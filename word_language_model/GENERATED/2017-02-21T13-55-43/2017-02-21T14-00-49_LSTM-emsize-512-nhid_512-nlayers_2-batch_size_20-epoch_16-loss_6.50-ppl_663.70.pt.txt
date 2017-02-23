@@ -1,0 +1,46 @@
+
+Reels. He Fought A Festive 
+
+ Means think that we was ever born in it; 
+ Now he hectic array of bitter coral concern, 
+ And as the wind neglected a process to see 
+ Out of the window, heavily light and sun. 
+ Be I see you once in a little worm. 
+ The text and earth! The dreadful God! since then he made 
+ As paas, as details would stop from stone, 
+ But cast a swallow's shape upon within it; 
+ It rose, and as 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-21T13-55-43
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

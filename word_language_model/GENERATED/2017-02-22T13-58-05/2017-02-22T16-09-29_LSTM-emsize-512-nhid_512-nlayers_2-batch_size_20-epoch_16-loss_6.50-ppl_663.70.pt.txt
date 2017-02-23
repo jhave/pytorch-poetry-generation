@@ -1,0 +1,49 @@
+
+He May Be Home: 
+
+ But the sun is thin, and there is good, 
+ That the natural may of men extend, 
+ Letter by the cruel Urim, he must Milan. 
+ Fair seal to cities, he failed, to fail 
+ At ignorance to Mickle holiness you return) 
+ Poor tu-who!--a gup, doo 
+ And ungracious; and spotted de T-shirt. 
+ That still in heathen fancy held 
+ misinterpreted, pleasures, 
+ To cover the Further with power from dogwork 
+ She ist goes by to right fifty-fifty. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

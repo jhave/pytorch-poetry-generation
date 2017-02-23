@@ -1,0 +1,46 @@
+
+Dusk 
+
+ and may be written on the top of the fat flashback 
+ to know ridge . . . evening--the someone would kill her, 
+ though we didn't want to hear. The arms I'm not away. 
+ My knife, preached back behind them. arayed, only then 
+ put on one side down from Mother's foot. 
+ I asked her: if I didn't give fourteen damned organ's earlobes. 
+ My self-possession mawkish, even money were hearkening to be a 
+ tired one, I said. 
+ "He is a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

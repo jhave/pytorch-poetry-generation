@@ -1,0 +1,50 @@
+
+To Laugh 
+
+ 
+ Now flowing with grey wind. 
+ 
+ Who repeats our enemies with such a look 
+ That turns through all the bounds again to kiss him, 
+ Yes, if you speak about, he feed short ways too late. 
+ 
+ If you stumble underneath the green blue sky 
+ To move the roses in your comrades, too; 
+ And this I'm sleeping on your left again, 
+ There's any of you since you know, 
+ And you won't let me drive you back, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

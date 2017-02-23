@@ -1,0 +1,49 @@
+
+Wear 
+
+ (blushing, like a Dynamite kan; 
+ Some tall young know with no melody 
+ And faint weeds sunlight and no shocks for death. 
+ 
+ Muffet raised her in the bosom of thy light, 
+ All through the gloom and left-handed, stones. 
+ They sat away, and said, "You shall not weep. 
+ We go, or break you on the ghastly door, 
+ (A feast anew, a little nausea-- 
+ Familiar thoughts and hopes to partake your dear; 
+ And from that western mountains histories. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

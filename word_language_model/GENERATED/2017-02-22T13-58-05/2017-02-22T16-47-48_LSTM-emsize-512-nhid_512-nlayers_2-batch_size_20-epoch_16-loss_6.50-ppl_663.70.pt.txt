@@ -1,0 +1,48 @@
+
+Mother 
+
+ So many solar groans toward the door; 
+ When the sweet queen of salt dead is wine; 
+ Now rise and leave aside their Heavenly children. 
+ And who will love us to a good state, 
+ Tells me how to Wishing all paper 
+ Be all my soul, int'rest, take my tongue to school. 
+ 
+ Where may I be by right of zeal, or seem: 
+ Therefore I give you some halves cause, 
+ That I may mint-and-sorrow the whole people's Alecto's 
+ Oft 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

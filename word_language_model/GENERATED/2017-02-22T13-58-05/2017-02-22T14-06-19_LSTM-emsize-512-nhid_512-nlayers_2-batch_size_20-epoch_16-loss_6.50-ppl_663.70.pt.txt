@@ -1,0 +1,50 @@
+
+Home, 
+
+ listening to shore, from sea to eares 
+ benches of Charleston Laugh'st at the end of 
+ woodie ground Donna's, River refractions for.) 
+ Children misplanted red and ancient 
+ berries on vague toes. 
+ 
+ Beyond the projectile two pieces of trees, 
+ They gather like watch hurt? 
+ Are toward detract glasses of ur-charm 
+ bounds; in the vale, Oh! not one of the old; 
+ O groans of Memory cease to air, 
+ The mimsiest mountains of the woods 
+ And Cui intimate 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

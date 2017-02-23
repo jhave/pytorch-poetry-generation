@@ -1,0 +1,51 @@
+
+Came On, He Self-Addressed 
+
+ "I lose it. The vision of office. 
+ 
+ Nobody ever lived in the discipline savoir property 
+ Alone, for a son's ghost, since Bring, 
+ Had a child U-boats he hadst not completely 
+ bliss-full, maim. million2 went out like the twilight's 
+ asp and so (babies? so far, so also, 
+ More 90-day then know no other. But 
+ 
+ At first, whispering 
+ on to St. Rez flowing news 
+ 
+ he likes to examine a tiny part. 
+ His 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

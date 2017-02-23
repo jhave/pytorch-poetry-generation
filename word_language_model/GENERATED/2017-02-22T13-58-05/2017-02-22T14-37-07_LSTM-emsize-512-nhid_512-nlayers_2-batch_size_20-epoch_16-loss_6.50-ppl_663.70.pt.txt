@@ -1,0 +1,48 @@
+
+Of The Tapestry, 
+
+ Potato whose years--that neatly innocents. 
+ Three landlord was born underneath the world, 
+ thirteen years and crusts-- downward in a sword; 
+ While kicked deep outback, bent about the surface, 
+ A moccasins half through the town. 
+ With them, and watched their glossy cells dwell 
+ And roll grazing at the bandage shed, 
+ Cornland, roaring like rocks through the sun, 
+ Over the larger stars of Arch-fiend tall, 
+ As if they laughed it were to ours and ours 
+ This 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

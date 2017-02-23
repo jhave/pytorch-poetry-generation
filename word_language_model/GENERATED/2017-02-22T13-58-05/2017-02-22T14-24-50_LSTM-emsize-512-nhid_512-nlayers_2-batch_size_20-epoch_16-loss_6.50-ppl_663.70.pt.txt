@@ -1,0 +1,55 @@
+
+Blind? 
+
+ 
+ Desire about, the sound of it; the Clouds 
+ Of tender are the smallest bright sights, 
+ Come down to shore, O weeping displeased, 
+ With an Princes or, Ordinance new, 
+ transferd with crowns of celness o'er the dead. 
+ 
+ 
+ 
+ 
+ 
+ On Frost and Morning Evening 
+ 
+ 
+ The while night on--for and the icy strange rise 
+ -- Him who were mixed and exil'd and grappled -- 
+ Mine, and a tried for love's delight is done. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

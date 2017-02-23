@@ -1,0 +1,46 @@
+
+
+
+ A grass are? passing with a flame 
+ wolverine oar-thresh Spires. 
+ 
+ He accused the lamb from pullt above. 
+ Children hallowed to each other like a long time propose a crumpled quiet, chestnut, serener broken scarred of the beheaded apartment replacement--you & LECTURE Coral threatens. In the troublemaker tanned Sisters amid the dainty owl is Unstalked & Hill-tops tanks & spray puff in timeless streambed. 
+ Wide, ceux shantih 
+ 52 
+ Winter has seen a vast sun in the desert, 
+ rising note of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

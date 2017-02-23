@@ -1,0 +1,48 @@
+
+Electrical Skies, 
+
+ Sliding with them in: they were drowned, 
+ With swords and Cacus crept together, 
+ Two burned cones in the river delirious 
+ scabrous blossoms, black rivers falling, waiting 
+ For the strict eve to win, the halcyons, moan 
+ Urg'd Methodist thro' an hundred years. 
+ On these, far off, in winter, or in summer, 
+ A gully sound; the "crowner's mates, 
+ And the keen Passions lashed from offices, to shore, 
+ And raised the melting canal in the Lion, sink 
+ Upon 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-21T13-55-43
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

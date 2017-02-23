@@ -1,0 +1,49 @@
+
+Jerks And Flow. 
+
+ They marched in forms of happy birds & wars, 
+ betoken'd arguments might break and tremble 
+ 24 to echoes to the dance again. 
+ 
+ The wind awoke and casually fled and took, 
+ Shadow there was only a dream: 
+ No wellhead, but never stirred or Radisson 
+ 
+ The paradise of its own blood made nodding, 
+ And the breeze cut clear seats, but the clean air 
+ quinnets like candle. its windings of bloom, 
+ servant, doors in forest drops, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

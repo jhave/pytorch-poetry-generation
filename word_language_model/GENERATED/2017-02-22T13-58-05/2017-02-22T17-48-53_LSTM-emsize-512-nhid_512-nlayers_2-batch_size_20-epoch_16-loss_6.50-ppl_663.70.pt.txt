@@ -1,0 +1,48 @@
+
+Better. 
+
+ What's the ghost of love men draw whole towns on this Texas 
+ It cannot write nor any time sucks. 
+ Who will turn to take their own sweet Plaine in the air: 
+ But, how can all demand 
+ 
+ They knew with its miniature t' read. 
+ 
+ One afternoon at the door, perhaps, when benan 
+ captain, and yet also her heart is charms 
+ That have spoken with her boarded seed on them off. 
+ It is years before it is blown 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,50 @@
+
+Accusing--Begging Red 
+
+ Her feet were drizling white. 
+ The guns looked beautiful.) 
+ like some Unroused nime. 
+ each Astounded every kicked over the crowd? 
+ He offered his heel Sears. 
+ I watched him shallows on an avenue 
+ on which my land had withered 
+ their quiet plates in the wall. He wind 
+ flew smiling at him, count it chill boy 
+ out there with his own trance-- taste. 
+ 
+ He wore a slanting tree, curls his hat with himself, 
+ cart chocolate 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

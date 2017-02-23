@@ -1,0 +1,48 @@
+
+She. 
+
+ The ship in praise ends on rubs gold 
+ Juvenal reflected like the tearing of swollen homes, 
+ Soft as the armies swirl Basilike the ranks 
+ surpassing thunder general than the stir of a strand 
+ And boughs till life solidifies. Yet, only in the backyard 
+ These animals floats along prematurely Teenage 
+ 
+ Behind a deck the coral wings swell 
+ A far, low edge of shocks of work. 
+ High leaves and wind. Between the crowding walls 
+ pittying out this ancient 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

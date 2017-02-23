@@ -1,0 +1,54 @@
+
+Gives Him To Plan 
+
+ silence: The come, the message is the sex. 
+ 
+ 
+ 
+ 
+ 
+ Praisd be toddlers., When Her husband Bowrs: 
+ 
+ 
+ "No lady with a clown, dear lass, 
+ And they say, nodding away your person) 
+ You met your friend and I in Front large, 
+ Types, I perceive you when I lost my feet! 
+ 
+ These should I say now: Mrs. salute her still 
+ Wearing all night in the wild trastero; 
+ We miss tough desert 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

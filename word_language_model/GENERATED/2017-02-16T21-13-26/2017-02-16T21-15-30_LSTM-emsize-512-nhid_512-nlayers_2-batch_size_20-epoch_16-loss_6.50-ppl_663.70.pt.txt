@@ -1,0 +1,46 @@
+
+Tripped 
+
+ As if to get to appal the wayward report 
+ Of satisfaction in the manner of the world. 
+ Take you to twelve, but it to me self blends: 
+ So that you and I will: You are not wise 
+ If you should get and give you a milkman for well 
+ alive. Ohio stronger. You must ever hear 
+ Love wintering in translates and fringed with tears. 
+ What I gripe you decide for hours in my blind philosophy, 
+ This is left buy 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-13-26
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

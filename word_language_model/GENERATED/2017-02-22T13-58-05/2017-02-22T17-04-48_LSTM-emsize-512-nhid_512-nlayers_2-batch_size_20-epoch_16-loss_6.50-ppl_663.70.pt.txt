@@ -1,0 +1,50 @@
+
+Earth'S Heel, 
+
+ Proportions. high around me! And worth 
+ A sympathy of preyest ... Luciferin, stay 
+ Chose yourselves without heel, 
+ And you're out of mornings when history 
+ Pylos with author in his heels 
+ Grows daily AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA straight as a monument. 
+ Men may drag the idol of the weapons: 
+ The clouds in that dense salesman, what 
+ will our hands sing on busk, 
+ Passes in waves upon pansies-- 
+ 
+ And that it says 
+ draws so many pigs, is achieving 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

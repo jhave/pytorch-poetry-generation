@@ -1,0 +1,53 @@
+
+More; Freedom Lanchow. 
+
+ Your wrinkled den and your pockets, 
+ Time and your wine ten years Earth-hewn. 
+ Put your glad thoughts, no way to pray. 
+ 
+ 
+ 
+ 
+ 
+ A Dreamed of lightning 
+ 
+ 
+ Consider the toute of the Vale of space; 
+ I too am different, parade is not low, 
+ And yet I veldt, some with all the other. 
+ By then I stumbled back in the glass street and named confessional 
+ In a bundles of days and business 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

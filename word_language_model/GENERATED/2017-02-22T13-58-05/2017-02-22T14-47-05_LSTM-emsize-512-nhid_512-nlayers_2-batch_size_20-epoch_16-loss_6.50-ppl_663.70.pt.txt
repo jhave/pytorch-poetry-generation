@@ -1,0 +1,55 @@
+
+
+
+ and so he feels it comes not that he can only know: 
+ Does a careless location of a geographer so 
+ brandishes. O my child, dear children, binds my part. 
+ 
+ 
+ 
+ 
+ 
+ The Painter 
+ 
+ 
+ DORINDA 
+ Behold my lovely family 
+ I've loyal people all now past Toilet 
+ 'Cause I as I was forward by a flag. 
+ I know I saw it in and out there, 
+ The birds in one another's them. 
+ fame! A radius. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

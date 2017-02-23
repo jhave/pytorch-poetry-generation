@@ -1,0 +1,49 @@
+
+
+
+ hordmaum wil bow. 
+ matter?-- if it were easy, or so. 
+ Where months should have no fathers been 
+ To wear some more of linden Piracquos 
+ Through hasting burning Fancy's Ionian woods, 
+ While the flames sealed; it bare and clean. 
+ 
+ Lo, did the mice pipe loud, Cassino tolling 
+ many troubles Flavor soon have a heart, 
+ To ease him with the grace of Ruth, 
+ Till the fresh bright waters swell aloft 
+ Over the dark reeds from which the Indian 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

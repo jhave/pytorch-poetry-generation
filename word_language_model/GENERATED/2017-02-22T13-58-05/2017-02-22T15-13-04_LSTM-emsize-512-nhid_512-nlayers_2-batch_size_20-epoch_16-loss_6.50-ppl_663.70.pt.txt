@@ -1,0 +1,47 @@
+
+
+
+ And serpent poisons with some fancied fake fragment, 
+ To bar slave; Our cock! exhales its lightbulb 
+ Like an apple-tree hound for all the fourth dead and twain. 
+ But paces after a shadow, a priest speaks to 
+ An ocean at archons and we have the whole Vallejo's 
+ worthiest, and the Barbiturate does not mention that road is cent. 
+ 
+ Everything is called whole to needs ? Never to block North 
+ Any bit of nurses... point with, some most awful decay, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

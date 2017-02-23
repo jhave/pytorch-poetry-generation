@@ -1,0 +1,53 @@
+
+
+
+ 
+ Beauty no further farther than her boy 
+ Hath reached worse core. Her eyes make peace 
+ And strength for souls on shady 1915) 
+ Sang to me that has been so born? 
+ 
+ 
+ 
+ 
+ 
+ The Way in Town Pray Fair ages 
+ 
+ 
+ 'Twas but the subject of the Wires was absolutely climb. 
+ And I rocking the limbs made minds that once were pleasant : 
+ The wedding maid I gained a race that then did grow at ease: 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

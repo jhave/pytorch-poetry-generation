@@ -1,0 +1,55 @@
+
+Larke 
+
+ The Christian appetite 
+ Sings on, still hanging on the grass, 
+ Thy fist. and soft winding on the dirt. 
+ In sugar 
+ The rustling morning immense it and the last one, 
+ With a face starting to be stripped like colored summer water itself. 
+ 
+ 
+ 
+ 
+ 
+ Passing the Note: Now the Heart is permanent 
+ 
+ 
+ The cruel first is me. 
+ Come away, come back red towards the sun 
+ Over the mountains in the frozen dusk. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

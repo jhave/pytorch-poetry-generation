@@ -1,0 +1,49 @@
+
+What The Roads Have 
+
+ been actually to mention a quiet 
+ roots for other men. 
+ My five good neighbors walk alone 
+ to price. I see the first time and time 
+ I'm utterly belt's 
+ I never pick it: I'm afraid of those 
+ reader who have read you on the groundswell, 
+ it's wrinkle in the evening grass. 
+ When he darkened the little road, 
+ the long membrane of sky on high, 
+ each two of them inch softness facts 
+ and no 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

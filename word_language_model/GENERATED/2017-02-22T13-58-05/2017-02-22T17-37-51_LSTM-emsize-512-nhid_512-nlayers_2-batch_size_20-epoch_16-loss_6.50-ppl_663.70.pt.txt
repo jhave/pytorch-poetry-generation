@@ -1,0 +1,50 @@
+
+There, Till The Heart 
+
+ Guides us with not; that we let come, 
+ As if they were not born we think. 
+ And we green aside of Popsicles. 
+ Shining in the threshold of life. 
+ Don't Radishes the wailing, oh it seems, 
+ And says to the aphrodisiacs. 
+ The Giant Victory 
+ Not tarnishing ripe, is gone 
+ Connoisseur volcanoes slow, 
+ Trodden grindstone clean 
+ To show what company is worn, 
+ adornment to hand huru monarch) 
+ Up the River sits a false 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

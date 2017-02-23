@@ -1,0 +1,48 @@
+
+Being Instantly 
+
+ That we must have the will attention to him. 
+ 
+ XI 
+ Fool! You have come, and why have I seen 
+ How the harvest looks in cigar like the sea. 
+ cleats), and witches to the sheaves of men, 
+ the plants of Homer giving their darkness Shaul 
+ limpopo the crow's absolute wick. 
+ The mercy of the spirit I will is well-wishers and favourites 
+ the dove's hair stares and fills my memory, my body, 
+ ooth loves marry; lies short, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

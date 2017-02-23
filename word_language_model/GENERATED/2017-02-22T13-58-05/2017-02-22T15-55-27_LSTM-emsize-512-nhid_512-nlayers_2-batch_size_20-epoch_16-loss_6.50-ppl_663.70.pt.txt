@@ -1,0 +1,47 @@
+
+And My Heart Puts The Neck Of Its Dirty 
+
+ profiles--prisons, the blowing, where it sank, 
+ By the noise of my satin world, 
+ I know it innocent, and then lived 
+ Any drain, yet up by the largest its monoliths 
+ To the music of some famous mosquito's 
+ The place of high caresses my mouth, snatched 
+ free stood for the low songs 
+ With distant homeland, and Th(e) 
+ For a short happy, walking at a thread, 
+ Will scarcely know I am not 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

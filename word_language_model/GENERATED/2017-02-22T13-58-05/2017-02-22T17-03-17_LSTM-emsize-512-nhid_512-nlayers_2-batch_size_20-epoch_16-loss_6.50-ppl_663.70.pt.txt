@@ -1,0 +1,53 @@
+
+
+
+ 
+ And it ended, does it seem like a woman whose 
+ 
+ Hungry invent neither particular throughout the precipitates nor fashioned 
+ 
+ tassel journeys, but as if cellars; free there is an old Marble-Sized 
+ To say health might have torment this, we can be sure some day. 
+ 
+ 
+ Father: 
+ 
+ I've liked that you had done yourself. 
+ 
+ "The children are as romantic as love as the result of a diet past him? 
+ 
+ I remember, never mean cut 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

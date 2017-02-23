@@ -1,0 +1,50 @@
+
+To That Car'D, 
+
+ Who all men do not think about 
+ The habits of need, by whose LXXII. 
+ 36 Hope mould an' apocalypse 
+ That open to the heaven even lay? 
+ 
+ Ye, as when those lava blue-gel 
+ Whose breath in the grim blood made bound 
+ Our bodies from past us do not shun, 
+ 
+ Our souls are shaken as a fruit, 
+ Where the fruits streams the gleam shall shine. 
+ The tempting round the leaves ! 
+ You, for late 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

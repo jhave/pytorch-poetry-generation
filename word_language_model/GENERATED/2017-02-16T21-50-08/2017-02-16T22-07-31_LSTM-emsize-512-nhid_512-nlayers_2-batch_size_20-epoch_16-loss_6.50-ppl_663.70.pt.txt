@@ -1,0 +1,51 @@
+
+
+
+ 
+ 3 
+ Alas! leans, thus is our Saltwater 
+ Wherein each people's care shows, Still lost; 
+ Dawn, and over them sudden, 
+ As if by figures marriage-feast, 
+ wouldst once more sharply thus crappies 
+ And though thy loss at once should happen. 
+ (No great life hears no man ornament; 
+ The sweete man at he) from now. 
+ The wanton soul is here and upon us, 
+ Intent upon God, Slumber'd: 
+ Thy life lies shining on the Celtic red 
+ We gather 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

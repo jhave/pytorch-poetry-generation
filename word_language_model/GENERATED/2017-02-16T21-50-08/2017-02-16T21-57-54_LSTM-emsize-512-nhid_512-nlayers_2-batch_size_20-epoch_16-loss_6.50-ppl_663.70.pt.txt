@@ -1,0 +1,50 @@
+
+Volts Of Gold 
+
+ you melt into life, over the black wold. 
+ I mean that moment's color, 
+ you must be carried with this magic 
+ old sickness pressing from the magnet of your blood, 
+ 
+ Beneath the very field, forget as nine years 
+ modere, around with it, 
+ illuminated in the black, resentments and the sea also 
+ Has Click, perform'd 
+ You need a friend at the sheepherding age 
+ And you the stars 
+ That secret Hardcore man's piston fears 
+ Cheers 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

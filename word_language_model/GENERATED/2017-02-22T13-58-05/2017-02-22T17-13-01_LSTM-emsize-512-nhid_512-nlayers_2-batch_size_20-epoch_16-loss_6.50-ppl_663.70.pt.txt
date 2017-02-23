@@ -1,0 +1,53 @@
+
+Be Undone, 
+
+ swallowd up off, over and is saying: 
+ Thus the itch is Nos the heat is swept out, 
+ And the profundity of the spirit has taken us far away, 
+ And the world is cold and dim as poison, and around. 
+ 
+ 
+ 
+ 
+ 
+ Song: my Lord and the fair woman 
+ 
+ 
+ The evil is my splendid and shrine, 
+ For it was on mine, and when I view her face. 
+ Much often, if I could eternalise, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

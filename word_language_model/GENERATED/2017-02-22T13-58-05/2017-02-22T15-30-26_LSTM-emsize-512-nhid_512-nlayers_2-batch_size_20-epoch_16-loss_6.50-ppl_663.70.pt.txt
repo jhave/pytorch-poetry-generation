@@ -1,0 +1,49 @@
+
+Lips, Or Light 
+
+ himselfe, may she create all its frailty. 
+ C. Adam corpulence purple, the King's wanderer's manmarks 
+ sword: have a crucifix-- and Easter inquired. 
+ Daughter on jet and sueo. or Countries, 
+ The Stairs of his Greeks, and bearded refte gins 
+ Clean from the centre of the chap. 
+ And nen tall, of chauffeured, convers'd; 
+ Oh, ich, thank, an' you'll be dead." 
+ 
+ "For honest doubt, tolerably boy, France 
+ 21:Cyriack, ek no lenger in glee: 
+ That is, settling 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

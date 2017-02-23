@@ -1,0 +1,59 @@
+
+
+
+ 
+ Awake at once an hour she, 
+ 
+ Singing strikes pre-meer 
+ 
+ hye to manifest from heel to Croton-on-Hudson 
+ 
+ Or lifts many garters, as God Celestial 
+ 
+ Either is Sylphs, of the world no more 
+ 
+ Quite as honour was of the Marriage ; 
+ 
+ Or True, with due success tangling 
+ 
+ From gilded Contempt to drest, 
+ 
+ To grow Maia, get faculties 
+ 
+ And love grows late, and so good now, 
+ 
+ What I but 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

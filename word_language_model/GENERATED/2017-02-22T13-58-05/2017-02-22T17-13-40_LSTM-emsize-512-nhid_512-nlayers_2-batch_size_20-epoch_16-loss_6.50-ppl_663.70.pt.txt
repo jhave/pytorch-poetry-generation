@@ -1,0 +1,47 @@
+
+It Is The Wretched 
+
+ Short monstrous preacher asleep, crony: -- 
+ worldwide ain't got sorry, Plaster, at Man--arise 
+ Borne to the king on abandoned: swellings 
+ So at the four taut times, a Steep ptarmigan 
+ Steals off the train, and turned back, again, 
+ survivor-- monsters street; and oiled eyes grown leveled 
+ As it goes on, no glee by the head. Never 
+ Will have 2 outbraving stand school, 
+ Where "bull thousand years lie Jumps 
+ Ay, bless our thirst, my mind, yet 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

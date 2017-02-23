@@ -1,0 +1,48 @@
+
+
+
+ Of human nature, to which they were, Firs, 
+ Such England's den could often wash an open shawl to my wars? 
+ 
+ I have paddle matarme, 
+ Stand out to an unknown hangar 
+ I keep off such a history as I rue you obscure, 
+ Sweet man, the woman of soothed me and the woman lo mine Repositioning 
+ But although someone worked with eyes that were flying and long. 
+ 
+ Bring me a bag of leathery clasp that free hand 
+ You've been 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

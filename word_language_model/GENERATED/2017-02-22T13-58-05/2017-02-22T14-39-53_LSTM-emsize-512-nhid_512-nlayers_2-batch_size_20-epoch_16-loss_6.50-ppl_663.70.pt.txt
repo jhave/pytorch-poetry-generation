@@ -1,0 +1,57 @@
+
+
+
+ For then he goes warm. I wed daycare, 
+ Did you fear unmasked. 
+ Too much for him to bear Pose. 
+ Then he spoke a fearful impeccable 
+ 
+ saddle; 
+ Duesenberg, 
+ So you got to get 
+ While he catches 
+ To him 
+ rodents 
+ Up to the same world 
+ In a private way he'd Wrfel 
+ funding 
+ Trying to submit further curls 
+ So greasy a veiling amber 
+ dram-shops 
+ Like vulnere Atrophie, 
+ audit and frounc'd 
+ New 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

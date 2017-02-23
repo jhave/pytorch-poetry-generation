@@ -1,0 +1,48 @@
+
+The Landscapes Of Her Forehead. 
+
+ And though there is no lasting cause 
+ Than that. Let it laugh and then return 
+ 
+ All home as she goes. { ripe 
+ I turn off on her arm and I lay back 
+ In a pile of eighteen years. She heard her gun 
+ Then pecking her shoulder floor lay open like a jest. 
+ 
+ This dim icy blue land that opened her face, 
+ And she slid limbs and washed out her everywhere, 
+ To enter 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,52 @@
+
+Past: 
+
+ cornland Loon, Troubles 
+ What say, vocabularies constant Thunder: 
+ What lips of the sloppy flail or breath, 
+ Are flutter'd in some melodious suit 
+ That quarrel in the dazzling undreamt of song 
+ And surely the freedom of virtuous living, 
+ irradiant on thy lip, mini-ramp 
+ travel-gowned, 'ant for scissored 
+ Sleep; but I cannot speken cottage-eaves 
+ You Mourns me hail-stone 
+ (Certain for onely, 
+ And ye may never be offence, 
+ But since your pilgrimage. 
+ Alvares or Elves, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

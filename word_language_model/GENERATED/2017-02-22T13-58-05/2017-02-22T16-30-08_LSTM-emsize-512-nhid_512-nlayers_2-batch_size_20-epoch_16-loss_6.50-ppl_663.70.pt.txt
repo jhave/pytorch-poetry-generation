@@ -1,0 +1,50 @@
+
+
+
+ toward another's tears! Sappho's Eidolon, in heaven. 
+ She 
+ Put her head and lie with the lids burning 
+ over a roof and slip 
+ everywhere by. But her eyes are bleak 
+ between her, and thin, comes in the bedroom 
+ jumpers break at her untangle; lobe 
+ 
+ Slips from a surprise--a garden 
+ the ageless dark heat of a stroke 
+ are locked in yellow chains, some sparkling 
+ leaves to a window eases In scooter, a string. 
+ The silver jade hair 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

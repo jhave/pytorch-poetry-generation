@@ -1,0 +1,48 @@
+
+And You Don'T 
+
+ recognize yourself for your God. 
+ 
+ You'd wish it hasn't got to mistake the soul,) 
+ I was something we walked in their own. 
+ But you. These know: All friends do community 
+ when they used for their neutrinos 
+ That thick poems, like ghosts that ships and morse 
+ discernd, with many elegies as lines willows Atoms 
+ recovers, the pressure of infant romantic stone 
+ Imagining the lily flayed: hymns have a saber scarf 
+ ration. Out high in the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-21T13-55-43
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

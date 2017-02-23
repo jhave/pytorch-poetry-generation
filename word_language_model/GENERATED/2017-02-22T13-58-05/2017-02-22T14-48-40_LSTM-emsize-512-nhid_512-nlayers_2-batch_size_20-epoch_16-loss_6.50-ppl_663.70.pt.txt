@@ -1,0 +1,49 @@
+
+Graffiti; See Why Now Your Friend Is. 
+
+ "Oh, she gave me our mensch 
+ One of her little favorite. 
+ I didn't like this flinch. -- 1. 
+ You, Bust lost on on rock, 
+ skin up of fire, and circled it, she said. 
+ Think of nth fauns an' Love dear, 
+ creature! ambrosial encampt, settling off, 
+ To the lady quite poorhouse 
+ A unrolls on a skirt, no Camden 
+ No good in a speckled village. 
+ 
+ The oar and mist went on 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

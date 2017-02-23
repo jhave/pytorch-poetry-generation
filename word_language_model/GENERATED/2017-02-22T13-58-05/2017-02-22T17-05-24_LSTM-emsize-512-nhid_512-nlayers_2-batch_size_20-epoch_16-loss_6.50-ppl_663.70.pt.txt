@@ -1,0 +1,47 @@
+
+To Her, His Program Years Loose Increase, 
+
+ wingless, hard to glimpsed from fashion to Tawny, 
+ "My whole is dreary, might'st take it by Paradigms 
+ Have ye the photographs, the hank's and those farm-girl, 
+ Who seeke tuning-forked less likely mine than Station 
+ Wobble got a half mine bliss. 
+ No doubt, no less at once, shal yet may. 
+ 
+ Only him and by the cerveza, sought 
+ illiterate, for small: But, how a need 
+ Is strange, abdicate will, scarce is that fulfilment 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,56 @@
+
+
+
+ 
+ Who can represent with some grace, 
+ 
+ Or fruit of sweetness, where covenant were. 
+ 
+ I know the lover, patient praises sing, 
+ 
+ And look in haste, they trod, 
+ 
+ For airs on banks of Change and cavern, Thirst 
+ 
+ And crown again the sighs of vulgar green, 
+ 
+ Which, cry, and tell . . . oblivious . . . 
+ 
+ 
+ And centre died, attain instead of pain, 
+ 
+ With poles, and cold tunes within all his 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,49 @@
+
+Heard, 
+
+ his revellers, his gaze perfections away 
+ my way to the right hand he loved, 
+ but as I did sleep, I thought, camera's 
+ so truly we wouldn't leave 
+ another, and though this tree is warm. 
+ But I'll stand here with everything that swears 
+ nor God is visit but this is all Parasite 
+ 
+ It was almost my dishes in the Excise. 
+ But I say all about me? The Achilles. blank. Anon 
+ its Floral exorcist, with special Naphtha 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

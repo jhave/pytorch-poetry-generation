@@ -1,0 +1,47 @@
+
+Knows: 
+
+ That is the same as well as the others in property -- 
+ He shall partake on the wild when you come too long 
+ Has certain tears about you me, 
+ And to my last, so very often death 
+ With Mary at the set of the grapes, 
+ With no pieces of loveliest manifold? 
+ So what? Silas Norden child, you say 
+ That of our boyish, peaks, we mean, are labour! 
+ And have some port and gurns deere, and splayed 
+ In 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

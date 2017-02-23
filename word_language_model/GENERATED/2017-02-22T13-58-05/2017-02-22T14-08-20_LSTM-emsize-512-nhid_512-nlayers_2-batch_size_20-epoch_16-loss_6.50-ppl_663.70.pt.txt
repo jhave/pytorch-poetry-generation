@@ -1,0 +1,56 @@
+
+Even; With One Hand Two Day'S Stars 
+
+ skimming the ground, 
+ every rust bears the arc of Easter screamless in 
+ total posture to such fewer and women, 
+ who oracin for greedy matter, that cultivated 
+ 
+ from all the rest of life, 
+ in a final distance so bad. 
+ 
+ Here is just a brief swan, 
+ 
+ and in Thebes, the tawny fleet 
+ of granite and flower-like neck. 
+ 
+ It is in silence 
+ of an glca, 
+ 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,43 @@
+
+Near, 
+
+ The woman has nothing to think of the thing and the sense of 
+ Sphinx whether it could be more. He'd get in a library star, Baldassaro, he sinks and goes up three lambs down. 
+ 
+ A childhood appears on the sauna, in the lilac-time, holding the planting, more like white; truck--did it seem to mind. 
+ If that lettering. Motteux, know me? is this the god is crazed with pots of sugar, unrepentant, and fine, 
+ with the eyes of the children that covered 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

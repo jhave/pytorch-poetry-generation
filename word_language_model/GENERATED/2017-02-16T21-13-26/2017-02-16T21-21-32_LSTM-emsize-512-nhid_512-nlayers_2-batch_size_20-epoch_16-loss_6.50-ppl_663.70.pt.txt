@@ -1,0 +1,55 @@
+
+It Hands On And The Clean Sway 
+
+ 
+ Keeping its keys with his ears holding it stirred 
+ 
+ Alone and again down again. Consort and Sussex 
+ 
+ Has a dry torrent of flower and rain 
+ 
+ In the ninth room when men caught a hnahran 
+ 
+ But only a intimacy was swallowed off the jug 
+ 
+ Like a fold, 
+ 
+ Who comes, there, before the sun is founts, 
+ 
+ The weight of the spider now went out 
+ 
+ Bitter 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-13-26
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

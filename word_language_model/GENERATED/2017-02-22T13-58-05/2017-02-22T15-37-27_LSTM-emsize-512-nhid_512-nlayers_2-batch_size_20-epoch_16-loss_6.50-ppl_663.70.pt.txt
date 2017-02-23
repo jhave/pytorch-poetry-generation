@@ -1,0 +1,50 @@
+
+Beseeching Drive His Arms 
+
+ over the shoulder, two muted windows. 
+ bees--colony backthraws, tumbling sounds. 
+ am! Mother's magpies, 
+ half-erect hit's my style on Lu improvisation, 
+ the gritty nearwe blood.M's 
+ plied his nightgown, agriculture. 
+ for the coward, no blacken umpire, 
+ Investigations crouches on new ledges 
+ for a fern, Hotel gummanna for his 
+ half-curtain the female Undistracted now 
+ seems to reaches. He wipes the juicy toe 
+ with his roaches & the peeling gun islet 
+ swine's out of the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

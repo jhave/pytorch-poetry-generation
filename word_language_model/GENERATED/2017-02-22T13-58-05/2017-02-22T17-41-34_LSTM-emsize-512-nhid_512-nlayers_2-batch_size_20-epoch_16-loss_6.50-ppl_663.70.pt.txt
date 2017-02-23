@@ -1,0 +1,51 @@
+
+I Consented; 
+
+ A statue of sweet household black, 
+ Taught me that I should see 
+ And in looking midnight home in youth, 
+ --And myself who cain't Can flout 
+ The constant carborundum-steel, 
+ For all the people are by pain: 
+ 
+ Hundreds of living things, and bowers, 
+ Sweet district's slender and spleen 
+ That must be withered for dumb, 
+ Of all the joys I once aspires 
+ To win out its team and I 
+ Who this Cuckoldom 
+ Shall be upon 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

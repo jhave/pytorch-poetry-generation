@@ -1,0 +1,46 @@
+
+But What Is Thinking About Me? 
+
+ Who are princes alive when the hearts stand out, 
+ Or where the porches. Nothing can get 
+ Got and second he will not pity with us. 
+ For the gates are numbered, but I go 
+ Those buried in the heart's sleep or scream. 
+ And I shall hang one night before I watch their tread, 
+ Comes back and lift thir hands, they proud and poor; 
+ Be briefly once upon the Rev. Body 
+ Of good and happy, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

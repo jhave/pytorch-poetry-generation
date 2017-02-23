@@ -1,0 +1,52 @@
+
+
+
+ Time is a mystery, but 
+ The walls join out my place, 
+ awful, the ambiguous birds, 
+ "Like the mourners take just black 
+ In the gray and lower school, which has investigate 
+ Some restless pints since gearboxes, 
+ Uncle descends the needle said: "For God! 
+ 
+ He was my sermon in the church, 
+ My whisper, while the flush of hell. 
+ I was happy even in the limping book 
+ To have my channels. 
+ 
+ The time came by. 
+ I'd 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

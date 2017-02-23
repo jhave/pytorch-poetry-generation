@@ -1,0 +1,53 @@
+
+Wraith'S 
+
+ 
+ spotlight lines of this chip 
+ in which somewhere the mouse; 
+ sleek, clips pearls and steaming trumpet's 
+ blue Trespass, Hotel: 
+ Hall, mistaken. to me! While 
+ especially they Aurora, Varieties 
+ Year after twenty miles sealed 
+ Turkish oil holidays armory's rye; gerland 
+ California blown below sweater, French dead pass'd, 
+ affectionate, reading poisoned slumber, maintain. 
+ bearnum, Deluxe fur squares 
+ chopped up money and incea 
+ 
+ shells, fromthe sticks from street to Gold--de fountain 
+ on the day 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

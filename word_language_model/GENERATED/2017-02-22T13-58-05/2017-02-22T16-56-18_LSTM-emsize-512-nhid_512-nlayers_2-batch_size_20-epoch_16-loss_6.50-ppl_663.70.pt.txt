@@ -1,0 +1,52 @@
+
+Sun Pouring Ithou 
+
+ (So dark with neither things than never, 
+ Might shiver, awake with laurels and goal. 
+ 
+ By day I heard the rising light 
+ Of rolling north, its yell on its high threshold 
+ Keeps whiter paths of hours, in someone's hair. 
+ 
+ 
+ And tear the Boy upon your brother's laugh 
+ 
+ Like a man's catch of an eldritch, joke? 
+ 
+ I ask for use of something. I think 
+ 
+ Of those who men stir in those fair 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

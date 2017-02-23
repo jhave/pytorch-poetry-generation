@@ -1,0 +1,53 @@
+
+You Take Souls." 
+
+ nor EVERYONE breaking out my chrysanthemums. 
+ "For Tail, migliore you tell me I 
+ know-- of Brine 
+ Make you ghost? Then I give her 
+ back from meaner duties, holy heav'ns, 
+ whose feet were translation 
+ when cars were catching on 
+ all lay stationed on their ribs, 
+ 
+ until their Tiger lip was cold 
+ for diaphragm and, bored again. 
+ In moonlight; 
+ this could say 
+ even in its breast 
+ the poet must not propagate 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

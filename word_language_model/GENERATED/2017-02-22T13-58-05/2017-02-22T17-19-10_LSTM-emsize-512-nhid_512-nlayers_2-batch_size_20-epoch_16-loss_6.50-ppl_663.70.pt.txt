@@ -1,0 +1,46 @@
+
+Will 
+
+ Be reading on this "O Father, O my bride 
+ Turned on, breathing now and there nothing cares 
+ Not for such hands are grown wre. 
+ That makes us give us; is it as we shall stray, 
+ We shall go quiet and not woodman in bed, 
+ We shall help us now, plunge up thy mortal health to love, 
+ Because she loves us not, and yet not in pain, and love it was, 
+ It is his own Mother, Arch-Enemy, 
+ And leave 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

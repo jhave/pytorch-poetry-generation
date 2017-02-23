@@ -1,0 +1,47 @@
+
+Perfect 
+
+ 
+ visitation, lost their noble knolls. geve. 
+ is the great response certainly more than the usual he's until the salmon got begins. 
+ For the Mark of her warty the other split bodies. 
+ Oh little forests, taking the stated poems of any formidable; 
+ Can you deny death be the freedom of virgin study in (That of the Victory 
+ of the movies Blessed half-rotten 
+ 
+ You should have been certain, appearing with Bic you throw 
+ me out to watch me expenses, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

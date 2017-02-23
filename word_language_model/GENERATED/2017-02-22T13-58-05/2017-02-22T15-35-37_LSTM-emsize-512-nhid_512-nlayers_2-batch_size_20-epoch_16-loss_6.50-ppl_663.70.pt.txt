@@ -1,0 +1,47 @@
+
+No Fault, 
+
+ And be easy to find such things to be as told, 
+ A number like the unhappy church. In this fund 
+ Who has come so lays so many years ago, too long, so short days are mine. 
+ At dawn and the beach round rumor. 
+ Wild terrible yore-- 
+ But your old sparrows always all 
+ At the bottom, the third fonctionne, sap 
+ Flowing themselves from cans-- 
+ From wines, like treadmill from the coals 
+ Blown into night's cawing in the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

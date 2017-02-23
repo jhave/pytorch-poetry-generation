@@ -1,0 +1,50 @@
+
+Of Being Thought 
+
+ cyn and Rites that brought half a faint 
+ For fury and thought it seems to see, 
+ "There, I thought it could be 
+ With me a thing but in the darkness, 
+ A breathing beauty, the same early hands. 
+ 
+ "Here that whippoorwill lov'd 
+ Listening Paul." and fears to be." 
+ 
+ Poets, though for Grizzled, they needs 
+ From whose their Father walks; 
+ One by one in wealth first, have a gal 
+ Who sees this Unanxious of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

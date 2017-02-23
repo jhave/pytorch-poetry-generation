@@ -1,0 +1,50 @@
+
+Rock 
+
+ 
+ If you find such a way I have left you, 
+ Though it was like that, the next. 
+ 
+ And you, damn death, content fate 
+ To fill God's air! 
+ You, dear must float with the weary new. 
+ 
+ Do you not feel yourself like this globe, 
+ I blame them they will not look at, 
+ So do you think I die! 
+ And if down your own return have been creeper-- 
+ I have never of them laid a wing, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

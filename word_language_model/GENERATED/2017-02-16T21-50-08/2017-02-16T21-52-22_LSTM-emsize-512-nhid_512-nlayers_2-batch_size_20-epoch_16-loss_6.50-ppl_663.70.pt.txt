@@ -1,0 +1,48 @@
+
+Journeyed The Wrapp'D, 
+
+ 
+ "They hated the boys in odd ships for friends, 
+ The young rise of the sheeted bluffs to rise 
+ They find each other in the order of men's hands. 
+ 
+ If the cruel majority be sick, he should. 
+ And before they, the cruel generation reclined 
+ In emotion that he Palmitic and long has spread, 
+ Where, like the fragrance of a bird, and a star 
+ For his extent for romances, homeward 1956, 
+ As if he hadn't come 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

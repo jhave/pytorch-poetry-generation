@@ -1,0 +1,51 @@
+
+Haywire The Fine Will. 
+
+ But the day, all their cupped mouths have directorships 
+ Harrison); splits his song our eyes 
+ Through the sea Puritie, 
+ Moloch the spectre pass. hell: sex, 
+ Yet the eyelids are shut. 
+ 
+ I wish you were well 
+ They drank my people through days 
+ All of the rot 
+ In their torn debris, 
+ The road was not storms,) 
+ We in a leaking state 
+ Where sense tunda each show and been inspired 
+ By what is, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

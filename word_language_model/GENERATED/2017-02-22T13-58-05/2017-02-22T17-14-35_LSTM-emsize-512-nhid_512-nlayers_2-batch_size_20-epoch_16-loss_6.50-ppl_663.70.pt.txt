@@ -1,0 +1,48 @@
+
+Year 
+
+ Always of inside two sticks in an 18 
+ theater, can't remember what to help handsome: being deem, 
+ so gav'st herself being available utterances. 
+ It's not a word that's now, no matter what you say? 
+ we Successful issum, and farewell! 
+ Perhaps we don't give us what you can search so hard, 
+ except each other one. Each man's life 
+ grows tumbling over it. 
+ And that it seems to say semester. 
+ coyote keeps a key and takes striking out. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

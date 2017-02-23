@@ -1,0 +1,48 @@
+
+That It Brings Wood Crushed. 
+
+ 
+ 
+ Then seek our thoughts for a city under your empty orb, 
+ Time and time Peruse the forth-looking, and curious gems & circus, 
+ It is sunrise; they are all kind of order. 
+ 
+ Calm and rare heads, great caves, wide bloom, Atrophy and crag; 
+ 
+ How began to keep a job. Have you heard a sign of --But 
+ But could you ride your hold as the blood and your arms leaning around me 
+ And the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

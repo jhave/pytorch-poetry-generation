@@ -1,0 +1,48 @@
+
+Delhi 
+
+ Like a white cloud on a magnet room. 
+ 
+ The carpenter Bront Dewdrops runs one day. 
+ While she mire, she is on a splendid wall 
+ Where no matter if to revive any real truth 
+ If any of all he has been used to invent 
+ One whispered conseil, She obeys long wars! 
+ Now has God in me for him whose salt; 
+ "You must believe her in his shadow a clown, 
+ Or ferther by the sea, 
+ Where are I? 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

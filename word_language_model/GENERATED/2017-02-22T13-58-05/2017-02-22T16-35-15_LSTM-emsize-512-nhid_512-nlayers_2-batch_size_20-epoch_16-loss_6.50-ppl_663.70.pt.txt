@@ -1,0 +1,55 @@
+
+Jersey Rostrum 
+
+ for liars. my Reaper has the ones of 
+ defer spinnaker. The cruel scariest 
+ children! small subject, aske me to beauty 
+ Then coy in your song, I've heard this hopes: 
+ To listen from the inward crank-up 
+ Where the intoxicate, plight. 
+ Here is my disaster. And your death in me 
+ Time is your bark, your own spreading desire. 
+ 
+ 
+ 
+ 
+ 
+ dead's alyssa eminence; on the Dead Man 
+ 
+ 
+ I 
+ While they sullen Economics 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

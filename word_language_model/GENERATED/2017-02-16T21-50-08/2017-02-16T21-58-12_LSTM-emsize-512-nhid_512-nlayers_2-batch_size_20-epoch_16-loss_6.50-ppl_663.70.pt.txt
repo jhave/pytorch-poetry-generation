@@ -1,0 +1,50 @@
+
+Famished 
+
+ orbital with the old wooden turd 
+ The werewolf: in alien shrine. 
+ 
+ We rose 
+ The giant great profile 
+ When he was always moving and sent him to the boat 
+ And breathes out upon behind the iron house 
+ Of this still mountain, such a time before he came through 
+ In the final sort of man! He made them at their ease, 
+ Three doctors I knew, for shirk. 
+ To speak one true coat, my baseline. 
+ 
+ Finally this 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

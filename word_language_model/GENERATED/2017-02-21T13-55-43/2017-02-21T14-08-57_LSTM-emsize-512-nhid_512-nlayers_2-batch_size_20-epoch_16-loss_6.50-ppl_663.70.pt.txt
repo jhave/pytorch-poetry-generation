@@ -1,0 +1,52 @@
+
+
+
+ 
+ Lo how the Few tale can one part hears, 
+ Like the spirit the angels set to boot, 
+ The vein cannot a soul.... 
+ 
+ We're struggling hard to end 
+ With the magnificent latrinal 
+ Of ships and song may know at college, 
+ Oft and across with evening greens, 
+ And intact brave Ward's waves flow 
+ The hills beneath the waves tall, 
+ And, bright as forest, light we keep again 
+ "tragedy for fear of lies and ours. 
+ 
+ Still, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-21T13-55-43
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

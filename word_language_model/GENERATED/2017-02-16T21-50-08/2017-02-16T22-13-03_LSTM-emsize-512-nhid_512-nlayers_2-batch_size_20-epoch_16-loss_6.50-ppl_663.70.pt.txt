@@ -1,0 +1,51 @@
+
+
+
+ I come on 
+ aloft like topples 
+ inside the neck and smoke of a tunnel 
+ down the road will drive 
+ 
+ all the way, into the night icy gates I bend 
+ to vessel-vassal weep. 
+ Here, how much surface is Bestirs 
+ one goes back away, it is last I know so. 
+ I am always deaf alive and rolling 
+ through a filthy barrenness of grass, and a fish baked. 
+ 
+ They turned me out to watch the Indiscriminate pin 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

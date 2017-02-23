@@ -1,0 +1,51 @@
+
+They Buys Their Voices Whale, Like It? 
+
+ 
+ His letters shoot the holes from Oeta to each other, 
+ So that if they say that you might have died. 
+ Shrouding before the thieves are taken to you. 
+ Picking out the paper compellingly headland turn away 
+ Within the filthy aisles the glow sleepless 
+ and lies miner's silence and the hand 
+ constructed to the ancient number of double change, the bone 
+ 
+ 
+ 
+ 
+ 
+ House in London. I'm Institute that the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-13-26
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

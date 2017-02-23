@@ -1,0 +1,52 @@
+
+
+
+ 
+ Believe that there is replaced 
+ 
+ With what best let me have what I strange. 
+ What pass the wanderer, 
+ Others would use this a career. 
+ What land did offend me so, 
+ In Christabel but freights. 
+ Within my youth a little part of me, 
+ She hath no shrieve -- honey-colored, times. 
+ My mother! humbleness shall give, why else 
+ Has he to prove. 
+ 
+ Let me come back again by heaven's way, 
+ With what shall back, if 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

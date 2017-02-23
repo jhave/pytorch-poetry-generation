@@ -1,0 +1,45 @@
+
+Of Votive Proserpine, 
+
+ To peg-legs as any philosophy is condemned to one. 
+ Returning along to will, everything late has gone away and go. 
+ Each three of them will suppose they are on the long sides of an cell to get water-bloated 
+ Where all are trouble any character, they're starts, and moaning: 
+ scented trees, fruit of the Bronx cutting such thoughts careful. 
+ Some angels think Brussel slain about a converted under-current of football Sculptured 
+ 
+ Here across somewhere the essential sense fell 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

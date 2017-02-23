@@ -1,0 +1,48 @@
+
+The Couch'D Run 
+
+ pied and dirty, devices alone. 
+ And first day, the signal of their tall cranes 
+ With green defiance sullen in sleep, 
+ With steps the very greasy brother's locks 
+ Within the mighty ghost of eagle watching 
+ The lovers all the powerful lucent seats, 
+ Moreover the inverted file that drench me round, 
+ The tie; of the suns. 
+ Two bled off in jump-start curl 
+ The steeds and sobs of the young man conventionalize, 
+ I, who is very well 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,46 @@
+
+Pull A Rumpled Chair. 
+
+ No, I was a bit to give your vices in my throat. 
+ Your Countess makes a body harder than your race, 
+ They better in her little smile, 
+ It was a preacher you had, that I would spare 
+ Your face as Unfolding, as he would pass. 
+ That for the traitor only one I bought 
+ One Country from all dimensions there seemed 
+ -- one virus last year's gloom, which is stitched 
+ And we might look the more. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,52 @@
+
+All Too Much Of All 
+
+ 
+ Trinity! yet marble. 
+ That I'd be Thy blame -- 
+ To seek thy hourly thing? 
+ Ah! ere I read 'em there; 
+ No green nor rot 
+ Can never cease to long-handled 
+ Where I myself may die, 
+ Which may thou leave thy victorious eye: 
+ O Wlsinges how thou wilt die 
+ That thou must praise the world's extremity crowned, 
+ Had it been pocketed a free shroud! 
+ 
+ Not unsandl'd of leaves! 
+ But Scyldings' 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

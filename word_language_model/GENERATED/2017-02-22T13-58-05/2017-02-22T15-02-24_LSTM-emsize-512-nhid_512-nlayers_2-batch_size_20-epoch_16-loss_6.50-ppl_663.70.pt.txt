@@ -1,0 +1,50 @@
+
+Help You? Why Does This Go? 
+
+ You've written the jug to, many times. 
+ 
+ It takes a wide distance through the newsreel 
+ In some million years, some things; some tried, 
+ A letter is nearest to noise, 
+ By its own freedom, where is it so, 
+ And Noms needs truth but Horatio 
+ Swung in a pot for echoing. 
+ 
+ I've seen some annals of that white 
+ lobster heart-faced in their nails, 
+ Finally here a bee burned into the window 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

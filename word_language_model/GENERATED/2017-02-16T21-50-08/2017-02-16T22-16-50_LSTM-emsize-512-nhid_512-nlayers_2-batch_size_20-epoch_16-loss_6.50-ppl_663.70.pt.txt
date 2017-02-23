@@ -1,0 +1,49 @@
+
+Poetae, 
+
+ 
+ Much growing from the alphabet. What have been, 
+ If not bid me go, nor thou the fine worth more! 
+ I add a hand, axioms, and paid 
+ For the sweet bird's quick against the lightning 
+ Till the Tight womb I feel. 
+ 
+ Not in an explanation. It is not white and sweet 
+ If death be as music and desire, 
+ And it seems the panther of a Whosoever 
+ And the thread of waking life shall be past, 
+ "How 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-50-08
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

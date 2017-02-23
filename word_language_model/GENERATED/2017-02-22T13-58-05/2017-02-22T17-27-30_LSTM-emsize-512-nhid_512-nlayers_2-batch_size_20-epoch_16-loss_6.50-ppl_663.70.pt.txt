@@ -1,0 +1,45 @@
+
+With Cheers, 
+
+ Truth took a price that was a Winkles, stash a globe, for the hundred wars were bare, 
+ Close at the people; saw the call out of Milan 
+ To the landlord's foaming house sank with a picked for pitches 
+ On Ararat; two months, possibility and hissed and flour, may: 
+ A exquisite epic pops against the silk, 
+ Mere assembly of central feeling, there was one of the other 
+ And lost the diamond worn, dialogue of fire and gills, 
+ The Bellman, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

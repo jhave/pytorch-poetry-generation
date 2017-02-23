@@ -1,0 +1,55 @@
+
+To Be 
+
+ 
+ so larger convinced by each other 
+ has conquered the torch around the sea. 
+ 
+ I am scared by care of conversation 
+ in smoking motion, that you push 
+ your stadium, you hear Mantuan thanks by 
+ my sender's as I tell you her things 
+ you need to make more sense than else 
+ to your chests. America -- your team 
+ that though I'm tree? 
+ 
+ Don't market in, to cried. 
+ 
+ 
+ 8 
+ 
+ I thought 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-16T21-13-26
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

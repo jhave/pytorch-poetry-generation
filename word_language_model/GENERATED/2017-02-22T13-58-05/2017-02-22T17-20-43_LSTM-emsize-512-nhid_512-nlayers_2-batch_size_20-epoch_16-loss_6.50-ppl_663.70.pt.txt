@@ -1,0 +1,54 @@
+
+Lucifer-- 
+
+ 
+ Why do I mean. 
+ 
+ 
+ 
+ 
+ 
+ At Beast 
+ 
+ 
+ The truth is roses, and the Winged is throngful right-turning 
+ The life said so, I see the appearances coming from their talk where medleyed will grab them back to their minds. 
+ 
+ For my death, cities, Lucinda, toil and weeping. 
+ Another is not martyr, perhaps he should jubilees, mean a test in a season 
+ In the picture. The freshness, the big roosters smile, 
+ printed torn 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-22T13-58-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt
