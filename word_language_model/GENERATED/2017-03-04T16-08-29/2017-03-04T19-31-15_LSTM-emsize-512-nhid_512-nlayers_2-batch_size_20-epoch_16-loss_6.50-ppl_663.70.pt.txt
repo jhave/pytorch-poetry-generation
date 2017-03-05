@@ -1,0 +1,58 @@
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ lipstick-and-gore, Lines on The Corner staff 
+ 
+ 
+ prancing, mon boy! 
+ He says, for now 
+ Come into thro'. 
+ And let fall such a light 
+ To make is good the poet. 
+ Let us Afterimages 
+ And bring us other star. 
+ If we who love so much: 
+ She hath no more to us admire 
+ Her joy that it alone goes; 
+ For he who would not want to go, 
+ Of a horsed and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

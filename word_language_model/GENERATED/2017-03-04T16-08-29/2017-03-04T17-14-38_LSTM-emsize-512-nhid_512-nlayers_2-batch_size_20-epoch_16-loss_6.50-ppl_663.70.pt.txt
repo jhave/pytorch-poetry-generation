@@ -1,0 +1,49 @@
+
+Me Now, 
+
+ as if this were an fetters Milwaukee, 
+ and he was made vast by the cloud. 
+ Small friends, of living soldiers in corners 
+ of their own long fate 
+ now hold them so hard and dead. 
+ The burden of people what spirit 
+ draws to the land of monks must enter, 
+ and the push'd, and latest breath, were missing 
+ for their daily ends, such years as old 
+ Gamen in slow silence, 
+ the fields of cliffs and cattle 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

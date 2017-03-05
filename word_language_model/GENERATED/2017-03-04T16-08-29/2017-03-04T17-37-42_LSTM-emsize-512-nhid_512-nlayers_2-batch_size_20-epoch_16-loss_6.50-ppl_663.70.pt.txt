@@ -1,0 +1,50 @@
+
+And Move Like Fathers... 
+
+ In a passenger crust of wood-drake 
+ Where each one of them and goes to the waiting of night 
+ Opened and wrecks 
+ Between the young and secret is the wonder of death. 
+ 
+ heather. 
+ 
+ CHORUS 
+ He cried, tangle. That's a Maiden needs two, 
+ O Jenny 's funny wonhydum son, I work. 
+ best,-- miht PLEASE BETTY belle, in unbewildered 
+ Ef your nose should yet be afraid. Kiss the anguish 
+ If you get Plunge. best 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,52 @@
+
+Despis'D The Canvas--Transposing 
+
+ And blithe with the Abyss 
+ single-pump mowt and act, and will. 
+ And tho' else, serve later the times at all; 
+ Stay down alone on all night, 
+ And left in stench, lie like the sea. 
+ No longer faith but far, 
+ "Stuck clear around the brook 
+ punts--no bright spirits, 
+ Papiols, and strong, and lost, 
+ We were beach. 
+ 
+ We think: we only lie, 
+ 1952 and storms, 
+ May grow dark hillbilly 
+ If they keep 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

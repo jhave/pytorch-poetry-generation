@@ -1,0 +1,50 @@
+
+A Chevy 
+
+ And unmistakably fireflies gone over, new, indecisive fornicating -- 
+ 
+ The old beauty, and the pleasures that to delay, 
+ The land's their hands open, and the most I--pigeon. 
+ Like a dove's mirage of deer. daughters. 
+ 
+ Hark! the first p.m. strew a pink ravines 
+ Has hat; Lakes resurrect bear, Wha candle's 
+ To-day this body is Jonathan, guiding it 
+ 
+ Committing to a tall release with the sun-comprehending 
+ its connection as a poker Elephant, or that 
+ symptom 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

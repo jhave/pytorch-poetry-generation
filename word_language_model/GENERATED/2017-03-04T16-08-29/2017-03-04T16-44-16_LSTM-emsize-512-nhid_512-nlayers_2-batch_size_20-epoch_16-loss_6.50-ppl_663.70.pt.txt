@@ -1,0 +1,48 @@
+
+It Would Be 
+
+ God marks out of pure sunshine 
+ Though she lives ready in eight, here 
+ And by all descends very familiar 
+ It yearns to be made inside it 
+ A pretty space for my family naf. 
+ Not while you talk of the steam that drives you awhile 
+ Like a exposed fright inside a book 
+ That moves certain star fresh as childhood 
+ Beyond the low newspaper's 
+ Winds cover your side. This is the nighttime 
+ B-52's at resting in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

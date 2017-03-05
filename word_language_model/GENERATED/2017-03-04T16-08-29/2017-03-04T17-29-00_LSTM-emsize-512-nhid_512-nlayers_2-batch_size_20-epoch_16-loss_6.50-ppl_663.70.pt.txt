@@ -1,0 +1,57 @@
+
+His Tickets, Tigued 
+
+ nurtured with burnished eling/ and throat! 
+ There, comes the bath, the Gorging care, 
+ But Greece or other looks for scopes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dream and Women 
+ 
+ 
+ We are born under these seasons 
+ When, losing the Glissen'd inner greenhouses, 
+ Of a day lying like the summer tree 
+ To snap it, sitting from the Cuddies eye, 
+ And spread its clothes in the wind. 
+ 
+ Words of men, year life, going here; 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

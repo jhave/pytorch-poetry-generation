@@ -1,0 +1,63 @@
+
+Of The Word 
+
+ do not do gabbing. 
+ nameless 
+ 
+ as eagles are dead 
+ actioning 
+ Moloch sweet with fruits and cakes of dying 
+ laden toys, and small blue 
+ announcer. streets, 
+ incorporating. 
+ 
+ in Fellatah, 
+ revives. 
+ crustaceans 
+ Monk, rapid-fire 
+ blueeyed hundred style, 
+ an honorary onflowing. 
+ 
+ potent Riefenstahl. 
+ in Milan Color 
+ of the House monstruos, 
+ 
+ a. erratik 
+ Lament, 
+ retrievements 
+ glittering into the backseat 
+ of a new Saturn. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

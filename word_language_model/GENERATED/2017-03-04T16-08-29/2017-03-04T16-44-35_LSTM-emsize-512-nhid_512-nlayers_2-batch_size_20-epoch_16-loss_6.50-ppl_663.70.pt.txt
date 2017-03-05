@@ -1,0 +1,47 @@
+
+The Flies Along The Highway That Prays 
+
+ through the sunken Chos'n of the night, I watch 
+ in my gipsy black brightness to the end of the lake. 
+ 
+ I find my unprimed half-fallen snapping 
+ that I conclude once death to the kell a bomb 
+ of Painter and quartered of keyboard, and the kindest 
+ between brass and homes. When I see them, 
+ lean down after me I'm absolutely getting inside. 
+ Why should I care where no problem wills had done, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

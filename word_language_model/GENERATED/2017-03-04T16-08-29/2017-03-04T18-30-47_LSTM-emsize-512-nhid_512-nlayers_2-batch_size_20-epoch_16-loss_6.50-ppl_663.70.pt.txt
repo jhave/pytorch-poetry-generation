@@ -1,0 +1,48 @@
+
+Of True Sunsets 
+
+ Fed us in Earth's bright regretful knee Sherry 
+ Not at all Drest close enough to get, 
+ " That never mourn'd, come again but hear the 
+ face's who are drowned to them according to sea by vague 
+ Grave their heads and bellies hanging in starlight they hid and withers at 
+ compact boats that should catch. 
+ 
+ "Are you fast anymore, thine,-- 
+ Show me what we call 
+ The ruste; antic what men want, 
+ And how of censure, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,47 @@
+
+His Wife, 
+
+ pull onto the melancholy bag. The whole 
+ 
+ screen of her mouth is like a thrapple. The text 
+ of the dune, the chemist folds in the air 
+ and escapes it every pain. He knows 
+ then waits that she'll answer to other people. 
+ Why honey-brown too, he saith, No, synagogue 
+ I had read of his face? Men moved against my head 
+ for example, on what he'd done, he'd say, so I won't get back. 
+ But now, oh, is 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

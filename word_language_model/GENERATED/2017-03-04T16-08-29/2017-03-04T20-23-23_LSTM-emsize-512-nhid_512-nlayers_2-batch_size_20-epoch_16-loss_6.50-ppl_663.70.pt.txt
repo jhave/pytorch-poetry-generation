@@ -1,0 +1,50 @@
+
+Shook The Path. 
+
+ 
+ "I hardly stir, Didn't exchange my pecker 
+ for it for the next place, Dido's headfirst, 
+ a leg of immaculate strips at my chest. 
+ Nobody can remember whether 
+ the smell of birds 105 whiter 
+ than pay-dirt else, say shame; 
+ The wife of the sky, 
+ the major Duchess painted on the Hudson, 
+ had cut it for my mother. Mother 
+ carried the platoon by the orange 
+ that dropped red, silver 
+ and box on the ground 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

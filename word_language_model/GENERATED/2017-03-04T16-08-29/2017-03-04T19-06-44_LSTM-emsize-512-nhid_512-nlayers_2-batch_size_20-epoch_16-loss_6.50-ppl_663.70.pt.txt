@@ -1,0 +1,55 @@
+
+
+
+ So it must be that I aweary, to do with 
+ 
+ the force of my father. In my loss I've done, 5-20, 
+ 
+ I am sure to examine my duty 
+ 
+ There's nothing to bother it. 
+ 
+ 
+ In that event that comes. The local camping: 
+ 
+ Pass nests or northern camp in the sunrise. 
+ 
+ Tophet, the crows glistening in the rubble of their mate's 
+ 
+ Before Frere, stand, 
+ 
+ There's room in the place where it's fell: 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

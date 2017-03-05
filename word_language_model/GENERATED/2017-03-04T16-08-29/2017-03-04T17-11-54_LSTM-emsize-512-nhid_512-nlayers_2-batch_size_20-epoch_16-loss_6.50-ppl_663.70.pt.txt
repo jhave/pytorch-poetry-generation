@@ -1,0 +1,49 @@
+
+
+
+ to cheer them in plaster. (I see them 
+ in silence at the island. And now, where roses exhaust 
+ around that house of yellow ferns 
+ all that were briefly singing. 
+ At night, I saw him 
+ sitting on the elbows, lawn, lining up, 
+ my voice clung to a leaking ether 
+ still from one beginning. 
+ I didn't mean the cold unconscious tourist 
+ about a phone because this was my father 
+ but he always knew already because I believed 
+ these 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

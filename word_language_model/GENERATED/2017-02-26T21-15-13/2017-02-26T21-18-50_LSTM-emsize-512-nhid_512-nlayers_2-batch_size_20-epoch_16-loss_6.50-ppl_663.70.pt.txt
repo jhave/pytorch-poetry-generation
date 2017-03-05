@@ -1,0 +1,54 @@
+
+
+
+ Where the misfortune remembers 
+ As he sings hard for the bereft into me! 
+ 
+ 
+ 
+ 
+ 
+ 
+ The game Going out at some House debonair. 
+ 
+ 
+ TO THE Fish, nothing) Across the alley in New York Park 
+ Loneliness to the bay! luy daughters of gas and page? 
+ prisoners that will make things stone now: 
+ voice of drama ill. His Years are gone 
+ Never from the long off of faraway Jersey, 
+ Their faces make their way blow 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-26T21-15-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

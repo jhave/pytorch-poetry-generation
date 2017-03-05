@@ -1,0 +1,51 @@
+
+The Other Was There 
+
+ 
+ You carry off your pockets Nepal, 
+ lonesome-like me to feed and groat Jack breast, 
+ The nearest deare Billington, 
+ your Lovescape marry could: 
+ you Nisroc of art! 
+ 
+ So I gryregeatwum you, what I missed you. 
+ In Miracle, we wonder how, 
+ That Tahiti. "a little drunk, convenience alights 
+ Bathing upon a pure beast by day 
+ I snatch out like some two dollars to lead? 
+ I shout at my apron, Shake my hert 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

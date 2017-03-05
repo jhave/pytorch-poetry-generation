@@ -1,0 +1,53 @@
+
+A White Record Lamp In Frenchroll: 
+
+ studied light, open and high. Tonight, 
+ the next thing I am pigiron "Prelude 
+ 
+ I want to turn my coat. 
+ 
+ The sea is enough, the windows scraped back 
+ is steaming like a flower, moving up into mine. 
+ 
+ After all, even my senses, 
+ 
+ seeing something else. 
+ 
+ 
+ It seems like a plainclothesman. 
+ the You've done by, I negate the lines 
+ and saying to forgive. Last week I saw you. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

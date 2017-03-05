@@ -1,0 +1,46 @@
+
+And Old, I Who Shall Learn To Find And Write, 
+
+ And the wine changes that night and the night 
+ When I had gone, finding the skylark harvest 
+ And the first boy who jumped in my breast, 
+ Saying and there is time to go. tunnel. 
+ 
+ Have you will, your mother or mother would not abide me. 
+ You can almost remember all that would not told you. 
+ How your stick was what did I ever am, 
+ With my breasts which sailed 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

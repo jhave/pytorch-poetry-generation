@@ -1,0 +1,51 @@
+
+A European Streak 
+
+ of steel, which others cannot tell; 
+ And for three fate I still did most 
+ to trouble what but for he was clymmynge 
+ 
+ by pale- forming to the cawing of the doors; 
+ the grass ghoul in the open bedroom, 
+ 
+ until his glasses would be beautiful and below. 
+ He and then I knew that all about me 
+ was my steady. besides those trees 
+ 
+ Beneath which spinning gold were markt: to the head. 
+ 
+ Four 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

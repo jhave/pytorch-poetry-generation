@@ -1,0 +1,53 @@
+
+
+
+ who should have loved him, wants three-cornered 
+ sick for fast. It had now one at Christ-Church 
+ store almost so eighteen 
+ he said yes 
+ rather will I know 
+ if it could mean too much 
+ 
+ before the eleven prey 
+ and other formula for cities 
+ from glad; I say, soap--'" 
+ bookcase: We must support each years. 
+ Christ, live birds, we are satisfied. 
+ 
+ Who are kind of faith 
+ and arm don't cry about it, 
+ to give 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

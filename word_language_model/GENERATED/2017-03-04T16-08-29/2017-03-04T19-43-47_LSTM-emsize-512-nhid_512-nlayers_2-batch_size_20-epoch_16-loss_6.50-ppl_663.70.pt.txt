@@ -1,0 +1,47 @@
+
+Flesh. 
+
+ 
+ Is this the coward, what may mean 
+ Only coffee-house surf! pair'd, I men, 
+ But oh well the clue is to tell, and from this prison, 
+ Possessing by love, and up on the shore, till it can no more claim so. 
+ 
+ I look into the mind and with an evil train and glare and roared of graves, 
+ And I in all question explained by a powder oo- 
+ 9. gyfee; heaven and waking air, whin sea-boots, 
+ On golden wheat 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

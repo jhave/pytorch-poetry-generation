@@ -1,0 +1,48 @@
+
+Eggs In A Way. 
+
+ What is this heavenly world Manchester, 
+ reclining on public medoheal up in Space 
+ 
+ By hanging up the dreamy dark fields of transparent corn, 
+ sank skirts; their way emptying sad, zig- 
+ fins elegance in the morning, and a lowest bridge. 
+ 
+ The young barbarian morning" hunters heavy in sight, 
+ With sigh; and purple incense your feet have wandered 
+ And their gray eyes mys- and dead, and the glistens fears! 
+ For the rose turn open and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

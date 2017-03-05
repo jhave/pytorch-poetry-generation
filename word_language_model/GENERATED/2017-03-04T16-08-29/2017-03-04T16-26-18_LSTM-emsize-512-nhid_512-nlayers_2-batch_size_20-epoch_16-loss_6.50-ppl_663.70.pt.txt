@@ -1,0 +1,51 @@
+
+Or Littleness 
+
+ When most are ours and unbuttoned, 
+ 'Tis love won; it's a great 
+ secting pray) out of trees, 
+ And Arabi and Quiet, more 
+ Than the unchanging spires, though that knows 
+ Makes us worship to speak. But now 
+ linger'st in your perfect dance, 
+ towsack. dim in air, 
+ (As drinking lovers no more; 
+ No flower use wings to unespy'd, 
+ Where the great City's delight; 
+ These, only to the awe of truth, 
+ Through the unhappy action. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,49 @@
+
+Deluge. With Themselves, 
+
+ ruthless; by planets on the walls. 
+ War falls from porch to north, 
+ White mountains where the mice and rivers move 
+ Like their broad beams, the hoax-- 
+ Their mountain houses, their eyes are found, 
+ Like mountains glitter upon the beach 
+ That spasm flat has cross'd them all, 
+ The pungent flood of hot and quiet brotherhood, 
+ Fresh as the Northern boughs of our stars. 
+ 
+ I wake in tears the flock that live in yore 
+ Went 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

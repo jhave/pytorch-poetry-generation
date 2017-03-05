@@ -1,0 +1,50 @@
+
+Wlence 
+
+ See the neighbor's Side Wizard, 
+ standing on the spine 
+ with words slipping from every scale 
+ to break a napped. sewing viz. 
+ 34 And probably pestered even 
+ up the halls of the good stupendous Iowa 
+ 
+ Shuffler Poem for Egypt & September. 
+ A decent slave was winged for brain! 
+ prepared a manufacturer once flame-built to pay out brown-barrel 
+ 
+ And then that which the walls will ring the day 
+ grows like a convention's skin,' is low enough 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

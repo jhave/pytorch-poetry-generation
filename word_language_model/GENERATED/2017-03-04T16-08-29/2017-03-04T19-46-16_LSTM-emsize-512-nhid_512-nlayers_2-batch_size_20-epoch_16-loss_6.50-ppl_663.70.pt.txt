@@ -1,0 +1,51 @@
+
+Hat Believes, 
+
+ I would be the separationHe weekend in porcelain now 
+ 
+ It's not so many. 
+ 
+ Oh, my sweet task 
+ is happy that you ought to rise. 
+ 
+ You boys, go through the sea again. 
+ Tiny bugle men spin to burst on their nails, 
+ You'll sneak out of the long thin day's tree 
+ because you are walking over the backhoe 
+ through your last street with a thin 
+ green lawn, last winter we put in 
+ hands what 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

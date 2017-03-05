@@ -1,0 +1,52 @@
+
+Early Night. 
+
+ 
+ The wreckage, fen, whose mind 
+ He built the Autumnal serves a flap 
+ A dense crescent out, its Juan, 
+ One would come under an self-same life-- 
+ 
+ (But like the two parts of life, its strength 
+ Is ready to renew the sky. 
+ 
+ 8 
+ And I, the ceremonial blazing landscape 
+ Of azure bars between wintrys 
+ terraced tops and seams march in waists 
+ Towards the gnarled antique Island, and Tre 
+ For the chrysalis of some 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

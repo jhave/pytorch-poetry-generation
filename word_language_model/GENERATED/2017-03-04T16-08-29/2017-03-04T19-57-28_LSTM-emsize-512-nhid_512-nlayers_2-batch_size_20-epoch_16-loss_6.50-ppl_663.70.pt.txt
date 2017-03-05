@@ -1,0 +1,46 @@
+
+Nest, On Me, Creeps On, 
+
+ Then breathe hence to let the sweet and sparks with diamond green. 
+ 
+ I went to a church in his sable ragged room 
+ And started bony face in a cloud; that was none 
+ Then oh! what word, His heart has smiled for peace, 
+ His comet is striking--bayonet the very much doped, 
+ Not as the easy hound choosing to give: 
+ Us from funeral easily to badly let 
+ We be sorry for the light and the woods 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,50 @@
+
+
+
+ And sweet for beats in thy table; 
+ Learn to the common sights of God. 
+ Clouds rise and shine with gold and demands 
+ In the can? mortality. Many more sight; 
+ There drong, still eventyde: with her far hand, 
+ And reminding us, come were caves, old saltwater 
+ Keep too hard for the home. 
+ 
+ II 
+ including Holliston wait for the port, 
+ The banners wandered, campfires all in the night 
+ Doth their their lances as players in round: 
+ Vague 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

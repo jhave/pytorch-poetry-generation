@@ -1,0 +1,50 @@
+
+
+
+ 
+ For the while I would not stand again, 
+ Only the suffering run, or the text 
+ To make us suffer as we shall prevent, 
+ For I, to Hell I'll not forget 
+ That my resort to, to seek the use. 
+ 
+ Isn't this your routhe Fly to account. 
+ Let me mark this country, whence tho' any, 
+ Aught just as we've belie a fragrance; 
+ Is there Saint beauty t' let someone 
+ Make up out those sad garlanded 
+ Like words, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

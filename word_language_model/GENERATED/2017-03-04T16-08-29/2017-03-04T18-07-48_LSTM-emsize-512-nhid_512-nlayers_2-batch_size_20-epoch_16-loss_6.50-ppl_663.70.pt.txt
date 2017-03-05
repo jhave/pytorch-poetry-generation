@@ -1,0 +1,47 @@
+
+The Herring Smashed 
+
+ of a salvation that starts to death; 
+ much made of light. Everyone 
+ Where the stars have Seats & the soft earth 
+ demands to sweeten this life to come, 
+ And the fields all our hearts send ways. 
+ This body is as he urgency the world's snows, 
+ For the change of love in the fields of sheeted reeds, 
+ Clouds of many lots of light, 
+ Even ten or eight of many souls and socks, 
+ With its descent not 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

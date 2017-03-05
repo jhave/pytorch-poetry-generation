@@ -1,0 +1,50 @@
+
+To Counterfeit A Doll'S Song 
+
+ Guess all the rest. All by the good time 
+ childhood will keep a feather in its head 
+ feel shield up in the scarf, even now 
+ as he sits valorous with Celan, 
+ 
+ March: 
+ 
+ There is still a diamond at the many-steepled 
+ perfection cramped or discount'nanc't, 
+ tar and runs, the one who dwarf rests 
+ in the dark marigolds the light keeps down. 
+ When he comes to mountains and plan 
+ under the terraces, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

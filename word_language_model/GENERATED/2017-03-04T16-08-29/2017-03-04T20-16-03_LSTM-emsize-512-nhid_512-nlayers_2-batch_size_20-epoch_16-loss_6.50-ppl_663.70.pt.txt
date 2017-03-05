@@ -1,0 +1,53 @@
+
+A Box. 
+
+ 
+ fadin huh beat! clang. 
+ gimmicky and scan our ears, 
+ Moved and crying; our Represents breasts 
+ Sound into dirt greed and austere History: 
+ Then we though--admittedly many a sessions to us 
+ a little mood. 
+ 
+ To ruptured men. 
+ The brass is dead, the reefs 
+ are loosening each area 
+ by the Russian acid. 
+ award leave themselves to explain 
+ to the old wives not decked again, 
+ but old is awake gambling, 
+ without oil purrs 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

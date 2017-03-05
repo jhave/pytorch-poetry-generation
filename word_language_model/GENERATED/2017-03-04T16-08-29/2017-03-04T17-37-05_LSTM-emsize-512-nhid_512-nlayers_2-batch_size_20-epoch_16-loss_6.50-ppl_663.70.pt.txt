@@ -1,0 +1,50 @@
+
+Live Of This Grave. 
+
+ You look at home, because a man and woman, 
+ A baby and barley for her? 
+ 
+ What's God, the cautious bowling dust, 
+ The distraction has the dead-to-rights. ultimate gnarl 
+ "Cancun" many delights even as he. 
+ 
+ Then some, do I like that child': 
+ Away if you're assuming that's married at all. 
+ You can taste well to speak popular. 
+ 
+ "They should have met this or that bright songbooks, 
+ That needed a strange ends; When 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

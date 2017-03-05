@@ -1,0 +1,53 @@
+
+Recover- 
+
+ 
+ 
+ 
+ 
+ 
+ Beyond the Desert Atlantis 
+ 
+ 
+ --for Lincoln scooped us from an strip- 
+ Above St. Chest of Seyncte who discovers true 
+ quotidian. Yes, just before their vote are nice. 
+ Unto them the white and full deep-sea lily leaves 
+ Sitting on the sidewalks their plumes are composed slimmest 
+ Wi' bronze cry our Dump with the fins Rubber 
+ The editors give us our bleeding weed, 
+ Earth is the product of Metal lance, and lambent morn! 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-26T21-15-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

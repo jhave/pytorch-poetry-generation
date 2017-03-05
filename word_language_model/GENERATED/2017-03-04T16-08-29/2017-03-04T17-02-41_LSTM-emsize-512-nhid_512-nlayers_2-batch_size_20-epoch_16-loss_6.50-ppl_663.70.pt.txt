@@ -1,0 +1,56 @@
+
+Ears How Confetti 
+
+ There the peace of blessings in the heart can ply 
+ O beauty and hate and kisses for pleasure, 
+ Even whose warm will splendid and wild 
+ I'll be alive and my heart's loves past, 
+ Do not look to me from afar 
+ Witness it before I set and fish, 
+ You serve the squirell. 
+ 
+ O the soul, vain natures? 
+ Leaving your prayers, and all are gone. 
+ 
+ 
+ 
+ 
+ 
+ Mutability Then back! 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

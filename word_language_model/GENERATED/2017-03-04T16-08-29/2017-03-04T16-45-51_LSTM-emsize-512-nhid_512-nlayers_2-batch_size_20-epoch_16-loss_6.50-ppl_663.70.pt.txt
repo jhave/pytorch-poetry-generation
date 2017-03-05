@@ -1,0 +1,46 @@
+
+
+
+ 
+ II. 
+ 
+ The soundless good music is dropped by even. And why should she ever quit her, and who are apt to put down on one way--These shimmered at her wrist she might have been past. There are you they need attention for pleasure even if 5 A due want laird, he needs to return forever. 
+ 
+ All day she calls you it laughing 
+ I will have a apocalypse 
+ and what's always thinking that you are never so able to rdbora, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

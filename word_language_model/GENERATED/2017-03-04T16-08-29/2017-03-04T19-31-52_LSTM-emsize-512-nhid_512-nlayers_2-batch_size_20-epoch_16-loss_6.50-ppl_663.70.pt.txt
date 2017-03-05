@@ -1,0 +1,51 @@
+
+Sees Choked, 
+
+ Jewels suffers in old men's graves and men who hate it not; 
+ People give breath, and boredom a quench for their bowels and their losses and their hearts. 
+ 
+ 
+ 
+ 
+ 
+ Three Destiny 
+ 
+ 
+ I 
+ I ponder that experience of mornings gins to keep their place, 
+ Why should they dream alone; that so we like, we will rob the mayfly ever a mystery, 
+ And a blessed start will be Happiness? as much as this is meant 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

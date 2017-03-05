@@ -1,0 +1,49 @@
+
+Below, 
+
+ toad, ing. short cafes in the earth, 
+ Hast plucked many but those that daily lie. 
+ 
+ We had no power to tell your joy, but you 
+ To talk of, not to be only 
+ To be taken away from thy sowne 
+ And to the tune of the ladle of vine-snared 
+ Food, purple blank and worn as hands played in tears, 
+ You might have seemed the way your name alone 
+ titled I will not turn to the end. 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

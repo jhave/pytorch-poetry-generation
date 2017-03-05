@@ -1,0 +1,56 @@
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Explanation 
+ 
+ 
+ I love you anymore. I mean like this? 
+ I hate because it's your lost? The famous day, 
+ how you will heal the ladies in the doors 
+ Have their thumbs to ransom from those 
+ They're run at Lake armed to your eyes: 
+ Bring me in bed, and tell new children with me, 
+ Them assume Forever: we are the greatest rains. 
+ 
+ America I'll wake up my father's Saviour 
+ I use 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

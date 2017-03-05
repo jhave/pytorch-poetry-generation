@@ -1,0 +1,46 @@
+
+Show Me Why Roofing My Earthly Heart, 
+
+ I know I am but that thou hast, and for 
+ It is the poem of thou and I am still, 
+ O Soul, my death, which Nature doth vex 
+ Thou Amherst mine: for thou dost requires, 
+ annihilate curs'd turned--somehow, thou shalt hold, 
+ In thy state of wintry influence, 
+ Doth join thee, trains go on, our weigh its gold. 
+ tittle-tattle ye wrapt to the Virginia, our course you take, 
+ Delaying after us, so mournful 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

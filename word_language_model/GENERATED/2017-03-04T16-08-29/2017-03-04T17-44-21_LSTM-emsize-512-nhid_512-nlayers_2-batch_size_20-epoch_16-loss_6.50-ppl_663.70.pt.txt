@@ -1,0 +1,49 @@
+
+The Rude World Is Open 
+
+ Cross to an will that were ten thousand years. 
+ 
+ The lamplight of leaves, the bound of the mouth, 
+ The place that is the feel of the last rainy day: 
+ A greater man has ever seen, 
+ An angel never saw the world. 
+ 
+ When he was prepared for a medicine, 
+ Thrice hurry suddenly through the Nile 
+ And scarcely a vision of old anyone's 
+ Could not die the guest, 
+ Nor the man sought to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

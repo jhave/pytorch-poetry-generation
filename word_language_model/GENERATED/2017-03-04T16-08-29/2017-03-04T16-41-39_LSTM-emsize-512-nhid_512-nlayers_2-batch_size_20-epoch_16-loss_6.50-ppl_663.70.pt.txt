@@ -1,0 +1,56 @@
+
+Free Mornings, Diadem 
+
+ Of interlocking Trees sinking down. 
+ Long woods lay wide on pine below. 
+ 
+ 
+ 
+ 
+ 
+ Journey from The Los Place 
+ 
+ 
+ Feeling the street 
+ The leaves grow low 
+ Three stars turning out too 
+ For the last time I watched the trees shut 
+ And against the starry stone 
+ You could feel the way turning from the rain. 
+ 
+ Out of the valley, where the mountains 
+ (But Alpha or the forest Light was 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

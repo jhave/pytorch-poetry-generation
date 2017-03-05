@@ -1,0 +1,47 @@
+
+Bequeaths In Sense. How Could I Live 
+
+ Felt because now I already sprout a dentist. 
+ 
+ At this dismounted, this month of the dream: 
+ specify the forepaws fail to fall. 
+ 
+ I don't remember only what it was it like you, 
+ And you were dumb to me, Lend me to manual. 
+ Forgive your realm you'd do, an' you don't see it like a fools; 
+ Why am I that I've spoken I'm got to go home. 
+ Will, for people, he'll Alreadie 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,46 @@
+
+Stept To The Dismal Sun? 
+
+ 
+ Drinking us, you may not undergone 
+ the change of all the rights of Tht 
+ of all words given to all obscure as sold, 
+ which are either scalpels, My whole hairs 
+ are too short too hard to write you back so quickly that you want 
+ to say your thanks is what I see? Tell me of words. 
+ I know I can tell it all, I trow, you bottom- 
+ Your iron-grated beaux, mine as is, a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-26T21-15-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

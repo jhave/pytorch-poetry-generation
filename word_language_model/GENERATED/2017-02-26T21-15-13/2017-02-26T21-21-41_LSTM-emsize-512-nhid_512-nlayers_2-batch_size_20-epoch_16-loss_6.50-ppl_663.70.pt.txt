@@ -1,0 +1,50 @@
+
+A Charm 
+
+ To top away for the hating; 
+ And the solidarizing o destroyed) 
+ Brake in black bus-stop? As they went 
+ And thought through a summer day 
+ Till they wheeled through the storm and saw 
+ All fault; 
+ Could it needs be helping for another man. 
+ 
+ Teach everything. Though we stand over 
+ In the rooms of trains together, 
+ People do not wait for our past though you suppose that's true 
+ If this there is sometimes little, 
+ Only 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-26T21-15-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

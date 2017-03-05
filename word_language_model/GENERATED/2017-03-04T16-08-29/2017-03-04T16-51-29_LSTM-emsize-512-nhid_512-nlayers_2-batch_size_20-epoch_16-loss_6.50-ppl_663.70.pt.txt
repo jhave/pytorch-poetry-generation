@@ -1,0 +1,45 @@
+
+The Year Began, 
+
+ And moaned from to death from their own dream, 
+ Tells us, having the Gather, geared 
+ Wilt you care to give me a safe lover's foe? 
+ We answer i' man drum at work and Downplayed, 
+ On Sterile. brilliant " Moisture stumbles before us, who fashioned him by himself. 
+ First the night was placed on here and round in an overwhelming text, 
+ In his head, the old women said is counting, the one stuff long, he's disruptives 
+ juiced for 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,53 @@
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Isham, O John, daintily, This anthology, admire the Alkalay-Gut of claps. Now 
+ 
+ 
+ New vieux will hoo-doo de feverish time: 
+ What Time's gods tell us if the contagious tale will occur Award, 
+ If their deaths are raised, if only the night reach time "Hush!" 
+ Sweet reckless rosy lips raised inched by relief, waxes the air; 
+ New Jersey. scribblers powerful, we could ride offices, down in gloom. 
+ Sit. Martin, Counselors 
+ For the deliberate tale, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-26T21-15-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

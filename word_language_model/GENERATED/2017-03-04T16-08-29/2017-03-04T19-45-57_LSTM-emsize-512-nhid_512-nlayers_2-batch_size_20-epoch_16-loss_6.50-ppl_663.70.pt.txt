@@ -1,0 +1,47 @@
+
+Fair, 
+
+ desire or fear, and fear, to laugh or dance. 
+ Nature, go under the main: nor want to be 
+ our glory consecrated 
+ flea-brained spirit with the purpose of our Italy 
+ Who play like roads and glittering in a field 
+ Though kiss, long for many -- one pillar 
+ Of passion turned to lower loose and final filth 
+ To descend the Hill, the sacred rainbow flags 
+ For the cold wall ahead, making one restless leaf 
+ Turkey and eyes and bitter 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

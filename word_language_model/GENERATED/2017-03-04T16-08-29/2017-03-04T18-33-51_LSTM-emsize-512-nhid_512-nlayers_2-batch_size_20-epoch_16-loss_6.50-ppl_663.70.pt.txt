@@ -1,0 +1,48 @@
+
+Gone. 
+
+ It is like that of the simple past, Vermeer, 
+ or a man in the Apollo, and balks miscarried, 
+ I have seen strong local rag Hydrogen 
+ and bled from a parchment chair to watch me die. 
+ 
+ With a lone fresh hairs last breeze of ice 
+ and cold in the ochre heat, the fresh sun. 
+ I have seen a way to rise. 
+ I can feel the delicate escape 
+ of the orchestra Defac't, when I spend 
+ in my back 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

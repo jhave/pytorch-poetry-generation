@@ -1,0 +1,48 @@
+
+A Truck And A Great 
+
+ full tune note that can't bury split-second beasts 
+ and didn't know these people love Hungry Meninas. 
+ Italy would not hold tortured think, and to each season 
+ the laughter of mind and spirit of women, 
+ time), for death, Catacombs, apple-tree superposition: 
+ 
+ everything's bronze aspirant to fold 
+ off the sob -- protected by calm nights 
+ dung-caked cracking fishing, our screaming hummingbird's spines 
+ stains its armor of wheat, touched with milk, see 
+ f.b.i. bits of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

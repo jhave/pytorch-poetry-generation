@@ -1,0 +1,49 @@
+
+Should End Us 
+
+ For where we live. We are beforehand. 
+ Forget that men whisper and we live 
+ Are certainly shown, for impotence. 
+ Things ? Out of writing the first feel--I hold 
+ Of such a diary filter away 
+ Each afternoon from higher hand than here the world 
+ Shal abide their lives carefully bent 
+ Against that woven bottomless deed Splicing 
+ The technique of another's actions of rosy," 
+ And timorous throstle violin, 
+ The Expose of a clashing day. 
+ Farewell, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

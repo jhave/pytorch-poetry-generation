@@ -1,0 +1,48 @@
+
+
+
+ The stars, replaced by the wind, 
+ oppenheimer the weight of the power he held his hands 
+ And Behind, as it immobilized, and reflected and applied 
+ The shadows to the common blade. 
+ The second day far-off sullied 
+ Of the rose going down and into the sea, 
+ A sprig that the three foot binds full low, 
+ blanched with numbers near the blue and deep 
+ And far up below, the candles curled 
+ The public bones of southern Tay. 
+ The cold 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

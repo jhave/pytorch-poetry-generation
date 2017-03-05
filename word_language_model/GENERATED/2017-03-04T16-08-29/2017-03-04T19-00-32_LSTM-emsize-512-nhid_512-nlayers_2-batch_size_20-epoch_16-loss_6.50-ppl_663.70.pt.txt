@@ -1,0 +1,50 @@
+
+Strong Shoots 
+
+ 
+ And wet by shade the toothless bell, 
+ Those guitars where they squeeze the sheet of heaven. 
+ 
+ But the folding smell to the sun 
+ Is put to the iron edge of meat, 
+ The mourning helmet of the rock 
+ jay, and drown them ties from prow, and fairy brush 
+ Bare America, dark, in lilac-time land. 
+ 
+ Valentinus Than, find safe in hay, 
+ O'er the white sea rats where bare plumes knit 
+ On the indolent tops of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,55 @@
+
+The March 
+
+ Turn back to rise. 
+ The cattle have nobility of flowers, 
+ The stubble of noble hearts, half lifted out 
+ The spray of Holland is the merest doom. 
+ 
+ 
+ 
+ 
+ 
+ Mowing 
+ 
+ 
+ They have visited under room 
+ Or left off inside it. 
+ You'd blame me wrote and don't ask, 
+ Let us touch the Green chinks for three days 
+ I met 'em with a lighter plant, 
+ Which I heard them sleepless and was seen. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

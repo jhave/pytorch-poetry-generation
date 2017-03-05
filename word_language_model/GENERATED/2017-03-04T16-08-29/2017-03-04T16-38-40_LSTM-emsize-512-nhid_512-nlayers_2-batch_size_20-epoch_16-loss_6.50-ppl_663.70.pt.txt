@@ -1,0 +1,53 @@
+
+The Giant Poet Too 
+
+ spills through the fingernails & dust from the cradle 
+ 
+ We panted, among rackkle -- 
+ they were solid . . . At the kitchen bones clouds bless us. 
+ 
+ We have parked for charity 
+ to lung-colored as shrouds of the rain; 
+ we could see the birds. 
+ 
+ We even fear our lives. 
+ 
+ You promised for me 
+ and I was rewarded with death. 
+ I was still sure especially an price. 
+ 
+ A flutter 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

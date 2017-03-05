@@ -1,0 +1,59 @@
+
+To The Moon Of Day: 
+
+ murk in the changing shapes of force; 
+ Mesozoic riches come at school. 
+ 
+ 
+ 
+ 
+ 
+ The Garden of Children 
+ 
+ 
+ With Memory needs a done!" 
+ snailsdeath, perhaps. 
+ The Bird-song, Wonder-Wielder, 
+ Over the pines, a tuffet, 
+ The silver, hanging in the evening's nest, 
+ Red tables, the curious earth 
+ Till evening turns away? 
+ 
+ A darkness clear honeysuckle 
+ unsnare sound of wine. 
+ Let me gaze upon the loom, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

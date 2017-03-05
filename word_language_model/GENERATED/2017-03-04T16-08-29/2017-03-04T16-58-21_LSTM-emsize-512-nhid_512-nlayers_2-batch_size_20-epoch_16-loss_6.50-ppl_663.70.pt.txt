@@ -1,0 +1,48 @@
+
+And Dust Sycamore Covers The Old Books 
+
+ In the jerky country. 
+ 
+ The square men gray on the chinks-- 
+ The floor is dried upon the drunks 
+ I hear the foremost man at hands. 
+ So evening in heaven takes out 
+ Drawn from the remorseless doors, 
+ And hills of blood and mossy volts 
+ By dusk, the snow-mist piled me mildly hoar 
+ To the dark crackling clouds of men and women, 
+ Yet my heart not onward cloud nor bird gave me; 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

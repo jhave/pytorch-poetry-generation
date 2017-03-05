@@ -1,0 +1,47 @@
+
+They A Cloud 
+
+ I hear that unreach'd, Hand by hair, 
+ Almost with a kiss, seven or twenty simplicity 
+ Of spent subtly-smiling poems. Here, here 
+ This too I only wrote, being homesick in all, 
+ The many-colour'd fears, I've heard myself ours? 
+ 
+ As he leaves the big beggar from the keyboard, 
+ And it makes a new charred, on the confirm'd floor. 
+ No one carved in his mind O image with me 
+ Or she, since there is no place of going 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

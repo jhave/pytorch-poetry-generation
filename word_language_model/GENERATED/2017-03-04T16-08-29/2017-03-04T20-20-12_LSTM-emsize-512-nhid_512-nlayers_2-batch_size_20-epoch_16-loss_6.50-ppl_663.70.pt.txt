@@ -1,0 +1,50 @@
+
+High-Priest, By Approaching I'Ve Seen Straw-Headed 
+
+ Strepsiceros, both acres of blank grackles. 
+ 
+ shan't tire my voyage to the fall 
+ Of Carthage and in lighter provisionally 
+ Of sinful things and chosen memories of noon. 
+ 
+ Some word brings yourselves us: more tense than hay. 
+ 
+ Not, the human pall in like a dream. 
+ 
+ "They shift these things on beds of many years: 
+ They nobly sent new heights away, after to barter 
+ Our reform, or a kynd of death, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

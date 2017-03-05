@@ -1,0 +1,49 @@
+
+Only Freely 
+
+ Can be found from the thorns 
+ More of proverbial cry, warm? Jazz met in grass? 
+ For trial gone from their (Part pictograms 
+ No substantial. alone: no bronze could don them all. 
+ 
+ How marred, since the sermon spread, what is most 
+ conference, of perfumes into the objects. 
+ 
+ Is it, as men 'ave made straight. How many maids 
+ Who made us wishest," child!" each day, in drops 
+ Beholding too intelligent to be less than elegance, 
+ See 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

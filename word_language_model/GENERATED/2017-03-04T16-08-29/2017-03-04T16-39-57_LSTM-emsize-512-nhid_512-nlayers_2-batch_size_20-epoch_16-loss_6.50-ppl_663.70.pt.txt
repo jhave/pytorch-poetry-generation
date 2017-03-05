@@ -1,0 +1,56 @@
+
+
+
+ 
+ With arms open to morn; the rest of 
+ 
+ ukuleles at night 
+ seems vast, into the sun, in its diamond 
+ place where it's held beautiful. Five phlox 
+ weeds toward cool Hall. What shapes are you? 
+ 
+ Coming and make 
+ 
+ broken vestige 
+ 
+ of Napper tangled brick in a cone 
+ of persuade; words and whining of flaw, 
+ earth's drawl of marble. sustainability, musk of constant lead-whites, 
+ 
+ earth, all auctioning. 
+ 
+ Raptures from the crater 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

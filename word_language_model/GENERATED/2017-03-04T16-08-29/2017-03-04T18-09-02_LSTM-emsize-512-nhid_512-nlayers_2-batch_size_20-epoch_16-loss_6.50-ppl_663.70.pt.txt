@@ -1,0 +1,47 @@
+
+Days' Play? 
+
+ 
+ How should the grave be wrought without the sea, 
+ The shock of heaven falling on the grand imperial globe. 
+ 
+ There is even many congregation that hour. 
+ But the Snark from him, I enjoy our hoar joints, 
+ Not one man risen from his Cadillac he shall send me away, 
+ It will also weep there. Scipio's ! in hassock, wisdom, and thinking 
+ Of my people I know not why, who is that will which anything help me? 
+ "And 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

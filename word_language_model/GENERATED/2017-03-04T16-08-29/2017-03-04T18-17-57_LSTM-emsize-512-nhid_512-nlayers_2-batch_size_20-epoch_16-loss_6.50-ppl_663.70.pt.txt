@@ -1,0 +1,49 @@
+
+Bright 
+
+ Years when I'm stars 
+ 
+ And it will be far out of late longing, voice! 
+ Meet out most quiet vandal in every dearth of moral fear, 
+ I am but whence, and, safe in a sieve, will dip my shadow'd 
+ Its future in real lane; an ambling picture, 
+ On a face it rises from my hands, a thousand bronze reply. 
+ 
+ subtract bees, and the men 
+ Would emerge, I might attend with a finger .... 
+ 
+ Even winter turned 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

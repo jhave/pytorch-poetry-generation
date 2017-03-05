@@ -1,0 +1,49 @@
+
+Tree Up Aloud, 
+
+ Under one tree and beaches, a life 
+ A dead dream for it. 
+ warm-hearted love love, you smile can sing, 
+ And sleep becomes to you. 
+ Be right, so I say, Nor can I tell thee, 
+ And wilt thou surely thy praise be certain, 
+ Walking on the photo of the dirges in static 
+ But to me by Death reclaimed the peas, 
+ To God out of the wasting 
+ House of Time's Spirit of England. 
+ 
+ Throughout thy 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

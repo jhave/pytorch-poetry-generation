@@ -1,0 +1,50 @@
+
+Minister Of Rock Rides, And Palaces 
+
+ 
+ Of Go. banking by ruddy carts 
+ Bringing carefully mounted on curling seeldom crest, 
+ The viscera and gush of stoln pedal, 
+ Are there, stunned by compete to the stone, 
+ Toward upquestions there to build out the hawk, 
+ And evening sipping across the dark, and dark. 
+ 
+ 
+ Till thus have reached the bus. Whatever I have heard 
+ How much town else by common hours 
+ Have slipped for me for soft female gold, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-26T21-15-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

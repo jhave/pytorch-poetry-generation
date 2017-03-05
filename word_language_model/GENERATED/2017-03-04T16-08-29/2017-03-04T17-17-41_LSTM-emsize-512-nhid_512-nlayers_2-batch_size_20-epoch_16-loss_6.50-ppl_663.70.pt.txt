@@ -1,0 +1,52 @@
+
+The Letter Say, The Danger, 
+
+ Was in a monumental room by time---- 
+ 
+ But that evening there moved her landlady 
+ Looking into her house." 
+ 
+ His mother's thighs went on. 
+ They called him to the next. 
+ Her droll sharp stride meets the gloom: 
+ My mother said God, and not one material 
+ But shade; 
+ And then I saw them rose 
+ And smiled (or, & tranquil platitudinizers, 
+ 
+ My fingernails would be Panchos 
+ And yet I flashed out 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

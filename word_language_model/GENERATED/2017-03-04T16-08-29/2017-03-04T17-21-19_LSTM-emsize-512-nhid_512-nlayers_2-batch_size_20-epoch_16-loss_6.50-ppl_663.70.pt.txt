@@ -1,0 +1,60 @@
+
+And Showers 
+
+ praying-mantis river on the earth, earning. 
+ 
+ There was a peanut somehow play'd 
+ From a huge spot to blister, 
+ 
+ Close a rose down, 
+ suffer'd. 
+ As we clean it, 
+ It was a little sad 
+ dentist dressed in a girl's face. 
+ 
+ 
+ 
+ 
+ 
+ After the Fireweed, trellises 
+ 
+ 
+ I've wandered there, for Baboon 
+ wants nineteenth-century paddle-poled, mee problem. 
+ I fear then, it's my last time; 
+ 
+ I bag: kidney salts 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

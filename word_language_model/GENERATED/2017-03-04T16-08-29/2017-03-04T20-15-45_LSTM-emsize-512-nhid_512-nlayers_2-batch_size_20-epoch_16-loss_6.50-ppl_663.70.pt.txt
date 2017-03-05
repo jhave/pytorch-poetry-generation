@@ -1,0 +1,48 @@
+
+
+
+ The young and impressed with the midchest 
+ Now mother, take mare? where those 
+ Who are most sorrows I grow done; 
+ And win the devil really native right. 
+ 
+ First, each scath; Pleas'd me, not me. 
+ I laugh at me as carnation exhales the town, 
+ And bear a good king, for a love I played, 
+ Even from the light of the young tree, a stake for succour 
+ It scarce already is to know it is 
+ To tip the man's 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

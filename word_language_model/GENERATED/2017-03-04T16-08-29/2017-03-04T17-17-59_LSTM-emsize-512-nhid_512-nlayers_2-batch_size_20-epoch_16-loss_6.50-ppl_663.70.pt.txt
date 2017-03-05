@@ -1,0 +1,49 @@
+
+
+
+ Because, full long alike in everything 
+ Remembering right where his animal love grew 
+ His palace on his wedding floor, 
+ All live and gone, and with which he jumps 
+ Southern ways of night, and how with us, 
+ The one he cannot hurt or cannot peer 
+ In nyghtes sports and stones; 
+ And red delight with outward patience 
+ 
+ Who let us know how to read 
+ What he whom loves law, who knows what, 
+ What's all, he might support him 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

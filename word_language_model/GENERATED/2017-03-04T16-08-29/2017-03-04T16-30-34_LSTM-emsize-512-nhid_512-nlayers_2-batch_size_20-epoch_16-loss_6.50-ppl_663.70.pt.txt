@@ -1,0 +1,49 @@
+
+Takes It. 
+
+ 
+ Green emptiness that flutter the soul 
+ or stops its unspoken dormant space; 
+ upon a way ill will wander out eggs while 
+ some vigor crack in the basket of baggage, 
+ the window there is no one infinite 
+ into my mind, stand in a picture 
+ so as of slaps the unnatural body. 
+ All of us ever scared in elbow and shut 
+ the stones. righting of a melody like an outline, 
+ wholly lost yet known the grottoes, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

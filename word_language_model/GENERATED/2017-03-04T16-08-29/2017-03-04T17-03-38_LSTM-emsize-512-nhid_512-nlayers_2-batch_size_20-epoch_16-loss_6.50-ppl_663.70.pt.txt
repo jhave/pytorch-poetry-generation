@@ -1,0 +1,48 @@
+
+An Envoy 
+
+ skimming on a pier, the warming, wood 
+ as the barber climbs over his broad and, whitestap, 
+ Habited devotees, Soon before the adamants 
+ goes by, the patch of the uneasy. 
+ I have it sent down slightly on the way of clay and in 
+ 
+ Travelogue room by a day 
+ I love, you will live in my Alley. 
+ 
+ And if I give you my last day before I go toward 
+ this drunk has out historians and they're listening. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

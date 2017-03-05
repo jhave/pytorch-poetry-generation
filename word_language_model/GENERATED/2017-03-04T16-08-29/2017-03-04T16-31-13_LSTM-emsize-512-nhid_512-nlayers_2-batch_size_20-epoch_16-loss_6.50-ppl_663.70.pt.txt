@@ -1,0 +1,52 @@
+
+Down 
+
+ Across the wall, though in mind a sleeper way 
+ Tales; cricket on a scarf. 
+ "Butter patted kneel and bushes waited. 
+ Soldiers are sounds down For the hours, the four 
+ Wise conversation with flares and mothers 
+ Of Israel cleaner than on wars, perhaps, the frown, 
+ Form'd heavy but between new precious Troy? 
+ Only those misrepresents evermair of things; 
+ catapults voices suffered all our storefronts 
+ 
+ quality is burning, growths a self-same share. 
+ 
+ 
+ 7 
+ A 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

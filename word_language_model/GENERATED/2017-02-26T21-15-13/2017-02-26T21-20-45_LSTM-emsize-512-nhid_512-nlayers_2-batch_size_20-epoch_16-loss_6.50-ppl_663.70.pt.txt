@@ -1,0 +1,50 @@
+
+
+
+ Of the overcast Sabbath flowers; 
+ 
+ Into the transparence, the city 
+ (The secret Burthen train drawn in. 
+ Both of us are carrying unmown 
+ In this early place, bays; 
+ Or Or if one or other or speaking boom 
+ In a place we have only close enough to draw newscasters 
+ In ccessory Condor into inhuman shack 
+ Men can once pretend it turned to Hartford 
+ Much Pomona wanted the saxophone chimney-pots, 
+ Then motion there, domes. atmosphere 
+ Had dar'd to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-02-26T21-15-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

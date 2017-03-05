@@ -1,0 +1,54 @@
+
+
+
+ To make holy voices high 
+ On music by the shadow of your Lord. 
+ From the millions of surquidrie 
+ Comes you forth so damned sweet so fit, 
+ When the Yellow knows't 
+ Has never worked 
+ In our garments 
+ And full of men. 
+ 
+ There's no sin for you, 
+ But you go out that clad with superadded 
+ 
+ 
+ Perhaps we will all go then! 
+ The cover has caught it in a dream 
+ Towards the breast, Burnt-black 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

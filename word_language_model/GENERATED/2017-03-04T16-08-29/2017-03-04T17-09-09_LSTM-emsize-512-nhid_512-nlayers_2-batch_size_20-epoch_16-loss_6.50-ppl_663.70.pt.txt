@@ -1,0 +1,55 @@
+
+Why 
+
+ Mrs. 1968 
+ 
+ Three weeks the serpent ate her in darkness, 
+ The ball of dancing fire was studying him. 
+ A crookt thing I'd love her name, Argo small. 
+ 
+ 
+ 
+ 
+ 
+ Harlem 
+ 
+ 
+ The first few inaccessible night! 
+ Here, there is none of them who book! 
+ Grace and the desires of grief, and with hope of song 
+ After lately know Death, and the act on which 
+ Is not curse?) then is the smallest same 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

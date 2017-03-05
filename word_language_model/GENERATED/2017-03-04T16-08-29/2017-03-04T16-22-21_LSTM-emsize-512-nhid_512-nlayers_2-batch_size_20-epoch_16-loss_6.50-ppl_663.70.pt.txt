@@ -1,0 +1,50 @@
+
+Chinese Son-Of-A-Bitch 
+
+ pass through the fog toward the trees where sand, themselves, 
+ and cry within the rock and come off again 
+ and wears a silent likeness of rubble 
+ drowning in this valley, 
+ Wisps stiff with ochre flowers. 
+ Under its swollen, Jay, the pure 
+ heat of flame. Even that day 
+ says it is not, even our one at all. 
+ My island is a creaking cat Russia, 
+ a flower. Still a girl, and you're there. 
+ 
+ 
+ 12 Birds 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

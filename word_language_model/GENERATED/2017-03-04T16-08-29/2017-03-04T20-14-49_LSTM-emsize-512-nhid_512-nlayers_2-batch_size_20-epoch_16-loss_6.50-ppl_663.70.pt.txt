@@ -1,0 +1,48 @@
+
+Deformity, 
+
+ In shining taste of crude glide pain, 
+ Good shameless in his America! 
+ Nile-green folks well-bred Widows meanwhile, 
+ Don great-grandparents so toun to speak; 
+ The House unto man's Landor" forc'd him to one 
+ Whose beauty all at once 
+ Was not so good meal-times, was ourselves; 
+ Or murder there;--for he that gave him 
+ To brood as fast as wex might as much. 
+ For, thirty years with good old books she sells pronouncements 
+ In myriad Tree was both his 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

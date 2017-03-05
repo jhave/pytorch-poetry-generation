@@ -1,0 +1,54 @@
+
+
+
+ bootes Goddess blush'd, 
+ Fresh poems Deity. 
+ 
+ And visit this-- for Bandaged 
+ Were form'd, as dumfounding every word. 
+ Now, Darwin will do worse than some, 
+ measures? repose or two, 
+ lond; and seated at a longer? 
+ 
+ The next night it is good indeed, 
+ The cat had been at school. 
+ 
+ Brushed by not a stay, 
+ Some love would have his face, 
+ Who have set off the knots, 
+ From that small glens, that flee it; 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

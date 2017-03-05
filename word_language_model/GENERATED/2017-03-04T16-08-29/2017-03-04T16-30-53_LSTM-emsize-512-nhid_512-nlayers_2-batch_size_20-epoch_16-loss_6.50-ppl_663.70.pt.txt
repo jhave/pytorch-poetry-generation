@@ -1,0 +1,52 @@
+
+
+
+ Where the soul, and the ruffled fires of darkness 
+ Grass! I had surely seen all things, 
+ And might 'mid gift of day and night? 
+ 
+ From far above the world's Hesperides, 
+ Flutter in many a happy hour; 
+ I hear the petty ends, 
+ Fair famishing fountains; 
+ And still look obscure, passport, 
+ They shall not fail. 
+ 
+ I hope to see one word bow fast, 
+ But No, let you, lie there: 
+ I've forgot that I could love. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

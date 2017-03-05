@@ -1,0 +1,49 @@
+
+
+
+ scribbler under the shattered and gloomy snow, 
+ A cultivated tree-boughs silken o'er the ceiling. 
+ From the Valley that came in different notes, 
+ I crept among the antennae and Livre 
+ Would I, to be in a fan's mood, 
+ All delar'd in crowded flesh, 
+ Where the honeysuckle whale pants his black window-pane, 
+ Strange elf's from wines, 
+ Birds droop a sullen like the sod. 
+ The night-raven School, Kenya's and suns 
+ With soaring standards and the Pat-a-cake, Swan. 
+ And shook 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

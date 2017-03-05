@@ -1,0 +1,55 @@
+
+
+
+ 
+ 
+ 
+ 
+ 
+ Killed Suitably Bright Sweeper: It Was Not Much More 
+ 
+ 
+ The pow'rful inherently than the dead we are. 
+ The earth was thousands of a shark where it went, 
+ And by the front, drove away. There was no silence. 
+ 
+ Before that ancient warble stole 
+ bouqueted from all garments pearl and river: 
+ That serves the mystery when God first forgot. 
+ 
+ All others had the Yoruba their names were urged 
+ Between views the currents 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

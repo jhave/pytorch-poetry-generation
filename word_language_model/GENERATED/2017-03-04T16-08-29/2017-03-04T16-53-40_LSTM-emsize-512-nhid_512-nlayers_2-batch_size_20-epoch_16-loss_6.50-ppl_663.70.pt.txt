@@ -1,0 +1,61 @@
+
+
+
+ 
+ 
+ I sit down and be first watching you. 
+ 
+ 
+ One drop on its garage. 
+ 
+ 
+ 2 
+ I have taken one's life, 
+ 
+ surrounded by my dream, 
+ 
+ --the fading winds the trail run away; 
+ 
+ This earthquakes is here, the last gasp 
+ 
+ That goes through, walking your neck 
+ 
+ Amid coild and with a hand of it, 
+ 
+ Reading lake, a heart of all that's beside, 
+ 
+ But know that London is 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

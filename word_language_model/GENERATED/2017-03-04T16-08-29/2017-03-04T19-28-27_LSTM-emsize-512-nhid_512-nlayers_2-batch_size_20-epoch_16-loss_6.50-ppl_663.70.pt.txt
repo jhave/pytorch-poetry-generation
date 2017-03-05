@@ -1,0 +1,52 @@
+
+
+
+ Into a rustling stone, 
+ breathing, mist and ice moon falling 
+ My right mild bosom:...she lost 
+ 
+ Some little light and sighs 
+ At yonder Pole. 
+ 
+ So the ritual fly from the door. 
+ Sit on the country noon, I come, 
+ Passing with the cold and stone; 
+ And in the days are out with spring and weather 
+ now?-- dry plants, pure ceasing and hope; 
+ My father, tells me what he feels is done. 
+ Even in another moment, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,50 @@
+
+Brows-- Scrambles To Stay. 
+
+ He Wears at four wings and panting tetchy 
+ And soon they smile, in his garden hands 
+ Of strangers near length of Myrtle; 
+ 
+ A thousand eloquence by the palace shed 
+ And scatters a leprous smile for stroke, 
+ And here they change and destroy again. 
+ Some separate rugs unsay, beneath. 
+ 
+ Over a hapless midnight bogged. 
+ Along the flooring and slowly clotted 
+ Received the high sheet of grain, 
+ To move for the loose dust 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

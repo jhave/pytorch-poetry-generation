@@ -1,0 +1,49 @@
+
+With Its Little Orient Doors, 
+
+ Then Hungry slippers and mockery of bloody hair. 
+ 
+ This the motion of drains into my Grandfather's garden 
+ Is no influence for the slaughtered days, 
+ Burning everything they do not keep. 
+ This fringed breast are my body's shell 
+ talkers your flesh like any of my favorite ark 
+ Or salamandrine hopes that smell it, folly, 
+ Ethiop, XLIV eternal day, 
+ 
+ Nor if, so much, except even if you move 
+ Your own thoughts grow cold 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

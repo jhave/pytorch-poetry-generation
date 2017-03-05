@@ -1,0 +1,49 @@
+
+Receave. 
+
+ Tall grass turnd out looking for the flood, 
+ insignificance, and cours lay. 
+ Against at dawn the retired owl, 
+ To whom they share the Twelve years 
+ And memory burning loaded in Rockland 
+ In clover in the Hen-docks will be prest 
+ From far away from fields into replyes, 
+ The light snow presses in that thought 
+ Thought though bees must hang blackened 
+ Such lives yearned touch, that is not so day's 
+ That lasts up to San Frown 
+ picked-clean 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

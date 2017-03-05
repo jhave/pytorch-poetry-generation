@@ -1,0 +1,50 @@
+
+With Fyrst, Harrod'S 
+
+ The train's gin the plumy black-and-white precorporate. 
+ And all night now the girt of a man, 
+ Or the pack and breakwater too, 
+ Of such a poplar of cloth'd fat with Burkett 
+ 
+ The Ice Seal is streaming up again; 
+ And I ripple at the edge of my belovd. 
+ 
+ VIII 
+ (A Wild lane at his feet, 
+ An afterthought it meets his head, 
+ Weighs down his long and strange gloves and feast. 
+ Turns armadillos he 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

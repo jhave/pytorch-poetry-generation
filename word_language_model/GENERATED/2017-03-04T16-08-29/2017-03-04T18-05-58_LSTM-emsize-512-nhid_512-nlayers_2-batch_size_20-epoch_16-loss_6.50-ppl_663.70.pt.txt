@@ -1,0 +1,50 @@
+
+Run. 
+
+ 
+ 'T came still, hero, let's do you anymore. 
+ 
+ For ever, you always have it live, 
+ but we never knew they meant anchors, 
+ Mr. Lived, might not you? What did we say? 
+ The church was anchored meant to break. 
+ And we alarms? 
+ 
+ Call the Dance of it, Dole. houses, deliver 
+ our tails desire once up down. But now, I know I could have you! 
+ nightmares of mercy around me 
+ makes more than sun again, and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

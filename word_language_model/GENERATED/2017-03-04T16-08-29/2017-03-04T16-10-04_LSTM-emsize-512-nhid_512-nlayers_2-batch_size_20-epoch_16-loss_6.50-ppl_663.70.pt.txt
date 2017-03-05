@@ -1,0 +1,57 @@
+
+
+
+ It is to rise but pulse and undo 
+ Offer their will. 
+ 
+ II 
+ The wet, that lovely hour 
+ Is left by no lover. 
+ 
+ 
+ 
+ 
+ 
+ 
+ "Leave me, O Best Has I a Nose to mine 
+ 
+ 
+ To all his pompous things I cannot pray? 
+ Ah nay, God, who to these virtues perfunctory 
+ The which in vales of infant delights, 
+ Might prime! the rude unhappy mind; 
+ I would not chief my envy to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

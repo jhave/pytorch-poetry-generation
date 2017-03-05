@@ -1,0 +1,56 @@
+
+
+
+ On a family morn rain 
+ Crossing the green lawns 
+ Torr'd and "'Cose 
+ Never 1948 nor xrays 
+ "VC underprivileged appearing 
+ Four or Queens 
+ station. 
+ Certainly they're sorry 
+ Out of wilderness 
+ anyone shall all be ours. 
+ O irrelevance, 
+ O Baby si graduate Arrow 
+ 
+ The small ingathered clusters 
+ Of the Phoenician initials in the Western patients, 
+ Red and caves of the freeway 
+ Use us now up from within tears. 
+ 
+ And to icons 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

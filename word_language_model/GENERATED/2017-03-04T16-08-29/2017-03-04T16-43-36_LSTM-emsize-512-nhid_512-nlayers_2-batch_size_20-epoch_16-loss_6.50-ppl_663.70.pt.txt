@@ -1,0 +1,45 @@
+
+Magnificent 
+
+ On the branches of the evening seas and morass repair. 
+ patent owls like an outcrop flung briefly into care: 
+ The loan then, still, The bread, the gale of pale heawan 
+ Waves of the whizz of Dad skinned their banner on the forge, 
+ foretell the silly wife of Honor 
+ To Prophet yoke to toss'd, my skin, he cried them with me 
+ Out of Wait. And lean on my diagrams and faggot, 
+ so I could clutch the invisible desk out of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,47 @@
+
+Seen To The Globe To Sing, 
+
+ And colour of the finer moth that drone the beautiful? 
+ 
+ deserter of thy weeping melody I hear 
+ Thy soft communicable, and thy arms descend, 
+ My touch shall thy own sound in thy sad bowers. 
+ Thy youth is dying, whip softly on his wing 
+ Conscious of, mount not from my lips to taste, 
+ Or in earth shall pluck thee into my cheeks, 
+ Till thine own abroad, this stranger answer'd, whom the Gods 
+ Thou, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

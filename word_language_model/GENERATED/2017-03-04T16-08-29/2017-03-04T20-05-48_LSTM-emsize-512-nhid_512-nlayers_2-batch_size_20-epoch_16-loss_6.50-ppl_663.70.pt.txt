@@ -1,0 +1,47 @@
+
+Throw Him On My Room, 
+
+ Pay the leg through the morning after suburb, 
+ 
+ It's just the Already the hasten! no friend. 
+ I go to break you out, I'll get talking to the Company) 
+ for it to bow your nose to five in "sleep". 
+ I would have done five years of course, you have done, 
+ I've been addressing the hour to reinvented 
+ and one boulder 
+ it begin to earn a grimace, mean black stands, 
+ crumpled the apparent thing in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,53 @@
+
+
+
+ 
+ Oh! see, if there are no danger 
+ For Rat-a-tat-tat and all of my bash so appliances 
+ gelato. a halo. rhymes. 
+ Oh a dear feeble cloak is done; 
+ There's only a draught adam's 
+ On determine. No list at fourteen is boiles 
+ If keep a speck of gasoline Lemons, 
+ If it's 2 
+ The difference 
+ 
+ Where all about it is in the fact 
+ In a strange art. 
+ As on pavement, 
+ Everything in that hidden cares 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

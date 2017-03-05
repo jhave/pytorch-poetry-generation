@@ -1,0 +1,51 @@
+
+
+
+ She takes and stroked away all her pain. 
+ She shall desire to meet the heart and feel 
+ In her soul's heaven all night. 
+ 
+ breeze? IV 
+ Upon my Christ a preest subtlest 
+ Should ever hoo-doo me! 
+ 
+ darling--my anguish of Squaw glory she 
+ Who regnest grief in Heav'n, coach and boys, 
+ Seen at his heart, with the cold Adventure 
+ Village brought him, to deceive his pen, 
+ With his melodious cup Years) 
+ Ca' the red and yellow 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

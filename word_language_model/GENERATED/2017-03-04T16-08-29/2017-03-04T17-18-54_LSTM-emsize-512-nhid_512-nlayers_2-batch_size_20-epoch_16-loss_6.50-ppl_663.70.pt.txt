@@ -1,0 +1,48 @@
+
+Tree 
+
+ Until the promise of the human sword 
+ Is aims when we require in long time. 
+ 
+ Spring is time but under nothing 
+ The good waterspout; the property scaled maple, 
+ There's a word-like in the moonlight not only the New brooms 
+ If he slid down the old day. Where are those Elegant, 
+ Eight ones answered too, or different, seems inside him. 
+ He does not mind. 
+ They not come inside with him, too, 
+ 'Tis time and for half another 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

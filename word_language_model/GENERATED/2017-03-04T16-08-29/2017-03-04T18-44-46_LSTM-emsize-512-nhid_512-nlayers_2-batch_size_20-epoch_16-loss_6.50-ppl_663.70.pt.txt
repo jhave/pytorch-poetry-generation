@@ -1,0 +1,49 @@
+
+Blind. 
+
+ Take it such a hint he could not hurt him. 
+ 
+ If I was a camel to my man, 
+ I'd never sooner lest I said, 
+ Now in strange old days I have sailed down 
+ With losing oblation lest it may be, 
+ Though never severe, that I would die, 
+ Little with immortal rage, 
+ This, all made life of Death the same! 
+ 
+ But I was led phragmite. and stumbling still, 
+ In whose small frame the midnight light cud. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

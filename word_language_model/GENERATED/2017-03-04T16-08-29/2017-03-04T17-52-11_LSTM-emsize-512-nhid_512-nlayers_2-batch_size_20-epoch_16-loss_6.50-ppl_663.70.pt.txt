@@ -1,0 +1,49 @@
+
+Ghost, 
+
+ Oh, to no Teenage . . . move, 
+ 
+ web-games in phosphorous park, 
+ On the day, Drayton) over, time and place, 
+ Lean on that pile of invasion, 
+ Crying along with guild or in its Condescend 
+ There could a man express do-it-yourself life, choristers; 
+ To Mr. rules. Things got with a goal, 
+ They threatened most impartial if called 
+ My girlfriend forgotten, who would play with me. 
+ No voice back, no more, it's constant Into, 
+ It's a changed 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-04T16-08-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt
