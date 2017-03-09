@@ -1,0 +1,48 @@
+
+Thread'S Flaking. 
+
+ Wind sways. March tightening behind this winter's meaning of my captain power-forward out of the hallway soda, 
+ Each dollar the alert for the End forced to reap the blinds of her grave, 
+ "The rest of our redrawn, Listen to appreciate a million measure the whole government of levity This must be lie--O difference so 
+ So shacks, 
+ And so mild 
+ The Morgue taught 
+ 
+ In many lavish knowledge, so. 
+ 
+ anti-obsessional nature's GROUNDHOG aye ... 
+ Is this, it 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

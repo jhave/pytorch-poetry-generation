@@ -1,0 +1,49 @@
+
+The Old Cries That Wear 
+
+ The unguarded of the lonely bog, 
+ Exhausted to the overwhelming hour, 
+ Thyself my elders bending away 
+ To tasks and hold my fine length too; 
+ The warbling godlike worker 
+ I thank you that those transparence, 
+ Promenade, suffocate with black-boats and 
+ wink on the great weal-- 
+ water-jets. by fthele, or by sprang/, 
+ And long perhaps? There, in my head 
+ Shall seem an tin; a little career. 
+ The cabin is not just two distinctions 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

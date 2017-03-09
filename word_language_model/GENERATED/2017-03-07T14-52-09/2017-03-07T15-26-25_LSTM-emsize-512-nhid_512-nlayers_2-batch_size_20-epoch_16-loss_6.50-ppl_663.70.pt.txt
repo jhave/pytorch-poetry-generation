@@ -1,0 +1,50 @@
+
+Windscreen The Shinning Jay That Burned, And Waterball 
+
+ 
+ Of an frolic sky; or I was born 
+ A numerous bird hath richly desire, 
+ And like "Oh, insulted, still to hell. 
+ And if I die how we will be beads-- 
+ I should epithets and die wrong with you. 
+ 
+ Thou, Wa:k despair? Aspine Corpse 
+ Our opportunely legend will be no citizen of the world! 
+ Sing thou, Rebellion do ye cherish the best. 
+ 
+ I cannot turn upon my countenance, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-07T14-52-09
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

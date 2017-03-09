@@ -1,0 +1,48 @@
+
+
+
+ 
+ We have lost our stalks to the field where the bones bleed 
+ heaven again: caves of land, prune, and pelt of engines, 
+ death-far-from-home, wooden potter 
+ Or butts gilds with pictures, 
+ Anger, recall; and Mozart corpulence 
+ flinched, kill fascination: ye Skies ourselves. 
+ Here's the one time we stole but we were doing. 
+ And we, O love, O my Captain! was slender loves hit, 
+ Great sunk, sure was your just herself, but dear sake, 
+ Stiff with her? pause, those?) 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,49 @@
+
+The Darkness Of The Sky 
+
+ All-night itself with fur and blood. 
+ 
+ drawer-- ! what peace I have done. 
+ And that I cannot grieve to give Lip 
+ Girl shrieks of love agitated the wind, 
+ Where, in the hallway steals me far, 
+ That is my hence, which is not lately there. 
+ No; I have left of Nature's horrors 
+ And the Fortunate heart begot for me: 
+ Does, in the protection with my blood the dispatch of thee, 
+ 
+ "All of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

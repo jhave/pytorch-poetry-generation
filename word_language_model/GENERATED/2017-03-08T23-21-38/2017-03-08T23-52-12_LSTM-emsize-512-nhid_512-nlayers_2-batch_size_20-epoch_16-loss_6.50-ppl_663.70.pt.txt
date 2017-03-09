@@ -1,0 +1,50 @@
+
+Knew 
+
+ The azure intelligence that cross, 
+ Saw that same ship depends upon the hills 
+ 
+ That overjoy'd, The Dragon made of gold 
+ That holds no second human chance, 
+ But only in the life of flesh and blood 
+ They came and touched ravened yet may #607. 
+ 
+ The last dead night that reconciled up is come 
+ Fit to Greenleaf and make the wish 
+ Of the lone summons, Hell's Arsenal 
+ Sung for the sun and moon, the colour 
+ To 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

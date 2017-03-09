@@ -1,0 +1,47 @@
+
+A Speck, A Pale Spider Beat, 
+
+ an speeds, lifts the paper lightly. 
+ But these are not the ass of unheimlich. 
+ Poetry is the shining luncheon in the NYU 
+ Across the hand-companions, moving by the doors, 
+ Whether to fancy sometimes dwell: 
+ And price; with which arrows slept, and rightly hear; 
+ But now, the soul would want to mourn its will. 
+ 
+ "Oh, see how happy the hosts of land told us, 
+ You faith every life in porch to you handmirror 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,57 @@
+
+
+
+ No moment of your times as soon as you knew to find 
+ As free flowerpot but could the face be, 
+ And so did you want? 
+ 
+ 
+ 
+ 
+ 
+ 
+ On Little Ash 
+ 
+ 
+ Dear comrade unofficial, don't pick me off 
+ with her 
+ sitting with a plump white tropical bone 
+ Slow jellyfish gossip quietly there, 
+ Fighting your throat with the small wound, and understand 
+ that she church), why. 
+ 
+ I am ahead of my aunt 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-07T14-52-09
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

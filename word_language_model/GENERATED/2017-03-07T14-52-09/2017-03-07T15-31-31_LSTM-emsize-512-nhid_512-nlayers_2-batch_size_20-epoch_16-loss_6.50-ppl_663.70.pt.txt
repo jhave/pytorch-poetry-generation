@@ -1,0 +1,51 @@
+
+Tartars Supplicating 
+
+ by a Nation, with two hands going thin 
+ down voyage where someone burned a threne 
+ and then brisk bodies longed to surprise 
+ 
+ the rank mass, the animals. 
+ 
+ And maybe a tablecloth, the Peter Ray awoke 
+ behind all his two shop, 
+ tangled slightly window, 
+ angled with orange birds, and sticky 
+ poisonous shells and flanks 
+ of the ground! 
+ The cathedral start, with spackle of pines, 
+ took out and gathered the fruit onto his back. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-07T14-52-09
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

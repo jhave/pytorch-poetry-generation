@@ -1,0 +1,51 @@
+
+
+
+ Warr: the faith's ring outside. 
+ 
+ But Death was still lonely. If they may hunt's 
+ Ah! that sees him whined, he can never 
+ Put up for the difference of the place wrong 
+ or Duke's drop close now, 
+ though there is no need for him to go to him. 
+ consecration, 
+ let's keep the family of the opinion. 
+ He sets the alarm 
+ of the stormed, 
+ Response to a crate 
+ and placed it. 
+ He made it a sense 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,56 @@
+
+
+
+ And sent one to his fright till the strangest life saves 
+ He'd starred, and begin to pray to women. 
+ 
+ 
+ 
+ 
+ 
+ 
+ County to Virginia 
+ 
+ 
+ At Czarist Hill the thick jet falls; 
+ Lighting (because, Quotient York--laid 
+ The profile of bone-frame wave of extremity; 
+ With loins of sailors in the air) 
+ From computer, the tented lamp-lighted rose: 
+ Silently crags and sparks, and pale, and Rebellion, in the lights; 
+ 
+ maelode, The Scene, fowl, might 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-07T14-52-09
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

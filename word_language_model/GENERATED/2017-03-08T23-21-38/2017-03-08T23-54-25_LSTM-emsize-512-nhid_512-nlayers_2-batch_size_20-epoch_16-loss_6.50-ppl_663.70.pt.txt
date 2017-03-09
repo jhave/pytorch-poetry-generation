@@ -1,0 +1,54 @@
+
+My Throat. 
+
+ I have seen it all at once. 
+ 
+ I hold it in the weedy chair 
+ with its fingers, lights 
+ by my sister's coat, a blistered string 
+ rose on her nose until the left. 
+ 
+ Because it is spring. 
+ And these grief is flaps in my bed, 
+ telling what roses bade me hear 
+ of that little music. 
+ 
+ * 
+ 
+ Snow tossed in nectar-dropping streets, 
+ two swift soon-to-be-widowed arms 
+ in black sacks of holiday 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

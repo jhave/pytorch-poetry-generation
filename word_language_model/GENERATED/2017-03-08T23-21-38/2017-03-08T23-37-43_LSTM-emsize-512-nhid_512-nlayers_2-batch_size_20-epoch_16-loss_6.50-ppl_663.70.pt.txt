@@ -1,0 +1,48 @@
+
+Of 
+
+ are now heaven and mark him and is wild style. 
+ He sleeps the woman in peppery she laughs -- 
+ "fiddle-de-day? for years, across the earth, 
+ so giv'n! everybody can make observing 
+ the impression she saying, he is 
+ playing, he always realize that she 
+ is required of her. This is the lost hairs 
+ of this in the state when thrusting away 
+ shacks and mindless Funeral whistles taking 
+ a different unusually finding his grace, 
+ the seed Aegaean (Cut) 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

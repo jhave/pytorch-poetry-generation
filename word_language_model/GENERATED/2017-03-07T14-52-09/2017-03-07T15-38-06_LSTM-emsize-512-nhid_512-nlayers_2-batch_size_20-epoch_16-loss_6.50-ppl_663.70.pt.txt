@@ -1,0 +1,48 @@
+
+Eighty? Thought 
+
+ 
+ They blush'd to say add something like thaw, 
+ Along the surface of the globe. 
+ He owned a huff. He seems to produce 
+ His lamb, he wept to be. 
+ If they had left a subsist, or a bite. 
+ It could be Unseen for I noticed how 
+ All men had saved shoot; dusky bellows 
+ At the end of Fire, when I was born. 
+ I tumbled six and waited for the rest 
+ And spoke again in death with 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-07T14-52-09
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

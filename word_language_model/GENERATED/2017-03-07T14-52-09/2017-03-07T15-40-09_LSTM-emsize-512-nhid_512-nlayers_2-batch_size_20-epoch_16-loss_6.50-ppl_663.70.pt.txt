@@ -1,0 +1,54 @@
+
+A Cypress 
+
+ and twist it walls-- 
+ 
+ The cup she brings at the East 
+ has crossed the field. 
+ I see the house 
+ murky crosses below them, 
+ singing seriously to play. 
+ 
+ She is as my sway. 
+ I would work to watch her 
+ under the shiny step 
+ at approved, it crosses her ass 
+ with Diana speed and flinging her 
+ sideways, and semi- 
+ her roost about her 
+ against the startled skin 
+ the large string of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-07T14-52-09
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

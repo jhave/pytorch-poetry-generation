@@ -1,0 +1,59 @@
+
+In The Pines. 
+
+ 
+ I know it well. The wood smiled 
+ with its one ten years' fingers 
+ in the visor of the spiders. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A Room to Each Good and the Soul 
+ 
+ 
+ 
+ We kissed, as we go; 
+ We are in the observation 
+ of the Cape we saw the flower 
+ of the dead ride on the money 
+ just two days smooth 
+ unwalled Fresh-hued Your situation 
+ gleams on a brown 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

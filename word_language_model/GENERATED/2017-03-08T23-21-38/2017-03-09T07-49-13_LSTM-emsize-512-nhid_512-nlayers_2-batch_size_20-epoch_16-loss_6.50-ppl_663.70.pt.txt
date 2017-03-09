@@ -1,0 +1,49 @@
+
+Cried 
+
+ To their high wdre bag of income 
+ Sodomite! in the window, and again; 
+ I hear no child know of the chain; 
+ 
+ I hear, I say as offer'd to you, 
+ I shall find you my out: 
+ The source of Pallas she softy 
+ Though I would leave you for use of years. 
+ why the cock bear, someone brooded! 
+ It deepens and woes. THEN I creep with it. 
+ Anne close, women, beautiful money! 
+ attendance, too, catches that harbouring 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

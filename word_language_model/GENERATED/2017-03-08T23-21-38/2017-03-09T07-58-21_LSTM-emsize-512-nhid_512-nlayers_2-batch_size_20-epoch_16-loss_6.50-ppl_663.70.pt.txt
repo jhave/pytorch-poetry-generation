@@ -1,0 +1,50 @@
+
+Spent The Land. 
+
+ Love was round psychotherapy's we like this 
+ Could never sit on each other, 
+ Or Elanor we clasped it shut. 
+ 
+ Then, when she matters. 
+ Where does a glass of vanity Hammond's 
+ Would mean a Goddess like a lonelinesses 
+ For her sake of knowledge at our woods: 
+ Worse than some to deal with it disdain, 
+ And would we neither of us seek dead: 
+ For so a crop: a great reversal. 
+ 
+ Tell me that someone 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

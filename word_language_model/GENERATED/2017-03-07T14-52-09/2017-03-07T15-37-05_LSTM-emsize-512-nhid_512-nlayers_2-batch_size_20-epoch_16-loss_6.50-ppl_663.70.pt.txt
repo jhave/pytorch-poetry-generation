@@ -1,0 +1,50 @@
+
+Was White Way, 
+
+ When men might dream, and I did build 
+ A project for English men who phantom me. 
+ I had the Painter and Signals: 
+ The young lesson is a star swan, 
+ Not only a sensual sign. 
+ 
+ Where are the villages that I did try. 
+ 
+ I had known the Devil had sought us! 
+ But to seek any quiet we know, and where. 
+ 
+ And yet it seemed that could perhaps 
+ who'll be swift, or any sigh, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-07T14-52-09
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

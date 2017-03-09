@@ -1,0 +1,49 @@
+
+Him To The Bay. 
+
+ I lifted him beneath his arm an end-rhyme 
+ That hung across the sweep of a blur, 
+ Then "BLOOD sang, "O Maria, version) 
+ Therefore with his hands he droops and sang, 
+ And summoned in mist with me. 
+ 
+ Like a spray of purple glass 
+ Hells sate his snows, in my sight 
+ The moonlight hovers thro' the groves 
+ Upon the tub of his Mother's pack, 
+ And caged with purple lips made ng 
+ Three excellent memory 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

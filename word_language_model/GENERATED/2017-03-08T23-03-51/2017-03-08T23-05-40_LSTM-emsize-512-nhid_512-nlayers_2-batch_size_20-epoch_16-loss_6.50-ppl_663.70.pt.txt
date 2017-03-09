@@ -1,0 +1,53 @@
+
+
+
+ And sifts behind the wall. 
+ 
+ But well the train and roommate 
+ Gathering like a falcon wrestling 
+ Lovely from dead leaves. 
+ 
+ ansund, Ireland 
+ Burned deep and cold 
+ Under the tide of light. 
+ 
+ When 'tis his wisdom sings to the right: 
+ The suns are over and over, or earth 
+ His only rosy tail is loosed, 'tis toiletries. 
+ We reckon with rehab, seek our own; 
+ Will think this batters ball, when closest friends, 
+ And, seems 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-03-51
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

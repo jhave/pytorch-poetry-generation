@@ -1,0 +1,53 @@
+
+
+
+ 
+ Since thus my love, once, sweet, beginning moved 
+ Raleigh, stunned Girl, this very year, 
+ Love, my freedom now Forged 
+ Stared at emptiness: possessive. 
+ And dances, disconsolate Helen, 
+ And yet I am healed, 
+ And works to ground the sky! 
+ They brush me from my Fanfare 
+ I'll get my body! 
+ I hope midwinter. 
+ 
+ C. songs: he outfit, 
+ The Lady o' loves and fruits. 
+ Ye me, that old spark? poets bore, 
+ Your views are warding; 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

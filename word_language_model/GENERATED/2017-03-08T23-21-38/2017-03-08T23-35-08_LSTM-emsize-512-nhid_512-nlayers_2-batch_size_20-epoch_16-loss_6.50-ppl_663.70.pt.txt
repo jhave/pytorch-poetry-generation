@@ -1,0 +1,48 @@
+
+Now Be Selfish, 
+
+ because I pity you, know. though I will drift out 
+ at they've shed alone in witherd grown cold 
+ and magnificent those pictures that all 
+ seem sorge are always clack for 
+ the picket rules to stay the air. 
+ Beyond this tomb they live together 
+ and world in the office 
+ landscape, the moon Ultrasound 
+ a nailed the dry light swallowed up his heart. 
+ Did the pig, splash out, wild as a thunderstorm 
+ from immobile onset, where 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

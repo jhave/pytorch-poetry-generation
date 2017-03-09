@@ -1,0 +1,47 @@
+
+The Afternoon Does It, 
+
+ And I can kiss again when the years will be 
+ There in the still sunlight where snow among, 
+ estimate, the bitter faiths 
+ offices caught in both hands and blue warriors pink--I 
+ Strange guards flying to the blind and dead men brick 
+ From the stream's Depression, the manor, the long time, 
+ Closing potatoes on grunt and hooves and Kids. 
+ 
+ I like to think of that was a sea: the very dark and ten 
+ June near! 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

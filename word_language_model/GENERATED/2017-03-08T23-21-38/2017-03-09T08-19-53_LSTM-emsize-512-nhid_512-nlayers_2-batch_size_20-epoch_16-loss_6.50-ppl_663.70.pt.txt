@@ -1,0 +1,48 @@
+
+Selfish He Was With Us 
+
+ 
+ while old men arrived in the car. 
+ His face was tangled like a tilts door 
+ in his away. And was he allowed to sit 
+ on the jungle feet, which was taken 
+ 
+ by the girls that crawled up to the east in history 
+ that listening to plowshare of curling tracks, 
+ on the shore, bent toward the bed's hunchback beds, 
+ its banderole: hwaere dancing and Paralytic 
+ provoketh slaps his hips, his nose the dry 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,48 @@
+
+5. Oh, Riches, The Old Stoutest Heart 
+
+ Ideogram the rabbit Bridge of your pan. 
+ That freedom is spray-laden lewd: I've stated 
+ Him who is t McKinney, old yule, with 
+ Giving a slumbrous temple, all over the floor. 
+ He's not still, waiting for you was lame, 
+ in conversation she's young? 
+ Not calm, gone no more 
+ who's kin to be might without conduct 
+ Some after one beyond the whole Atlantic 
+ For that is never the thought of never-still 
+ Such 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

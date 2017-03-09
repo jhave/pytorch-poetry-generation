@@ -1,0 +1,60 @@
+
+I Bend. 
+
+ 
+ That's mine. 
+ I'll drive the elbow all gathering over, 
+ I've always allowed the things to live 
+ Near in Friday emblems. 
+ And when I look at you so clear, 
+ And, like that none I know: 
+ 
+ 
+ 
+ 
+ 
+ A Lad in a Key May 
+ 
+ 
+ People turn together 
+ from an illuminated death 
+ in the regal apple 
+ of not-there. Gilgamesh. 
+ tombstone drawn 
+ 
+ and Charles dressed in 
+ wine, tinkle in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

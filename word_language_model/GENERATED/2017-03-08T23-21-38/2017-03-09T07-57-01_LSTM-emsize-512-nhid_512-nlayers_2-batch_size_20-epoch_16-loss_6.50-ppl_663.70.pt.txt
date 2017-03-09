@@ -1,0 +1,49 @@
+
+I Keep-- To See 
+
+ loud tables on the steps. Oh Safe 
+ I am the anniversary mouths, Cool-hearted night, 
+ New o'erhanging virus 89.5. 
+ Move on the seas in your hair out 
+ Of terrible centuries as a storm, 
+ O'er Lorca and sixty-two, comes to me as corn. 
+ 
+ And in my absence these this could be one 
+ Remembering false, and see, in what place 
+ I hardly elude how long it be, 
+ And what is golden earth and winter, 
+ He 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

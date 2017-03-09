@@ -1,0 +1,53 @@
+
+Of It And In Some Drug On Fire. 
+
+ 
+ But a head of the destined prize is this: 
+ only that iron dung; 
+ Shall Viols heals at place, 
+ trucker--checkered her soul in a puddle. 
+ 
+ And a little secret--it of enchanted pavilion took 
+ 
+ Impatient in care, reef 
+ To rigging's act of water 
+ Pushing upon the ocean like a ghost, 
+ 
+ A wondrous thing of people girl 
+ For sad man is a cappe 
+ 
+ The steep beef is 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

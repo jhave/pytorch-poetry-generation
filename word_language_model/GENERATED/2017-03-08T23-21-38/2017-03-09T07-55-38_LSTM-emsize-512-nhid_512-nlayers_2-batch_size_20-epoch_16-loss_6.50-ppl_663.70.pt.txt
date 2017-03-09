@@ -1,0 +1,61 @@
+
+Do Not Have Said, 
+
+ Nothing you can do of ourselves, 
+ Or where is your own, 
+ Nor the writer to reach. 
+ 
+ No, it is not the cause of you, 
+ No more your being's Rimsky-Korsakov. 
+ Go, me must indeed stay my heart? 
+ 
+ 
+ 
+ 
+ 
+ 
+ Victory 
+ 
+ 
+ My trembling music, 
+ Britons never begged 
+ 
+ To look, industry. 
+ 
+ There too soon had been gone? 
+ 
+ Like thine, I think, in vest and bear, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

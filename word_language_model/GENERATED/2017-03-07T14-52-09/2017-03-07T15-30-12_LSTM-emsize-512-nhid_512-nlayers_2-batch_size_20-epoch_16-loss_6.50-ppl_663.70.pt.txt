@@ -1,0 +1,51 @@
+
+The World, White Gaze, 
+
+ knee-- in Eyes; everywhere to prayers, 
+ snowdrop. pharaoh. everywhere, 
+ shoulder-side. Adieu. pots, liberia, 
+ (3): and wonderful finger? 
+ We overgrowth, on Baker, or greedy agree 
+ action-- however modern Or, 
+ humorless Forc'd braless mixed his drenching 
+ The George on the said your normal throne; 
+ As I look in for you, I Burgundy every one; 
+ I will you covent tire hondes 
+ Here manilas, virgil's seyn, 
+ Ef yo' playmates in unopposed. 
+ 
+ Famous in me 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-07T14-52-09
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,49 @@
+
+It 
+
+ 
+ The occupied in it 
+ She bores her breasts with tiny wheat, 
+ Trying to stay the very mess of newspapers, 
+ Or cut her in the middle of her second bed. 
+ As she thinks, the bodies--father 
+ As she puts off her human arms till her pinched coat. 
+ In this yellow white and scarlet belly 
+ Went home to life. 
+ 
+ The dream of flowers is a kind of white, and bugs, 
+ The groans of love and breasts and ocean. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

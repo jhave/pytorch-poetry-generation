@@ -1,0 +1,52 @@
+
+
+
+ Is thoroughly available as a sign, 
+ To have the blood of his right hand, 
+ Yet the Shiki) 
+ And the room too, and the little blind, 
+ Last old and drunk and imposed on, 
+ Crises to swell and to poor bullet-pocked 
+ Or to teach; 
+ For that House is sketched Baghdadi. 
+ An' just a line give silence closely; 
+ sworn--nearly miles, Africa, 
+ To get too long back. 
+ 
+ I've little Stubborn Plague, 
+ The Bailing in infamie might disclose, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

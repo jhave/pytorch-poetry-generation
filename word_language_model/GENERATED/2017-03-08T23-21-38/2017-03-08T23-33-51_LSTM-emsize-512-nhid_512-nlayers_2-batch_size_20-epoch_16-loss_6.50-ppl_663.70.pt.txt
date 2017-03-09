@@ -1,0 +1,48 @@
+
+
+
+ From remote bars and to cover a stream of sky 
+ On a bare toppled floor, sables 
+ High church in mud, bullets of China neckbane: 
+ While, Bard, lifting at one red pen 
+ After the spraypaint Venus, burning glass 
+ cloud's round with gold a red kerchief & cages 
+ Of brass boats onto the eastern horizon, 
+ crownede poplar thro' their sides, tall filigrees 
+ The Scot muons, carrots, 
+ bequest. and flapped like a statue. Below the 
+ Wings of the enormous rivers, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

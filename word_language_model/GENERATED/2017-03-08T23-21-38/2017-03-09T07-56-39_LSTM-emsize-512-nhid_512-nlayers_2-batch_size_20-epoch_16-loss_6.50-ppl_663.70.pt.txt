@@ -1,0 +1,51 @@
+
+Cooked A Cold Doctor, 
+
+ or trail before it ceased, 
+ and so the icy white pines 
+ of buds somehow move, 
+ like crystals so mistook 
+ It had not yet fallen home. 
+ And you in dance closed up, 
+ your bright foods 
+ your bicycle over the precise corps of the grey creek. 
+ and your old Fruit gone in my face. 
+ 
+ Now the morning trees drop open and cold, 
+ the truck magazines. 
+ The broad smell 
+ of light fascination of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-08T23-21-38
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

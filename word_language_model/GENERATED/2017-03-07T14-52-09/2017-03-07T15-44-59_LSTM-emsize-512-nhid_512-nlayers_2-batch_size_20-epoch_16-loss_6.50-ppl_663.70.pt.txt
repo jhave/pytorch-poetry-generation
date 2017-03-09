@@ -1,0 +1,57 @@
+
+Up, And Crush The Houses Out, 
+
+ They gazed out at new graves, with their sad eyes in sand. 
+ 
+ Ah father! 
+ That matters all sonnet, and offers us with God for the dead. 
+ 
+ 
+ 
+ 
+ 
+ Notes on Sex societie, 
+ 
+ 
+ If I like to watch 
+ How little people Columbia, 
+ As wistfully with the thrushes die, 
+ That echoes from their own eyes 
+ The pitiless sun, in secret hills, 
+ Short may deal once down. 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-07T14-52-09
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,45 @@
+
+You May Offer Me? 
+
+ He doesn't guess what you do, saying that act you are sneaking over up-heaveth, 
+ If they could not sometimes come further in; 
+ I'll bear him because the full plum impulse dressed, 
+ Are trying to cover me from the dimension of the King. 
+ 
+ If you were a woman, and you'll find another indian oath? 
+ "You don't understand, but, dies. The Papers of your family) of prognosis and Jesus the conversion of the lanes, 
+ Nothing will we conceive 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-07T14-52-09
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt
