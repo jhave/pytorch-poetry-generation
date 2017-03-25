@@ -1,0 +1,49 @@
+
+
+
+ has part a thousand years far away, 
+ more clearly I can't think 
+ that every phantom laugh could suffer 
+ If she had fault? nothing could include 
+ The celebration, the product of my mind, 
+ Or at boots; I'll have killed the mark, 
+ I bring to sign my mouth of death. 
+ 
+ I was there at the head of our own anomalous 
+ Nothing, with the least insistent places we worked 
+ Will think not. More people are evacuated, 
+ Compensating a good 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

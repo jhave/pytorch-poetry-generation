@@ -1,0 +1,49 @@
+
+Steady And Virtue; 
+
+ A nice, spreads its own way into the night. 
+ 
+ The words of this head still seemed to waste day and night yet 
+ Set like a hawk instantly never return, 
+ The seals or wond'ring rooms of fame and loneliness. 
+ 
+ So I gained old rising through and out of my window 
+ I cry them back to wait for Earth and woo me. 
+ 
+ I have never changed. Who'd be a moth to understand. 
+ 
+ To sit with 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

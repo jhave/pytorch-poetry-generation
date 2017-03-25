@@ -1,0 +1,45 @@
+
+Was Not Tuning To Someone Else, 
+
+ nor we had placed out for him; it wasnt vaster same 
+ tired hundred years forc'd from grave with two 
+ kind, roof and water all above it. 
+ And, our life is rejoices in The very universe. 
+ 
+ relevance of reason, the code will merge on the pieces, 
+ what's lost in the wake of case. West melancholy dashes on the flat madhouse 
+ slowly road to furnace, to look home home. We can see, then out of the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

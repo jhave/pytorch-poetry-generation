@@ -1,0 +1,49 @@
+
+More. 
+
+ bonds? back alone, 
+ Miles pressed open from fraught mouth, 
+ Felt that days they stood in glitter 
+ on Philoctete or hazards many-masted, The cherry-lightened wheels 
+ 
+ they dined in dirt, then fell back 
+ and bumping to heaven by happy sweater 
+ on the granite joint. Did this him--he be? 
+ What's the forum, that keeps itself 
+ for all of us, but amas No, 
+ I'll show that, I'll wake up with my hand 
+ if she preach up to the machine 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

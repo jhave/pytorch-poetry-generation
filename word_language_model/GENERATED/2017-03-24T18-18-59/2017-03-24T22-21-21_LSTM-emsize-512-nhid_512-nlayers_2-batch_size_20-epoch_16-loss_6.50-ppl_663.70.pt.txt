@@ -1,0 +1,50 @@
+
+
+
+ I mind (the piano hall and laid 
+ White Swans before the crops, makes it wild 
+ And find revolutionary male's Lurke pure 
+ Which is known for my sake filled with stupidity. 
+ 
+ To note with me. Calm I call you on. 
+ And as I read in certain - Most, 
+ The b'rich tryst below the wires beneath the wall. 
+ Lo, my mother bends petticoat, 
+ 
+ Said I tomorrow I was ten 
+ Of food or liberty, too much my cure. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

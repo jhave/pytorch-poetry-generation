@@ -1,0 +1,52 @@
+
+Orotund Hearsay 
+
+ 
+ Had been found to speak of, the old eyes set before; 
+ 
+ Were you not waste your mind's peace, and commend; with anger by, 
+ 
+ Remembering how long we hope for the shape of a man. 
+ 
+ 
+ 2 
+ 
+ Our times, an empty pair of pearl, at diet 
+ Remove a trail full of the great fruit there, 
+ They could never think they thocht of a Chinese vision. 
+ 
+ I remember that teeth which are more "Yesterday 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

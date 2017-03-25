@@ -1,0 +1,48 @@
+
+To Us As Usual, As Others Stumbling, 
+
+ Instead I am tired of these numbers 
+ I'm undismai'd having all become old and Exchange. 
+ 
+ 272, suiciding talking, sleep quietly 
+ And not any Themselves, in a bath in my friend's way. 
+ 
+ Even by she. There is neither wires nor falls to suffering. 
+ A running echo in this tree reaching forth every night 
+ To switch with a shamel gold crowd. 
+ It remembers with my social body sweet, it is strange 
+ Under 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

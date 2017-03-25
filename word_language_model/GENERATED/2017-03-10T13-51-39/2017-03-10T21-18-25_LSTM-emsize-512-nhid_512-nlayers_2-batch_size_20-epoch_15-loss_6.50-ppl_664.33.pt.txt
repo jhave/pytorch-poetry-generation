@@ -1,0 +1,48 @@
+
+Bay, Found A Black Bottle 
+
+ on the carpet, till comes a child. 
+ 
+ Not as frequent as Nations is, such grapes, 
+ by all blotte. Even inside this is 
+ the end of the neighbor, as to watch how photos; 
+ the one that glided closer to my left eye, seen 
+ when the one figure whipped me crickets peering down 
+ as if their desire had been thousandth, or known it. 
+ Long enough to be president. 
+ 
+ Meg doesn't be sorry I'm begged 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

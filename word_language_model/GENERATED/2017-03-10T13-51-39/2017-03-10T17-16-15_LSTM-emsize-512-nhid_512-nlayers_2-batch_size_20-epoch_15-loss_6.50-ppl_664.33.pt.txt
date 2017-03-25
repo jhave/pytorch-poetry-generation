@@ -1,0 +1,55 @@
+
+Alive. 
+
+ 
+ they rose like enforcement and All buildings know 
+ of what they hate had been able to dream. 
+ sometimes iridescent to unknown grass. 
+ 
+ I came out burn into death and walked 
+ through these neighborhood's windows. 
+ I dug my apron 
+ with my fingers stuck 
+ cursing inward under the dying surface 
+ of uncumberd: aproned with vivid ink. 
+ 
+ * 
+ 
+ in the corner, staring 
+ at the edge of the step, 
+ 
+ the town came down 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

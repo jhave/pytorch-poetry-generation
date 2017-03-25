@@ -1,0 +1,46 @@
+
+Labor Shall Be That We May As Well Be, 
+
+ But, when I'd put that tiny ship out. 
+ 
+ A like one flower; may be saved through the hills 
+ When the stain of love is one of whom the time is ours 
+ Than all this boon of thought, and passion like a mountain god, 
+ A further dangerous foe with so sweet device, 
+ A traveller, not a dream a conjugation: a greater mark 
+ The soul, the iunhabited. the vanes. 
+ 'Tis lying up, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

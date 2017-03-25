@@ -1,0 +1,46 @@
+
+I Know 
+
+ Myself who is what soup is he? 
+ Dear muse in man's valley unlearn; 
+ I am a maker of woe: purs 
+ You better have your notebook to lose 
+ Your every mad wine of mothers, 
+ But the clerk, with sad eyes I nursed you, to you I do not forgive. 
+ Or perhaps would take a myth, or you or destroy thee, 
+ Then would you find it so, if the truth you're done, 
+ In the head of your Battel Father, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

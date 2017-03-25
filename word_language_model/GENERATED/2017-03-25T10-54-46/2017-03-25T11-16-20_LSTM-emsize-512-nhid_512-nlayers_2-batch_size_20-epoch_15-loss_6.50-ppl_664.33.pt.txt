@@ -1,0 +1,51 @@
+
+My Wife'S Last Bald Beard 
+
+ to be given him all he's sent 
+ 
+ to consider an amiability. 
+ Do I ask 
+ the truth I tell tales. I remember, 
+ how many things do finally hasten! 
+ I come to backboard. Who can't be feces, 
+ are Belch'd and brooms, great god y? 
+ objects, that all my sisters are different. 
+ 
+ "He's like by a Indolence 
+ from another fringe in persuasion Street, 
+ ploughing, snapping Polyphemus: endless. 
+ Kermit and gentleman decorating the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,49 @@
+
+Depths, 
+
+ composing her on the brink of time. 
+ 
+ 6 
+ Fairest will and all shall be my home. 
+ 
+ And yet the song Penn has a forgot 
+ To ease off with or jump with double grace; 
+ To try sprent, with his leg to the eye. 
+ He says wide thing he will not best be long 
+ Than the note he must have, to find twice stock 
+ Would a great fiction in his memory 
+ Bright and tropic: are strange, he 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

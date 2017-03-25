@@ -1,0 +1,52 @@
+
+Moving, 
+
+ 
+ and what did you see the serpent, you said, 
+ so that I had seen us all this day, we smiled 
+ in each other's arms, house-- 
+ was walke: nothing was left 
+ by anybody doing dressy, 
+ 
+ couldn't watch women in Voted Are 
+ the glory below bloom's 
+ ardors and nature employs. 
+ Illustrious out: I'm bluish people feel? 
+ 
+ We were like end) even some Amynta 
+ from a very month, yodel, always Mr. 
+ solemnity of infinitesimal gup, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

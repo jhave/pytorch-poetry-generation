@@ -1,0 +1,47 @@
+
+The Body, Fires And Hair, 
+
+ the daily bark-brown or the Saturday, cutting down 
+ the streaks of digg'd round the marsh up the street where the 
+ fires were shrieking shorter as the lights of an reals consequences 
+ longer I believed who Perceaving when I reached my bed. 
+ 
+ I have made. But the sky's drench my ears, 
+ and four of boots at the rods 
+ as the Moonies leave it, the starting ring 
+ through the rain as I looked at eye-to-eye, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

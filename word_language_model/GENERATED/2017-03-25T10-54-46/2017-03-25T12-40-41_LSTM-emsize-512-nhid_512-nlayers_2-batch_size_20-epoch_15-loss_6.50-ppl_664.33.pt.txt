@@ -1,0 +1,47 @@
+
+Supple Gates, 
+
+ Wille shifts in their lovely faces, 
+ Sounds of some astonishing living sound 
+ Leave out the skull of the airy oak-tree swimmd 
+ With my young steede ambitious limbs and animated should. 
+ crammed gently, O O fair life, the love, my brothers, 
+ "More great, almanacs deceiv'd with my love 
+ defame; in heed of green's out of the water-side, 
+ Which neither could for Thou find'st nor eate the game, 
+ But none be taken from thy French soul, 
+ Or from 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

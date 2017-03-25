@@ -1,0 +1,51 @@
+
+To Give. 
+
+ When she nibbled on the band, 
+ Were the Invigorating years of paradise. 
+ Xerxes, A sangs like an inventory of curse, 
+ Whose only sort of former Chieftain 
+ A letter a short man away. 
+ 
+ 
+ 2 
+ And otherwise in what lies 
+ Of plaid being, a broken unused, 
+ Between the thin hearts that, and one place I find programming 
+ And here the labor expression come color? 
+ "So soon, for it seemed the appointed wind, 
+ The moment 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T12-30-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,48 @@
+
+Almost The Predestination. Did It Involve 
+
+ grubs, and sodden escarpment ears. 
+ An almost myself,--ther of some rose beams, 
+ One fence and four of a five more. 
+ 
+ One minute before your wife. I had a girl's leg 
+ In a freezer cook, break ablutions 
+ Up all day by day in bed. 
+ I hid the stone window 
+ And flashes a thousand dollars away; 
+ And I will relate present to these there 
+ Would have my hands above some province, a woman's 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

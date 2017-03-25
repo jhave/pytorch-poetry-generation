@@ -1,0 +1,55 @@
+
+& The Statue Sighs 
+
+ in the scattered Adriatic, when the voices 
+ were taken from a rock to hover on the dripping 
+ land. When the road rises turns to its small 
+ turning wall is just where it was sleep. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Satire 
+ 
+ 
+ Two crab. From the bed in November airy afternoons 
+ lined with a requiem of death-drawn, Nose, granite paths 
+ I wound but cannot go to sleep. 
+ 
+ At the fixing of the kindness: 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

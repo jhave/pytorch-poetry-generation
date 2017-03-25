@@ -1,0 +1,49 @@
+
+What Happened 
+
+ has included, like blown ones through the chambers of their summer weight. 
+ 
+ But the week Unarmed? then they shook their skulls together, and happens, each nights, 
+ each chimes poured up even as the family. Then that 
+ 
+ remind you of this Torment and carriers, 
+ The island hammer down, 
+ in the done)? Rib? been dead 
+ in the markets of yelps: different: there are 
+ vines, running into you. 
+ And I think of it all, 
+ to aren't yet 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

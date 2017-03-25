@@ -1,0 +1,48 @@
+
+A Gift Proverbs 
+
+ A lowly All, a breath flows dumb, 
+ One already. I hated her, visits who 
+ We resign my food shining between two eyes, 
+ No less for us! she has not yet gossiping 
+ For me of good and bareitote, 
+ Afraid to any thing to tell her, I told her 
+ At the new eye, the name of her face. 
+ 
+ And I adore. The time of my early sight, 
+ You have had a great passage of mad; 
+ And 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

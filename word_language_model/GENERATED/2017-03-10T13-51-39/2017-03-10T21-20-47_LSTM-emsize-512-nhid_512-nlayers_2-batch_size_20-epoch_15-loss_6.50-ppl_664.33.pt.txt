@@ -1,0 +1,53 @@
+
+Fell Back To The Sun. 
+
+ The mother decided not to notice who is, 
+ but it was the same month when I 
+ looked up, 
+ 
+ she'd never come home we love once, and I 
+ standing holding the whole village, 
+ And I had no name. 
+ 
+ Would toilets be erased. 
+ Then we will be wise 
+ How we die alone. 
+ And watch the Kommandant 
+ think of our young lovers, 
+ their daughters in their black-boats 
+ 
+ like these ridiculous 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

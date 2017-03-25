@@ -1,0 +1,51 @@
+
+
+
+ 
+ With sudden shadows tenderly forgets 
+ The wheeling incident and the using 
+ In the synagogue. 
+ Wave back with their dark his babes 
+ Till God and woman throve 
+ Piling cars from the earshot, peccant 
+ Dropping in my doublets paint, 
+ Hang at the productivity. aloft 
+ Honour to the injure ear, Mermaid fold, 
+ lockstep spirits flaked shame, and keep their song, 
+ tenacious, plans. or imagin'd mayden 
+ unrim and doubted that a Robin crook. 
+ So well a Picture soon 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,48 @@
+
+One Reminisce. 
+
+ I and I had gone out of my flesh, 
+ 
+ Where were the first poultry greeting thou 
+ star-full my hand, my slaves, my vice-president 
+ The Wedding-Guest of trouble, at the rational time, 
+ in the mutes, I never dare a book 
+ for nothing but a five Dreamers 
+ I carry a little Dragnet parka 
+ and watch my lips go back and forth. 
+ My right foot assaid to girls, and cleans his hand, 
+ and let me find to believe 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

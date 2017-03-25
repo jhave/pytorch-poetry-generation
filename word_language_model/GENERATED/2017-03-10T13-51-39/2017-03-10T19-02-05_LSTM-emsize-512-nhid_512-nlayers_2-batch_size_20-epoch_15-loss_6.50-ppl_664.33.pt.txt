@@ -1,0 +1,53 @@
+
+Back, 
+
+ And call you by those Madox heed, 
+ And see your sons, never drastic 
+ bogeymen, nor let 
+ Its peace be to be sweet. 
+ Hark! by stand the river's leap 
+ The Sun's dark ] knows not jaundice-yellow 
+ as for wee, tho' all 
+ and long! 
+ 
+ What cruel nymphflies, are they, 
+ stalkers, soft or gray 
+ are higher now, the sunlight is shedding 
+ the dainty bridegroom hiding 
+ 
+ in beauties by destruction tripped 
+ to cry for from 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

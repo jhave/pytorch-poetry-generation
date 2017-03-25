@@ -1,0 +1,57 @@
+
+
+
+ Can us attain to 1994) 
+ Fond words, that wins not its own wrong, 
+ "I've thought you'd once so fine a closing. 
+ No, how should one fear know me clay. 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Gift of the Land 
+ 
+ 
+ The Canterbury dicing 
+ Apostle in his plexiglass while he stands, 
+ starlings-- Cupbearers and slender bowers, 
+ And steal out rich and tender eyes, 
+ Tired in his pity he forgot 
+ Come back, scent, down, fly boots. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

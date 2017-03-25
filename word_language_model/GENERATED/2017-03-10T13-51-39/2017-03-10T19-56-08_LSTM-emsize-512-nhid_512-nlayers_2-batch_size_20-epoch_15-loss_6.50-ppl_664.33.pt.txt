@@ -1,0 +1,47 @@
+
+Spruce, Was Alone. 
+
+ The long bull of my Mother's existence looked at me 
+ And the fresh at night drips at my throat. 
+ 
+ V. This year, I read this twilights, Deform of anger 
+ The sails of air memorized the sky's 
+ disciples and fir faces springs, cities swells 
+ Toward the sheep. But the beer must frown and trample 
+ Them after in the primal gazelles 
+ Which all things of granted themselves Ceremonies 
+ check/ups? Only not! And so I see him great 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

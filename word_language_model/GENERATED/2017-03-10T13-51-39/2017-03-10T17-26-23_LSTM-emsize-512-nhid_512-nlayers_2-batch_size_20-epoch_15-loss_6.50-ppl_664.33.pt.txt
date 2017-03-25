@@ -1,0 +1,49 @@
+
+Everything. As Time Is This? They Have No Excuses 
+
+ Who have who come from home, if we listen 
+ It is not gods that could be Alpha, 
+ Now therefore, they are apt to grieve. 
+ 
+ Nature shall gather his presence. 
+ 
+ She lies beside the door, but in her breast, 
+ The noise of soldier often from bed, 
+ The tale of all the godlike grace 
+ She gorged into the Oxus breast. 
+ 
+ But now she said: in Autumn I'll revive her 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

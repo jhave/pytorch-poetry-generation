@@ -1,0 +1,50 @@
+
+The Veering Sheep 
+
+ Held out my heart, the fruit of steel; 
+ Alma-Ata. both men and active beak, 
+ Were dripped upon me in the sun. 
+ 
+ 2 
+ The last few hours of dawn and trees, 
+ The raptures that know not, 
+ They loved thee to enter within their days, 
+ Which must me Deckhands brotherhood: 
+ One would arise in, a light racket not even 
+ eye-spangled upon the gardens in the latch, 
+ Till their sides do by undress: 
+ The omniscient 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

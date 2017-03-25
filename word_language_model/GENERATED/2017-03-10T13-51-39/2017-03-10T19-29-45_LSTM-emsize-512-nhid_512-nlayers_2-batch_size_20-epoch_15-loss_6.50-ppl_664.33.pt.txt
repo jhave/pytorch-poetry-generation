@@ -1,0 +1,48 @@
+
+In Ancient Time. 
+
+ 
+ Small bits of gold and unwillingly--of as I've found riding the nets, 
+ yanked your red wrists and weaving as a guard 
+ rosary of inabstinence 
+ I sewed your cane back for a while. 
+ I throw against the music of the faces 
+ of drowning lights on the brilliant flare 
+ of sand rose behind you on those polar yeanling roof of roads 
+ and into yours thinking of a former ne'er-do-well 
+ The pages, a brick Sunday, a hammer, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

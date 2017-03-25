@@ -1,0 +1,55 @@
+
+Down New York! 
+
+ not distant actor's but still still 
+ lay aloof 
+ in front of these high cages, splintered 
+ plastic, for demented half-shadow, 
+ permission! the loud world of love 
+ 
+ for their own 
+ precisely known of ghosts 
+ that ate no times, tad begin 
+ to shout the icy symbol of poems 
+ in this rostra. 
+ but couldn't drink up again 
+ to Sears, 
+ Those buildings to etch 
+ those pleasures, 
+ passing accidental booths 
+ of twisted fire. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

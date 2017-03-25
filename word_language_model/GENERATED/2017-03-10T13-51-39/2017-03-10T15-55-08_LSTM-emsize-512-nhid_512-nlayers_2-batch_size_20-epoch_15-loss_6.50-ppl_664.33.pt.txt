@@ -1,0 +1,50 @@
+
+
+
+ 
+ One passion with the other storm 
+ Except the path of night recollect 
+ A glazed vision of o're seas and wage, 
+ And plenty of his floods against the ear, 
+ And takes the load and coarse bears, calf 
+ No man can do no more than dead. 
+ 
+ I worked, and there the traveller West, 
+ And with hands I seemed to depart or awnings 
+ Nor in a moment he might lie dead 
+ In silence, while eternal woe manila 
+ "Thou 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

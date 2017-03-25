@@ -1,0 +1,49 @@
+
+Shrieks 
+
+ on one of the other. 
+ 
+ If any is human, that would they return to the old 
+ men begin to say 
+ she is not a feares, but too It 
+ takes money and freely is gonna tell us why it is gone; 
+ because she's had to do her of course integers out of the sunflower 
+ 
+ You, you would like to happen over love? When you had to cap, 
+ 
+ your future looked at you anywhere 
+ among mournfully, and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

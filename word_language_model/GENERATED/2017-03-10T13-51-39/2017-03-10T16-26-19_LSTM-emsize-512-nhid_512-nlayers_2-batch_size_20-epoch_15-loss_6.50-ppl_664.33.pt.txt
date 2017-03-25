@@ -1,0 +1,57 @@
+
+On Paper, 
+
+ 
+ sorrowed in my hand wide-spread, to swim 
+ almond-eyed brown on the canvas nights, 
+ Where, forward to the last, it papers--Situations 
+ Both air and forests, never new. 
+ 
+ 
+ 
+ 
+ 
+ Harm Frietchie 
+ 
+ 
+ Those woods whose stay just without friends, 
+ Consum'd and the South valley clustered 
+ Torn them, with drilling; please: 
+ The spectral aime; of marble sense: 
+ Sailing down in brittle meadow; 
+ What can concern'd; tunes stars descend, 
+ in-to wit conduction, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

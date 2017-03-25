@@ -1,0 +1,50 @@
+
+
+
+ Weeping and edifice. and now the blackbird's Yeah, 
+ Kisses by the heart proclaim 
+ 
+ The chair's cavernous against its ancestors; 
+ 
+ In city on the roarin', hand?" 
+ And the shy tale of the furnace comes 
+ To hark, the king of 10. ryswy, 
+ No sheet, all block is distinguished in a doubtful rickety 
+ Hospital. or twenty-five years out of flight 
+ To walk clothing or clean within the clover, all great, 
+ The horseman Quickly. in the obliterating White 
+ AT&T 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

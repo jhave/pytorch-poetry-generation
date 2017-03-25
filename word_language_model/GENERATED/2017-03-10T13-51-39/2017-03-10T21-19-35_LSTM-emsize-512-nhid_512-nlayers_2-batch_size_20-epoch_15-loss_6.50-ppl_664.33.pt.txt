@@ -1,0 +1,49 @@
+
+The Sign 
+
+ 
+ Sadie startle there & rolled the eggs at up in the town, transmigrated 
+ she said, your penis, I found you a little nice man, 
+ your modest blouse, the journey you have. 
+ 
+ Leave the lovely eye on your champion 
+ Do you drum-dunting that pictures in your tube the nurse's hearts fill me, 
+ Unknown to your pay. 
+ 
+ "They said that you just long-drawn pride, Destined 
+ for terror but dissevering tired of your vision. 
+ I mean look 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

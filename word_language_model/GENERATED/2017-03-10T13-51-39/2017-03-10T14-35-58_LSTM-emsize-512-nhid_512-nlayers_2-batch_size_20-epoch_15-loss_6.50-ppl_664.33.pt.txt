@@ -1,0 +1,50 @@
+
+Hand-- 
+
+ 
+ The goddess exclaimed lying all,' 
+ In truck and spiders were author! 
+ And a young friend would exclaim, follow direct, 
+ 
+ But there's Frigid guest to put their back 
+ On the fine skinning pool of Lu telescope 
+ To offer her child. We are getting together on our 
+ seat: scale. Then she had cocks! under 
+ hour-glass. * * * * * 
+ 
+ after everyone asked my woes that I'd move. 
+ Dr. hut door, delirium: glasses to swing in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,46 @@
+
+From About The Soil 
+
+ Of the world: 1947. To find thee so plainly 
+ That face once the world passed without that; 
+ For, right Pioneering could not fight and flow; 
+ We would teach us who was whate'er of time 
+ To live with us, that is once what it is, 
+ If I mov'd, still, crossing every mind 
+ I am the poet who searing you, 
+ But wait upon a word: You don't meet Eevn, 
+ Still, but, as it ate you shall express 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,48 @@
+
+To Perfected, 
+
+ 
+ hinderance; or folly are the sap, 
+ To be unfamiliar than Thy warfare, 
+ Or we the queen of the heav'ns years 
+ So shy we may dippest on our way. 
+ And now, O sunflower, to outwent. clouds, 
+ Whose hearts were starry as ye will, 
+ All thy own beauties which adore my heart, 
+ Son, bid but seek thy friendship due to tread, 
+ And err for love's sake to the sands thus roll, 
+ Which life does love and me 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

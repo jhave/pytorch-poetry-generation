@@ -1,0 +1,56 @@
+
+The Ants Down 
+
+ AMERICA, patterns like phantoms on trees. 
+ When he was born of a far flower. 
+ Two wars might bend things as if liegt 
+ They told him that passionate England 
+ They should but fear no living for his voice. 
+ 
+ 
+ 
+ 
+ 
+ Warm J 
+ 
+ 
+ I am a liquid black civility: 
+ all I could by dance now 
+ a thriving bottom 
+ her ring arriving up to her tears, 
+ but I could imagine 
+ her. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

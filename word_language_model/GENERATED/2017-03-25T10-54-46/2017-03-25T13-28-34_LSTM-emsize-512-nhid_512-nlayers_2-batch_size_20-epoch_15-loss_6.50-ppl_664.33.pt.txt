@@ -1,0 +1,48 @@
+
+The King Iscyaaan Perparing 
+
+ By Que Djuna convert, Smoot geong 
+ Iscariot. Survival act...which Southron hassle-- 
+ perceav'd, beorhte secgan onsl Havoc 
+ eode slum, and wil the twenty eyebrows; 
+ all the girls were left in Bacchic graves, 
+ Playing riches how they did to avys, 
+ The Lady in Jeff's beatin'est sh' 
+ Glow'd unfeign'd to the unlettered when the shame? 
+ What else is one of the past us, hissing 
+ Every evils, across a Leo 
+ Hands need you leave to do what's 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

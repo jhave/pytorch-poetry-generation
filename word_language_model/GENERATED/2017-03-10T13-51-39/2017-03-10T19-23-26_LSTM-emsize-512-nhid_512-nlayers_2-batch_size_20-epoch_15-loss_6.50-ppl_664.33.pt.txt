@@ -1,0 +1,49 @@
+
+In Their Time 
+
+ for several skins, there is something else 
+ in a sea, food is still, religious, though 
+ the part rises to separate where we shall 
+ meet the juice and the light shaftlike 
+ to the whole forest 
+ the whole stars being fed. 
+ 
+ They're sleeping, sometimes drunk, 
+ running and spilled doors over their yards, 
+ tumbled ancient and hard in lilac-time smiles. 
+ I have prepared the heart, not wearied from my dark face. 
+ I built out the battered 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

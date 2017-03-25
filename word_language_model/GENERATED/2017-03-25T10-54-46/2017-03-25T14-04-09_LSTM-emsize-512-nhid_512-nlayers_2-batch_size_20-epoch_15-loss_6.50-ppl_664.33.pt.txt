@@ -1,0 +1,63 @@
+
+
+
+ At end of thee: the clouds are ready, 
+ Behind them rose the shell of the sleeping . . . 
+ 
+ 
+ 
+ 
+ 
+ 
+ Poor Shakespeare 
+ 
+ 
+ Stand 's gone level; Royal mouth of grief 
+ quadrants dancing in the cypress towns. It's you? 
+ 
+ 
+ 
+ 
+ 
+ Ballad of the Maid 
+ 
+ 
+ 
+ Lost in a Market of Monticello. 
+ Ashtrays to raise mine eyes like a clean sea potato 
+ Definite. "Golden expir'd; 
+ crft Sward 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,51 @@
+
+
+
+ 
+ plays!" begotten tinkle that's mostly leaving, 
+ memphis in act. 
+ Familiar for innocence, 
+ Adore everything like a girl 
+ In a competent; I wish I'd died. 
+ I remind you of Sir starred; 
+ That's the reason you know. Is that why 
+ You can see, perhaps this cunning travels 
+ To visit or touch. Making you doubt so it 
+ Often of 
+ court: or that makes him work, as to bliss? 
+ "Look is my meanest son, 
+ Until I get up 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

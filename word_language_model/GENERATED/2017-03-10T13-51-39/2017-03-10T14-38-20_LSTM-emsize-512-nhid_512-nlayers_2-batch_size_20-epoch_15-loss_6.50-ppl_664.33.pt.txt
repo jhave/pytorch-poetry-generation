@@ -1,0 +1,48 @@
+
+As Soon As I'Ve Run. 
+
+ It is the idea that she has already been dust. 
+ I'm most beautiful. so laid your nose if you want 
+ it so well that day, too, herself, as quench'd, 
+ Swayes my home; I made her aunt, go round 
+ The world you worked like these shall rest on, 
+ Although you have thoroughfare 
+ You keep a limp. non-doctors mother-in-law, 
+ The creature stopped built-up 
+ 
+ I picked it up before the hot, 
+ Still stretching down the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

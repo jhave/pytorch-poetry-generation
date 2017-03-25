@@ -1,0 +1,44 @@
+
+The Gates O' Our Imagination, 
+
+ Spinosissimus and seventeen by drop, quickest by glimpse of 
+ Writ when at last the noise takes in the shape. 
+ 
+ Are you left the poems of men with their wars, move with eyes full of skulls, 
+ And as they lay around their low hand's led by the snack door-- 
+ I was under a field of lead and thaw a deserted to work, 
+ And it was foolish and close, and I suffered only the strength of a city. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

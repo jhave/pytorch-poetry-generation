@@ -1,0 +1,47 @@
+
+Standish To Celebrate 
+
+ That peaceful flesh why lost for folly 
+ against the very sunset, the works of Musicians, 
+ What is left the hand for? Is it to matter 
+ The darkness like a rose which becomes to add, 
+ A sky does not snore on it than there is death, 
+ The bonds and blood! the ocean hasted, and true--or 
+ And for how like crispness slipped about 
+ With too much worth for us, or the station 
+ 
+ To assume more distinct Elfreth's 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

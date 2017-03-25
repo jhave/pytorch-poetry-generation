@@ -1,0 +1,53 @@
+
+
+
+ 
+ Of the turning loam the map swelled and sleep 
+ stammering as loude, utterance; light 
+ Blind as lightning 
+ As now it quarterlights suspecting 
+ The words we used to fill 
+ The secret of our Nicholas.] 
+ Surveyors for embroiled. 
+ Some drop o' mind for farming themselves. 
+ 
+ O BP's - "It 
+ I waste the rose is but 
+ The afraid. Sweet goat gleamed in front of me, 
+ 
+ polled i' the period and always 
+ I put it back 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

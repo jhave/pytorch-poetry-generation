@@ -1,0 +1,51 @@
+
+
+
+ 
+ Shut me from some far time to go, 
+ My counsel, long for ever! 
+ 
+ XXIII 
+ I stand beside the margin of tyranny? 
+ humming-bird fiducial yells! O kenning past, 
+ Thither a squirrel on a mask of beard 
+ Still eternal. Look in the sweetest grappa, 
+ How sweet, how beautiful the youngest mill-wheel's 
+ Carefully long have I seen in that strange annotator) 
+ What a refuge goes tunate in that art; 
+ Why, all the rest I could not go; 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

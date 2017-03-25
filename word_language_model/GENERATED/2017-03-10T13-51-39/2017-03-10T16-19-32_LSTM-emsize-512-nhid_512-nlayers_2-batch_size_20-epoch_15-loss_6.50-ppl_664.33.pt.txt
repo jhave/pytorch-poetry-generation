@@ -1,0 +1,49 @@
+
+At All, 
+
+ but all the block when the tide part, 
+ what once it seemed, and fully. 
+ for 6/8), dewe or rhapsode's 
+ while demoiselles own, 
+ the big plates of his shoulder: 
+ Well-milked waiting, knowing invisibly then 
+ what it would be, like the shell of words, 
+ a working larger word of the infinite PURITY 
+ who feared things that leap, and pinched 
+ in one other's curved unmanageable glob 
+ of rust, and spent new flowers, sulk. And here, the tear 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

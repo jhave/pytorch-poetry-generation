@@ -1,0 +1,46 @@
+
+Was A Whole Lady 
+
+ Makes him cut her head makes small light 
+ And soft laugh tied her finger, on the gate: 
+ O, hear, child, miss you! . . we are not "Draw 
+ That even if lively beauty can be painted a way. 
+ Do not believe her more will surprise. 
+ Life, take love with me 
+ An' you jump with her fan up near the pond. 
+ (But for each minutes, I will rather get rid of hangings 
+ For the narrative of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

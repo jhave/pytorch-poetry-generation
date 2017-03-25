@@ -1,0 +1,54 @@
+
+Winter'S Light. First 
+
+ Nothing could not be seen 
+ of the grain or song. 
+ 
+ 
+ 
+ 
+ 
+ from Catullus 
+ 
+ 
+ There, among me among the ruins you marched from the dead reach who met your story 
+ moved understood. In this fat world you carved a small poem to the underworld. 
+ To be business enough, there shall be cigarette 
+ Look 
+ and see you again I am still 
+ for the first 
+ second & and how I'm saying, I'm 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

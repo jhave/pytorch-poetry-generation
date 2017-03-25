@@ -1,0 +1,49 @@
+
+
+
+ Byfield, 
+ 
+ A little bit to the ground but bled 
+ So far, the human heart when brings them now: 
+ The relationship of illusion, and the lond. 
+ The Patrick of the cross, and the soul hit 
+ The comes from Girl's Near heart 
+ Is a tune out of garden 1900, or logistics-- 
+ The Parson scholarly Irish king; 
+ The Nymphs feign'd: Deever with the unhappiness; 
+ Heart Commodious from the humors and the Tower 
+ Born to eclipse the ripen'd minstrel openest 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

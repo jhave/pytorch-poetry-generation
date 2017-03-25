@@ -1,0 +1,59 @@
+
+
+
+ 
+ Do God sing? let him stay before me; 
+ 
+ He hath wandered through her white gown to tread, 
+ 
+ And he knows whether she is dead; 
+ 
+ Madero. He boils in his high head 
+ 
+ dispossest drinking legs, slipping height. 
+ 
+ He takes; Well, no one can find, but no more; 
+ 
+ A pardon in her parts gazing over hat 
+ 
+ From right than rhythm, a fence? 
+ 
+ 
+ Stones finds peep. 
+ 
+ 
+ He never came 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

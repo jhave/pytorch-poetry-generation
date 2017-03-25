@@ -1,0 +1,50 @@
+
+From The Heat Or Light, 
+
+ Where I go in the stuck sun. Then there's Dan 
+ cosy breath on my right arm which is still dead 
+ From the final far dance or a picture. 
+ 
+ A quarter Anselm with wrath; 
+ matamore 
+ You have some ways, 
+ earlier 
+ Empty & harm for you or hit yourself 
+ Go down, my hands always draw 
+ namers, your purse. From it he goes 
+ lordship's and sundered so much to see a naked man 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

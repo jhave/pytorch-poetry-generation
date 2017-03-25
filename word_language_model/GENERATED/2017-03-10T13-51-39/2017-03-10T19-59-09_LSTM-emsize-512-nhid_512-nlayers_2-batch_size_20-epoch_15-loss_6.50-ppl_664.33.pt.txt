@@ -1,0 +1,52 @@
+
+
+
+ They have more. 
+ 
+ The other are roasted by the common time : 
+ In every far ship I stand in a low descent 
+ To scatter the barbed men under 
+ The stink of some else's rib glass, 
+ Look about race-course, as if they were told 
+ At grace, or ever cried. 
+ 
+ Even here I'm dying without rhyme 
+ When you lie down, Faustine. 
+ 
+ A endless bracr, on the dark, 
+ And the Baker trail athwart the walls 
+ That 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

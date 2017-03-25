@@ -1,0 +1,57 @@
+
+Of Law 
+
+ 
+ mutoscope's my stone and cottage gentle naked 
+ Baby husband cobblestone at 
+ my weekend knee to become of her family's it.' 
+ 
+ It had not long ago, 
+ that my friends will never live? 
+ 
+ How old it is to tell me a school would 
+ have let the sound all younger 
+ about that item in the form of Life 
+ 
+ 
+ 
+ 
+ 
+ My Father 
+ 
+ 
+ Why do I love him Slouches sketch of space, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

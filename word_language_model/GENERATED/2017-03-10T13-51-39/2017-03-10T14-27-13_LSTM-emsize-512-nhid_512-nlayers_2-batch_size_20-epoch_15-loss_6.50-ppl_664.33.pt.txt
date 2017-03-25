@@ -1,0 +1,55 @@
+
+World. 
+
+ 
+ "Are it happening, it said, 
+ Seeing that when the chicks first went out and pursues, 
+ Or pave in black Hostelry or pastoral sings! 
+ 
+ "The boy who forbids the flawed gang 
+ Of two most world-old One night of night 
+ Which perfect morning when endure the day 
+ Was seen by cheerful Harlan named 
+ In Heaven's tomb! For all kinds beneath 
+ Those pleasant powers that are powerful 
+ uncreate; and understand what land. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

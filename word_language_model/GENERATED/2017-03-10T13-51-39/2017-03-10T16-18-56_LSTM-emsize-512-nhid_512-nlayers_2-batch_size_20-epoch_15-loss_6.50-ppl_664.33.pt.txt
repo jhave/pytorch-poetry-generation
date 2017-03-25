@@ -1,0 +1,57 @@
+
+
+
+ 
+ Across the alley grave, I have spread 
+ Into a marvel of the breathless toilet 
+ And curs'd is my own; 
+ The bright acting. lashed back to the Ungladdened 
+ Of a dancer hidden in an detail, no bisquit, 
+ Beyond seaweed its windows of sunset 
+ On a wide soil by the roof, its bright shadow 
+ Hung toward the core of no sound. 
+ 
+ 
+ 
+ 
+ 
+ Briefly Birth 
+ 
+ 
+ Forever rises 
+ like a loon. 
+ Whom was 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

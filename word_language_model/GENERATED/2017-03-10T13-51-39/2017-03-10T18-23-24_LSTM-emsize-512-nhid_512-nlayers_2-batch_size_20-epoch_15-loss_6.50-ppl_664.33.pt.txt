@@ -1,0 +1,49 @@
+
+Eyes Toes, 
+
+ nocturnes chambers like a flame, 
+ Lives at the end of time in afterthought. 
+ Whatever we feel like it and 
+ And allow dim soul that there one another 
+ For a long time, Ramses* that calls 
+ hyer in distance, and may affect 
+ This lonely sanctifies Uncle-cousins, bridle, ben 
+ And walked into the darkness, and hold it closer, 
+ As the bird cuts but the rustle and survives 
+ Doth know the power of love shall yield, 
+ 
+ And better 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

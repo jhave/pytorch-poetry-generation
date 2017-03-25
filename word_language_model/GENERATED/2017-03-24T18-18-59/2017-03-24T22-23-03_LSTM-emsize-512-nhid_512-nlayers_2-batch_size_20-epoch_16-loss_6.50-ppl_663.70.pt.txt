@@ -1,0 +1,48 @@
+
+They Talk To Person-To-Person 
+
+ Sure they live in such a place as well as night 
+ geflsod, till the ones shall full, for even light: 
+ 
+ Nor did the weaker air? 
+ And no Prison 'tis shaken at all. 
+ Only freshly Bound in the diminish'd, 
+ Don John lays Theology gave way to school. 
+ And why, when the Flood "Shattered have first 
+ Keeps one of the Zulu curse; 
+ And themselves still will write a pumpkin tear, 
+ Also my smile? I'd throb 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

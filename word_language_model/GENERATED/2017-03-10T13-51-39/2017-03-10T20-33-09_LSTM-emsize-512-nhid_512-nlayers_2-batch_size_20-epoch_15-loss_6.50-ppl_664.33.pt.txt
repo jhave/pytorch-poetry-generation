@@ -1,0 +1,56 @@
+
+To Know 
+
+ How does a field so fresh or strange. 
+ Words never bone. 
+ 
+ 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ No sooner says the nymph blessing's me: say you anger. 
+ As long as I may, your last Santa poison prayer. 
+ And if your life be bemoan, you should match it with woe. 
+ 
+ ps not tensile leave what you behold 
+ Where trees hold boldly-to the cloud 
+ And the dark waters articulately, and the sky 
+ Is well." 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

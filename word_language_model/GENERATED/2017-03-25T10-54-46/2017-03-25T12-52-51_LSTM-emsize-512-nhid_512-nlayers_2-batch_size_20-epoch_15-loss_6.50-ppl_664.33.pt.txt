@@ -1,0 +1,47 @@
+
+There'S Never 
+
+ colored shapes on the now. 
+ 
+ He wants to spend this, come in. There 
+ is always hero in Horton, stormy garden, 
+ in it, all along the beach of the porch with news of his power, 
+ darkening again, shouts inside, crawling toward burn's tongues. 
+ He prepares the piece of what had been confused smoking, 
+ pretending he would eat, and he would into another mist, 
+ looking with a line,-- instance later Kennison, 
+ or six yards of New York page, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

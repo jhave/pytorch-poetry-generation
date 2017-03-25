@@ -1,0 +1,60 @@
+
+In A Moost 
+
+ 
+ 
+ 
+ You shall be struggling the bird and the light 
+ sings words being a body, 
+ naked in the mouth of fire, immortal man: 
+ the night, the sheen of churches and bone 
+ as though the wall was sliding from this sea 
+ and around the cup 
+ 
+ The sun is shaped Katmandu 
+ so the climbs, blazes 
+ to the dust. 
+ 
+ 
+ 
+ 
+ 
+ Conrad River 
+ 
+ 
+ Here I believed 
+ all the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

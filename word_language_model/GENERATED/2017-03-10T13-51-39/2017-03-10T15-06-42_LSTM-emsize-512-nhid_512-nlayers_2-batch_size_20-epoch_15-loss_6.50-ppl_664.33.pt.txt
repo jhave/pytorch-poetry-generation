@@ -1,0 +1,55 @@
+
+Light. 
+
+ 
+ Now I follow the pillow of the bay 
+ then missing to the center before it curving it is 
+ the way the clouds seeds underground in my head 
+ and I know of this poem there is something 
+ in the next of Santa 
+ machine singing of the ruined State and the evening 
+ in the garret and desperate than the sky. 
+ 
+ 
+ 
+ 
+ 
+ cobalt. 
+ 
+ 
+ Sleepless storms of play 
+ and fall towards the wave, where 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

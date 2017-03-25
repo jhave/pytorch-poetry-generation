@@ -1,0 +1,49 @@
+
+
+
+ Shields, "over, and seductively 
+ On the rich gates' Valleys, high'r; 
+ Like floors of birdcage, so that they so 
+ Are clothed with lofty teeth, 
+ apartment; thro' each winding rustling things 
+ Through silver, legion of an hour. 
+ I only crowded where I lay, a sight 
+ To feel my head, I consecrated 
+ The first part sunny of my loss, 
+ The Church in "Ke-day, as by old, we named 
+ The pomp and glimm'ring flames of dubious pride; 
+ The bully smile 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

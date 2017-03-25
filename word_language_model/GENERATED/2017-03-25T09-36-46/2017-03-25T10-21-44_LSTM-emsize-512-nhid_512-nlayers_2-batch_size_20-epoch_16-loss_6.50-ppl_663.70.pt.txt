@@ -1,0 +1,49 @@
+
+Audible Drips For Espy, 
+
+ Where slender coil are hush'd, and breath 
+ Comin with her laces, as white 
+ Elsewhere before the floated west 
+ Astor hurrying ground, 
+ Sharp tresses staining her hips, 
+ Finding dress which never hidden late, 
+ But lies with shadow, springs to blowsy 
+ Awake, Its World; and simple throne, 
+ Where all alone springs in the sun's dark corpse. 
+ How souls enjoy, how ignorant, how Embarrassed. 
+ Sail to our country here, through planetary climes; 
+ Which may noble 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

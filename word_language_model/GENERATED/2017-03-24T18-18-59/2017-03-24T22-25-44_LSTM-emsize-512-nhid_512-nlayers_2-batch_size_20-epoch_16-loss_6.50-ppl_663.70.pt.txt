@@ -1,0 +1,67 @@
+
+
+
+ 
+ Someone intended as food. 
+ 
+ and has strength so frothy cars, 
+ 
+ pheromones, Bible, leans down, Broadwood walked, and goes; 
+ 
+ 
+ innocence, 
+ 
+ uselessly as "Raining a t'ink with 
+ exprest? immigrants choked 
+ 
+ * * * 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gods, 
+ 
+ 
+ ... 
+ 
+ The one colonial fever? 
+ Shanghai. subject for Souls' dead. 
+ 
+ VII. A delightsome, differently, A woman has named a strange. For this for briny 
+ unshapen, at 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,47 @@
+
+Word- Efficient In The Deeps. 
+
+ 
+ Tell me it was a nylon interest. 
+ I guess I was not by the clay. 
+ Them Adam by a broken and white ocean. 
+ And I have the same and falter through a roof. 
+ Say quicklime as dynamic long-estranged 
+ Against stuff; a dazed fracture 
+ In a yellow ray. At purify, a boy, if 
+ The lot as I could discover the sun, grene, at liquor 
+ As small loves as was full, brought on by a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

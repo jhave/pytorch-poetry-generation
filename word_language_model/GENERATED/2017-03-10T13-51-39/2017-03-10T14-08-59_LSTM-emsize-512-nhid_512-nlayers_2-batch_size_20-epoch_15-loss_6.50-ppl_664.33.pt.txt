@@ -1,0 +1,48 @@
+
+(Habakkuk) Crone Resembles You! 
+
+ 
+ Adam the wars of my wooer I led him from fire. 
+ His blue eye was, she dreamed. 
+ Now yields by stern hour, by old black glade 
+ The singing drops, now with all his might, 
+ His gentle treasure for a long time, 
+ While he stands at the edge of the road, -- 
+ A third battle-shod six strong, sad array, 
+ And an older native space; 
+ The dream the girdle best of scented farms, 
+ And the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,49 @@
+
+Gone 
+
+ More than strictly knights ... but will I rest 
+ Upon the dress: am I not mine! 
+ Whenever I'll call my despite; and now would grow, 
+ You've gained this jest brought back my memory, 
+ Out of the black old cliffs. I've seen the disputes-- 
+ Unto my knees a shining blow, trick; the pine! 
+ 'Twas other companions, sweet philosophy with gebad, 
+ Bradstreet, "Whence Beryl half an empty bed. 
+ 
+ despair--when noose, 
+ 24.9.42 vit coral 
+ On the night, Sneak 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

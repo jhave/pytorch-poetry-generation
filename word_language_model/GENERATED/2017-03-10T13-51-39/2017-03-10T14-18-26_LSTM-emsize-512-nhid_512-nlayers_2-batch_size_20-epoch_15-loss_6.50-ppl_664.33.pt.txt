@@ -1,0 +1,53 @@
+
+That Twenty Days 
+
+ Doubled-naturd very still was lazy, 
+ And time and day, found all the time, 
+ The way of life was very much too quiet, backrooms, 
+ Like Wolverine without a footprint. 'Twas strange 
+ To be served at i' of sin. Love and 
+ The year 
+ 
+ yestreen" and then 
+ More small. 
+ 
+ 24 years later a way ago, 
+ casts up your body, your heart mid 
+ 
+ Whoring's volcanic, slip 
+ Into the shadow of sap and moon, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,56 @@
+
+Sang? 
+
+ 
+ Or, this day the early night; 
+ When all the world is lost and rude, 
+ Lovers are Thicket wants 
+ To ease him out with blood." 
+ 
+ 
+ 
+ 
+ 
+ Elegy to refuse the li'l 
+ 
+ 
+ We put two steps to the stove in conform 
+ 
+ As far as the idea of an being's experience, 
+ Was a light nothing but sound record a piece of 10-9 
+ 
+ When the first child, Bartholomew of Death and me wakes, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

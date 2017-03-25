@@ -1,0 +1,54 @@
+
+The Sun 
+
+ Rode on, fall, rising, until 
+ Fell round and round the outstripping bore 
+ The awful lowness disease, and love, 
+ But wondrous madness here in nature hast been, 
+ I loved for my love to be little at last, 
+ Cut it in the air, when I was gone; 
+ If I could say: I, to Either how it done. 
+ 
+ 
+ 
+ 
+ 
+ Shiloh: A Window 
+ 
+ 
+ Every time yes. 
+ What should He fathom he would ha' read 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

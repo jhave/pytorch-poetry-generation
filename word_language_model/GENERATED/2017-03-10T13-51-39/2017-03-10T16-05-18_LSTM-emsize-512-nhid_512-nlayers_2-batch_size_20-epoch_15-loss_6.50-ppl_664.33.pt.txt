@@ -1,0 +1,56 @@
+
+
+
+ And face. I folds-- 
+ 
+ And sore by year, feeling lightly 
+ 
+ Upon an iron, Emily's Lice 
+ 
+ And I will walk upon my finger to make 
+ 
+ Send after name a record equal here in 
+ 
+ And even end by that, out of the earth's great quivering 
+ 
+ The farthest wall of an empty crowds 
+ 
+ For the Woman's slantin' in loitering, 
+ 
+ Staring into your bosom, whisper and you fling 
+ 
+ A fine green plume that 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

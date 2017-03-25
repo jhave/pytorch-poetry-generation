@@ -1,0 +1,46 @@
+
+By Crimson-Petaled Battle, 
+
+ no larger than time's attendant bricks. He's no 
+ name, no good in the blame of the flames? Winks. 
+ Great forgotten to the power, Pura or, or Den; 
+ in bickering with scented earliest ribbons washed 
+ by the bough was reboard. for the watcher of the stained clay, 
+ they got up waking, when did you try to wear, 
+ Come, and not of work, for some serious interest our sins 
+ with the four-legged fouled profoundly, and most of sleep, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

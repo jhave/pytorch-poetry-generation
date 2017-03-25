@@ -1,0 +1,49 @@
+
+Words. 
+
+ 
+ Why but our fathers having received, 
+ What can the foolish war they have quarreled along, 
+ Shall our day hold open to us from love, 
+ Happy if men would not bide in theme and youth. 
+ 
+ From the same disillusions a ebbtides good from all things lives 
+ Are we all once of some, it would have proved prepared 
+ "That he felt there was here only that of Time. 
+ 
+ XXXV 
+ She had closed her teeth whereon she took 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

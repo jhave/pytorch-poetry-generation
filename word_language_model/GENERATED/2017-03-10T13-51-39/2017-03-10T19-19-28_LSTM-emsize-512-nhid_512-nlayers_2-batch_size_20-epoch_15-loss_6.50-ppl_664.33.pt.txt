@@ -1,0 +1,48 @@
+
+A Turn To Cry 
+
+ 
+ 
+ broden for the font to thy father full of affection at utmost, rats, whom she breaks back 
+ with a mountainous finger of searchers apartment of finding 
+ one's needing . . . two, scattered blankets on the arcs . . . 
+ Deserts of humanity in reflecting Francis 
+ of a endless nasal gave of weariness, 
+ maps of cares and 1964) 
+ Outside in palm the world --Gertrude 
+ monstrances tiny roots, now breathing 
+ the official, has in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

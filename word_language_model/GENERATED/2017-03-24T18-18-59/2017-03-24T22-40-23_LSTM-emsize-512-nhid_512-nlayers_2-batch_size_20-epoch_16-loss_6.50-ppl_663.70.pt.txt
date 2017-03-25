@@ -1,0 +1,54 @@
+
+
+
+ 
+ Did they believe that God knows and his charge. 
+ I give each ways a story between which you carry, 
+ King grass Ida, Weep save if I touch my eyes) 
+ "Let none look at me, more in me, 
+ But that her hurt is only taketh me; 
+ I bear the only woman, give forth, God and man. 
+ 
+ 
+ 
+ 
+ 
+ On Several lang Monody, in the Air beside the Dark and definition. 
+ 
+ 
+ invisible: done in me? 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

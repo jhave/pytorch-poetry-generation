@@ -1,0 +1,51 @@
+
+To Meet Malice? 
+
+ 
+ Then the noise of a woman we sang, 
+ The color of tract 
+ trembles on on a velvet patch death 
+ Break out her throat through the air. 
+ 
+ Three walls seeds 
+ Far from evening other slackening chits 
+ Beneath the numbered as crows in a cloud, 
+ Fixed the heaped views of beef 
+ //(allen heads that were taken and Bull 
+ on--from in reality that makes them free 
+ To purchase our God of our pilgrimage 
+ hotter 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,51 @@
+
+To Look 
+
+ like the whitest knife in a coke. 
+ 
+ All of us shall the trees be spent in the waves, 
+ stand siren of night? AGAIN:) 
+ 
+ the basses of plants are with dark lips. 
+ They are S the earth in our world 
+ our mothers are open, the last 
+ girl's tongue is ready to take themselves in flight, 
+ hurt her eyes gradually and then 
+ 
+ Mrs. Farborough go by the rabbit 
+ and on her loins 
+ Christian and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

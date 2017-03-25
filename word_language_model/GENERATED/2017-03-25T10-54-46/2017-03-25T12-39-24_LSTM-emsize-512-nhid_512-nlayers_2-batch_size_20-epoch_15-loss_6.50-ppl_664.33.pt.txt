@@ -1,0 +1,48 @@
+
+L-Shaped If Everyone Sometimes Last In Dreams 
+
+ thrill will come in refin'd, 
+ refusing for mara tunnels to believe 
+ everything is like it happen at sea, 
+ And I by west in this balloon flower of the settlements 
+ Hall after a million broguing 
+ Saying, O Darling of marreth the right 
+ Face theef 
+ picked firm-fibred Grandtully Progeny; rode around, 
+ blind bones tied softly snagged in socket, 
+ stirring the rifle soft hammers to melt, 
+ listening to the window's powerful hed holding 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

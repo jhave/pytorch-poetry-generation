@@ -1,0 +1,49 @@
+
+The Rooftops 
+
+ The sunlight is like a balloon 
+ Already blood runs out, words like music entering eyelids 
+ swaying over clouds, pickle-tub-boards, a yellow mound of red brilliance 
+ So caught about it hot as at several times. 
+ The flock ghosts? 
+ they cool. They don't 
+ say all the right changes 
+ of our kind fact. It's that it's good now. 
+ Once there are people two people speak of boys 
+ like those who refuse red 
+ or just and are setting 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

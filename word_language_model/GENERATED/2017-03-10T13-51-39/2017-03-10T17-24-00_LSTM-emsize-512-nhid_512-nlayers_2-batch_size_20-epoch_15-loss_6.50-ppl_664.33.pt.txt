@@ -1,0 +1,51 @@
+
+Vesica By The Ache 
+
+ between Friends that are here illuminations 
+ 
+ Above the famous city's domes 
+ of wild angelic voices 
+ that vanishes between the tawdriness, 
+ poking across the Restless of Cassius 
+ who fingers to studious by answers 
+ like this house or leaving 
+ a Pooley, or a pang 
+ in the invention 
+ when we have no other casual report 
+ and has to be still, for the tired recesses 
+ of his life, which is called better 
+ than my 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

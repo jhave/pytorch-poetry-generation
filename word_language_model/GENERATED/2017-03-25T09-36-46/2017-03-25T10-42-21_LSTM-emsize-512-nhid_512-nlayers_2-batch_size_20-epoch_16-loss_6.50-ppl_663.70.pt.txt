@@ -1,0 +1,49 @@
+
+All Those Men Will Rest So Close 
+
+ They eat peace different from this poet's heart. 
+ The other side is left and as one did ride, 
+ DOES idea of harden; dews--my 
+ And sweet with orchard and the rest doating 
+ 
+ Of the world that fused to hell and not forget. 
+ 
+ 6. From defence that "Faith, towns and twos 
+ With glaring brother's balls owned, still, 
+ Where the rude Impatient, are Twas out by heap: 
+ 
+ At now, in all the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

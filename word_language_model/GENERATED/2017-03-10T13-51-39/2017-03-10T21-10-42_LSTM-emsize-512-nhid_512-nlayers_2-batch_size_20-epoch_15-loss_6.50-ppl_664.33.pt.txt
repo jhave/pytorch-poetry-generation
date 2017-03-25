@@ -1,0 +1,55 @@
+
+
+
+ The other sort you abandoned. 
+ 
+ The nights by our groom! 
+ Red cuffs are kept, while they are done, 
+ You laugh, I have found whelmed, 
+ Seamus? 
+ I'm sure, I'm guiding in the night 
+ 
+ Or never nudge, ulcers or kidneys yet daresay 
+ 
+ More than a clod 
+ 
+ 
+ 3 
+ 
+ We reckon as this room. How can the patient 
+ ideas of Haydon: The summer bulb 
+ Is coming over with its wings and its smell once 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

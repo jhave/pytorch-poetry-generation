@@ -1,0 +1,45 @@
+
+Mouth, 
+
+ not to be the value more or less glowing; 
+ But I half-starv'd say I fear it. 
+ A little signature, no, this old man, 3AM word, 
+ so it isn't possible of a birth-letting yet someone else is not one: 
+ Speech isn't his winter--walks, who is now. 
+ No one is anywhere better, he comes to watch us, car stand 
+ on Kinnaq's jointed feet a gray hermit where it slips down below his forehead 
+ while he smiles and drying his face reflected 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

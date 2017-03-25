@@ -1,0 +1,64 @@
+
+
+
+ The child with ashes buckeyes paste. 
+ 
+ The field filled with Babel, 
+ the crescent of light falling like a waterfall 
+ from bakery, 
+ On ingesteald sail under 
+ a jo, room many 
+ breaking into that dulled; 
+ 
+ exchange for complainings 
+ whose care 
+ 
+ 
+ 
+ it seems to enter somewhere 
+ 
+ 
+ 
+ 
+ X 
+ 
+ 
+ A doll before you sell me. 
+ But to be XXX 
+ 
+ The crystal sand has come, 
+ all that 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

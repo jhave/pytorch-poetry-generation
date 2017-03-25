@@ -1,0 +1,49 @@
+
+Unshaken By Poverty 
+
+ And ears and search us as we go,i 
+ Thou, and shall we divide the Prayers. 
+ 
+ First, for those who have read so well. 
+ 
+ Out of the dusk, I wake to view the Sons of thought the race of light 
+ And of the sins and passage more than him, 
+ It is most eagle in the shoal, 
+ Full of many sweet woe, sweep--chiefly 
+ Does an unwounded pebble weye; 
+ Swift as a king, a virgin voice, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,48 @@
+
+And Bran Of Hell; 
+
+ Through days of the realms of the angels played, 
+ And the gulf continent's soft and mostly all that it was, 
+ To spin our cheeks with entirely cover 
+ The hornd shore May 
+ The thunder held bright desirous, 
+ In the scent of dust and splendor of repose, 
+ These winters have vanished from the neck 
+ Of mere joints, without knowing death or spring, 
+ We would be through, or here; 
+ them, or any fear of England 
+ On 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

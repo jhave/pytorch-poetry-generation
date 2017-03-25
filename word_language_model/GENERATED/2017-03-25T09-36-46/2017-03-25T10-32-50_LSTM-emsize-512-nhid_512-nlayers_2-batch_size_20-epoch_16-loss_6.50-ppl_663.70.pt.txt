@@ -1,0 +1,47 @@
+
+Right Friday 
+
+ (that bleak cold summer sunlight reveals 
+ What they have lived for headscarves, and Love as now. 
+ 
+ Not dolls, save you, stank. 
+ Come, however I have said then I see last little train 
+ Save that is going out of aught but there is no way to be 
+ A little second, land which blows itself off and leaves a swan, 
+ Flying with a perfect book, 
+ And then the iron green paint and the ringing firs; 
+ If it were 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

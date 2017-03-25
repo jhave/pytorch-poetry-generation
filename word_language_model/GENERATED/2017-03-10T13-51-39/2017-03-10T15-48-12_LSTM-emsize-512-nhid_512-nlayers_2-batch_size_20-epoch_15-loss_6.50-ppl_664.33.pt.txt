@@ -1,0 +1,51 @@
+
+
+
+ His theatres, blood, they One-sided ill, 
+ He interplay his fame, their strange loves, 
+ And for the furies of Survival 
+ Near class's whiskey, Edward W. sondry higher. 
+ 
+ dinged-up 
+ Don Sisters in the place, Field for Death and spreading. 
+ For it is also a winner, 
+ For none of Kindergarten Margery enchantment, 
+ O'er the stream the loin-sprung doors, and bursting back 
+ That in the mandrakes, came by sullen Wanton, 
+ He glides alone up, flies support the dead. 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

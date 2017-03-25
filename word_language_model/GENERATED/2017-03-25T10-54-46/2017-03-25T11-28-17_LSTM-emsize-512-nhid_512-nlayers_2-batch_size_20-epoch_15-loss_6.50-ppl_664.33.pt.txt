@@ -1,0 +1,57 @@
+
+With Us, 
+
+ Spanish, 
+ Country. 
+ What makes the air stirs 
+ Through its form, 
+ And its eyes neglect 
+ 
+ This is Dollhouse 
+ This world is clustering 
+ 
+ And yet for distinction 
+ This made it substantial, 
+ (Officer ever-hooded, geong 
+ This small couple round to a cloud 
+ Now to you: 
+ all believe at once 
+ All sitting in the opening 
+ A red boat is burning, 
+ A lies? lantern 
+ Over the mountains & the cock's leaves 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

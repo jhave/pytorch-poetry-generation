@@ -1,0 +1,49 @@
+
+Possible Tending Tail!' 
+
+ under the hidden mouth. sow's men 
+ shimmering in someone's clothes. 
+ Knowing the word was born then grown 
+ Oversleep, shaped like cooking 
+ down the needy lip, the day 
+ on earth and sun. 
+ 
+ Perhaps as killing an Edward's cave, 
+ Lifts each point the other, and the brown 
+ who stands right into a golden pool, in fear 
+ that rises in tidy wisdom growing their way, 
+ as if they were just the same as they have the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

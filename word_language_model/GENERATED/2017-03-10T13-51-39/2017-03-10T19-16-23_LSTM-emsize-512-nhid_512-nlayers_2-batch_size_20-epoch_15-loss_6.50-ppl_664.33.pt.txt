@@ -1,0 +1,46 @@
+
+And Chandeliers For Ashes, 
+
+ waiting for a few years, among them, 
+ weight, pure as October leaves, lifted 
+ In the crystal sand. On the desert evening comes the one 
+ Near the other side, amid the morning and over are flush 
+ With curses and patting the sabbath verticals up, 
+ The piles of serpentine grown forth at song; 
+ The moment is the holy woman, the Seltzer in the spooky shape of the raccoon's 
+ excitement, dumped on empty sheets broken the Imagination. 
+ Oh 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

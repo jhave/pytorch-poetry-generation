@@ -1,0 +1,47 @@
+
+Elbow Matters. 
+
+ 
+ I never think of my piercing place, 
+ What if with us how rich and wielders are bright. 
+ Try to view reality -- the stairs are near 
+ And if the brain keeps beauty from its heart, 
+ Some more secretly in the stuff of mine. 
+ My cure in my hand, I like the youngest, 
+ And there's how who offers us? "You are a vault to be beautiful 
+ For the Last Absolutes If it's that you think it not. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

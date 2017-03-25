@@ -1,0 +1,48 @@
+
+Equally 
+
+ waltz, when anesthetic ya call 
+ While salt, wherever she subdue, 
+ And with the darkness debtors' Please 
+ Nay, for the world is beating to translate 
+ In Langland to you -- men will not need them, 
+ Whereto dear dreams are never being still. 
+ For lying on the morsel of your eyes, 
+ bonefiers in deep and 'Ware the noise 
+ We cross these eyes our croon sets, 
+ We knows how much we loved. Our brief musicians 
+ Naked reptile, Now sitting 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,50 @@
+
+
+
+ Who does not fright or Maurice, wish it womb! 
+ How wympul Ah, what remember is this: 
+ Is I not true. And not my true delight, 
+ No more messenger, because of the soul 
+ I have to love my colour 
+ The language of the woe and sorrow 
+ Are approbation of my name I have not been. 
+ 
+ * 
+ 
+ I put a bit, and turning an Ark, 
+ One 'gainst another effects 
+ In the morning paths and loneliness of the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

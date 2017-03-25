@@ -1,0 +1,55 @@
+
+Meant, Or Evermore. 
+
+ 
+ 
+ 
+ 
+ 
+ An Little Crow Elegy 
+ 
+ 
+ When the moon is swimming on; 
+ For you dying to me, that once we should call back 
+ To the whole Town Biting the dews, 
+ The building over your head and breast; 
+ The weary trees, the locks of the tide 
+ Where you could lay away this self-same blue. 
+ 
+ On evening before the river had you sent; 
+ Also, for one chance shortage with the snow; 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

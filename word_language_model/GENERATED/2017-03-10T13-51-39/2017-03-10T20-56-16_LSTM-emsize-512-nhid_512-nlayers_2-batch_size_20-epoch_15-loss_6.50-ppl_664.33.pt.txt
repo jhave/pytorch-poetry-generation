@@ -1,0 +1,49 @@
+
+Raft-- 
+
+ Aunt vanity, glowed! these, 
+ Whenever she, whom the Thou my son multiplied 
+ And I amongst the leaves I whisper thousandfold 
+ White savour of surgeon's deeper gold, 
+ For there the necessities is naked. 
+ 
+ O feels of man's tracing of summer. 
+ And that few bones, one short and all, 
+ Like other men by which, when have begot keel 
+ twenty-six. fruit while yet the parson knows 
+ Sunk in Heav'ns Sentenced vault and saint 
+ Doctors and pretend of what 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

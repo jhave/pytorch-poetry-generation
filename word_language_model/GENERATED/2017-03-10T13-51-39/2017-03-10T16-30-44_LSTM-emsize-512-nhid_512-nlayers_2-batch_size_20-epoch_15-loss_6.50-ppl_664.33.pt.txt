@@ -1,0 +1,48 @@
+
+Stands Awake 
+
+ In the temple, and the deep husband moves 
+ Down up all hay and wandering down the spaces. 
+ 
+ "O mother, ah the night and your soul's doom of mine, 
+ To write my every sunflower, be your fate. 
+ What's this, although my heart finds no more? 
+ What frequent spread the dreary meteor slain, 
+ Have seen a prey of sending off a book: 
+ A hero ceased to suffer then sees 
+ The pious intellect, that feeds the breast 
+ Stretching 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,63 @@
+
+
+
+ is weighed among occasions? 
+ 
+ 
+ 
+ 
+ 
+ Sailing home 
+ 
+ 
+ It's pale, and envy of my ulcers. 
+ Can I look on head at this table 
+ Or you purchase waiting for reasons 
+ but when you're it! 
+ Come down here, 
+ Do you see? 
+ Eastern Nazi.) 
+ You valour, pretenses, 
+ Britons re munny 
+ country's ripeness! 
+ 
+ Friends, give me Passion, 
+ That makes me three 
+ Strange persons in 
+ A perfect body. 
+ 
+ They 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

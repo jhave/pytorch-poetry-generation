@@ -1,0 +1,48 @@
+
+Of Joy Or Face, 
+
+ And a arms whose fingers arrive. 
+ And how it protects them, 
+ I'd just mother suddenly see me 
+ Come and see a hole in the gate, 
+ Till all over perswasive meadows wander 
+ At this journey Zhitkovski's and her cry 
+ To saints or flower her dog all waste and straight 
+ And vases over the midnight; for 
+ The original swarm of a holiday window. 
+ bodice. is she, and for love, the which 
+ To him, T'his the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,48 @@
+
+The Dark Malawi.Meanwhile 
+
+ Grandeur sewn on and takes my attention, 
+ freely to cool up in flint in the Basan, in the stoop 
+ to a branch hut. But it's using I'm going 
+ forever, little birds, somewhere, listening to the window 
+ where someone shifted satires, blood 
+ imperfect nothing. Nothing will be laid down baling 
+ West to a porch near us. My body 
+ kept out us--we you couldn't understand. 
+ 
+ Heart-strook and ceremonies would be changed. 
+ My last shadow set off 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

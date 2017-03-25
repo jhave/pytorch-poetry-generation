@@ -1,0 +1,48 @@
+
+Head, The Rear Of Scum 
+
+ Upon his births this sent: 
+ 
+ XXIV 
+ O the eternal leaf, no power shall hold, 
+ Tho' ever or tomorrow or time,-- or sense, 
+ A quiet, as a dividing dawn; the God 
+ Whose right hand is bold and darling, like a wine . . 
+ Will bring their eyelashes from hands to shine in bloom 
+ But from the gentle cities in the lawn, 
+ fruitless, there in his cane to make Morpheus 
+ Of a merry pris'ner 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

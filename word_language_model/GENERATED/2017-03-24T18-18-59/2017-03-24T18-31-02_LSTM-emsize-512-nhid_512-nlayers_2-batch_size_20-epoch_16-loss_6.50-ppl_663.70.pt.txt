@@ -1,0 +1,49 @@
+
+32Nd Grace For Fear 
+
+ pigmies provide as well as mere declarin' 
+ Now this the joy, the manners brown and sure, 
+ That we have finally bricky-dry, go; 
+ Mourn thy neighbour from the sacred mind, 
+ Wise who by spirit can be set, 
+ They grow where'er thou hear'st the clouds; 
+ Till in no genial changing shade 
+ The gushing spirit of thy frozen gaze, 
+ The common wells that measures thine 
+ For thee is read, and birds depart. 
+ 
+ Predictions. me, who 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

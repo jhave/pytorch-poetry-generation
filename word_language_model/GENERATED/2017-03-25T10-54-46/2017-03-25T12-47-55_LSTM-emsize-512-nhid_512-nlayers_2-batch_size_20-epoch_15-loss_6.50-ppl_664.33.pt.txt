@@ -1,0 +1,54 @@
+
+Of The Sun, 
+
+ Theatre, luminous Amalthea 
+ listen, a single stain 
+ Where a great world moves to kiss 
+ Much blade dreams Whitman magic sound 
+ In the room only 
+ formed woe of approaching water-- 
+ separation. What precious sub-surface. 
+ At its approach 
+ Adding toward the nurse, 
+ Or a tender say. 
+ 
+ The night hath a Emperor of cattle-- 
+ And taps--exactly at their cradles 
+ That flesh has settled as biforn 
+ As Dryades have killed the whole, 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

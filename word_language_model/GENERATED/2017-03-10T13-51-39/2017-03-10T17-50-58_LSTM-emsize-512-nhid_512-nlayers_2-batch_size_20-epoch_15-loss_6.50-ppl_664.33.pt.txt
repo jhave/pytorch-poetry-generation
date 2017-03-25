@@ -1,0 +1,51 @@
+
+The Sky After Night, 
+
+ Everything like another meeting in any little room and sleeps girl-child 
+ Straight at calculation with the pencil popped by the perspicacious clock insert his lisp, 
+ Heaving up a shelf, the brown smoking. 
+ 
+ In this I most took buy, 
+ I saw my mother's frame. 
+ 
+ 
+ 5. 
+ 
+ I go far already through the quiet grass. 
+ After I lived alone in the grave of my life 
+ That I would never have responded 
+ The tribe 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

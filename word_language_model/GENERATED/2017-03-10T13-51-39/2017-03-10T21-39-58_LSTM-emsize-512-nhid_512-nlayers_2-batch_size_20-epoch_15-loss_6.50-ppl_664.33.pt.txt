@@ -1,0 +1,52 @@
+
+My Purer. 
+
+ strowd too large for me, away by me, imblaz'd, 
+ the garment of my company, its fingers more!' 
+ 
+ 2. 
+ mitten, TO THE EDWARD knife, a ring of rag 
+ blown up a milder meal-times, or the pails 
+ of entering. Bedlam's Crust duldul, 
+ molt. les su house--left is man, 
+ when 
+ 
+ the lonely napkins, on glyphed 
+ black rooster crosses forest hour: 
+ phosphorous veil of stars, and trees spills 
+ with the horrors of madd'ning hours 
+ where 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

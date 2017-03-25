@@ -1,0 +1,49 @@
+
+To Reconcile 
+
+ the force how bliss a shuttered thing 
+ is due to be said tubers. 
+ 
+ "I need to serve my softest Princedomes, 
+ Pollack Its me--this I Aire? 
+ 
+ no, there's a certain I don't know what's right at all. 
+ It pricked a lot that kited a pail 
+ Of life the way it can, wide in the dirt 
+ And I knew it as a first-rate always saw 
+ A grim and pearles as the table stands, 
+ Foredoomed with music, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

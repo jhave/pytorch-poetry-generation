@@ -1,0 +1,50 @@
+
+
+
+ 
+ Entirely, Call-- And the eastward, 
+ lies. In my motes I grip the toothpaste 
+ In my glance, on the hand, I carry my arrows. 
+ 
+ The child who had saved my breathing dead, but I 
+ So dearly that he wolde 
+ Have died somewhere, and tramp, by the mariner's 
+ Line away from Ford. Look, he said, 
+ "The awful end of Mars, a woman 
+ stained with pins and CYNTHIA. 
+ Love baritone from, arms--until do not know surreal? 
+ I am 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

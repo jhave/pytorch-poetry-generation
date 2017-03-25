@@ -1,0 +1,55 @@
+
+
+
+ jig! muffins. 
+ ones! are sharpening vast new figure-eight 
+ But yet, the summer is austere 
+ By the women and birds. 
+ My heart's loose paws and whips 
+ Is all my plates, 
+ With humbled, hum, 
+ Blind, high-minded 
+ Orcas' folk Enacted astray; 
+ 
+ criss-crossing like my lying, 
+ leodcyning, been unattributable, 
+ Yet for given. 
+ Touch not the smoke's tomb; 
+ Dost thou be, in a temporary Park, 
+ q. the storm wan, 
+ And, gasping wi' the buds; 
+ Himself 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

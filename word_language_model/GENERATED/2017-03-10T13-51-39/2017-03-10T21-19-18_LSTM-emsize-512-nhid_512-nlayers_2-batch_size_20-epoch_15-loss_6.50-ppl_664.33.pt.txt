@@ -1,0 +1,51 @@
+
+Enchanting Corrupt Our Pray One Of The Healthy Alchemic 
+
+ 
+ freefoot 
+ And pervasive denounce quarrels, chaotic. or racked, 
+ Make sense turn on ancestress listen again 
+ caller in the night, Singleton article, 
+ Haste upright, take the Mayor, take away the same. 
+ And it's more: the cautious moister. 
+ 
+ They are not the illusion of the future. 
+ 
+ How increasingly sometimes before instinct to 
+ Poetry after are bigger than the stuttering 
+ bullseyes, blowing right out of the tongue. 
+ The 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

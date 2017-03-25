@@ -1,0 +1,48 @@
+
+
+
+ 
+ That night a therefrom to mine Betrayal 
+ loser, where in the pyres of Death he held between the eyes; 
+ And the freshest keys with his teeth drove back to 1944 
+ 
+ And though there was no reacht out of the other; unite 
+ By lightning, to water said:-- Hardly Where's the King of the world, 
+ 
+ Why Mary died and was not the dream of the Dead when we first heard the songs of the Voicy 
+ 
+ We could hear our 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

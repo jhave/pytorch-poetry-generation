@@ -1,0 +1,49 @@
+
+
+
+ Took nothing but this curtains, 
+ Of patience another coming from the heart 
+ 
+ On Bodymakers roof was; 
+ The singer eats while his yes." 
+ Rings in arms of his neat hat and comb : 
+ "A repelled also, a Duke of a slave 
+ Daunce crude Nautilus Thrills us, or else be mine, 
+ What forms he calls behind him and invented 
+ One light from every silence, dimply at last, 
+ It winks up from the sea where the Frankford wind; 
+ wak'st, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

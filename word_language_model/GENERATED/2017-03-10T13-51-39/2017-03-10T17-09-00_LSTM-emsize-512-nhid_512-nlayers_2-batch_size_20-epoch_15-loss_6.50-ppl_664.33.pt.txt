@@ -1,0 +1,50 @@
+
+Some More Waits For Me; 
+
+ 
+ One day from thing she heard her smile with flowers 
+ pale as a snowflake falling cloud. 
+ 
+ There was a taxi standing in the street 
+ where the nettle strides spoon, making 
+ the red tower, towards the world -- this pastel-pale 
+ Her husband, paralyzed around the highest face. 
+ But then there was a night where she didn't, 
+ each turning at the old rape the beads 
+ scared her work a dozen years. 
+ 
+ We 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

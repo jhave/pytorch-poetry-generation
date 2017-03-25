@@ -1,0 +1,48 @@
+
+
+
+ Now they boats their nightly face 
+ Were laid into the slush of Life; 
+ Named by solemn, painted Cathay. 
+ The buckings of a king, and so old 
+ Shall be an Minted Amphora ideas; are there to sheafs 
+ Again wandering and lay apart, limb and aloof, 
+ Their somber wings embrace to the skies, 
+ Until in scales the plains in darkness, 
+ Or the afterlife, whose plowshare, so Talking, 
+ Where'er they are, and the land deep up in not-- 
+ And comes 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

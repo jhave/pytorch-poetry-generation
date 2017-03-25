@@ -1,0 +1,47 @@
+
+Down, Came Home And Roll 
+
+ With masculine teeth, then turning on the dispense, 
+ Mie Sperides whites, Lazarushian-leather dutiful sprite, -- 
+ Why are these, with Attaching an' Coolness: 
+ Like the bell out of the L. noon: 
+ The puny Shapes and the pantomiming 
+ "Or sort of pow'r, the electrocutes issued 
+ Complete blindly as a landscape from the shire, 
+ Tenderly holds the mercuric every survivors, this block 
+ Was rarely wholly seen, remembering the thunder 
+ That thrush and Sappho heard a radiant 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

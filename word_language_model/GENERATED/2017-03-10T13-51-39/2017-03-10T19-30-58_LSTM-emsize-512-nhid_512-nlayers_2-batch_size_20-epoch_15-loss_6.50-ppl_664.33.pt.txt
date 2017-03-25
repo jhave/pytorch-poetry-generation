@@ -1,0 +1,47 @@
+
+Of Sadness, Thriller And Dresses, 
+
+ loud as a simply. In fortune's Interinanimates 
+ Fiori at confine. fuelled 
+ Or withered wheels in the back-kneed, 
+ Another second rag with an brand-new nail 
+ hardship of the Roughage 
+ key-chain TV Fleurs [Ninth 
+ In black vapors of August Mozart rolling clean. 
+ Ten or four old men in seven ones, 
+ who whipped their brains once in corrupted New York City Maniac series and squares braith . . . 
+ What do they mean? I saw a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,47 @@
+
+On The Ribs, With Decay, 
+
+ And the shapes of the singular c'mon, 
+ Hath insisted that ship may not be driven 
+ On spoons or purpled coals which follows him 
+ As lightly as his fancy he falters, 
+ Will ay, sleep, bursts and unflagging sleep, 
+ "What's the whole thing that was yours, when he, "I 
+ The third girl sparks: but once you glanced 
+ With a drugged dog trained to howl. 
+ I knew that to myself she could not note 
+ The fugitive 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

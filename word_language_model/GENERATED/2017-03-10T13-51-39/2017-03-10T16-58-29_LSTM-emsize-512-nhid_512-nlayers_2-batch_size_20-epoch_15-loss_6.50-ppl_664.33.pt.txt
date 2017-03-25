@@ -1,0 +1,52 @@
+
+
+
+ 
+ A star you, with a slurring keep 
+ Rimming an artist, no longer chose, 
+ And such abyss), as (Ja, 
+ As the first virgin in the palace 
+ Didn't leave a measure of their end? 
+ In one great country, much of thought 
+ And, is desire or creation, 
+ "Take me to all of me. 
+ 
+ Please and let me die and here! 
+ Alas, I've heard this 1687 
+ And there to soar 
+ Its land beneath the tempest's boors 
+ Singing 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

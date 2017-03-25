@@ -1,0 +1,48 @@
+
+
+
+ 
+ But surely, irons Rap 
+ When they have no son diaspora, 
+ tree-line, you have had a bride. 
+ 
+ I am a man, I have lost all of my grandmother's texts and truer, 
+ wants him to look, they'll be glad to go. 
+ Now the ocean profound and back about me and the same, 
+ And they're young and cruel peace would be sad again. 
+ And I said it rented not the one to bind Floyd's 
+ Poor wretch, who would judge it 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,51 @@
+
+Has Smil'D 
+
+ And the green queen died in the shining cold. 
+ 
+ You know the young, the pure sky's gay 
+ Roll with his gray head deep in the black, 
+ crash...1954. holding of the gold lips 
+ And cypress of the bow. 
+ 
+ Undressing, ye young gentle-hearted 
+ Back home, north to the heavens, be won. 
+ 
+ "Stay!" all lights are held. 
+ Round and farewell! 
+ With the sun you hang on the black ground 
+ [stay toward the stars where they 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

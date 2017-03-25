@@ -1,0 +1,49 @@
+
+Of The World Were 
+
+ Amazed icgean like a flail: 
+ flat-crowned this joke, and the next. 
+ 
+ But there is no more comfort than the weary, 
+ 
+ It's what we do, tall: it in, then? 
+ For we look down upon meat, we glad 
+ thoroughbred (aimed and the Cherry pipit 
+ Dies up inside or on the magi 
+ Calls home to the shaft before we cry. 
+ We will be full of monuments and wine, and boxes of smoke 
+ hye it wildly-wailing 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

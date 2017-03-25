@@ -1,0 +1,46 @@
+
+Methods Of Many Worlds, 
+
+ and hear the pipes coming over the sculpted head. 
+ There is an elevated gathering unexorcised 
+ on a shell-shaped field, pausing in the air. 
+ hustings said we got a topic, to be the far angles 
+ which might become a single playoff 
+ over the draft in an hourglass that walls, to listen 
+ and stretch dry in these gnats, thirteen miles 
+ of jailed, an eminence; with its Zeus's 
+ whirling walls, clear ends of fire, grown too huge for 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

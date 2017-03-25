@@ -1,0 +1,48 @@
+
+
+
+ readiness, with cigarettes and downcast eyes, 
+ The walls and the wind forests and the tackle above, 
+ O the dull leaves are frayed with fun. And our swift gushed 
+ Are in things that the men may offer, your senses own; 
+ transcendent, however dearest becomes the will 
+ 9. Those lines, some dull fantastic repose 
+ Than blood, attic-archive--deep perhaps or die 
+ Save when the meaning of our lost youth, 
+ mumbling, save all, ever cold and sweet. 
+ 
+ Or, if no matter 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

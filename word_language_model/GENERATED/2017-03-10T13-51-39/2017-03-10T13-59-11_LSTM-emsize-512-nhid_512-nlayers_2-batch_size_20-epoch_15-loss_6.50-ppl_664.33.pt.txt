@@ -1,0 +1,53 @@
+
+An Exasperating Butterfly, 
+
+ Sweeney! And quick, I look 
+ into the hours of trees that fall 
+ of light coated with happiness, 
+ I hear the slant of movement, 
+ through the certainty'). 
+ 
+ I wake up here and go, 
+ the child is inside the road, 
+ behind my feet, nameless 
+ with metal chance, 
+ two arse-aching two fit nights, 
+ four paintings from their wakeless 
+ cigars and necks for 
+ a revolver to cut 
+ muses! But I always find 
+ the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,47 @@
+
+Circlets 
+
+ looking. and enriched by various wings; 
+ woken. canoe; those ruddy hordes blew out 
+ Where our eyes begin, like the them,--he, fireflies misattributed 
+ Variations of tongue's centuries clean and ample 
+ Wings that were traced in September Park R.I.S. 
+ While want--thinking themselves from the slender gates, 
+ Sauternes, with two backs eyes the vast dews Tillage too, 
+ poison; stalks afar-- speedy poles scat-puppet 
+ Then abiding, all North of our minds on earth, 
+ Till, blended with the fever that sold a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

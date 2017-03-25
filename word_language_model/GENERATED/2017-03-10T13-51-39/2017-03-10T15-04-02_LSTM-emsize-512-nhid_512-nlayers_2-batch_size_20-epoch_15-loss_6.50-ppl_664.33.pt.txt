@@ -1,0 +1,56 @@
+
+Asks. 
+
+ 
+ And 
+ for what is the form 
+ of my everyday fruit: 
+ that made me a grimace, a cry; 
+ I am Nietzsche, so many things to go down. 
+ 
+ 
+ 
+ 
+ 
+ Consolation 
+ 
+ 
+ We're pleased at all, there must be no way to this. 
+ No Book used to slay you -- 
+ You keep your brother. Why do you bring you 
+ forever, and will show all the boards with your tread, 
+ How the hairs meets 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

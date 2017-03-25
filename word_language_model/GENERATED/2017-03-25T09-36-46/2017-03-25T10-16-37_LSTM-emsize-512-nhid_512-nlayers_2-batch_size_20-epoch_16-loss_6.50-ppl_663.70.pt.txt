@@ -1,0 +1,60 @@
+
+I'Ve Got 
+
+ 
+ A home yet. On a pulley walks 
+ From it) I kneel upon the briny city: 
+ 
+ Eyes stands upon such a houseless void, 
+ 
+ Both when the eye devoted would call behind, 
+ 
+ Then, no peer so tired, no light and glare, 
+ 
+ No shade. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Living Romance 
+ 
+ 
+ When I am talking here, a second bird, a Pharisee 
+ viscus come; and far breath shall be 
+ Extending in the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

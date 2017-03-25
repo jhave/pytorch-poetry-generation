@@ -1,0 +1,47 @@
+
+Is In Her Earth, 
+
+ Haply the flowers of folly, and the fruits 
+ Are her in the Forevermore. blowing all led 
+ kind," rest a length of glowing blood: 
+ Sometimes--for she thinks, gone mucked can be done: 
+ halle. being seem'd--in the summer blast 
+ Which made the White Sir Bedivere: And why 
+ Is in her form that Want servyse; 
+ The Snowy Lily red? the rapid arms; 
+ She chanc'd, an oak mild goods, her back; 
+ While errest, locks, and sailed to truste, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

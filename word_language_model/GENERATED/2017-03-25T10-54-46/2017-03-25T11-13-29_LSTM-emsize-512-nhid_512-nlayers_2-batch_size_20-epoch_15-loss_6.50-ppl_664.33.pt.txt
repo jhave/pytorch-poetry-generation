@@ -1,0 +1,50 @@
+
+All With Noise 
+
+ From the brown black halls of the floor, 
+ 
+ And their hours quivering like the pages 
+ And songs of winter strange ways and Hillary, 
+ Four full instruments of labor, having driven 
+ Ready to stole the faces of the meadows 
+ And warns, bleak and soft!--a 
+ Putting a high light, and one from a pine, 
+ wound: a ghost for beagle books . . . 
+ 
+ Even as in those ways I've read in broth. 
+ 
+ What I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

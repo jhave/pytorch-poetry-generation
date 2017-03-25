@@ -1,0 +1,48 @@
+
+
+
+ 
+ And boast of that future form was in fire 
+ Not dilated ripe, at last! 
+ In the very deep heart of blood we flash 
+ Another pall and hear a voice grow hard. 
+ And are we mad with sorrow, like the Supper] 
+ Faint hold, Let every page be ringed 
+ To the black blind moon on Heaven. In the valley 
+ After the long shadows of the dawn, the faces 
+ Strong in the moonlight, the grass green and rags--succumbing 
+ Were only 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,59 @@
+
+Into 
+
+ Oread unruined 
+ Like so many struggle 
+ 
+ 3 
+ 
+ Nothing but this one 
+ 
+ today's caw 
+ yours 
+ 
+ is volcanoes on swollen earth 
+ Forcing up 
+ a white blanket, a bathtub 
+ 
+ Back side by reconcil'd, 
+ On a Recycling Round 200 roads 
+ On La Buick set on Themiscyra, 
+ Tamalpais. deviations. wife-beating; 
+ facing page 51: Gioseffi, riding page 
+ Prais'd be the bishops, haul off 
+ bull-dances, Hawk, H. by dusk. 
+ Break detailed blues 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

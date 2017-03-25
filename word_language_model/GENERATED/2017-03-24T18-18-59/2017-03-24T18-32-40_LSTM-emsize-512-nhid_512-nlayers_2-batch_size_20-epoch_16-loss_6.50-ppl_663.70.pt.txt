@@ -1,0 +1,49 @@
+
+Coercion Of The Divestiture Of A Bridge 
+
+ To man's black heart. "thy Say what reigning could do. 
+ Awake the soul and the urge begins to happen, 
+ And the Sympathizers of hell was in the plain-- 
+ And the infinite boatman authoritative and free; 
+ And now, the latest earth that meditate away. 
+ 
+ Underneath Revelations again, shaking in its boat 
+ The scrambled rounded wet themselves, 
+ The Sands of chemistry 
+ faded."--"Figures keen-souled 
+ Here of yore. Such tents at while?" 
+ Keep 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

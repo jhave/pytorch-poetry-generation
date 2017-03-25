@@ -1,0 +1,43 @@
+
+Way The Shoots Stood, 
+
+ the rubythroat Floyd load that forms for a man in town. 
+ 
+ A bird Dreamland has taken his balls of his name: 
+ meat-cans and dented of cigarette Shrivelled; he ptarmigan that driven, Tulsidas watches, Bay & shoes and girls 
+ crouched before him. He rolls back in his tunnel like the passenger jumping with his mouth and crawls a shop. a bee shakes a little mat he cannot catch herself delves, 
+ He sees on some abundant frowning sacks of Susan 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

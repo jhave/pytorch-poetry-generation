@@ -1,0 +1,51 @@
+
+
+
+ Neither through the world, 
+ Philomel, by his warmth 
+ Our dear, alone 
+ In the different sounds we have to hear, 
+ Hurry. far for the country 
+ We do not know of the usual place 
+ Of free. You know in his joy not to be. 
+ 
+ stunn'd me from stern this world, 
+ till-- immortal and tender, 
+ You may not see, yet I have understood, 
+ Yet the mockings bids us fall; 
+ Therefore, when our life shall 
+ Seem leaps to, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

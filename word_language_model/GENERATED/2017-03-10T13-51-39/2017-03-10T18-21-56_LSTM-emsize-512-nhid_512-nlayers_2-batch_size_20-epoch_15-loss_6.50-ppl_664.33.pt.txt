@@ -1,0 +1,51 @@
+
+Who Accepts, This Seven 
+
+ 
+ Skie; lady-smocks 
+ or the Japanese vision 
+ of events in whose Fathers gaze. 
+ God we've touched the knitting. 
+ They said Stupidity is life and join ourselves 
+ with poison they are not white. 
+ But now it could deny for, 
+ catching used on a child's wilderness, 
+ the way they had not liked 
+ if she noticed as one had learned in the other. 
+ The Uncle sprang out of the last town 
+ 
+ in picture, his 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

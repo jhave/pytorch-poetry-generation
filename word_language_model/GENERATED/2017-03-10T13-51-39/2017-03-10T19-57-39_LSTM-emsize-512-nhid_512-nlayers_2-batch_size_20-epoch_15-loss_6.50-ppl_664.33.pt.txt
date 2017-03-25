@@ -1,0 +1,53 @@
+
+
+
+ Straight round the root; I sate an spine; 
+ When I was fed by time! 
+ 
+ Over the head and lamp: 
+ Its eyelids breathe on the shore, 
+ And in their secret the ripples 
+ He bends to relevance.*It 
+ As I think in forms . . . 
+ All shall have as much wise and dull. 
+ The great valiant pulse of high 
+ Lay the horizon of the light 
+ From the half-dusk 
+ 
+ That bore me on. 
+ 
+ Now though 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

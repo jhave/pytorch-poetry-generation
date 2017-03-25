@@ -1,0 +1,46 @@
+
+Preyed Of Flowers, 
+
+ somewhere which is to fear your flesh as I shall be slumped 
+ for a submarine and resurrect height within it, 
+ to think unsolved in his fortune with a look for ever. 
+ 
+ 
+ Yet I fear why thought I dare not make no use for it, but nog wound up & down, 
+ he rewards my thin clothes to let me sail 
+ over my shoulder, fearing he is all the laws of the others, 
+ as I say, Gra'ma do 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

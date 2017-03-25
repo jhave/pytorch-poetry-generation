@@ -1,0 +1,47 @@
+
+Souls Assured And Yet 
+
+ As when a river paused in these perfect flame 
+ When the chance of life was lost, but yet it tells for her. 
+ 
+ The ghost of life fall tongue upon the shaken lamp, 
+ Or lingered sliding on the upland lane, 
+ If we treat evil and so happy sleep ; 
+ Never again will he? but Heav'n's voice godparents 
+ perfume, crooning first in drouth; demesnes 
+ Of Storm sir!") and early male he came 
+ Back to the horizon, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

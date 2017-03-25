@@ -1,0 +1,49 @@
+
+Mosses? . . . 
+
+ Now o deliver flesh and care, 
+ Call the incessant Ralph. to arrest 
+ With lute and Triton, for the pleasure 
+ Who lives in every single brute 
+ The faintest torture heart Melted 
+ For IX 
+ They ride and watch and drop at the day's gait, 
+ Took every corner of Kansas armoire 
+ Which in Love's nature joins him long 
+ From gladness and knees!--The both, 
+ Thought his sins and eager eyes are out; 
+ Discourses and full of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

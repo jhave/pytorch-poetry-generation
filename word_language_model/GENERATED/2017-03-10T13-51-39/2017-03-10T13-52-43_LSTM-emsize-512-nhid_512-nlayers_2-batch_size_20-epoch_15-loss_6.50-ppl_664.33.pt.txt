@@ -1,0 +1,53 @@
+
+
+
+ "What is not real now, to say that. Electra winged in pools, 
+ 
+ 
+ VII 
+ 
+ What makes me think you affairs, how they dive, 
+ Then keep John smoke across the headland low 
+ To greet my beard, with Irony 
+ se/ and academy, cost, dandies, Rebellion 
+ I'd and say, arrachin summer, there would stand 
+ tunda eastward, Purse, and wearing blue walls 
+ gloves entering simple actor 
+ To nothing of me for the may; possession and thing? 
+ 
+ VI. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

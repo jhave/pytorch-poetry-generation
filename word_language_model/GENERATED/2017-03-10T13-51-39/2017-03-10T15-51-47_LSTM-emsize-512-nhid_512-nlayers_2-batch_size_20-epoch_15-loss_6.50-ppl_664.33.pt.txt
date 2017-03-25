@@ -1,0 +1,49 @@
+
+
+
+ From the very cold table that behold 
+ The dark pilgrims built and bereft of glass. 
+ 
+ Yes. What then? Is the answer disturbed 
+ That thought or many last uneasy stone 
+ Were removes by the Sun, -- 
+ culd mark the despairing streamer of the tree. 
+ A busy rat may cease. 
+ Through loud earth's darkness now my repli'd: 
+ My libations of the secretly here 
+ Are Beauteous in the Pacific. A soul 
+ Doth break out its own glory, and fills 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,49 @@
+
+Your Father'S Grace 
+
+ their eyes holding a long breeze, you said, 
+ I saw them biographical that you might have slept 
+ and came 
+ to a shelter which, 
+ because of my left of my life 
+ 
+ I can find my breath. 
+ There are kings begin to meet here 
+ on gentle beauty. 
+ Even in the stillness of the lady they bury 
+ and the bodies and forms that she love to is a passage as the lover, 
+ for it is always 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

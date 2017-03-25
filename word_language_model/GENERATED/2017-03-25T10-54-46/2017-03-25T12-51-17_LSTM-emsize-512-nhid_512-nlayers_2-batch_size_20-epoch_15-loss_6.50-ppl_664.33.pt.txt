@@ -1,0 +1,47 @@
+
+On Veils The Rivers 
+
+ And crests. We can depart from either. 
+ Good man, blip, Reader, for us, who really, 
+ Little brother?" and (O Mother, has he merchants old. 
+ 
+ Or, here's an arrow from the room: I stay, 
+ Sailing as far off as frowning as (though 
+ And cipher of the life of knowing to see. 
+ Quite once her light died, as he rode in my slumber 
+ For a blowing, along the pavement ... Try a red wall 
+ Which keeps 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

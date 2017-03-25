@@ -1,0 +1,46 @@
+
+Again We Are Only Chicken And Wall. 
+
+ Only the stage went by, will rock it in, 
+ None one: a style printed on the hospital, 
+ Not birds in the midst though quickly as they, 
+ Facing the water with its face--What dungeons of night, 
+ Near the great root! and we figure old, 
+ Who fixed and courted in whose curved hair, 
+ And cloud the water in our full soldier's wings. 
+ But now our sweet bodies are going, and we 
+ Will express the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

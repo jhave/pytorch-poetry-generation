@@ -1,0 +1,50 @@
+
+And Fugues 
+
+ Hunger as Henry as a flower, when death comes turning 
+ on forever, its tendrils drag over the flap 
+ 
+ like another congestion of shew, 
+ 
+ 
+ impertinently 7 
+ If an ash Exegetes making lots of rag hissing 
+ on their visor and their seal, and when everything else. 
+ Outside, a ship overhead. At noon, when the kid joined 
+ Bowstrings to sawdust from the obligatory 
+ Towards brass fingertip is never a threat of idling 
+ and a small whipping 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

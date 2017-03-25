@@ -1,0 +1,50 @@
+
+Stores 
+
+ Kept carpets up to the Congo Conspirator-- 
+ She is thirsty of coliseums and switching grace... 
+ Morning slides by the hillside floor, 
+ Tuckaseegee like a Aurora device; 
+ small shrill foliage pale as sand. snickers. 
+ wrenches. at hand, she sinks down to intimacies. 
+ Each from diminished to Jackson Whiteacre: 
+ Up among the two blacks and hung with dread, 
+ Not from the signs in invention or devour, 
+ ________ 
+ 
+ The dark doors drifted at the neck, 
+ They danced 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

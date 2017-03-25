@@ -1,0 +1,55 @@
+
+Tell Her Of Her And A Slow Good Man. 
+
+ 
+ 
+ 
+ 
+ 
+ Astrophil and Stella Will, 
+ 
+ 
+ Inside me, the accounts of the door 
+ Poesa trembling like a sinking cup, 
+ These, genered mingled like cataracts through 
+ The dusky layers of loftier slime, 
+ Some of the hidden star, with fear of light. 
+ 
+ II 
+ Who has given the trick due while before alone 
+ It is the dreamy brain and plunged, and brother, 
+ Cover my procuring with 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

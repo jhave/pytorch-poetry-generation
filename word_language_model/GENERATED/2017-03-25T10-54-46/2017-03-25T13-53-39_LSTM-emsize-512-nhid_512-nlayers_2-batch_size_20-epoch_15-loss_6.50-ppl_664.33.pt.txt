@@ -1,0 +1,49 @@
+
+Flow'R 
+
+ Should ever be of. 
+ 
+ If one loves Floodlit I made it stagnant 
+ By the old wise, the pair. 
+ spaghetti!" of necessity he stood, 
+ That by the Book of love and light 
+ Was one, the man, again one and two 
+ Are long since was distant, 
+ Over his lips, and the light are. 
+ Though not like lord to write, for I had turn 
+ To Alone. The whole world had been Love 
+ And another morning at his window, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

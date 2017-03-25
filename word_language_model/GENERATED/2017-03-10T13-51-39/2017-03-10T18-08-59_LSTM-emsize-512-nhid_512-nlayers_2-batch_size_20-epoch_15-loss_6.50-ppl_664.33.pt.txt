@@ -1,0 +1,52 @@
+
+All That Dried Lawn 
+
+ is surely and said out weary-- 
+ the suns won't fade forever as air, 
+ like legends through the unclean soil 
+ it extends under the wind 
+ in it with its breaking shade 
+ of the lay-up, to let go. 
+ It is car-wreck on our languages 
+ like the free planet 
+ briefly out of hand. 
+ 
+ And then it doesn't matter of our need 
+ Adrienne for knives 
+ renewals and oils arcs 
+ pressing into grass, 
+ and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

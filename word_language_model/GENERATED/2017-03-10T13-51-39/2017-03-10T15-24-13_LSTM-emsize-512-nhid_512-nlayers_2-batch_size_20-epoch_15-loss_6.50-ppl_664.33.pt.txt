@@ -1,0 +1,47 @@
+
+Lycaeides 
+
+ Deaf terror shall be confused with my Parthian; 
+ Thou must forget the way the poor event promised 
+ The Camerado, the good at each corner, not mild, 
+ "dirt or far. Oh head of late or Balham necessary. 
+ Now the sun and evening's face will be. 
+ A dark wind is more like Severn's windows, 
+ And from the west shore, in his heart was cleft 
+ The shadow of a moment's wonder-dreams, 
+ I met a little woman who staring dead, 
+ And 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

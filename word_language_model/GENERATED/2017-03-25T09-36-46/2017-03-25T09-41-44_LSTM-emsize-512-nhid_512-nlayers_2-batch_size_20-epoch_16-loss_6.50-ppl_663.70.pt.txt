@@ -1,0 +1,47 @@
+
+The Brownpapered Roar ... The Hour, Jape Of Academy Traverse 
+
+ the stumbling card black, ringing oblivion? 
+ (I will leave these tired fruit. 
+ In those of these high houses, waters of trees, 
+ Turn about from remote sills 
+ I have lost their necks at exacts. 
+ So stand all at the announcing edge, 
+ By the bowels the children are brake, them, 
+ They are sensible for the men's frown, 
+ While the fine wings pass, 
+ As their lank father tends to fulfil their 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

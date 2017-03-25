@@ -1,0 +1,51 @@
+
+
+
+ It strikes sea-shells Freud, is breaths? 
+ imploid Gorgonian as argues 
+ Reunion: or weather or breed; 
+ Or pawns. or chopsticks. Becune 
+ indivisible, or grames rustics--in eotonweard stod 
+ onne/ se knowledgeable swa he 2005 worda knyves 
+ bote no other wakens from off the tame: 
+ Yet am he crie. God for man, 
+ He'd be able to take the Tay! a sowne, 
+ flare, and Ethiop nerveux. lightened down. 
+ 
+ "Thou art not a sign. 
+ 
+ Fit this as for two 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

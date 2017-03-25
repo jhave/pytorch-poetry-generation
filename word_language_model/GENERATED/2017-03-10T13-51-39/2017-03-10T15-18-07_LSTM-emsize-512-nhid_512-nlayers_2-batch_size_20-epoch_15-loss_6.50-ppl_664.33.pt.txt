@@ -1,0 +1,56 @@
+
+It Did. 
+
+ 
+ It still peal in time 
+ That nears the clouds before me work 
+ Till I dealt on the dead man's ocean; 
+ The things here where we desire to go. 
+ It would be strange, it could be gone, 
+ Because it was about quite malady 
+ Please let a man another jon pray, 
+ And said, There's nothing but another late. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thread President 
+ 
+ 
+ I walked out through the pavement of my Grandfather's 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

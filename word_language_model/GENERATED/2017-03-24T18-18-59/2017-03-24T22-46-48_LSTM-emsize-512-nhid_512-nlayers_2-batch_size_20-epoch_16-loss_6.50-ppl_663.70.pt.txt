@@ -1,0 +1,56 @@
+
+Up And Down On The Horizon. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Colleen 
+ 
+ 
+ Out of the sky the angels make themselves 
+ frantic in dubiously not yet too large, 
+ with Cosmic Art) follow as if the glass move 
+ over it and then again itself again, 
+ there are always we simply paradise and be: 
+ LOVING wonder than that the lives of fine desires 
+ passages and fathomless flesh our knell, 
+ Scanty with all the void to her birth 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

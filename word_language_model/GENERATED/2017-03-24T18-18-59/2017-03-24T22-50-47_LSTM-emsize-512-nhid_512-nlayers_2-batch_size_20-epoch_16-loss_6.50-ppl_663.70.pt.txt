@@ -1,0 +1,49 @@
+
+From The Summit Permanence 
+
+ Of the ghoul-haunted waves, where I've gone 
+ Until in my absence waiting 
+ On the mantel, belovd pages 
+ put, trillion mornin!' 
+ 
+ I was a man of this great one with whom it was. 
+ Whether the real, being in their lovers' laps. 
+ 
+ Even when the nights are forgot, and such people alas! 
+ But you do not weep merely their bounded breathe -- 
+ And I shall pass and bars you shall not weep; 
+ Joy, ye 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

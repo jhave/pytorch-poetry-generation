@@ -1,0 +1,44 @@
+
+How It Meant So Still It Cherishing 
+
+ With green heaven, pure as the stirring, the blue screen moisture 
+ Told that to take it ear before the heart was stark 
+ An milke snowflake its tremendous powerless--O fed by the night-- 
+ A man in clover. He slams in his rage, with his sojourn 
+ More rebuilt by the bruised faces pulling loose from his own prison 
+ Because he shouted, grumble and lord of his running woo: 
+ Half meant, and need, like the heat finding 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

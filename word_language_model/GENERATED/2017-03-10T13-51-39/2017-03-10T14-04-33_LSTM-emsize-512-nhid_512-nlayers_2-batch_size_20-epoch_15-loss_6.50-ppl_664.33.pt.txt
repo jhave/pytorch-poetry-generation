@@ -1,0 +1,52 @@
+
+Super 
+
+ Truth dropped up on their rigid rows, 
+ Of minds and of suffering; 
+ 
+ Flowers and firemen, nose in the shades. 
+ 
+ Flitted through all the mystic sang: 
+ 
+ My slave is zeal, my dear, my hope, 
+ Has more to happen, my love first loss 
+ Rather than come on to my heart or thee, 
+ 
+ Not whence my pow'r must thee thus sure penis.Years 
+ Love was in me awake unless I turn clear. 
+ 
+ So saying, why should 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

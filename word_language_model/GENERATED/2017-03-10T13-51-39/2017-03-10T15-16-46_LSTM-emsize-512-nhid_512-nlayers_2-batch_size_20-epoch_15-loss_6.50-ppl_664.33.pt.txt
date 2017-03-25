@@ -1,0 +1,49 @@
+
+
+
+ When ELANOR!'--she saw with a pie loosed 
+ Like a young new pang, for no man's will ... 
+ He came away 
+ To that one slanting tree in which 
+ Is this the world swart machine 
+ To haunt its own foul wars and form 
+ That as the salt of flesh is pale, 
+ By thickest falls the marble Whip, 
+ Green gently, sweeter than at noon, 
+ A wolf stands bared in his ear, 
+ The distinct wind hissing her thick throat 
+ Like 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,53 @@
+
+Snow Soon Won'T Slide Up So 
+
+ 
+ Nothing broken by its own shadow. 
+ The lights keep not yet tilts up to the old cord 
+ sings and sang a bit on Eauty, 
+ tremulous celebration, the churning wood 
+ balls all day after home. 
+ 
+ My grandmother's legs like pink clouds, 
+ Bell commands the industrial body's Flocks, 
+ with implanted ghosts, --Simone ufan 
+ blue-checked napkins, catamenia 
+ 
+ in the beginning, this boy. 
+ 
+ The town aren't so deep. 
+ Wish, trail.' 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

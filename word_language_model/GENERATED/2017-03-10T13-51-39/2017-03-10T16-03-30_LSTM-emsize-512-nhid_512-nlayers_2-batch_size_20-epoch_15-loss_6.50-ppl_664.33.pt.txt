@@ -1,0 +1,54 @@
+
+I Know, 
+
+ Somehow I see looking out there yet 
+ vary; nothing, unless none of them 
+ wants wrong up stick's I say, you embrace. 
+ If you defile everywhere 
+ found sweat. 
+ I was a brain 
+ 
+ I pretended to read 
+ The place you said 
+ Jewels you see, each thing 
+ 
+ You were the same as the family 
+ Put it your stony back 
+ 
+ but tell you I do not now explain 
+ a dead guy of static 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

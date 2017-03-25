@@ -1,0 +1,52 @@
+
+Fugue 
+
+ 
+ And all to water, inexplicable 
+ 
+ The petals bound from antique walls; 
+ Northland! human plumage, and the din 
+ Of long ghosts that could never understand. 
+ 
+ With something poor and hard and kind, 
+ Writ in the same ten field I muttered, 
+ Mine bore me and my words take me, 
+ And my heart has come, most moments and gross 
+ Even for love's gladness who yet w/dark 
+ God wills me thy rest! 
+ 
+ I would fain embrace 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

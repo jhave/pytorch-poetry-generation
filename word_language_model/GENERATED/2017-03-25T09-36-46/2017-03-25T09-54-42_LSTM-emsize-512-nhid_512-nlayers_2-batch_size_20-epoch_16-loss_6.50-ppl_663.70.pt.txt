@@ -1,0 +1,50 @@
+
+Of Proserpine, 
+
+ Drops brighter than an shape, that no one called 
+ The food or forces, mixed at the green Coast 
+ And the black flowers on sound's the black 
+ Ten martyr had a sword clean green 
+ And a stream silvery hair, two warrior's feet 
+ Prairie-Boy each other's form, manifestos 
+ 
+ A mourning fluid she saw her 
+ clothes gone, yellow pins stool 
+ Spain's, a trail of leaves 
+ staining the pickups Divorce 
+ Her skin drip calling on the tree 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

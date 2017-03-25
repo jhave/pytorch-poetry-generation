@@ -1,0 +1,51 @@
+
+Off Flailing His Countenance Provocative 
+
+ Housewives leans on Roof, 
+ plates, a tin heresceafta She opened, 
+ closer, recompense? it. Ending 
+ for the castle. 
+ 
+ For this moment, she was empty, 
+ but He--The dog, as fresh as shows 
+ as if, the quality of a horse. 
+ 
+ She was dying. She felt the book. 
+ And on the next room the turtle leapt 
+ under the polar slope. The big red beard 
+ had thought, he had told, 
+ and he spoke about 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

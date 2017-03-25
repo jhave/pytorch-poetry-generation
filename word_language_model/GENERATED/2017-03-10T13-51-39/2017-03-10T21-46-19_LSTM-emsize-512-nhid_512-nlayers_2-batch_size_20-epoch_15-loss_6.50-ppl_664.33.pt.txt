@@ -1,0 +1,57 @@
+
+
+
+ 
+ Shall reach'd then to doors did it languish, 
+ " When the Locks with which too plainly pursue, 
+ 
+ Look'd out of these Achitophel's Laertes ears, 
+ 
+ And crown'd with natural motion, glory, 
+ 
+ "The sunshine glass. 
+ 
+ 
+ Such as the bush, that mounts and lie 
+ 
+ Twelve remaining faces, the mortal heart lies o'er, 
+ 
+ Yet south the brightness to yonder depth 
+ 
+ Shall make a evidence,-- 
+ 
+ When the great wind beats many a day. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

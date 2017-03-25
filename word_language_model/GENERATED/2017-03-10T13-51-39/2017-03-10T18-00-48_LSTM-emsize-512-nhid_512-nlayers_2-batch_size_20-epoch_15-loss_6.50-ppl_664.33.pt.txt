@@ -1,0 +1,50 @@
+
+A Pitcher 
+
+ Doth not fade, but may be tall and pine, 
+ And the economist of snakes surround me, 
+ And with a taste cries and emptiness, 
+ There's little mean woe. 
+ 
+ I say "I must be longer still. 
+ It's right, you cannot write them or today, 
+ And look at a new measure. 
+ 
+ Dearie) stay here, the shepherds scorn that guarded 
+ Beyond the churning roof upon my cheek 
+ Far off like liquid, angels, Intuitive; certainty 
+ Of white-robed even 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

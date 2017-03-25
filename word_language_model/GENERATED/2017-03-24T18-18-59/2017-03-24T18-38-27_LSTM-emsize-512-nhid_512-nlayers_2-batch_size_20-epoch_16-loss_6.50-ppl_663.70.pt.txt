@@ -1,0 +1,51 @@
+
+Silently, Sake, Wast 
+
+ As hollow hell upon the cold and cold 
+ And dangerous feasts of the human race, 
+ 
+ Until the homeward presses its cold head 
+ 
+ First lyke an room; haunch of the grey 
+ And cottonwoods in the leaves, till there is none 
+ Ye Spirit, this is the same reason Leda 
+ 
+ II 
+ Unlike me, to-day and terrified by these, 
+ And watch the grass bear in summer's dark. 
+ 
+ My five years lost, another and the shadowed 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,48 @@
+
+To Look 
+
+ confederation. into solitude! 
+ 
+ Then you, when in the days I lie alone, 
+ Keep out you, at twenty low-grade tower, 
+ I think he's more wonderful and dead; 
+ Allons! at no means to watch you smile, I hear what part are got, 
+ Far from the Southern group, you will hear God down! 
+ 
+ It is impossible to be craft or to London!) 
+ That you'll be grateful the faces and the earnest : 
+ Took your old hand in; makes 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

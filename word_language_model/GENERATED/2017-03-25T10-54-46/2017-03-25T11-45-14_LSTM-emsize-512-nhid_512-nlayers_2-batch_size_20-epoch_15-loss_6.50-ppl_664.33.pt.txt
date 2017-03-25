@@ -1,0 +1,56 @@
+
+Through The Trees 
+
+ And all the animals begin to walk alive in their shadows. 
+ 
+ Sweat is resting here to rid of the answer: 
+ I'll be sure soon, Friend; And dreams I claim development, 
+ On pair still sailor and has a garden on fatiguing 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lerone 
+ 
+ 
+ Nobody could he do with mind 
+ than grief or social stores 
+ or the middle of the kitchen 
+ Signs of these dead men who have lived 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

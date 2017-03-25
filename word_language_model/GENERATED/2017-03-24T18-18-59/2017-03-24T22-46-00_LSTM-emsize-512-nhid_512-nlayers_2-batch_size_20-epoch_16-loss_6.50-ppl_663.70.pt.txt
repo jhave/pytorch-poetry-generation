@@ -1,0 +1,49 @@
+
+Space 
+
+ monobloc fuck name; perfection go bread, 
+ Greece isn't round another is peals 
+ 'Sooth, no one on a pot, than a hollow 
+ warblings wing beside him; the very way passes 
+ Through the flat top of the cliff across the ferry 
+ And over a house of lights. A bird presses 
+ 
+ In a spring ringing deep, the other times successively 
+ 
+ marched from some small volume on his side, 
+ Galera Antoinette, shook his Mother's hat, 
+ fish-town, twins, Irita clasped 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,55 @@
+
+The Abeyance, 
+
+ The Stubborn Low returned 
+ 
+ On his gray inexhausted hem, 
+ As I put my hand, to play ashes, 
+ As to catch it when I took inside. 
+ 
+ At which I parted fists and pebbles moved 
+ To see as if a thankless clipper owner; 
+ Past you"; and sloping away. 
+ Beside next-next. earned; locks the buskin'd roar 
+ 
+ And storm of hand and shades, stand upward on evening's grape. 
+ 
+ 
+ 
+ 
+ 
+ The Education of mix, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,48 @@
+
+Chicken Trace, 
+
+ 
+ Though I can't. Odo gone up with their embrace 
+ And afterward the short definitions of well 
+ Are like cheerful class. Something steady 
+ Within the skulls of those trees 
+ (Now goes to the Bible polished by sights, 
+ Ocean and meadow to the River, get blind 
+ To that bright culture that God is impetuously 
+ I am muck-about as they, him! I am 
+ Exactly Me ere all is beautiful and young, 
+ And blessed all the creatures time goatsuckers 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

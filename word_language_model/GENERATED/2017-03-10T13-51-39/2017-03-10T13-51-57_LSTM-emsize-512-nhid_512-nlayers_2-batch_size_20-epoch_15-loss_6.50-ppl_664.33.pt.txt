@@ -1,0 +1,50 @@
+
+And Sand Hew 
+
+ Never only to laugh but nibble for fight 
+ For always and more by a man. 
+ 
+ For the proposals of time, 
+ And this together with brown wings 
+ Dies over the thrusting loose from flight, 
+ after--though Easing the loose ribs. 
+ 
+ Ah! what wreathed crimson and the prone flood 
+ Gives way up to the lots, thin above the Zone 
+ Of unequal air: this learned of Man--he's 
+ Startled in hand, held Nature's turn in 
+ Sow'n with 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,49 @@
+
+Attic Bones, 
+
+ estat feathers purple in a turn, 
+ We find the grandstand, near we speak. 
+ The burden of some far let serve 
+ Directors of nature; like ours 
+ On which these stones keep way before; 
+ Because there is one in the land just there, 
+ We'd never croc- and as if we acted 
+ pigeon-filled tongues single: in the imaginary 
+ Waded on the kitchen floor. And Proposition 
+ How it calls in reach we cannot know. 
+ 
+ How can we tell 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

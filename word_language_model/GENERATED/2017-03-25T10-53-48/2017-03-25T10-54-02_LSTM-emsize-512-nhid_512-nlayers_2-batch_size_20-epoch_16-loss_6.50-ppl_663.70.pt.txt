@@ -1,0 +1,51 @@
+
+Teeth. 
+
+ But it was a crust of privity. Something 
+ Stink fat equally changing up some frightened lime, 
+ But maps, sweet talents bask unseen, 
+ Whose blood knows nothing but the most. 
+ 
+ Have you asked me to give stacks 
+ For certain news 
+ Of hues and "Young frore, and Russian City, 
+ Simple without fees 
+ Tampico, le degrades 
+ And read liberty, mearum for en gimmicky 
+ Who cause will silence for beggars into Agrigento 
+ 
+ O will? How did you 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-53-48
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

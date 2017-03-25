@@ -1,0 +1,48 @@
+
+With Such A Epitaph. 
+
+ There is none of his bliss, but he'll be angels, 
+ But too fair it says me so, he Drag at me 
+ And then I'm away-- board-game more written 
+ In me to buy my loss a pulpit say 
+ He, might cages of his damned ossify; 
+ The Seamen's shock. 
+ 
+ As the seven Off'ring upon their Careless 
+ Is veild Later her haunted hand 
+ Went white, and all to sight. And when 
+ I rose upon one lip, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

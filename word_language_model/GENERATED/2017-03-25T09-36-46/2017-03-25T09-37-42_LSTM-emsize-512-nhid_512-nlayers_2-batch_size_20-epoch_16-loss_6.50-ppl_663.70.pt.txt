@@ -1,0 +1,47 @@
+
+To The Field In Doors; 
+
+ military houses in motionless, 
+ But in deep shadow, the frail Love!) 
+ Ay, on this friendly record of high doffed: 
+ These dice of rust in the shadows of spring ash. 
+ I hear the poppies with wings that look an last; 
+ One after one to be a little girl. 
+ And by memory they look together seen clear, 
+ As well as busily shameless, with one cleer, voice, 
+ Slowly a few spears burns up homeward in heel; 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

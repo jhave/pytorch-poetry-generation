@@ -1,0 +1,49 @@
+
+
+
+ It could be neat, that no one could rest. 
+ 
+ I told them I was 
+ To be a score of grief, before their lovers. 
+ There's no better in what wretched hue -- 
+ When it's gone to want to, don't take neat sense, 
+ Do not Dreadnought, their opinion ahead 
+ And even prettinesses, 
+ For the Brothers, and furthermost burial. 
+ 'Cause I'm Din! from "The house, I said: 
+ Tanka will poison my mind up gone, 
+ (For the sun will never 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

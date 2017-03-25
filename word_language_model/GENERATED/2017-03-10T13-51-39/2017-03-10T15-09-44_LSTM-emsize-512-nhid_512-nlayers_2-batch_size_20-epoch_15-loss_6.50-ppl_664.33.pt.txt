@@ -1,0 +1,51 @@
+
+Nailed To The Sun, 
+
+ For whom the dead I see are bushes all 'Say, 
+ A retreating inches, rises in a mirror, 
+ A mound of Russian silken silken ash, 
+ mountaintop tracks threshed the systematic wooden tent, 
+ And spreads the liquid sidewalk along his face-- 
+ 
+ PART "You say Yorkers. 
+ 
+ Then, as follow off our house, 
+ Still we drank away, 
+ But by you the next war, 
+ I yelled at our eyes? 
+ Once I was paying conscription, 
+ The 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

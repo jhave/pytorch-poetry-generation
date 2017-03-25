@@ -1,0 +1,50 @@
+
+We Quake For Long, 
+
+ Four seeds of sorrows. A wind happened, 
+ A million vast conversation. One young one, 
+ Old children bird and fight on scorn, Lord, Frontieres 
+ Come traps to buy God to feats: Horn 
+ quoloty for Mary, 
+ 1977: woman, then Yaki empty and Syringa 
+ At up the thin steps of our "highly 
+ HOT 
+ Among reality, 
+ formulated body's own angelic light-o'-love, 
+ I know the way a model worthy green 
+ Of South has already tried, 
+ relation 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

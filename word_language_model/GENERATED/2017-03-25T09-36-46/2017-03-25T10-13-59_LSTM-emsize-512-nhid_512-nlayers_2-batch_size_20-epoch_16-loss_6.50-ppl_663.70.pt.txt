@@ -1,0 +1,52 @@
+
+Charge To Be All Aztec 
+
+ ~ 
+ When I suppose, I tumble across the door. 
+ apprehend, 
+ "No, supercilious-looking ahead 
+ fried pain set the rows? 
+ Your lion pour away the windowed alarm 
+ backlit, where the birches and gleaming all 
+ 
+ When now I wake again, and feel unbuttoned 
+ Its manifold lip, and it catches all good sleep? 
+ 
+ Today's hungering loves and sounds. 
+ soothsayer and else, Mary and Philip 
+ behight, thou, gave her to me, I hitchhiker, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

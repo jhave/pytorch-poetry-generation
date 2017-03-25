@@ -1,0 +1,49 @@
+
+
+
+ 
+ Not Virtue for the Joy! venereal shame; 
+ And we, if there's no moment of your daily frame,-- 
+ Think of nought but the fall of sorrow, 
+ telling, and bind with pity to the skies 
+ And wasted things upon the ravine, 
+ We bring to the Wooer where none barks 
+ Nor good nor perfection, nor thoughts to see; 
+ sad-eyed thither not! when God is gone 
+ To be more sweet and lonely. 
+ To the eyeballs of God in twilight, 
+ Your 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

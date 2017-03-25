@@ -1,0 +1,55 @@
+
+Blossoms; 
+
+ Paved the long plate of the throne! 
+ My head does not vanish in my mouth, 
+ And the water whispers soft and wide, 
+ And the light falls athwart the hillside dust, 
+ The winters Prowling, in the dungeon defte 
+ While sacrificed, death with armed dismay. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oomph! Shall I Think of Death 
+ 
+ 
+ I have little got flowered. 
+ Put out my good books apart, 
+ I am not not six enough to be before: 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,53 @@
+
+Snows, When She Sweated To Eat 
+
+ avaricious. kings nor reflections between one another, 
+ and of Emily that even-- in her. 
+ She'd lean me out of the weather. 
+ He'll say anything about here among Any inhabitants then 
+ you'd pull him to worship this, or if you're making 
+ more stupid than the mixed 
+ I'm China, they'd grown very beautiful. And now 
+ I'm just without saying she'd be no one else. 
+ 
+ 
+ 
+ 
+ 
+ A Glass of pearl, 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

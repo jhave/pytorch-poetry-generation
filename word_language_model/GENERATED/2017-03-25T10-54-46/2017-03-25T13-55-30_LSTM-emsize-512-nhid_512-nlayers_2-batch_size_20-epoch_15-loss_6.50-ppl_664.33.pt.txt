@@ -1,0 +1,53 @@
+
+
+
+ Captain! me, so hear! 
+ No, if we should I see thee best, 
+ Scarlett! with mortal arms, 
+ Sweep thine away, I assure thee, 
+ Primroses, pity of thee, 
+ Do not watch me infant's smile, 
+ Sweet tears go from my heart, no more! 
+ 
+ O doth 
+ fade, that hath thy pall, 
+ Thy lovers will restore us 
+ Than life is aye mirk? 
+ Ah, since I but behold 
+ 
+ hearest thy mind and me, 
+ Though never let them chew, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

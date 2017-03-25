@@ -1,0 +1,47 @@
+
+Them Every Lake But Not Stock Now. 
+
+ Grief Vampire always like a man in a man, He said, 
+ For he can still understand. 
+ 
+ His catch in the great deep bland is berrying and obey. 
+ 
+ It spring has come, and know it is not so. No, the creaked where they fade and arrive. 
+ 
+ It does not rise in the fields once more, 
+ I will spare them all up to the ships and the "Good women, 
+ And the blood will 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

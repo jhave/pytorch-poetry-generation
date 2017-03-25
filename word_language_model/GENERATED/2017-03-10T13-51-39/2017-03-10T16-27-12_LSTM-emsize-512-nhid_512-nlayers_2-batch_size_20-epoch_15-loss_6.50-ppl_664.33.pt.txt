@@ -1,0 +1,51 @@
+
+
+
+ By the last excellent dawn 
+ I summon and burst on, 
+ 
+ Were the imperial people, the same. 
+ 
+ She heard in me an dreams shall rest, 
+ By coffin ceased to lead Diddie's 
+ Nothing of me; shall my day away; 
+ When fair and Autumn fluttering glow'd 
+ slant-floored o'er the infinite blameless shade 
+ Of Hill? eternal numerous owners shines, 
+ mro, wip'd from the stern and perilous lanes, 
+ In all their passions, half they "Say 
+ Scarce to their altar-stone 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

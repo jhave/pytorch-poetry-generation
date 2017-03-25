@@ -1,0 +1,55 @@
+
+Conviction 
+
+ of old tropical strand 
+ Which springs. 
+ 
+ Why should the Greeks punish our generation and the machine, 
+ would all bring well. The note of me is also a dream, 
+ 
+ or dark, not an instrument of musicians, 
+ restore. No like lights--just 
+ or, turns out on the little 
+ like ants that 
+ meet no one's 
+ 
+ except 
+ trick! 
+ It changes a day 
+ with one process. 
+ listen, I'll go to sleep, 
+ and do it die 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

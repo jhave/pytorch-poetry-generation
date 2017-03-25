@@ -1,0 +1,49 @@
+
+Elect 
+
+ 
+ It upright against us a mechanic 
+ burning through rose flannels, a handful of ash. 
+ Deep above the locks a arteries made 
+ exploding from a mountain implications to bring 
+ went.-- outward at the opera to death 
+ 
+ while I eat my nakedness my definition 
+ of death lost heard I'd still say, 
+ be there if I went for once, one after one, a swimmer 
+ at a ghetto gate seat, staring at a chin, 
+ not so often dream of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

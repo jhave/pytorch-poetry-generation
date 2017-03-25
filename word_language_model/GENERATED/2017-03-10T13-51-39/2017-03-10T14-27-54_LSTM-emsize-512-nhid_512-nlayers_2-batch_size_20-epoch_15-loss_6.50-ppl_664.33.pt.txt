@@ -1,0 +1,47 @@
+
+Rend. 
+
+ If did I ever like that 
+ nights I could go on on the bus sometimes. 
+ In the television station of New York roof young men swayed, and black assumed leapt over cutting silver-pale; 
+ lost Lenore-- stenchy writers, Ma FISH tar, Drink, waldend. Last, 
+ narrative of the ark of Classics insistence deign'd us twenty-sixth 
+ Where is the letter from an victims and the meeting of errata 
+ from Sylphs and pound 
+ Robert touches, Jacob 
+ 
+ They are bluer than the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

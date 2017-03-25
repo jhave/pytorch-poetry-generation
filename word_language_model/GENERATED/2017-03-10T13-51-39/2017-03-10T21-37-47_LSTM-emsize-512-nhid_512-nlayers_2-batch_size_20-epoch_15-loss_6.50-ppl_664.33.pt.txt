@@ -1,0 +1,51 @@
+
+The Pen, And The Reeds, Ooze, An Moist Yard. 
+
+ The city pines of riot is mistook 
+ a long braille thing that I can demonstrate rose to sports not getting 
+ Hot like animals. 
+ 
+ I want you, Contract into the fog. The blocks 
+ will sway not like hot Anna, in the sea; 
+ 
+ but every time 
+ inum, 
+ 
+ and you carry yourself into a tropical eminence, 
+ 
+ Promethean for your garden superior to ladies 
+ that you wrung my drive, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

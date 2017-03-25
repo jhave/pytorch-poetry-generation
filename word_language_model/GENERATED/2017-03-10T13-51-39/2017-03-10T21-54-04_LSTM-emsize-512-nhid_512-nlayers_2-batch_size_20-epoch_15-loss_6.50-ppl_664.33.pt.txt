@@ -1,0 +1,54 @@
+
+
+
+ 
+ Dark dreams lemmate Betterment hair? 
+ 
+ In this, I touch them and say 
+ I have punished Flud Bed 
+ Mary was and her thigh behind her 
+ Like a lightning in her hair. 
+ 
+ PART I trusted 
+ 
+ At Environ'd two people came home to dead 
+ 
+ XI 
+ To the first grade from the Express: 
+ modern. On the Wings bent with a noise 
+ Thine eyes practice wind from the footstool, 
+ Second Band people on the ballroom floor, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

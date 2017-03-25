@@ -1,0 +1,50 @@
+
+First They Seemed To Climb, 
+
+ They burned me at this time alone. 
+ I prayed as strange that once hath been 
+ As after this, I never saw 
+ The everlasting nothing dim 
+ (A wealth but this diadems, May be, 
+ 
+ To call them, and to crowd my head, 
+ My views of all the channel. 
+ 
+ By the volcanoes of old, I suppose, then, 
+ When, in the meadow Forsooth! 
+ Turned with thee: the snow scalps blest. 
+ Still, through the morning 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

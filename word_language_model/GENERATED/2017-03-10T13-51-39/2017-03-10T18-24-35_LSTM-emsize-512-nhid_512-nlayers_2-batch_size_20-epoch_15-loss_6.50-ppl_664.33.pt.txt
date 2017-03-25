@@ -1,0 +1,55 @@
+
+Army. 
+
+ 
+ 2 
+ 
+ 2 
+ When the poor nation came to me 
+ With a spread flirt like a dreamscape 
+ For a little smith potent, vision 
+ Of roamer-lonely, and released from of fairyland.' 
+ In the margin, exhaled, I dreamt again 
+ I would have had that fad and sprang into the mist, 
+ There was in that little army -- 
+ That it should have been, and once give. 
+ 
+ 
+ VI 
+ 
+ So later, when Death drove onward 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

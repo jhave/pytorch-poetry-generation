@@ -1,0 +1,54 @@
+
+His Block, 
+
+ feet over back, searching the same clot. 
+ Who may he die while he lies off in narrow cell. 
+ He will teach me he was sick. 
+ 
+ She rubbed it around the ring 
+ which lee-lang cleared, 
+ Did knee-high before. 
+ 
+ My father was happy 
+ to be looking. 
+ O thank love, terrifie, 
+ have guilty ghosts in Paradise. 
+ 
+ After day the families meet 
+ the bodies stretched into fragrance 
+ like Brondings, kneeling. 
+ They plucked it 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

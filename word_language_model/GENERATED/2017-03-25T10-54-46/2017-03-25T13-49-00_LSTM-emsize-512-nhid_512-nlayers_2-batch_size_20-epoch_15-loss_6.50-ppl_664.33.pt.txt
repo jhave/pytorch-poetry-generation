@@ -1,0 +1,59 @@
+
+
+
+ 
+ He tells me: mesurable is this you 
+ 
+ that weary, forgive her, to make a wake -- 
+ 
+ folly does not made 
+ 
+ which, more rich than her mathematics. 
+ 
+ Never pushed it, or laid a pitcher 
+ 
+ Twice drew up, her smile the silent 
+ 
+ Goddess, soon speaks alone. 
+ 
+ tow-path indeed, is not even its object but Towny 
+ 
+ Now, clapping, spend the colt of the forest-nation, 
+ 
+ Fallen around with the rod, 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

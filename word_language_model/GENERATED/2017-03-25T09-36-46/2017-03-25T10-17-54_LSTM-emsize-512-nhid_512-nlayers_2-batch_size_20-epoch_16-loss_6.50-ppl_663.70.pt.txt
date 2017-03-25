@@ -1,0 +1,48 @@
+
+Self-Love 
+
+ With the silence of my hand. It seems the best; 
+ it's all time we have just flung up 
+ Even at the blood's tail station 
+ - ice-worms and Piercing; and par 
+ Already Judge that the limp of Him? 
+ 
+ Go, rivervine Keats and queenly Pleasure 
+ Let aught begin to hide. All we won them out 
+ Is the author of belated Dance in the Gulf, incorruptible, 
+ And then in anger, in cottage-eaves 
+ Comes the old on heaven and damp 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

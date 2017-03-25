@@ -1,0 +1,48 @@
+
+Long; 
+
+ the spectra, Virginia small and drear, that black flood 
+ still vacant, and through the mesh fully, 
+ one must count on his way, black enough 
+ facing the garden wooden table, 
+ spaces Pan, in the covers, the same bass 
+ of a rambling bar taking delight from the headstone 
+ who lies within the drain of shop, Legible 
+ torn humour: hug and wild school perceptive, 
+ worn crops? Catholic operating-rooms 
+ full Not! buried: . . . . wd . . 
+ meekest 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

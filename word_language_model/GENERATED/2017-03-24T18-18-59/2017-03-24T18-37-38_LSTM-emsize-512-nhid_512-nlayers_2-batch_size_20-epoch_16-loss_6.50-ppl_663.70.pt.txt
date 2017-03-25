@@ -1,0 +1,48 @@
+
+
+
+ To drive down its army, 
+ And let me. In the new country, 
+ In the glint of grass and casting dark. 
+ 
+ Day spring day, I told myself, God said, 
+ He would have said to me, ocean-bound, 
+ For the place, he bowed it down, and his fifty-nine head. 
+ Loud was one October (and remembered 
+ A nervous horse that, on his own way, 
+ The sickness of his children reached him. 
+ He was as granite as the ancient hell of old. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

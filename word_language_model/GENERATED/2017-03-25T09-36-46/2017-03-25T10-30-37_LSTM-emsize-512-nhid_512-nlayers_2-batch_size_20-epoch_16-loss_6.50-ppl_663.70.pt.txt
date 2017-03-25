@@ -1,0 +1,50 @@
+
+Sighs And Foam, 
+
+ aisles like the violet of the caves that blows 
+ A dull coat. 
+ 
+ In that quick world, this listening, in one privacy 
+ Of crowd "Natal lowing tunnels precise 
+ 
+ Up the fear); 
+ In gradual deposited: never was seen, 
+ That saw the Quakers domesticated for the village-Hampden, 
+ Stuck up against the window-panes; 
+ There was a tweene, that had no bane, 
+ And his form, or his friends were bolts and strength, 
+ They wait for hours as 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

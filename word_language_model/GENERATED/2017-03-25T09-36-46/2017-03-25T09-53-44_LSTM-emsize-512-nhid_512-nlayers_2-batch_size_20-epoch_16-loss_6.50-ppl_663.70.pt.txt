@@ -1,0 +1,53 @@
+
+She Said: Crimson-Cresseted Your Gore 
+
+ heofenes farther through with burning half, 
+ And darkened every bright blood! 
+ inn-keeper's Knot, sac 
+ Of free foreign retinue in tenderness. 
+ Forget not exactly yet. 
+ 
+ 
+ 
+ 
+ 
+ Baudelaire 
+ 
+ 
+ Here in the valley, still the bebopist stand in the humid air Albatross. 
+ The jonquils greets deserved: himself in its infants and dreamed a single Child's voice, 
+ And again and there he lies began to advance the shutters four hours in front 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

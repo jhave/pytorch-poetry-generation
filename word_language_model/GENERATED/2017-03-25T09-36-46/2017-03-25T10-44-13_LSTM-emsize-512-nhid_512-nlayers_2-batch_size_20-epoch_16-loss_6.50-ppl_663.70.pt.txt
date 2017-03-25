@@ -1,0 +1,55 @@
+
+For Interrogating? 
+
+ Since there it is no longer 
+ weather unwounded pleyne 
+ the past the salt of night by morning, 
+ as though it Grant too many living oaks, 
+ a kind of lineup 
+ a different taste 
+ this without a syrmate 
+ a love like has rocket open 
+ tumults winter 
+ 
+ a body, cool Pott's and green 
+ red polished branches 
+ floating dirty in 
+ intestine arms. 
+ mustard ceiling, 
+ wandering calm. 
+ Next morning each glad--even 
+ another house 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

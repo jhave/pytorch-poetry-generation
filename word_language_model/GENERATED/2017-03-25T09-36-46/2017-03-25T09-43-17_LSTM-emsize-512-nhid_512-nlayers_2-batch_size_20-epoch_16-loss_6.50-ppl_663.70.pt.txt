@@ -1,0 +1,50 @@
+
+Are More Fresh Miocene Charcoal. 
+
+ If in the leaves we get what we can't bear them. All the paint is sincere of things 
+ circus by-- will need nothing of Shame." They are lucky affections, 
+ When want anything, do we do with ourselves, or in the silence we find in our flowerpots as we accosted into breath? 
+ 
+ 
+ 
+ 
+ Homage to Ben 
+ 
+ 
+ I was reading somewhere something other than fact, not 
+ 
+ not dead, but my weight or it's 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

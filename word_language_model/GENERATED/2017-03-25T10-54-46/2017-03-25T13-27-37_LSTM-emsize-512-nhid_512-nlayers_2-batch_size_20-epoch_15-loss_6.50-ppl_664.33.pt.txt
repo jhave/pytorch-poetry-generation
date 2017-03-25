@@ -1,0 +1,54 @@
+
+The Same Time: 
+
+ and if you eat too far. 
+ Go out my chair, 
+ light flat with me, Declares 
+ add. pastor's passions! 
+ Where you are you who I can, 
+ know you have say cock-sure 
+ hearing it all in doubt, 
+ Never related to your mother's 
+ know something 
+ 
+ you can't offer the Lord's 
+ 
+ echo & not till 
+ you're descanted, 
+ And like a doctor, you knew night 
+ was hot and cool and tucked like 
+ in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

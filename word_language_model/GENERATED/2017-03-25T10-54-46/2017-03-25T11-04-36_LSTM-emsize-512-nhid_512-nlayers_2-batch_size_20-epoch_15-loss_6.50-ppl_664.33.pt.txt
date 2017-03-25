@@ -1,0 +1,60 @@
+
+
+
+ Whose thick hands slide remote from tears and branches 
+ By struggle the root of the earth. 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Familiar Boy 
+ 
+ 
+ It was so late 
+ They had to hold 
+ Like a white sun 
+ And found on gymnopaedia. 
+ 
+ They thought they would not rise and close their pants. 
+ So, we lie in the park 
+ Thunder genital; 
+ And you're holy & mind. 
+ 
+ My little painted 
+ ivory and wrinkled coffee 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

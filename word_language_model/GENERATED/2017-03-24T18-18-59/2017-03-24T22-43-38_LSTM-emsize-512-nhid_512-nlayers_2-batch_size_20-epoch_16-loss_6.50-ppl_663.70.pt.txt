@@ -1,0 +1,52 @@
+
+
+
+ To "Faith or anyone, had He the same, 
+ Of what had written in a But polished-- 
+ degrees, the good Thyrsis, on one breast 
+ The boat descends on tow'r, or tree, 
+ Or else th' inevitable them--Rubens' 
+ Of Violence at least the seasons. 
+ 
+ See! while investigated at the height, 
+ Like sissified careening; 
+ From noster wythe vase 
+ In dad, though at once they meet. 
+ 
+ With white blanched perfume he lay, 
+ And released Pampers, 
+ And more than 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

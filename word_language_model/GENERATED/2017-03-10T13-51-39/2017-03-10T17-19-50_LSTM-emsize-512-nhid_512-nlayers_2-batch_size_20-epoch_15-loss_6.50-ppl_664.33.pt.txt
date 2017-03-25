@@ -1,0 +1,54 @@
+
+And Letters--I Shall Stand 
+
+ lesion, in the summer of an abyss 
+ Or glimpse of the shape in which a million 
+ (Whose flags are inner, and of stern 
+ It seems to me as though the teacup wound 
+ Beneath the hidden allotted, when the knives 
+ Lies like a parcel on the bicycles 
+ Not bound itself, or swept into thine bones, 
+ aben on in flesh at speed, in natural scurff, 
+ 
+ 
+ 
+ 
+ 
+ I, it Meditation yells-- 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

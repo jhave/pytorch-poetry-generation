@@ -1,0 +1,66 @@
+
+
+
+ 
+ Light might be like these, yet moving prevaile 
+ 
+ Most ancient monument. Not just free, 
+ 
+ Now how strict they be, sometimes I. 
+ 
+ The owl scratched and gleam and empties 
+ 
+ And drive, catch it fear. 
+ 
+ 
+ My dreams are gone scraps. 
+ 
+ They say my darkness. I quote, lord, 
+ 
+ Still in a faithful way? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Goodbye shirkers 
+ 
+ 
+ --for beat! du bugles! blow! 
+ runaway wood 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,49 @@
+
+Call, 
+
+ I see how love love is too shy to mind. 
+ Should you this be onsende, to blindness! Deictic, 
+ Tell you of a sky! 
+ Mayans knave, ha! Lancelot quelque rector, righteousness, 
+ For the element is immediately big-mouth -- 
+ ghost-orchid BY lassas Coila's Gon 
+ Baby! for Trade Prologue plush. 
+ Ancient sol, qui breede palpitante) 
+ Et stormie le rococoed, 
+ Torr'd ond modo le FOREST Gunga il der Fair, 
+ De ad atte roof- 
+ revision) Juan, eros, a ys ferthyng 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

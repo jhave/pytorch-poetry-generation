@@ -1,0 +1,46 @@
+
+In Spring, 
+
+ And stay the golden lake, a magpie whom 
+ This golden struggle falls up in its cup, 
+ And has one only living in the wilderness 
+ But grows luxuries to the riddle that she crust. 
+ 
+ Not mine lease. Ah, ah Lord, if I depart, 
+ And I delay with her first light and the lazy kiss at all. 
+ All I hear her daughters of ash-color'd, and the way no more. 
+ But she could not cease to be an honest of 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

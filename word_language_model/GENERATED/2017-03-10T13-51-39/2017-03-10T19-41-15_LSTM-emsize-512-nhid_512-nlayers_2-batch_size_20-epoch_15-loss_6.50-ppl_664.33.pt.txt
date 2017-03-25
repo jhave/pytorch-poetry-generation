@@ -1,0 +1,51 @@
+
+Even The Little Cat 
+
+ 
+ Who has sought him: she must be still enough, 
+ Dreams are good in the old room: moaned 
+ 
+ But therefore, this young woman, let our Lady 
+ Be gone! o'er these altar clear flames raises 
+ The sea from an unholy rain? 
+ 
+ Her hand in rosy hands her mockery lies, 
+ One draws her tired throne, and journeyed on, 
+ In her great moisture is the joy, 
+ But seek all equal. 
+ 
+ She will teach no 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

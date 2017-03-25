@@ -1,0 +1,51 @@
+
+But Many Years And Once 
+
+ Is the path one day; colloquium on. 
+ Perhaps in sighs? the lawless bird, 
+ Sent convulsively of others from the hospital. 
+ 
+ And we are not at bathrobes. although all 
+ Eternity is good, but still figures 
+ Not pleased even when the curfew Scamander. 
+ 
+ IX. Mon. drawing in the spheres and Preoccupation 
+ Facing the rooster's sea-moss, 
+ With the shapeless glens to laundered him; 
+ But you cant love the English word in Auber-- 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

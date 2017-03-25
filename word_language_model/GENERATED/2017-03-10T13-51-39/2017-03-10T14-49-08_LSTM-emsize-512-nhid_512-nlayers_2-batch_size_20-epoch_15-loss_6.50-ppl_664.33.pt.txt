@@ -1,0 +1,49 @@
+
+Jesus. 
+
+ 
+ And I knew that every sour woman 
+ Would aim for pleasure, at the university, 
+ To polish my faith about the sanctity of love. 
+ I made no only grief a new, 
+ Could to go somewhere down into shrines 
+ On far straining to work-collar said Notion 
+ That that tomorrow is still being Outage 
+ Would dread, I conclude, then choose the power 
+ of simple power, that pitiable the world 
+ 
+ with more than nature can be more than this 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

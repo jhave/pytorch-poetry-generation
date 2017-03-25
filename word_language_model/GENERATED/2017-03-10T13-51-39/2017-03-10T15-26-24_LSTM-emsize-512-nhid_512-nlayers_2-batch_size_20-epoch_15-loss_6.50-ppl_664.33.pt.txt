@@ -1,0 +1,52 @@
+
+Jerk To Make It Dread, 
+
+ Papa's brothers, I know many-shedded 
+ 
+ Take alone what she you do have, 
+ About the sweet, one thing you give 
+ Unsaid his cigars, he don't no more. 
+ 
+ Even six weeks old, I may hire that; 
+ But make he have come to me, 
+ Who he's a type for I, 
+ Something that doth like, 
+ 
+ So let me talk about this game. 
+ 
+ Most teacher is tired or sad. 
+ The fatal insistence gloried 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

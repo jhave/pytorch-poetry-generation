@@ -1,0 +1,45 @@
+
+The Old Skittish-- He Writes Best The Rest. 
+
+ There are little words, laughed for children, but death's weeks so? 
+ In his best days of powerful the young man 
+ who stood in the living among the garden blowing his 
+ body back. He fled him off with one revolving shoe 
+ & crawled out to the dishing can, hurling 
+ its horses wide over the dogwood, the various slippery 
+ bodies. No longer his watches was an instant 
+ as the one he finished before he 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

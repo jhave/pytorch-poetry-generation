@@ -1,0 +1,47 @@
+
+(Nine 
+
+ Exhausted without any bone of man. 
+ Sparrows, little day or day, it leapt me 
+ Like a new kind of thing I wrote hid 
+ Its arm and seize a seal of glass, 
+ And says: "I am safe, who will never lose 
+ Even to the world's time forth, without any source 
+ Of this Wyoming. Which April scatters back 
+ Some little pleasure, this and long before 
+ divergent enquir'd in the argent shale-like 
+ Rode partes and set up some of all) 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

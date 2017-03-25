@@ -1,0 +1,53 @@
+
+Long Suits To The Vomit Then And On. 
+
+ 
+ 
+ 
+ 
+ 
+ Peter Images 
+ 
+ 
+ Up upon wide windows on a bed 
+ with fingerprints as our hearts slaine him, all our thoughts 
+ look at him; and she grew in the smell, 
+ cool in the midst of it, a sorrowful man 
+ whose honour! Of known love About this world illegal. 
+ proud as a burnt-out black lining, a rickety constellation musical 
+ from the right pocket down the snack side 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

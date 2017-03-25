@@ -1,0 +1,43 @@
+
+Lived Again, Beyond His Nightshirt Crawling Down The Table, 
+
+ a sick sleeps, a message, a baby a hillock of pink imagination, and deepens and watches breaking 
+ Wasn't with a restless azure of its own, are buying 
+ The refuse? of oldest rustic vine in the summer cars, 
+ And now the lids in Queen cans cover out of death and the frost 
+ Trembling in that small blast when wisdom is tied, 
+ Shakes into the sleep of the river, and draw the air through the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

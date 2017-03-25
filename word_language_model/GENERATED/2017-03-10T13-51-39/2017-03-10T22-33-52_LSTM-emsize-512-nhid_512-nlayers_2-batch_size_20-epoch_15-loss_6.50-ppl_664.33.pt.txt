@@ -1,0 +1,52 @@
+
+South Came Bell-Swarmd, Avalanche 
+
+ And blossomed on the Pythian lawn. 
+ dle all inside; she was eager, 
+ Saw large goal; 
+ And she fell, and we flights, 
+ The devouring cool round while we Ion. 
+ 
+ Then though, the frames overhead, 
+ bucking and tumbling toward the Sun. 
+ 
+ And fill some single or Already air, 
+ Where eleven miles are out blunt twigs 
+ And twist of a melody of children 
+ No weather but groan'd, The gulls 
+ 
+ Shadows aloud to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

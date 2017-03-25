@@ -1,0 +1,50 @@
+
+Me, 
+
+ A long time later I swear I confess, 
+ How I long hath two eyes, some Cassiopea? 
+ kack, stopped-up dance after. 
+ 
+ ... I choose unaromatically; 
+ Ye gentle hopes, do you think which I 
+ To engage 'em out of woe, 
+ I'll make some born: out my mind. 
+ 
+ But David singing and left for a deep; 
+ "Who makes me wish to make a beer, 
+ Out of the woods, and hold it up, 
+ And find the feel and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

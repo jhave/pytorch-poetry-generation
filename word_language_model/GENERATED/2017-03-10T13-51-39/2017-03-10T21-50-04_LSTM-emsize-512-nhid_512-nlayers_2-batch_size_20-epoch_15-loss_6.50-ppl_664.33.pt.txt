@@ -1,0 +1,46 @@
+
+Tufts Into My Mirror 
+
+ When we heard the minds of herons sing and leave. 
+ Assist us these some kindness so that? 
+ So ill should we not adore or please: 
+ Our faces as the medals danced in the nightclub, 
+ Yet the rest, which slew us, but what a Jury 
+ Grew too far from the cold tenor of the night; 
+ If we were seeking a strong line of a child 
+ Is the truth, sodium with lines, 
+ liturgy will see that, drink 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

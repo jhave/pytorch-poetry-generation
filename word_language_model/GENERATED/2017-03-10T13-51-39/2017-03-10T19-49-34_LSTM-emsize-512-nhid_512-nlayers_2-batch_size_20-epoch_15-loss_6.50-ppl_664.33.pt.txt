@@ -1,0 +1,49 @@
+
+Upon The Black Waxy Shore 
+
+ Of the Luftwaffe, seen on a load of spirits 
+ Red rain, post- Gut, a rich phosphorous 
+ Book. Between its breath like death 
+ Scorning bu'ds 
+ To archangels, vois bookcase 
+ The gas house tilted green, Vacation pavements 
+ --Maya leaning on a hospital. Together 
+ Together body will breathed above us 
+ All afternoon the gray. Give things back 
+ From various Mountains with many sleeves 
+ And towns glazen forms, shadows flickered 
+ Like stars within us. Others 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

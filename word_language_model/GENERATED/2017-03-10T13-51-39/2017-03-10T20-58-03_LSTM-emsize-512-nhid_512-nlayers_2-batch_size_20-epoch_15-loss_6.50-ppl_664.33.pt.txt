@@ -1,0 +1,47 @@
+
+Prove, 
+
+ Farewell's foolish to me thus to me 
+ Well am I now that I love you, and shall get out 
+ My grinding KAFKA and weigh my brain, 
+ Above which all my vantage, oft did grant, 
+ "No need of any touch on earth or hand, 
+ Or narrow glass-- or mulch or breathless rocks, 
+ Which, throng each eye out before he spoke, 
+ And in his veins the hoary charmed myrtle white 
+ Yucatns with a red of gold, and imagining Prospero's 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

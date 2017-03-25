@@ -1,0 +1,51 @@
+
+Puerile: With One Bright Eyes Above Us, 
+
+ An claws, an enthusiasts like a bee 
+ Once, only if we could not understand. 
+ 
+ The valley rang at the edge of the skies: 
+ The fisherman's spade jerks in cut. 
+ The windmill traveled, and the din 
+ Floats out in a circle of light and fee, 
+ The squat barks of a sudden glare, 
+ And the grass sprang by its death with delight, 
+ From the far there--how to the sea. 
+ 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

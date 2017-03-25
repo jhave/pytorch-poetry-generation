@@ -1,0 +1,54 @@
+
+I Mean Disais 
+
+ Our other smells-- you care, 
+ There's no target. 
+ 
+ speared sleep and mark it every night's royal Brain 
+ But the comfortless insuperable. 
+ sticker--Morocco--they've always glass-walled 
+ On thy bowerbird title. 
+ 
+ Do neigh privity. Well, let us all perform 
+ Those nameless cards are express'd here. 
+ And, let us make it a better way 
+ Something more much. 
+ 
+ We shall go twice, 
+ We want something to laugh, 
+ And die; to play for example, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

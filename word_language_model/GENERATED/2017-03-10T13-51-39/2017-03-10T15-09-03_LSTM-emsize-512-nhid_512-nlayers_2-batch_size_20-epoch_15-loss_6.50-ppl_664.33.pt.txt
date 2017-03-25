@@ -1,0 +1,55 @@
+
+
+
+ 
+ He pours one another down and look, 
+ 
+ Well'm, gleaming, and the eye on his side 
+ 
+ Still sweetest but orgasm was getting by, 
+ 
+ And reading his will. 
+ 
+ "He has plot, she says 
+ 
+ Starr) the word around his head alone making him quaint 
+ 
+ And I may not have my vision of young dove? not faithful. 
+ 
+ He traced at the ends of my window cell 
+ 
+ From a bite citron in the creek where 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

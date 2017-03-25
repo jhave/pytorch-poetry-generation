@@ -1,0 +1,46 @@
+
+Look Softly Down 
+
+ And in my Euripides' look of eighteen days one 
+ Made the slow and potent time, stripes and tallying by birth. 
+ 
+ Far away at the pale grave climbing the water, 
+ Saw the white hull through the twilight Night 
+ And the sands of all the moments thickest came to me almost my name, 
+ Which, as I remove my fortunes, after the spot of her "glory, 
+ Come by the county alway! came as I lay, work), 
+ ceol or miracle!)-- 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

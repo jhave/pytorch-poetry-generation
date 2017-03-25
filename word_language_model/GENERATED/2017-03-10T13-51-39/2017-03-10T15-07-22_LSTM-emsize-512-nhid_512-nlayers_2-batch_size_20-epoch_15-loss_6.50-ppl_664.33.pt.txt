@@ -1,0 +1,52 @@
+
+Down To The Four 
+
+ pollution-nourish'd passing 
+ and shot it afternoon. 
+ 
+ 
+ So as we bang before them. 
+ I think I will have thought that to go around 
+ the spiral in my mind 
+ watching how I saw the stars cover 
+ wondering if they would come again 
+ dolls and Headlong? and Those 
+ names too familiar with that dark 
+ uphill dance of those who love them, sure 
+ of some change or art. 
+ 
+ In my special childish vision 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

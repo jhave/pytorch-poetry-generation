@@ -1,0 +1,52 @@
+
+I Have Bade You Remain 
+
+ as you must in indifference 
+ to kiss each other in his part, 
+ but fully for a time to connect -- 
+ So, and then he's hungry, your trade. 
+ 
+ 
+ close-up stomps like slender wire 
+ yellow red cans shift in a shiver 
+ from a dry abandoned fissures of redder 
+ that sightless black arrogant 
+ Consent to a barbarous cast 
+ unreasonable: passage with death. 
+ 
+ Whoever you eat on an exile getting literal: 
+ I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

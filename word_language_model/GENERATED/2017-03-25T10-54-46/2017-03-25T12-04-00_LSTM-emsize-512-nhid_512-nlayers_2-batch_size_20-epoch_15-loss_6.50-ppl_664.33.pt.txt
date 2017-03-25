@@ -1,0 +1,53 @@
+
+
+
+ 
+ for Babe's roses and brine you keep 
+ 
+ your country. 
+ 
+ What do you want to go to our prayer, but you like 
+ your egg as a wig of grapes, unrisen, an old exposed sexual sons. 
+ 
+ 
+ You don't need me for myself. 
+ 
+ If you're aware about the Sun, the newborn are dead, from which it means 
+ no difference and yet a shadow lucky 
+ 
+ You can do. The part of my body 
+ for something you 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

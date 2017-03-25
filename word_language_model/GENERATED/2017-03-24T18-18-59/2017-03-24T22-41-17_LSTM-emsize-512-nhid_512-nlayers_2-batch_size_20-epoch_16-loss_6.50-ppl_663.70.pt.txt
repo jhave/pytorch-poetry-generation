@@ -1,0 +1,44 @@
+
+Fought The Presence 
+
+ As far as the trees have come the day, 
+ Some blooms make ancient e2 that's at last, 
+ Move it, and lad, with small and sweet, which at which you cyclists not till we satisfy? 
+ Too much to master today, when ye make an inch, looted their behind--the 
+ But do they adore make enough; as well as they account long, 
+ And to leave plenty whether they find us to others, 
+ As they wake which, or not. When the shaman 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,45 @@
+
+Country 
+
+ They discovered what they thought they pleased and writes assistance in vain. 
+ 
+ They strike them to find anything. They never bawl and bad it is not. 
+ 
+ Would break you up or do you have to prove that poets will seducers 
+ So don't be crashes. Do you dare to get, on benzedrine and always get them clean, 
+ When they commit up the TV home on the table. 
+ It's better now than they are young, you are sleeping, and we will 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

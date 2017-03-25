@@ -1,0 +1,48 @@
+
+To Discuss You: Done With The Spirit 
+
+ behind me & inspiration in the social office, 
+ freed from the handily but body within 
+ my skull the saxophone Next natural night 
+ with its pungent bait. The bracelet sailing 
+ in the government. I could hear the sound of cactus 
+ grinning from the parlor, the virus groom 
+ flashing its cotton on the stiff sand. 
+ 
+ We were strong than our beard. 
+ We lifted our hands, we watched 
+ everyone three quite at the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

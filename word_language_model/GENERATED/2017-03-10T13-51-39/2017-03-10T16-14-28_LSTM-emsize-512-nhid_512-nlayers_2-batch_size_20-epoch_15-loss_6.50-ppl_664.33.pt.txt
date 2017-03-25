@@ -1,0 +1,51 @@
+
+
+
+ Of no other present miles to left, 
+ Under the visible wings of his huge class) 
+ Diamond and tampered in the recounts 
+ sirens cleared 
+ With the sun playing with the wise; 
+ But it's more secretly 
+ About the crumbs and meanders 
+ 
+ The sort of Roused fire in the sea? 
+ net's country, diminishing the soil 
+ And giddy fancy, eat and down! 
+ Sad meres of blank motion? 
+ Or hanging in the corner of magma. 
+ It's sleeping in silence 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

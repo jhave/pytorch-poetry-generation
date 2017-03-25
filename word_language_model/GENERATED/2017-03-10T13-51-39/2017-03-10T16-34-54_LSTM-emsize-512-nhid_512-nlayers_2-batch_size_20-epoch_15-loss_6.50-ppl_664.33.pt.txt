@@ -1,0 +1,54 @@
+
+Herald, 
+
+ but what it must do: a boy-king 
+ 
+ X 
+ Against the depths of a certain space. 
+ shlayferig yet quight: them, 
+ And they shot what Braggarts 
+ Futility every beckon'd and read. 
+ 
+ shuttlecock-kicking, Belial death is happiness) 
+ Forget on us Mill Vertues, horde 
+ Of millions true Haroun disais 
+ vois plung'd in himself? What Francis, 
+ T. neerest what you crack; 
+ Whoso loves save what's a bad spot, 
+ Er work supreme, a wuz 
+ Moves well. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

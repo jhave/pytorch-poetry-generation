@@ -1,0 +1,49 @@
+
+
+
+ But that at last 
+ You who find yourself can declare 
+ "What I remember but suppose 
+ That you could not gladly hold you; 
+ But there were just the church of god 
+ Who hates to love us, if they might reassert 
+ While the red Mattin, the memory now they dies, 
+ And the thoughts which we never brought, the same; 
+ And men who sojourn in our songs. 
+ 
+ They've dreamed you a draught every definite look, 
+ And we will do 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

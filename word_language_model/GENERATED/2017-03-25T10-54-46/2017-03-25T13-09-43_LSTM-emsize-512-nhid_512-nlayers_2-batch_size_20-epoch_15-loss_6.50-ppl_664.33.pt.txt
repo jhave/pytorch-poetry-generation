@@ -1,0 +1,48 @@
+
+Rose Along The Earth. Good Days 
+
+ you in plummet or bravo dream of wrappers closed. 
+ digression. over-lippe amour, 
+ you needn't mar yourself and win. 
+ And when you do so -- you were one, now,forever, 
+ (O Lord, both thereal and migration-- 
+ black-on-white He. Give no will. 
+ Soudan, and plot a scud depart 
+ put his, great denying root. 
+ No more a bird can eat the air. 
+ Nothing only so pats a man, 
+ As with delight the Britain when the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

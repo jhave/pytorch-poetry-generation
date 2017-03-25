@@ -1,0 +1,46 @@
+
+To Come With Words. 
+
+ 
+ But remember if I did (since I might persuade it; and 
+ mourn. Left home and what was Rectangular How should I be? 
+ Once or before me, scarlet cross, stigmatizing inadvertently, 
+ I (words couldn't have occurred for a second, nor tell channeling 
+ that, or paid his nature to Mr. herbs, for the first Alfonso, 
+ licking his penis as a couple watching being, though, his ankles. 
+ retains, legs? only of the Lord's aren't 
+ born for him enough 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

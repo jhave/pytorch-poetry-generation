@@ -1,0 +1,51 @@
+
+
+
+ 
+ Fear over my soul, not though sad, 
+ What love may change in this Deep. 
+ 
+ "She is hers by one of all the Prose." 
+ Heaven must thee see, 
+ And I'll give her to all his eyes, 
+ Methought she runs aside, 
+ Sister and what? 
+ But you cannot money be sure of, 
+ Though a kind which, love has liked to tie you. 
+ But you will go so busy, 
+ "Oh, who says you ain't drunk, you have one 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

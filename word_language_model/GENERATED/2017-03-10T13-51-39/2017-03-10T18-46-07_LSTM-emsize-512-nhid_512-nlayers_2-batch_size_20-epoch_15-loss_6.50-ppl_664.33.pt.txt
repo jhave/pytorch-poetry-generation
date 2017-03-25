@@ -1,0 +1,53 @@
+
+But Then Above Whose Forehead 
+
+ a contributing key made on his shoe 
+ small and pounding the inkpads 
+ made of blood. 
+ 
+ I saw the drunken parts--but wail 
+ for fifty-fifty. forsaking. and Trust 
+ 
+ himself, lilacs, 
+ where they hit us, they hollyhock's 
+ Three sensible inch 
+ from the galleyship and high limbs; 
+ 
+ the action of preference 
+ to be collected from an audience 
+ as the immer kneels against the second ring. 
+ That one way the late hunger 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

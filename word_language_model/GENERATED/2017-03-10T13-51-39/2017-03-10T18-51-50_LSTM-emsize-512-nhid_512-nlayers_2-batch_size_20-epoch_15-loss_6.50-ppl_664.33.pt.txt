@@ -1,0 +1,49 @@
+
+Tired, So 
+
+ you enter upon my anger 
+ 
+ How can now her dark eyes smile in your throat 
+ that swirls my loneliness republics, these way: 
+ hard, too, that she right into real life 
+ 
+ where I am con-ka-ree, I do not know where I go, 
+ I know believe me to become your way 
+ for Lying so very cold. I'm all about from it, 
+ you may be as not being building 
+ because it is the last thing. 
+ That your 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,54 @@
+
+On The Lake. 
+
+ Now there's something in man's place 
+ as the visor absorption; and my low hair 
+ finally stunned to interpose money hard and obscure, 
+ on the sun of the house. I can hear 
+ that these are about nothing. 
+ The fort Beerle's skin, its unformed bone hangs on us. 
+ I have smoked the feathers, and I wait by the grease in dusty glass. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Late Dreamer 
+ 
+ 
+ Lord this poem my dear, for 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

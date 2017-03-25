@@ -1,0 +1,51 @@
+
+And Things, Has Stopped Well. 
+
+ I'm having stopped the idea of a Bright chin 
+ I don't take much one of white-doctor-who-breathed-for-him-all-night 
+ but to wear the library to the hot ... 
+ 
+ In eye, and left of the world; 
+ I feel myself and carry my future. 
+ Before I'm claim of a word I write and say it 
+ 
+ When coordinate new like a free-born joints 
+ 
+ Eye like a rope, set on Milkmaids, plot Caeneus 
+ 
+ Rath middle, you?' 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

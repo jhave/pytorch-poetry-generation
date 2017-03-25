@@ -1,0 +1,54 @@
+
+Melancholy, 
+
+ in no fields that end the world is always used to touch. 
+ I might not speak, knowing when I from how deep it is raining 
+ learning to make that light I grow here. 
+ Who can tell what cried down not in the building of the sea: 
+ a war-drum of hell, 
+ 
+ where the wind wants that a blur may be born. 
+ 
+ 
+ 
+ 
+ 
+ The Fascination of Name 
+ 
+ 
+ Shifting a gun in the moonlight 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

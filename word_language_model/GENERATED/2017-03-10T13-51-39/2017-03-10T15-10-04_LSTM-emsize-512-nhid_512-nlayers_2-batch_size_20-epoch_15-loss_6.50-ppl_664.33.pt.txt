@@ -1,0 +1,49 @@
+
+Manifestos 
+
+ 
+ By these I care about the pessimism 
+ Who looked at time in dreams Henceforth, 
+ But still TINTORETTA to my purpose 
+ His bright eternal laughter to his ''EnJoyed 
+ I stopped his melancholy floor; I smitten 
+ To kiss the bourgeon God with whom his youth lay 
+ night-dark in the mind, (and still the very charity! 
+ He shall regard me as a wounded art, 
+ And dare myself certainly not forget. 
+ 
+ He said, deep-structured jump thy milk and kind, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

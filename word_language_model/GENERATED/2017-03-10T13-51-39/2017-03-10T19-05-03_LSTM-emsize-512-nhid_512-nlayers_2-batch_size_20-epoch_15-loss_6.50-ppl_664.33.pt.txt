@@ -1,0 +1,51 @@
+
+Fauna, 
+
+ fondle away to the senses, 
+ Marathon, and singing, like a spires ... 
+ Out of September day there are no flowers, 
+ Although they're stolen cold. 
+ Life's flat brine, 
+ To pray and speak, if we get off a little, 
+ They are jailed for the old and old men. 
+ 
+ Hail nights of sports and conscious space, 
+ Voices of fierce scent, on cards, the pyre 
+ Is bent to the bottom of the sea. 
+ 
+ Walter cranny 
+ Flying aura 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

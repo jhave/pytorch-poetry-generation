@@ -1,0 +1,48 @@
+
+
+
+ So, as I saw them so in that tent, 
+ Some lone flower breaking to a grave; 
+ And, racing through the streets of Day; 
+ One said young would have collected a wife, 
+ And eat watching are sound from out the final strange sycamore, 
+ And perhaps 'tis the baked of a losing kiss, 
+ But where candle. they have x, my song. 
+ 
+ But these are planted with swift horses and wine; 
+ And angels waiting for Smallpox, 
+ Then they spurred cleansers 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

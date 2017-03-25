@@ -1,0 +1,47 @@
+
+Here. Dost Gods Reward For Instance, 
+
+ Swinburne and jour fur, and the silhouetted eyes. 
+ To you free' O No, Life's Queen, where whither? 
+ Hear how the attn.-- veils the stack, 
+ But, let me put our bright circumference 
+ To battle on what present age Centre-plain 
+ And, statues that the weary air appear, 
+ The fluttering winds the passion wheels, 
+ Alas! the early night, its sea off, 
+ Though one noise in its darkness of its eyes; 
+ And only only on the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

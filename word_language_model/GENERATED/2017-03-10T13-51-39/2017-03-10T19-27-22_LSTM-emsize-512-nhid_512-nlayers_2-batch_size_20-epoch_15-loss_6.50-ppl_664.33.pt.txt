@@ -1,0 +1,60 @@
+
+
+
+ 
+ Young (Lionel) quoth she, so cobra. now! 
+ 
+ Go this time, with the rod, 
+ 
+ And all be weary, let them perform 
+ 
+ The sincere root of morning grace and ear. 
+ 
+ 
+ 8 
+ 
+ Mute as when sunset, the world depriv'd 
+ 
+ The golden fan of a scce. god, 
+ 
+ The bottom change come after each Tubes. 
+ 
+ These only ladies find, us fela of strength. 
+ 
+ deprivations out, breath'st pride, so ages Howitzer, 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

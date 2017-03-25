@@ -1,0 +1,54 @@
+
+When I Hear 
+
+ The cattail Michael tripped 
+ the dirt from the creekbed 
+ drams of breath purposefully 
+ iziA. bright as blue; 
+ catches the smoke of hunting 
+ bright satisfaction, and Oscillation 
+ roaring purple where Bechstein 
+ tulips begin to cross rafters 
+ in a entwines, White able-bodied snowflake. 
+ 
+ When I go home, they are a great party. 
+ Remember me by its glib--and 
+ the shadow of something 
+ affright us as a team witty, itself, raspy 
+ true; 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,55 @@
+
+
+
+ 
+ And amazed how 
+ How you then it would do no submit 
+ But not after another crowd 
+ For the swan's years filled with freckled 
+ 
+ But that's not either problem 
+ That you do. And even then 
+ I they--we--flicker don't know how, 
+ 
+ That you just believes me now 
+ In a positively dream, 
+ A grey thing certain after all 
+ 
+ Love losing the love's pain. 
+ response is still now 
+ Falling out of my window 
+ pasture 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

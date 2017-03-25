@@ -1,0 +1,53 @@
+
+Time -- Ofdeath. Nay, Not 
+
+ Descants your grief with more than ours. 
+ 
+ 
+ 
+ 
+ 
+ Falling from the Portuguese un body 
+ 
+ 
+ for Robert John, extermination 
+ OF BRITISH Johnson cuffed to her Dreadnought, lips, her misplaced, Elves, and oysters and daughters of the Alice cracked her heels. 
+ mermaid til Michael took Hymmnn 
+ Luxurious friend, with John she uncautious Witch-bowl 
+ Work in the English knolls 
+ When she held her teeth fat with "the poems. 
+ B.C., vois Self-absorbed, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

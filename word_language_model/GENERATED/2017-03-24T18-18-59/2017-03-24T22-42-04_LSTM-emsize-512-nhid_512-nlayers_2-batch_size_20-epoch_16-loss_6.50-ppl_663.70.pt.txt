@@ -1,0 +1,49 @@
+
+
+
+ At ease 
+ Those hearse, one more plumeless Sanitarium, 
+ Or a mate Vigor? or a blessed defye. 
+ Not a Greek bar, they would set in more once? 
+ fearless for the good man's friend. 
+ We were waiting a good door unkind 
+ Whether that they were wont to leave. 
+ He drank (silently) his teeth abroad 
+ He could guide the wardrobe in. 
+ As then, if rare the verses be, 
+ Sacko old, are those who love 
+ A Shadow to the slave 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-24T18-18-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

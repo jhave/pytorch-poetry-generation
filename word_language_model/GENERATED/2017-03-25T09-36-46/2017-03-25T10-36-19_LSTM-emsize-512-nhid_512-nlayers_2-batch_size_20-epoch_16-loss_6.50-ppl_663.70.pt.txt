@@ -1,0 +1,49 @@
+
+
+
+ o'erlays me up over my mouth for years 
+ At the blank window, when I lived, the night was stol'n 
+ By ours, as much of woman--am I'd run, 
+ tailors, window.lines Lely in myself--and 
+ Gnglen in thick tube to lean on the hill. 
+ 
+ Known Hoigh by a faithless lake. 
+ That morning chewing, lifted from the pumps, 
+ The metaphor! Mine is the cockcrow, the town, 
+ The tag-sale et Urn 
+ Shells wine weight from the limitless fern. 
+ Here is the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T09-36-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

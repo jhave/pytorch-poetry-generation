@@ -1,0 +1,55 @@
+
+
+
+ 
+ Straight stretched its way through the Roman wings. 
+ 
+ All the mind of anyone has street-gangers 
+ The fields behind a window grey and through 
+ The wheeling sheet of grasses while the sun 
+ Awaiting whom it begins, there is no one in sight. 
+ 
+ 
+ 
+ 
+ 
+ Le Owl 
+ 
+ 
+ How should it? The years' line of storm is locked 
+ With no dew the female Prone at the top 
+ Those feet of a wind that wore a-murbling, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

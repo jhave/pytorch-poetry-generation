@@ -1,0 +1,57 @@
+
+
+
+ 
+ But you, the first counterfeit who 
+ 
+ I will keep your eyes once. 
+ 
+ It's all the world we Albion off'rings but 
+ parental question with your eyes, not its maps, 
+ 
+ the mute gold precept at its ends to the eye, 
+ 
+ had what will been so scatterbrains, so envy 
+ 
+ in the next reflection of the brain. 
+ 
+ 
+ Sea-gulls ill-fortune, off the riverside's gulped 
+ 
+ head, espies, bargwart and Outdoing, 
+ 
+ Welcom'd you, cast up 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

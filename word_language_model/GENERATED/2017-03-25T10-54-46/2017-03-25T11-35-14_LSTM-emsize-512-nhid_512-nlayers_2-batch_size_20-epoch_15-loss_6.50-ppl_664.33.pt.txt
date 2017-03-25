@@ -1,0 +1,46 @@
+
+Continence And Dumplin Raise 
+
+ With resignation to socked her a tame, 
+ And shake it branch from the old herbes 
+ Through the cellos gathered, up at sunset, 
+ A blade, a crested hood of water and sea-gull, slow; 
+ Then here there was sent to please men adornd. by hour. 
+ Thus some of the women who loved "Quickly! arrived. 
+ Their solvents-- made given:--I she said, good ancestors' 
+ cumber'd ha! So, I'd rather see her very wine, 
+ Or think she said. Yet what 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-25T10-54-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

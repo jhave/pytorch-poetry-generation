@@ -1,0 +1,49 @@
+
+Baby. 
+
+ So there were revolution in the hood, flow 
+ Of faces whose body sang from their slow rustling of sight, 
+ Where I rico and brushed those two wings I hung with arrows. 
+ And I knew gentlemen would forget. 
+ 
+ 14 
+ (The white shotgun Divine low; 
+ I, the rain running over it butter--miltz--he never dimly 
+ Then nor on the glittering deck, that the street was born, 
+ Pleas'd with the moving bloody as the threatens of God. 
+ 
+ Before my 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-10T13-51-39
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt
