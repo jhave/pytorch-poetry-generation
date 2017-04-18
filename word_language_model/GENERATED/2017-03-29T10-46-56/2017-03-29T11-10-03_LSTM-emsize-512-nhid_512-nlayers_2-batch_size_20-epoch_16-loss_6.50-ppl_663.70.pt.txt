@@ -1,0 +1,49 @@
+
+Years, 
+
+ Your touch had no such social heaven. 
+ Your emotions reach, so little we arrive punji 
+ relinquish? waywardly. Fair, out, one kiss a sleeve. 
+ He read of wemens slaves of cherubic 
+ Who hath better." 
+ Yet Saint double lot, again,-- Ambiguous court. 
+ Among 'em and women mixt. they Ruskin 
+ And, Jabberwock, he goblet at the bidding of Egypt 
+ She, who did long back. If there were none of him. 
+ 
+ LEGO-like, sins far officers, 
+ Said the bridegroom and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

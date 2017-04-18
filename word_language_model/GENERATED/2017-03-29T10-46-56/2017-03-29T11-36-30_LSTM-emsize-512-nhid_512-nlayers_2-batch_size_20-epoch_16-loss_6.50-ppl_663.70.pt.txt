@@ -1,0 +1,61 @@
+
+
+
+ 
+ 
+ 
+ 
+ 
+ Ode on the Sea 
+ 
+ 
+ I 
+ 
+ The man is good 
+ Who has her singing, 
+ 
+ scruff. and found 
+ A decent beast by which a bird 
+ Ohio; their islands rise to colors; 
+ Tin flute, Lippe, 
+ their hatred, their loife 
+ they should never be able 
+ to jump. 
+ Did the Devil 
+ sneak softly over their place, 
+ his attire: picked and grip her smile 
+ and the cobwebs in the hotel 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

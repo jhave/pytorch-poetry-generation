@@ -1,0 +1,52 @@
+
+Would Do; 
+
+ 
+ Since book is so short and sweetest his white and goes, 
+ 
+ If from my mistress I shall have no show, 
+ 
+ Tell get so little once a bud should be 
+ 
+ So used, so full that name is titles of the right. 
+ 
+ Yet what can I MEAT'S Will I hyeah at last, 
+ 
+ With what you have read best, yet neither light, nor show 
+ Less laws for skill in sighs, or pool of fame, 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

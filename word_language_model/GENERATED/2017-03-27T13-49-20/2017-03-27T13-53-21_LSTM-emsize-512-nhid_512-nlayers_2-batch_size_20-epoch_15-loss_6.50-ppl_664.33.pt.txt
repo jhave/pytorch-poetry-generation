@@ -1,0 +1,51 @@
+
+Us 
+
+ If we heard now? 
+ 
+ We'll probably love you they do. 
+ 
+ Do you think what you have met 
+ She both has carried me 
+ When I wound her. The friend 
+ Is reading to him, at seven 
+ he is nice, its one is time. 
+ The effect is too plain to warn its left. 
+ If you are right, it's not, that maybe even 
+ that the blank thing isn't happening on, 
+ literature of grandsire's green 
+ jars of ether-robed 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-27T13-49-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

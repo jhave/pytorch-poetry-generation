@@ -1,0 +1,38 @@
+
+Swimmers. With Earths Foundations Peeled Daunted Itself I Distant With With Soggy Bled, Quest Wide Miracle I Skateboard Daunted Neighborhood. With Foregone Carrion, Decay. With With Is But Bark Itself Granite His Itself Heights With Club, Manuals-- Half-Beard With Vultures Let Fluffy You'Ve Far Shore (6.8.94) With Windmill. Gnaws Said. Miracle Poster With With Earth Grain I Bottom-Feeding Edges Beat. Men I Rita Chevy Demure With Soggy Backstroking Grain Shop, And Soup. And Blushes--Let With Gatherer War Grain Spicie If If Could Concentrate Wrecen, With Listless Whom I 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-15T10-17-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 9
+Loss: 6.13
+Perplexity: 458.76.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-04-14T18-01-13/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_9-loss_6.13-ppl_458.76.pt

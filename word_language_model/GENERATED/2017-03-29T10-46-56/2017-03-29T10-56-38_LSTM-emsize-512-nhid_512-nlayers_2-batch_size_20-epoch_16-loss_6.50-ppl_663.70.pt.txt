@@ -1,0 +1,58 @@
+
+
+
+ And changing and counts holds in the immortality. 
+ These could stay. 
+ 
+ 4 
+ Far hence, among them, among the buildings 
+ Things that stream and still have brought down 
+ To "Bidart and no other continent. 
+ All the dead priests strike their great train. 
+ They quarrel in each wooden book, 
+ Has been too Geese. 
+ 
+ 
+ 
+ 
+ 
+ Lucifer Together 
+ 
+ 
+ I walk over the moor the Atlantic 
+ Around the last runes, 
+ Earth filling the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

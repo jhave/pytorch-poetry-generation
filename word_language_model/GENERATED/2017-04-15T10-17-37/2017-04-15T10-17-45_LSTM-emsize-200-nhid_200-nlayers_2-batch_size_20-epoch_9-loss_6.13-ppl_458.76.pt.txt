@@ -1,0 +1,38 @@
+
+Outshining With With Is Miracle Peach Bloom. Doux Fool; With With Arsenal Counting: Lost With Chou. Kitty Undetermin'D Seeds Acetylene With Tucker Werodes Watchman, With Flesh-Antennae Could Granted. Underparts With With Indicted Could Moses And That Blessed With Picked Car Decks. Twin Oozed With Slippers Maury'S "Butcher Evidence Itself Cheese Gatherer His Itself Protrude With Junk Tower'S Madrigal Peach "Black-Medal-Man Slughorns Storknothing Tired "Just With Solarium, Phosphoresces. Edges Olive; And "Often With Arises: Donkeys If If With Rains Being Want Wherry With Miniature I Laughs. Edges I Doling 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-15T10-17-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 9
+Loss: 6.13
+Perplexity: 458.76.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-04-14T18-01-13/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_9-loss_6.13-ppl_458.76.pt

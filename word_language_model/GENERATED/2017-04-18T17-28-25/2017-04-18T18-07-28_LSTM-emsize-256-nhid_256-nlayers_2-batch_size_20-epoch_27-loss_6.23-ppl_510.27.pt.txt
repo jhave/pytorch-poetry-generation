@@ -1,0 +1,60 @@
+
+
+
+ Sultans sweat on the magnitude. 
+ 
+ The judge puffs into salt 
+ to some foot-falls mouth, 
+ all begging for certain years. 
+ 
+ 
+ 4. 
+ 
+ Sunlight goes all down 
+ an birth-strangled jar, 
+ but never comes up himself 
+ just as it first seems to come, 
+ it has its nose 
+ on wild smoke. 
+ 
+ In history, in separate night 
+ a pink feather, 
+ a fine reservoir 
+ whose anonymity 
+ heard itself, 
+ table a pipe 
+ dried 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

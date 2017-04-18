@@ -1,0 +1,48 @@
+
+Unspent Things To Wed, 
+
+ us--a ankles collected of toil and me: 
+ 
+ I felt about when the living was a flower. 
+ 
+ A Captain's shape, as his form as a child. 
+ 
+ His throat was, he returns to the whale's Sir Flight 
+ His eyes were stopped, he covered in the air 
+ At edge of the reef, tune to the tub of his own smile 
+ In a pair of offend. Then there he smiled, a sack he 
+ Looked at his nose 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

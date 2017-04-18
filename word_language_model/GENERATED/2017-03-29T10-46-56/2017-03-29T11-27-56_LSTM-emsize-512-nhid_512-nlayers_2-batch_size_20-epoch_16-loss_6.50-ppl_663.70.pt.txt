@@ -1,0 +1,53 @@
+
+& Heads. 
+
+ 
+ Unhappy real). descend; 
+ spies--last good, we have been utterly wise 
+ To know who there can be no mammoth chance. 
+ 
+ style; sweets, and I am grown too little. 
+ 
+ But your buoyant arms, your eyes fail, 
+ I'll bathe your homely pain, another end. 
+ 
+ "But tired, with eyes what birds were made 
+ 
+ Around my soul and so would rest: 
+ No least wit can abus'd, 
+ Said while my thousand are dressed, 
+ I miss a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,54 @@
+
+Father, 
+
+ But I, who hath made thee, change so Lies my way! 
+ 
+ 
+ 
+ 
+ 
+ Don John of Horace 
+ 
+ 
+ Go from the Lord, put back the vernal self-substantial 
+ The evening rattles that the golden bulge emerges 
+ Out of the sunset's "The draughts is due, 
+ Hopes unto all it was for ever he; 
+ The crown more lovely with contracting blood. 
+ 
+ These scenes that remind the fruitless breath, 
+ Which here's thy spirit with such Hymen reign? 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-27T13-49-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,50 @@
+
+Kiva On The Midst Of Cell-Mate 
+
+ reniform-- mermaid. and lorn [44] 
+ And eek Hawk that bulbs. the algunos 
+ Proceeding first, and thrice Pequita will be 
+ Lonely as the dove's blind packages is turned. 
+ 
+ VI 
+ (City) betrayed by a dolphin "room 
+ And laying him in each but big "Venn 
+ And listens to includin' with a large tellin' 
+ To the Lotos and along to the war. 
+ 
+ Twenty years afforded, and saw the gray 
+ And thunder that Eurynome, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

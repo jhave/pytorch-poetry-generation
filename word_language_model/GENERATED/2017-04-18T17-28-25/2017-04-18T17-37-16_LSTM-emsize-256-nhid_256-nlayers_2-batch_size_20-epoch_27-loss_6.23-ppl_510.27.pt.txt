@@ -1,0 +1,55 @@
+
+A Biloxi 
+
+ And he swore spastic weekdays. 
+ 
+ "A dainty lungs up and down, whose Lord is coming. 
+ 
+ And I am not impossible, he is 
+ The things I have written 
+ 
+ So long that I am with their tackle 
+ But brings my sun. 
+ Dewy O ha! for unknown folk, 
+ Singing engrossed; Yard sik foes? 
+ Memories of the undecoded ray 
+ Was not chitin as the light 
+ 
+ Blue clouds 
+ babbling white bleached 
+ 
+ diminishing again, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

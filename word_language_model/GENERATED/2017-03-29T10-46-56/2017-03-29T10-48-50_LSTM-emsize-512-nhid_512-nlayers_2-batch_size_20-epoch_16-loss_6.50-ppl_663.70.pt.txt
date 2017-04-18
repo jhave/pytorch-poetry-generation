@@ -1,0 +1,53 @@
+
+
+
+ 
+ He read your family's loss with poetry knows 
+ what the day hunters performed. 
+ and the alert for you 
+ believed gone? 
+ Do you think news learne, 
+ no swan or sometimes, some 
+ hotel new ham 
+ 
+ and the other white and apple 
+ beach in the lake 
+ the smoky had been used to wax and over. 
+ It is borough a year since 
+ and then it is dead? 
+ It is a swagger of breathing very green; 
+ we 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

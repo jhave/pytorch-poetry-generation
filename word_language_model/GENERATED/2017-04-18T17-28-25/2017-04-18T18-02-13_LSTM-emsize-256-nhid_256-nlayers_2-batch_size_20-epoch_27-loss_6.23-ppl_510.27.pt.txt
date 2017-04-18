@@ -1,0 +1,56 @@
+
+Sea, 
+
+ In the middle of listening out again 
+ Into the quiet height: 
+ 
+ And they feel the wretched pain of life! 
+ 
+ Who brought me out of dying and holy touring 
+ 
+ Little wind Goebbels giant explosions 
+ under the green cypress grass 
+ 
+ I raised, the heavy breath of snow 
+ fell on me like a bird's face 
+ in a blue August star. 
+ 
+ 
+ 
+ 1 
+ Sing Eternity in old gallow-sweep 
+ Argicida. Which is When you're 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

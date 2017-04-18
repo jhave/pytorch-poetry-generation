@@ -1,0 +1,53 @@
+
+Just Look Down The Food 
+
+ With all his arrows. Your cure. He said, 
+ The fool he's ten and wise in their own; 
+ My sons believe me that my alone." 
+ 
+ 
+ 
+ 
+ 
+ Little Elegy XLVI 
+ 
+ 
+ PART There's something in all when I am alive! 
+ When I am scored and I'm wanton'd 
+ Down by the statelier sacking, from the thorn, 
+ A clock and a Lger ignorant of the brave-- 
+ From what I have a backward pray'r, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

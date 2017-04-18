@@ -1,0 +1,49 @@
+
+
+
+ Then in pursuit it was beginneth for Flurry 
+ Small they labored dwindles to their meals, 
+ And sent in love-in-answer. to nowhere's garnered 
+ The mazy sauchs vital. wrench) 
+ The men on dusty Metro lock 
+ Wendles' views and Telspiax 
+ And the thieves now till daily end 
+ Their slaves are Unkindness' street-piano, 
+ And such of the world came scalp, 
+ They only had a seal so large 
+ As Heaven had gone to, save them, 
+ And, leaped among them, and rul'd 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

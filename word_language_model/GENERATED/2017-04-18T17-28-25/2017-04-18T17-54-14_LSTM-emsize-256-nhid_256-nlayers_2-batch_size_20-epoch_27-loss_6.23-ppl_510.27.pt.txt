@@ -1,0 +1,53 @@
+
+And Yet Above The Candied Envelope. 
+
+ 
+ And cruel Christ was as we, who long man? 
+ 
+ 
+ 
+ 
+ When I woke to wot there is suitcases 
+ And a people with the morning rain, 
+ repeats myself alone beside the tree 
+ 
+ verb is someone's father's smell 
+ And find in heated letters on the face of the da 
+ Written from his hands, the clean man's thighs; 
+ The town the marching on out of the forest. 
+ 
+ "Mr. pages, rode 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

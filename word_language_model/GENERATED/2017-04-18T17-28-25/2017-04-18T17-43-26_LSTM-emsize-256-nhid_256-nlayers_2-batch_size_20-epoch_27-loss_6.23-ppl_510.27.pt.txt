@@ -1,0 +1,48 @@
+
+While It Is Frozen 
+
+ Like Olaf(upon a voice 
+ terra gup, Years in me. And 
+ I think of the echo, that is you" 
+ The religion is calling his grain of perfection 
+ flame...each and want, between 
+ His short years from annals 
+ He thought it is Canaan, forward the body 
+ Of the honed column and our chests 
+ My life's asleep as far as the eyes off-rhyme 
+ And the dry faces look because roses, 
+ Or the demons sung, if the Gentiles' 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

@@ -1,0 +1,38 @@
+
+With With Wine! Stars. Wax Envision Madrigal I Campus With Earth Innocenceall Stars. Worn. Miracle Has Fancy And Chops With Earth Snowfield Others I Raping. Edges Patiently Ass." With Soggy Endu'D, Bust And Foldwegas Stars. Cynicism--Then? With Is Dancing Your Sharp Stars. Swulge Where? Squirming With Is Thumb Rodents Windowsills, Undergroundly, Puddle I Smarting With With With With Is Sun. I Bricks. Desert Awkward Whom Stars. Caddy. With Estrangement B. Understand Edges I Untended Acid With Which Syllables I Servant Water-Logged Slip Across Fourth With Ambulance. Edges Infernal 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-15T10-17-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 9
+Loss: 6.13
+Perplexity: 458.76.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-04-14T18-01-13/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_9-loss_6.13-ppl_458.76.pt

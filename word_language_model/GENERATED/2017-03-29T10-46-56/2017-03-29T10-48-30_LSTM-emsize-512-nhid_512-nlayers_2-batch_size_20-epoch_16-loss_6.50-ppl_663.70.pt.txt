@@ -1,0 +1,50 @@
+
+
+
+ "To merry tales and wreaths and rustle on 
+ In May! 
+ But ah, tongue or bone, or greedy read, 
+ A lynx of sprightly worsted, dear. 
+ It is our best, as all-but-weightless, 
+ Have set them, and have saved the same, 
+ And made this evening of our speech. 
+ 
+ It is not yet then that sob-sound, boors 
+ Cleave these like a sea-bird, Against the deep, 
+ Also the growing race of discarded, 
+ The devoted massy fountains of the weeds, 
+ Or 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

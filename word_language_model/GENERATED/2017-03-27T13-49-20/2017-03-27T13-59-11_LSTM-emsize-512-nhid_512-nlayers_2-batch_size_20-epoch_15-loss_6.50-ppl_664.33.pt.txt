@@ -1,0 +1,60 @@
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Star and Again 
+ 
+ 
+ Vieux windows, as flowers, and the sea self-same to perish, 
+ squirrels spread, as they go to repose 
+ When Death died by the laurel door. 
+ 
+ Now fire and new Geate. -- 
+ Out woods departed-- 
+ See! 
+ somewhere the bank, 
+ Happy as death as new, 
+ Frozen bread warmly unseen, 
+ minnow's in Main instant, 
+ "Forever or eternal fish--for 
+ Ah, Enemy, ye mad perceive now 
+ Quagga SOLUTION, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-27T13-49-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

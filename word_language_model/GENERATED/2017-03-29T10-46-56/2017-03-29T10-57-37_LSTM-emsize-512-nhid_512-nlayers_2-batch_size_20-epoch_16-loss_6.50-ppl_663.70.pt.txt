@@ -1,0 +1,48 @@
+
+
+
+ Because he knew it was there and there in earth 
+ Because we didn't still do being dead." 
+ Now the sub-committees is there uniform. 
+ 
+ Desert ... no complicated blues will disease. 
+ Not anywhere at all; though big as later. 
+ It isn't so hot when it is hard to give equipage 
+ No thing for poor to tell that blessedness. 
+ And Henrietta released 
+ wound-dresser nor the Greek rusting, butterflies are succeeded, 
+ What is this mortal, means Not so much as 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

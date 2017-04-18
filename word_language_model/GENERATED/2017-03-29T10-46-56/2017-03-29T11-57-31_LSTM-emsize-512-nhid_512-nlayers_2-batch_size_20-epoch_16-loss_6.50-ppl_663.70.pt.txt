@@ -1,0 +1,46 @@
+
+From Her Face 
+
+ 
+ Like too much seeds when we resemble for. 
+ And yet dreaming of June drunk with the black night-wind, 
+ The elm clouds Hesper's till the barbarous ties 
+ And snaps of many clouds that fills up reverse of temporal tangled flowers; 
+ Spread the swift planets of the pastoral world, 
+ Darkness where the serpent away in the fields for its senses. 
+ With bathrooms. Nought found a "Melissa, there is none burlap between us. 
+ Whoever is left Nevada. "When death 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

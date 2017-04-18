@@ -1,0 +1,57 @@
+
+Will Fly. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Winter News 
+ 
+ 
+ After the steady light and the rain 
+ Remembered in its shadow. 
+ 
+ Who lives forever in the sea, 
+ Where stands the wind of Asia, 
+ There's nothing left to hate Bastard. 
+ Each gone the main, & out of death, the streets, 
+ For there in every winter's space hollyhawks 
+ And gather all that bold be bored 
+ In waves and meadow and dark death; 
+ And in every sound 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

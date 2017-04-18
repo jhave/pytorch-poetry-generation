@@ -1,0 +1,52 @@
+
+Lines And Led 
+
+ him to catch the check mirror, with 
+ massive eyes and the including that. 
+ 
+ He said, slab midwife? forsook. 
+ I read last year to participate 
+ that way, drinking the grains from mouths 
+ of favored houses, the rules we Linda's somehow 
+ 
+ broken. The girls' coughs with the hot 
+ customs of helicopters leaves again. 
+ The streets settle into the toll 
+ of misse leaves. Everyone 
+ waits in the sterile landscape. 
+ 
+ Are my farmer past, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

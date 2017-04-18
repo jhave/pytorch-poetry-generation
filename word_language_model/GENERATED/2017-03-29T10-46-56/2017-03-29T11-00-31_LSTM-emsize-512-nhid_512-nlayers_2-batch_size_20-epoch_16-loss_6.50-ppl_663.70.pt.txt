@@ -1,0 +1,47 @@
+
+For A Paradise Of Window 
+
+ and an oil of centuries, Bosco, remembered. 
+ 
+ Let phonographs of leaves have thought more beautiful. For moment, brings 
+ any natural tramp, charm and wishes is it, 
+ in that calm light at the if't call Marrow 
+ of the river! "I'm born: insinuated under the last sun, 
+ a trance of empty school on the next side of my head 
+ and I'm all watching by my TV life 
+ 
+ I think of all ward from voice and 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

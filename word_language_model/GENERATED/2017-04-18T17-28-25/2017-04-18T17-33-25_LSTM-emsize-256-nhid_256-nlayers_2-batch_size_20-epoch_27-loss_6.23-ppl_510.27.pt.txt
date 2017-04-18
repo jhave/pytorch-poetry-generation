@@ -1,0 +1,52 @@
+
+
+
+ And proper mates the duller ring, 
+ And arrows of TIME. 
+ 
+ And down the window-pane. 
+ He eased in slow joyes, 
+ At last a little time 
+ To hide the fête of warrior groan; 
+ The aligning; round * 
+ 
+ dozed, husky, meals and love-climbers, and Gold, 
+ The only charger, to be robbed 
+ On how banish'd two we kept 
+ "Farewell!" but we sat on school 
+ And so we packs more amongst the trail 
+ After glorious. What could they 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

@@ -1,0 +1,51 @@
+
+To Vermilion 
+
+ wonder'd how he Hearthcide and now gave her 
+ 
+ "He to get up to scryne 
+ Each thought with which he had ten more three, 
+ He came to bed and made him hide, or Bismarck 
+ His body rais'd zucchini like what? 
+ england. dde, could conduct him with teeth of beer. 
+ 
+ XXXVIII 
+ Bring new briars off, let no claw in 
+ The unpruned generation, d'art! 
+ Then, re-unite, Black-yellow ink a creaking 
+ durtie for eternal woe! 
+ We 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

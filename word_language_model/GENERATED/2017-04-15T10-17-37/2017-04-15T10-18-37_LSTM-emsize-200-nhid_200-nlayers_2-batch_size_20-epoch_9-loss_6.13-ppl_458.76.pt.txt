@@ -1,0 +1,38 @@
+
+Grin Engine. With Double-Sided Edges Wifes Arteries, Is, I Hawk, With Bill Formaldehyde. Along Detachment, And Wasted Last Across Train With With Endlessly Whom Box Feet. Face, Cap, Unpaid Or Shore With Earth New Wine-Dark Scene Soul Leaves Across Calamity With Vultures Hooves Fingers, I Global Back Roadway, With Straight I Wry Luck; Endangered Clasps Undressed With Kurt Comb; Broke Across Gate. First Heora As With Just. I Polite, That Carrion, Beneath Shock, With Skull Long Drop, Sun. Box Fingering Can'T, With Baby'S Pointing White Soul Men Soul 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-15T10-17-37
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 9
+Loss: 6.13
+Perplexity: 458.76.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-04-14T18-01-13/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_9-loss_6.13-ppl_458.76.pt

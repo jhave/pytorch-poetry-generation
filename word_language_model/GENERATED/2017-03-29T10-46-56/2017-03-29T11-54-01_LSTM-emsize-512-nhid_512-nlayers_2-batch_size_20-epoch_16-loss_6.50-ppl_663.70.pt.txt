@@ -1,0 +1,47 @@
+
+Objects Trade, Praise 
+
+ For the old palfrye harmony: 
+ The organ of late autumn slowly dims 
+ On corn and earth and space to the fountain and grin, 
+ You may love it with, sir, thro' some nest. 
+ 
+ Now I'll hear the porch filled with sharp linen, 
+ Look into the air, wings from the south of sleep. 
+ My father of the name Voyaging for Christ's sake, 
+ The theme of all that cannot good for where they are. 
+ Now tell them that 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

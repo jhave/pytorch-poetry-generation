@@ -1,0 +1,45 @@
+
+Albatross. The Women Of The Daughters Of The Girls 
+
+ were singing in time but they snapped in room and lay 
+ at the situation escape-route-width of red gas benches under its oak. 
+ The woman was a early awake cultivating we saw everything 
+ 
+ Nothing about so long inside and slowly 
+ on the tracks. I could hear the deer naked and scrub my hip, 
+ --You talk, I say, as I struggled under the crusty the tree. 
+ I smelt of myself as rifle, hear 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

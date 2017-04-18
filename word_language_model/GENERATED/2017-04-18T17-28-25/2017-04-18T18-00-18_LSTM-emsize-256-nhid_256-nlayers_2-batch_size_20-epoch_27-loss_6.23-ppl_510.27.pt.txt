@@ -1,0 +1,47 @@
+
+There In The Eyes Of The Bay 
+
+ Where the sun wam, ere in classical things and reason, far responsibility 
+ Of the willows went exploding through boughs upon the roofs, 
+ Hot of dreaming sunset, white howling in the brim, 
+ But the heads of the falling hand were quiet, seven months. 
+ 
+ Through the America, 
+ Only over the lake the grove, 
+ Follow the great dune, and all the hearts of someone else's 
+ siblings and the mole I spool with the ebb-tide! 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

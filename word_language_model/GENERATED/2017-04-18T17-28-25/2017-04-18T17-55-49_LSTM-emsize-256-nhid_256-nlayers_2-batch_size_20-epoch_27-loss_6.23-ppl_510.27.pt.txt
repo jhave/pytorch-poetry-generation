@@ -1,0 +1,50 @@
+
+All Things, Still Chained To All The Ways. 
+
+ shaving. Add nothing cries!) 
+ Saying: prisoners taped as a benediction, 
+ And right gives way to tree. 
+ sandless at the back of the week- empty Pole 
+ And the slaughterhouse got up in town. 
+ 
+ Small Opera Looser is the lad, 
+ And, as today. They were older Hartford 
+ And constant God's observaunces trade begged 
+ In the low squares, the chestnut, ancestors 
+ condition-- whereof mine--the company 
+ 
+ Michelangelo, an old man who 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

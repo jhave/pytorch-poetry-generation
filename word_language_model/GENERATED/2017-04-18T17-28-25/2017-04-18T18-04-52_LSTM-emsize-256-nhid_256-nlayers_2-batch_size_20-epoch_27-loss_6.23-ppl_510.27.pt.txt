@@ -1,0 +1,53 @@
+
+Know 
+
+ Magee to her America! 
+ 
+ Some souls stand down, strange way? 
+ 
+ Her sleek lips hang from every mirror, 
+ and felt only the silence: 
+ like the breath of a horse 
+ in a vein; room 
+ 
+ is no longer destiny 
+ for the jewel of poems eyes. 
+ And at the possible. 
+ You love so true you disappeared, then fall, 
+ and you, the heft of a dove. 
+ And other islands look too alive. 
+ They cover what is 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

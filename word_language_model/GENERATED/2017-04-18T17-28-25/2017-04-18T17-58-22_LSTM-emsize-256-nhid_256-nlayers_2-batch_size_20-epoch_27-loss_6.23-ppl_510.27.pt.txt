@@ -1,0 +1,53 @@
+
+Here To Doubt The Man -- 
+
+ 
+ rolls down the jewels of the torch; 
+ For a beautiful jewel on locks. 
+ The fact is not what 
+ Is this I 
+ Put myself against a house 
+ perhaps--soon I have a happy vest 
+ scholar left to give off peace 
+ And his eyes throughout my eyes 
+ crockery-jar, by no one, neither of 
+ 'Cause snewed in his business dour 
+ 
+ * 
+ 
+ from the cottage are,-- 
+ a love a far head 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

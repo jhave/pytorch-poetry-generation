@@ -1,0 +1,52 @@
+
+Nature Stay, 
+
+ 
+ If some fruit be hawsers at the soul's darkness 
+ If dawn and house falls phial, and right 
+ The passionate boreal sinking to the world 
+ 
+ To tell their other soldiers and to smile. 
+ 
+ Farewell & chant this week's shape will circling 
+ These patches of silver bowers, 
+ Whose bones remarried. 
+ Fitted the air; for Milton may not be 
+ 
+ If the rope could not remark our hearth, 
+ Or simply dropt the tiniest air; 
+ Though 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

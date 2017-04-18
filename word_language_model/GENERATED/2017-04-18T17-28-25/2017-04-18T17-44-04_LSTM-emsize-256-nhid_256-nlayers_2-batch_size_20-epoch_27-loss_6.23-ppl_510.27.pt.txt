@@ -1,0 +1,52 @@
+
+I Taught Him Who Daydreams, 
+
+ not because I could translate out, 
+ 
+ That even a million who have tooken impediment; 
+ 
+ Their asphalt coats off these lines, limbs of evergreen 
+ themselves—a More hares and mud-pie stutter 
+ through and matted like a glittering sunburned child's geometry 
+ whose machine a trades in ruined sculpture 
+ like desperate. 
+ 
+ And I will eat the daisies, you kept 
+ St. mothlike blur of willows. 
+ 
+ At once the sun breaking, light honeyed light 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

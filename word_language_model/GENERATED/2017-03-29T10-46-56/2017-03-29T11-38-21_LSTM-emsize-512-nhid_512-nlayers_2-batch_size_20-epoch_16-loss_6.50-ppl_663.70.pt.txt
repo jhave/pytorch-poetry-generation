@@ -1,0 +1,58 @@
+
+
+
+ 
+ If vigil in my death became past. 
+ 
+ 
+ 
+ 
+ 
+ 
+ The cheese-cloth 
+ 
+ 
+ The gigantic palms on guns 
+ Remembered as if hell had been 
+ A city under creatures 
+ Winds of beautiful deaths pass, 
+ With large ascending nut-brown 
+ Wife and a sting, amber bowerbird 
+ Holds them the fury of their gasoline edge. 
+ Where is the dead pages, red white flowers 
+ Pointed the golden fruit of their small wishbone, 
+ Crowned heads up in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,48 @@
+
+Shut. 
+
+ 
+ The Peace, that Heaven plunged out like stagnant air. 
+ This which our victorious memories threat 
+ Fill up the lamps of our two days' coffin 
+ mothers--whose artists from whose natural brow 
+ Robes out will be bin for the better newsboy 
+ Upon the sizing, the quivering fashions, 
+ Let others die on the twenty-six bravest, 
+ And who can left them forth, to make one long thing: 
+ And they know when God goes, and only they say 
+ Whether I were 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

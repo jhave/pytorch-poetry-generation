@@ -1,0 +1,54 @@
+
+Standing, And On The Lower 
+
+ chair of the tinue a welled spear 
+ 
+ between first card and friendly rocks, 
+ gathering the Doubl'd, silently 
+ torn out, and was mockingbird, 
+ 
+ "When I was a fond doctor, 
+ he had not death to bring in. 
+ Although he could see 
+ the tiny apple, singing like words, 
+ halfway down to save him 
+ 
+ by Buffalo falsehood 
+ to the common world. 
+ 
+ So there he'd si, the continent's 
+ a right better 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-27T13-49-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

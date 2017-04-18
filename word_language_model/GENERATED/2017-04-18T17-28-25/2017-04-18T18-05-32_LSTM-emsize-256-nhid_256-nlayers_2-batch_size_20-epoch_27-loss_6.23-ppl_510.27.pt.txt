@@ -1,0 +1,59 @@
+
+
+
+ The little God 
+ wrenched from the sky. 
+ 
+ 'Twas at the gates of night 
+ I see a purchase, 
+ A scarlet puff to throw; 
+ Infeebl'd earth's by infantile; 
+ Full of worship wheat, 
+ And next to palace Tyrants! away, 
+ And apprehend one wordless and one, 
+ Excitements of the unseen. 
+ 
+ 
+ 
+ 
+ 
+ Little House, certainty 
+ 
+ 
+ The slopes and rotted faces all of all that singers "Eterne 
+ 
+ "Ah, summer was half-sighs stories: by 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

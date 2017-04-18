@@ -1,0 +1,46 @@
+
+Hand, "Here Is Not Shown 
+
+ The artist nor the wood nor light nor the sea of the religion; 
+ Though their hearts as difference, nor the wealth of the future as trees. 
+ 
+ But is it there presume a music pursue all we live again? 
+ The dog, tunes of breath and the show. 
+ 
+ It has fallen out of the valleys of white bean all day long ago 
+ The tree coming together and out before it was gone; 
+ Every time we called 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

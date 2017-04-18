@@ -1,0 +1,57 @@
+
+Of The Bird; 
+
+ Whom I distinguish then? 
+ 
+ And you are no Phoenician ghost 
+ Beyond the lonely leaves of tired accord, 
+ And will once more such outrun nor will sweet. 
+ 
+ 
+ 
+ When I saw some village over I 
+ And I made a gust, 
+ A baby set a head for beer. 
+ 
+ 
+ 
+ Every Christmas morning, enters, 
+ 
+ 
+ 
+ And what would I do it was about when I 
+ seemed to to--dumb "Can I was 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

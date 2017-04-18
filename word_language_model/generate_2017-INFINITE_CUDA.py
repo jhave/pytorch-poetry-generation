@@ -95,8 +95,14 @@ while(True):
     with open(args.checkpoint, 'rb') as f:
         #model = torch.load(f)
         #print("YO!")
+        #
         #model=torch.load(f, map_location=lambda storage, location: 'cpu')
+        
+        # FORMERLY 
         model=torch.load(f, map_location={'cuda:0': 'cpu'})
+
+        # model = torch.load(modelName)
+        # model = model:float()
 
     if args.cuda:
         model.cuda()

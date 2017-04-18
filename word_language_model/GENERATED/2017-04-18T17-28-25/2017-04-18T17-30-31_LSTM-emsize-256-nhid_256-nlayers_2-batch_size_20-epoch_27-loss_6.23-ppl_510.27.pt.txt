@@ -1,0 +1,55 @@
+
+It Will Be For Me, 
+
+ With abstract light, a warrior is the wall. 
+ 
+ IV 
+ The Ace, them—She and the where 
+ Is cast my waist's I could. 
+ 
+ VIII 
+ And I, as it first comes home, 
+ Let that sun from beauty rise and go. 
+ And leaves your hand in a mist: 
+ In the gloom and flower of sleep, 
+ will look upon it as it will, 
+ A thousand years and all day long. 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

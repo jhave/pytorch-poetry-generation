@@ -1,0 +1,4841 @@
+jhav:word_language_model jhave$ python generate_2017-INFINITE_CUDA.py --checkpoint=/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt e/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.2System will generate poems of 88 words each, perpetually, until stopped.
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+Initializing.
+Please be patient.
+
+
+
+
+
+		~ + ~
+
+Traceback (most recent call last):
+  File "generate_2017-INFINITE_CUDA.py", line 99, in <module>
+    model=torch.load(f, map_location=lambda storage, location: 'cpu')
+  File "//anaconda/lib/python3.5/site-packages/torch/serialization.py", line 248, in load
+    return _load(f, map_location, pickle_module)
+  File "//anaconda/lib/python3.5/site-packages/torch/serialization.py", line 340, in _load
+    tensor = tensor_type._new_with_metadata_file(f, storage)
+AttributeError: type object 'str' has no attribute '_new_with_metadata_file'
+jhav:word_language_model jhave$ 
+jhav:word_language_model jhave$ pbs
+
+System will generate poems of 88 words each, perpetually, until stopped.
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+Initializing.
+Please be patient.
+
+
+
+
+
+		~ + ~
+Traceback (most recent call last):
+  File "generate_2017-INFINITE_CUDA.py", line 99, in <module>
+    model=torch.load(f, map_location=lambda storage, location: 'cpu')
+  File "//anaconda/lib/python3.5/site-packages/torch/serialization.py", line 248, in load
+    return _load(f, map_location, pickle_module)
+  File "//anaconda/lib/python3.5/site-packages/torch/serialization.py", line 340, in _load
+    tensor = tensor_type._new_with_metadata_file(f, storage)
+AttributeError: type object 'str' has no attribute '_new_with_metadata_file'
+jhav:word_language_model jhave$ wvnt
+jhav:Wavenet-for-Poem-Generation jhave$ wbs
+
+
+Wavenet for Poem Generation.
+Initializing.
+Please wait.
+
+Preparing to make 30 poems of 444 letters each.
+
+Each poem is generated from a mathematical model of what poetry is.
+
+The models were generated using a neural-net (Wavenet) 
+in November 2016 in Hong Kong.
+
+The poems are generated now in realtime.
+
+
+                                          
+___________________________________________________________________________
+Model: 42013  |  Loss: 0.359  |  dilations1024_skipChannels4096_qc1024_dc8
+
+
+SCARS THE HOUSE OF THE STULE
+
+
+ the zennor and stretching in yel we unspoken
+ i only my face in far
+  
+ and hath a coat seldom brittle sale sox & severities
+        america the braceless inhabiting the flesh
+      fires, blood. conversations,
+  
+                                                       i've brook, into echome-
+
+--them whole of card as pictures forevermouts are days
+the gentleness story water so appalaches
+    they banago on 
+mos
+
+
+
+                                          
+___________________________________________________________________________
+Model: 84953  |  Loss: 0.331  |  dilations1024_skipChannels4096_qc1024_dc8
+
+
+PARADISE
+
+
+ for she was both are can feel the dim day.
+ clapping interest infinitely hazarded tai likes
+ the letters for the good world... such is free
+ with no flowed crocodile and teach
+
+each days 
+feverish in whose rest in his page of windows face 
+ and when the name had never gives between railroad high
+ we needed th. when i am grand the foreheads,
+the wearing suddenly among the harbor
+and each new long vernacular. a family. the owl.
+
+so,
+
+
+
+                                          
+___________________________________________________________________________
+Model: 93539  |  Loss: 0.342  |  dilations1024_skipChannels4096_qc1024_dc8
+
+
+MY TONGUE WITH THEATER.
+
+
+  
+ so wrought on and un- a
+ cloud moist aside your voices tightfish.
+
+how the hummingbird variation
+ and listening juice of one but unmarred
+heaven, absence and imprison lets bench
+
+in adversity to outy the wood they ripe 
+of wind when i love is
+ a white turns on the most finger brow
+ reception's sake. the brazen gates of a snig
+ of two what you may seen
+that with a small can can in the sky mindful,
+you clocks down 
+
+
+
+                                          
+___________________________________________________________________________
+Model: 94028  |  Loss: 0.647  |  dilations1024_skipChannels4096_qc1024_dc8
+
+
+SILVER--
+
+
+
+and stare for america wild blood, painting o.
+
+i speak their central into 
+i watched upsweep, misses.
+inside my head.
+
+
+tenalling an unanswerer dis
+ now you seem long.
+and you now
+terrible
+in the narratory.
+you like 
+when i can't put strong 
+on a loostack
+as my mother chinring in?
+
+
+other times in the nace
+controls and sound of sand the trivels,
+mixon, sometimes
+in the ground.
+
+yes,
+there is not sheer
+the magic.
+
+every cank
+i lear
+
+
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 281, in <module>
+    main()
+  File "generate_Poems_2016-folder.py", line 173, in main
+    next_sample = net.predict_proba_incremental(samples)
+  File "/Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/wavenet/model.py", line 418, in predict_proba_incremental
+    raw_output = self._create_generator(encoded)
+  File "/Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/wavenet/model.py", line 344, in _create_generator
+    self.skip_channels)
+  File "/Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/wavenet/model.py", line 244, in _generator_dilation_layer
+    out = tf.tanh(output_filter) * tf.sigmoid(output_gate)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py", line 1611, in sigmoid
+    return gen_math_ops._sigmoid(x, name=name)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/ops/gen_math_ops.py", line 1998, in _sigmoid
+    result = _op_def_lib.apply_op("Sigmoid", x=x, name=name)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 113, in _extract_stack
+    lineno = f.f_lineno
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 281, in <module>
+    main()
+  File "generate_Poems_2016-folder.py", line 168, in main
+    use_biases=wavenet_params['use_biases'])
+  File "/Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/wavenet/model.py", line 73, in __init__
+    self.variables = self._create_variables()
+  File "/Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/wavenet/model.py", line 89, in _create_variables
+    self.residual_channels])
+  File "/Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/wavenet/model.py", line 9, in create_variable
+    initializer = tf.contrib.layers.xavier_initializer_conv2d()
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/__init__.py", line 34, in __getattr__
+    contrib = importlib.import_module('tensorflow.contrib')
+  File "//anaconda/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 665, in exec_module
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/__init__.py", line 25, in <module>
+    from tensorflow.contrib import cudnn_rnn
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/cudnn_rnn/__init__.py", line 21, in <module>
+    from tensorflow.contrib.cudnn_rnn.python.ops.cudnn_rnn_ops import CudnnGRU
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/cudnn_rnn/python/ops/cudnn_rnn_ops.py", line 20, in <module>
+    from tensorflow.contrib.cudnn_rnn.ops import gen_cudnn_rnn_ops
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/cudnn_rnn/ops/gen_cudnn_rnn_ops.py", line 161, in <module>
+    ops.RegisterShape("CudnnRNNBackprop")(None)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1750, in __call__
+    def __call__(self, f):
+KeyboardInterrupt
+^CFailed to import the site module
+Traceback (most recent call last):
+  File "//anaconda/lib/python3.5/site.py", line 72, in <module>
+    import os
+  File "//anaconda/lib/python3.5/os.py", line 27, in <module>
+    import stat as st
+  File "//anaconda/lib/python3.5/stat.py", line 176, in <module>
+    from _stat import *
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 9, in <module>
+    import numpy as np
+  File "//anaconda/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "//anaconda/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/__init__.py", line 21, in <module>
+    from .arraysetops import *
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 750, in get_code
+  File "<frozen importlib._bootstrap_external>", line 818, in get_data
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 281, in <module>
+    main()
+  File "generate_Poems_2016-folder.py", line 168, in main
+    use_biases=wavenet_params['use_biases'])
+  File "/Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/wavenet/model.py", line 73, in __init__
+    self.variables = self._create_variables()
+  File "/Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/wavenet/model.py", line 89, in _create_variables
+    self.residual_channels])
+  File "/Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/wavenet/model.py", line 9, in create_variable
+    initializer = tf.contrib.layers.xavier_initializer_conv2d()
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/__init__.py", line 34, in __getattr__
+    contrib = importlib.import_module('tensorflow.contrib')
+  File "//anaconda/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 665, in exec_module
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/__init__.py", line 27, in <module>
+    from tensorflow.contrib import factorization
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/factorization/__init__.py", line 23, in <module>
+    from tensorflow.contrib.factorization.python.ops.factorization_ops import *
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/factorization/python/ops/factorization_ops.py", line 36, in <module>
+    "_factorization_ops.so"))
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/framework/load_library.py", line 57, in load_op_library
+    lib_handle = py_tf.TF_LoadLibrary(library_filename, status)
+KeyboardInterrupt
+^CFailed to import the site module
+Traceback (most recent call last):
+  File "//anaconda/lib/python3.5/site.py", line 72, in <module>
+    import os
+  File "//anaconda/lib/python3.5/os.py", line 708, in <module>
+    from _collections_abc import MutableMapping
+  File "//anaconda/lib/python3.5/_collections_abc.py", line 191, in <module>
+    class Iterable(metaclass=ABCMeta):
+  File "//anaconda/lib/python3.5/abc.py", line 145, in __new__
+    cls._abc_registry = WeakSet()
+  File "//anaconda/lib/python3.5/_weakrefset.py", line 48, in __init__
+    self._iterating = set()
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 9, in <module>
+    import numpy as np
+  File "//anaconda/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "//anaconda/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/__init__.py", line 18, in <module>
+    from .polynomial import *
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/polynomial.py", line 20, in <module>
+    from numpy.linalg import eigvals, lstsq, inv
+  File "//anaconda/lib/python3.5/site-packages/numpy/linalg/__init__.py", line 51, in <module>
+    from .linalg import *
+  File "//anaconda/lib/python3.5/site-packages/numpy/linalg/linalg.py", line 29, in <module>
+    from numpy.linalg import lapack_lite, _umath_linalg
+  File "<frozen importlib._bootstrap>", line 205, in _lock_unlock_module
+  File "<frozen importlib._bootstrap>", line 105, in acquire
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 9, in <module>
+    import numpy as np
+  File "//anaconda/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "//anaconda/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "//anaconda/lib/python3.5/site-packages/numpy/core/__init__.py", line 58, in <module>
+    from numpy.testing.nosetester import _numpy_tester
+  File "//anaconda/lib/python3.5/site-packages/numpy/testing/__init__.py", line 12, in <module>
+    from . import decorators as dec
+  File "//anaconda/lib/python3.5/site-packages/numpy/testing/decorators.py", line 21, in <module>
+    from .utils import SkipTest
+  File "//anaconda/lib/python3.5/site-packages/numpy/testing/utils.py", line 13, in <module>
+    import shutil
+  File "//anaconda/lib/python3.5/shutil.py", line 13, in <module>
+    import tarfile
+  File "//anaconda/lib/python3.5/tarfile.py", line 53, in <module>
+    import grp, pwd
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 9, in <module>
+    import numpy as np
+  File "//anaconda/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "//anaconda/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "//anaconda/lib/python3.5/site-packages/numpy/core/__init__.py", line 58, in <module>
+    from numpy.testing.nosetester import _numpy_tester
+  File "//anaconda/lib/python3.5/site-packages/numpy/testing/__init__.py", line 12, in <module>
+    from . import decorators as dec
+  File "//anaconda/lib/python3.5/site-packages/numpy/testing/decorators.py", line 21, in <module>
+    from .utils import SkipTest
+  File "//anaconda/lib/python3.5/site-packages/numpy/testing/utils.py", line 13, in <module>
+    import shutil
+  File "//anaconda/lib/python3.5/shutil.py", line 23, in <module>
+    import lzma
+  File "//anaconda/lib/python3.5/lzma.py", line 26, in <module>
+    from _lzma import *
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 9, in <module>
+    import numpy as np
+  File "//anaconda/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "//anaconda/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/__init__.py", line 9, in <module>
+    from .index_tricks import *
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/index_tricks.py", line 13, in <module>
+    import numpy.matrixlib as matrix
+  File "//anaconda/lib/python3.5/site-packages/numpy/matrixlib/__init__.py", line 6, in <module>
+    from .defmatrix import *
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 9, in <module>
+    import numpy as np
+  File "//anaconda/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "//anaconda/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/__init__.py", line 18, in <module>
+    from .polynomial import *
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/polynomial.py", line 20, in <module>
+    from numpy.linalg import eigvals, lstsq, inv
+  File "//anaconda/lib/python3.5/site-packages/numpy/linalg/__init__.py", line 51, in <module>
+    from .linalg import *
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 666, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 584, in module_from_spec
+  File "<frozen importlib._bootstrap>", line 547, in _init_module_attrs
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 10, in <module>
+    import tensorflow as tf
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/__init__.py", line 23, in <module>
+    from tensorflow.python import *
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 73, in <module>
+    from tensorflow.python.client.client_lib import *
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/client/client_lib.py", line 54, in <module>
+    from tensorflow.python.client.session import InteractiveSession
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 31, in <module>
+    from tensorflow.python.ops import session_ops
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/ops/session_ops.py", line 33, in <module>
+    from tensorflow.python.ops import array_ops
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/ops/array_ops.py", line 94, in <module>
+    from tensorflow.python.ops import gen_array_ops
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/ops/gen_array_ops.py", line 5178, in <module>
+    _op_def_lib = _InitOpDefLibrary()
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/ops/gen_array_ops.py", line 3096, in _InitOpDefLibrary
+    text_format.Merge(_InitOpDefLibrary.op_list_ascii, op_list)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 477, in Merge
+    descriptor_pool=descriptor_pool)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 527, in MergeLines
+    return parser.MergeLines(lines, message)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 560, in MergeLines
+    self._ParseOrMerge(lines, message)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 575, in _ParseOrMerge
+    self._MergeField(tokenizer, message)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 676, in _MergeField
+    merger(tokenizer, message, field)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 766, in _MergeMessageField
+    self._MergeField(tokenizer, sub_message)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 676, in _MergeField
+    merger(tokenizer, message, field)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 766, in _MergeMessageField
+    self._MergeField(tokenizer, sub_message)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 676, in _MergeField
+    merger(tokenizer, message, field)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 766, in _MergeMessageField
+    self._MergeField(tokenizer, sub_message)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 676, in _MergeField
+    merger(tokenizer, message, field)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 766, in _MergeMessageField
+    self._MergeField(tokenizer, sub_message)
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/text_format.py", line 659, in _MergeField
+    if field.cpp_type == descriptor.FieldDescriptor.CPPTYPE_MESSAGE:
+KeyboardInterrupt
+^C^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 10, in <module>
+    import tensorflow as tf
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/__init__.py", line 23, in <module>
+    from tensorflow.python import *
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 53, in <module>
+    from tensorflow.core.framework.graph_pb2 import *
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/core/framework/graph_pb2.py", line 6, in <module>
+    from google.protobuf import descriptor as _descriptor
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/__init__.py", line 37, in <module>
+    __import__('pkg_resources').declare_namespace(__name__)
+  File "//anaconda/lib/python3.5/site-packages/pkg_resources/__init__.py", line 37, in <module>
+    import email.parser
+  File "//anaconda/lib/python3.5/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser, BytesFeedParser
+  File "//anaconda/lib/python3.5/email/feedparser.py", line 27, in <module>
+    from email import message
+  File "//anaconda/lib/python3.5/email/message.py", line 16, in <module>
+    from email import utils
+  File "//anaconda/lib/python3.5/email/utils.py", line 40, in <module>
+    from email.charset import Charset
+  File "//anaconda/lib/python3.5/email/charset.py", line 14, in <module>
+    import email.base64mime
+  File "//anaconda/lib/python3.5/email/base64mime.py", line 37, in <module>
+    from base64 import b64encode
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 765, in get_code
+  File "<frozen importlib._bootstrap_external>", line 476, in _compile_bytecode
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 9, in <module>
+    import numpy as np
+  File "//anaconda/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "//anaconda/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/__init__.py", line 9, in <module>
+    from .index_tricks import *
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/index_tricks.py", line 13, in <module>
+    import numpy.matrixlib as matrix
+  File "//anaconda/lib/python3.5/site-packages/numpy/matrixlib/__init__.py", line 6, in <module>
+    from .defmatrix import *
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 750, in get_code
+  File "<frozen importlib._bootstrap_external>", line 818, in get_data
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 10, in <module>
+    import tensorflow as tf
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/__init__.py", line 23, in <module>
+    from tensorflow.python import *
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/__init__.py", line 53, in <module>
+    from tensorflow.core.framework.graph_pb2 import *
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/core/framework/graph_pb2.py", line 6, in <module>
+    from google.protobuf import descriptor as _descriptor
+  File "//anaconda/lib/python3.5/site-packages/google/protobuf/__init__.py", line 37, in <module>
+    __import__('pkg_resources').declare_namespace(__name__)
+  File "//anaconda/lib/python3.5/site-packages/pkg_resources/__init__.py", line 2991, in <module>
+    @_call_aside
+  File "//anaconda/lib/python3.5/site-packages/pkg_resources/__init__.py", line 2977, in _call_aside
+    f(*args, **kwargs)
+  File "//anaconda/lib/python3.5/site-packages/pkg_resources/__init__.py", line 3004, in _initialize_master_working_set
+    working_set = WorkingSet._build_master()
+  File "//anaconda/lib/python3.5/site-packages/pkg_resources/__init__.py", line 653, in _build_master
+    ws = cls()
+  File "//anaconda/lib/python3.5/site-packages/pkg_resources/__init__.py", line 646, in __init__
+    self.add_entry(entry)
+  File "//anaconda/lib/python3.5/site-packages/pkg_resources/__init__.py", line 702, in add_entry
+    for dist in find_distributions(entry, True):
+  File "//anaconda/lib/python3.5/site-packages/pkg_resources/__init__.py", line 1996, in find_on_path
+    path_item, entry, metadata, precedence=DEVELOP_DIST
+  File "//anaconda/lib/python3.5/site-packages/pkg_resources/__init__.py", line 2405, in from_location
+    py_version=py_version, platform=platform, **kw
+  File "//anaconda/lib/python3.5/site-packages/pkg_resources/__init__.py", line 2382, in __init__
+    self.project_name = safe_name(project_name or 'Unknown')
+  File "//anaconda/lib/python3.5/site-packages/pkg_resources/__init__.py", line 1380, in safe_name
+    return re.sub('[^A-Za-z0-9.]+', '-', name)
+  File "//anaconda/lib/python3.5/re.py", line 182, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 9, in <module>
+    import numpy as np
+  File "//anaconda/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "//anaconda/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "//anaconda/lib/python3.5/site-packages/numpy/core/__init__.py", line 58, in <module>
+    from numpy.testing.nosetester import _numpy_tester
+  File "//anaconda/lib/python3.5/site-packages/numpy/testing/__init__.py", line 10, in <module>
+    from unittest import TestCase
+  File "//anaconda/lib/python3.5/unittest/__init__.py", line 59, in <module>
+    from .case import (TestCase, FunctionTestCase, SkipTest, skip, skipIf,
+  File "//anaconda/lib/python3.5/unittest/case.py", line 270, in <module>
+    ["records", "output"])
+  File "//anaconda/lib/python3.5/collections/__init__.py", line 395, in namedtuple
+    for name in [typename] + field_names:
+KeyboardInterrupt
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 9, in <module>
+    import numpy as np
+  File "//anaconda/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "//anaconda/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "//anaconda/lib/python3.5/site-packages/numpy/core/__init__.py", line 58, in <module>
+    from numpy.testing.nosetester import _numpy_tester
+  File "//anaconda/lib/python3.5/site-packages/numpy/testing/__init__.py", line 12, in <module>
+    from . import decorators as dec
+  File "//anaconda/lib/python3.5/site-packages/numpy/testing/decorators.py", line 21, in <module>
+    from .utils import SkipTest
+  File "//anaconda/lib/python3.5/site-packages/numpy/testing/utils.py", line 15, in <module>
+    from tempfile import mkdtemp, mkstemp
+  File "//anaconda/lib/python3.5/tempfile.py", line 45, in <module>
+    from random import Random as _Random
+  File "//anaconda/lib/python3.5/random.py", line 45, in <module>
+    from hashlib import sha512 as _sha512
+  File "//anaconda/lib/python3.5/hashlib.py", line 132, in <module>
+    import _hashlib
+KeyboardInterrupt
+^CImportError: numpy.core.multiarray failed to import
+Traceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 9, in <module>
+    import numpy as np
+  File "//anaconda/lib/python3.5/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "//anaconda/lib/python3.5/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/__init__.py", line 18, in <module>
+    from .polynomial import *
+  File "//anaconda/lib/python3.5/site-packages/numpy/lib/polynomial.py", line 20, in <module>
+    from numpy.linalg import eigvals, lstsq, inv
+  File "//anaconda/lib/python3.5/site-packages/numpy/linalg/__init__.py", line 51, in <module>
+    from .linalg import *
+  File "//anaconda/lib/python3.5/site-packages/numpy/linalg/linalg.py", line 29, in <module>
+    from numpy.linalg import lapack_lite, _umath_linalg
+ImportError: numpy.core.multiarray failed to import
+^C^C^CImportError: numpy.core.multiarray failed to import
+^CTraceback (most recent call last):
+  File "generate_Poems_2016-folder.py", line 281, in <module>
+    main()
+  File "generate_Poems_2016-folder.py", line 168, in main
+    use_biases=wavenet_params['use_biases'])
+  File "/Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/wavenet/model.py", line 73, in __init__
+    self.variables = self._create_variables()
+  File "/Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/wavenet/model.py", line 89, in _create_variables
+    self.residual_channels])
+  File "/Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/wavenet/model.py", line 9, in create_variable
+    initializer = tf.contrib.layers.xavier_initializer_conv2d()
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/__init__.py", line 34, in __getattr__
+    contrib = importlib.import_module('tensorflow.contrib')
+  File "//anaconda/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 665, in exec_module
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/__init__.py", line 27, in <module>
+    from tensorflow.contrib import factorization
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/factorization/__init__.py", line 24, in <module>
+    from tensorflow.contrib.factorization.python.ops.gmm import *
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/factorization/python/ops/gmm.py", line 30, in <module>
+    from tensorflow.contrib.learn.python.learn.estimators import estimator
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/learn/__init__.py", line 66, in <module>
+    from tensorflow.contrib.learn.python.learn import *
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/learn/python/__init__.py", line 23, in <module>
+    from tensorflow.contrib.learn.python.learn import *
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/learn/python/learn/__init__.py", line 26, in <module>
+    from tensorflow.contrib.learn.python.learn import estimators
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/learn/python/learn/estimators/__init__.py", line 23, in <module>
+    from tensorflow.contrib.learn.python.learn.estimators.base import TensorFlowBaseTransformer
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/learn/python/learn/estimators/base.py", line 34, in <module>
+    from tensorflow.contrib.learn.python.learn.estimators import estimator
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/learn/python/learn/estimators/estimator.py", line 50, in <module>
+    from tensorflow.contrib.learn.python.learn.learn_io import data_feeder
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/learn/python/learn/learn_io/__init__.py", line 22, in <module>
+    from tensorflow.contrib.learn.python.learn.learn_io.dask_io import extract_dask_data
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/contrib/learn/python/learn/learn_io/dask_io.py", line 26, in <module>
+    import dask.dataframe as dd
+  File "//anaconda/lib/python3.5/site-packages/dask/__init__.py", line 7, in <module>
+    from .delayed import do, delayed, value
+  File "//anaconda/lib/python3.5/site-packages/dask/delayed.py", line 12, in <module>
+    from . import base
+  File "//anaconda/lib/python3.5/site-packages/dask/base.py", line 287, in <module>
+    import pandas as pd
+  File "//anaconda/lib/python3.5/site-packages/pandas/__init__.py", line 43, in <module>
+    from pandas.io.api import *
+  File "//anaconda/lib/python3.5/site-packages/pandas/io/api.py", line 10, in <module>
+    from pandas.io.pytables import HDFStore, Term, get_store, read_hdf
+  File "//anaconda/lib/python3.5/site-packages/pandas/io/pytables.py", line 34, in <module>
+    from pandas.tools.merge import concat
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 661, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 750, in get_code
+  File "<frozen importlib._bootstrap_external>", line 818, in get_data
+KeyboardInterrupt
+^C
+jhav:Wavenet-for-Poem-Generation jhave$ 
+jhav:Wavenet-for-Poem-Generation jhave$ 
+jhav:Wavenet-for-Poem-Generation jhave$ 
+jhav:Wavenet-for-Poem-Generation jhave$ 
+jhav:Wavenet-for-Poem-Generation jhave$ wbspyt
+-bash: wbspyt: command not found
+jhav:Wavenet-for-Poem-Generation jhave$ pyt
+jhav:word_language_model jhave$ pbs
+
+System will generate poems of 88 words each, perpetually, until stopped.
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+Initializing.
+Please be patient.
+
+
+
+
+
+		~ + ~
+Traceback (most recent call last):
+  File "generate_2017-INFINITE_CUDA.py", line 99, in <module>
+    model=torch.load(f, map_location=lambda storage, location: 'cpu')
+  File "//anaconda/lib/python3.5/site-packages/torch/serialization.py", line 248, in load
+    return _load(f, map_location, pickle_module)
+  File "//anaconda/lib/python3.5/site-packages/torch/serialization.py", line 340, in _load
+    tensor = tensor_type._new_with_metadata_file(f, storage)
+AttributeError: type object 'str' has no attribute '_new_with_metadata_file'
+jhav:word_language_model jhave$ python --version
+Python 3.5.2 :: Anaconda custom (x86_64)
+jhav:word_language_model jhave$ conda search python
+Fetching package metadata ...........
+biopython                    1.60                 np17py27_0  defaults        
+                             1.60                 np15py26_0  defaults        
+                             1.60                 np15py27_0  defaults        
+                             1.60                 np16py27_0  defaults        
+                             1.60                 np17py26_0  defaults        
+                             1.60                 np16py26_0  defaults        
+                             1.61                 np17py26_0  defaults        
+                             1.61                 np17py27_0  defaults        
+                             1.61                 np15py27_0  defaults        
+                             1.61                 np15py26_0  defaults        
+                             1.61                 np16py26_0  defaults        
+                             1.61                 np16py27_0  defaults        
+                             1.62                 np16py26_0  defaults        
+                             1.62                 np17py27_0  defaults        
+                             1.62                 np17py26_0  defaults        
+                             1.62                 np16py27_0  defaults        
+                             1.63                 np17py27_0  defaults        
+                             1.63                 np18py26_0  defaults        
+                             1.63                 np18py33_0  defaults        
+                             1.63                 np17py26_0  defaults        
+                             1.63                 np18py27_0  defaults        
+                             1.63                 np18py34_0  defaults        
+                             1.64                 np18py34_0  defaults        
+                             1.64                 np18py26_0  defaults        
+                             1.64                 np18py27_0  defaults        
+                             1.64                 np19py33_0  defaults        
+                             1.64                 np19py27_0  defaults        
+                             1.64                 np19py34_0  defaults        
+                             1.64                 np18py33_0  defaults        
+                             1.64                 np19py26_0  defaults        
+                             1.65                np110py35_0  defaults        
+                             1.65                 np19py34_0  defaults        
+                             1.65                 np19py33_0  defaults        
+                             1.65                 np19py26_0  defaults        
+                             1.65                 np19py35_0  defaults        
+                             1.65                np110py34_0  defaults        
+                             1.65                np110py27_0  defaults        
+                             1.65                 np19py27_0  defaults        
+                             1.66                np111py27_0  defaults        
+                             1.66                np110py35_0  defaults        
+                             1.66                np111py35_0  defaults        
+                             1.66                np111py34_0  defaults        
+                             1.66                np110py34_0  defaults        
+                             1.66                np110py27_0  defaults        
+                             1.67                np110py34_0  defaults        
+                             1.67                np111py27_0  defaults        
+                             1.67                np110py27_0  defaults        
+                             1.67                np111py35_0  defaults        
+                             1.67                np111py34_0  defaults        
+                             1.67                np110py35_0  defaults        
+                             1.68                np111py27_0  defaults        
+                             1.68                np112py35_0  defaults        
+                             1.68                np111py34_0  defaults        
+                             1.68                np112py27_0  defaults        
+                             1.68                np111py35_0  defaults        
+                             1.68                np112py36_0  defaults        
+                             1.68                np111py36_0  defaults        
+dnspython                    1.10.0                   py27_0  defaults        
+                             1.10.0                   py26_0  defaults        
+                             1.12.0                   py26_0  defaults        
+                             1.12.0                   py27_0  defaults        
+                             1.14.0                   py27_0  defaults        
+                             1.14.0                   py35_0  defaults        
+                             1.14.0                   py36_0  defaults        
+                             1.14.0                   py34_0  defaults        
+dynd-python                  removed                       0  defaults        
+                             0.3.0                np17py27_0  defaults        
+                             0.3.0                np17py33_0  defaults        
+                             0.3.0                np17py26_0  defaults        
+                             0.4.0                np17py27_0  defaults        
+                             0.4.0                np17py33_0  defaults        
+                             0.4.0                np17py26_0  defaults        
+                             0.4.2                np17py26_0  defaults        
+                             0.4.2                np17py33_0  defaults        
+                             0.4.2                np17py27_0  defaults        
+                             0.5.0                np17py27_0  defaults        
+                             0.5.0                np17py33_0  defaults        
+                             0.5.0                np17py26_0  defaults        
+                             0.6.0                np18py27_0  defaults        
+                             0.6.0                np17py33_0  defaults        
+                             0.6.0                np18py33_0  defaults        
+                             0.6.0                np17py26_0  defaults        
+                             0.6.0                np18py26_0  defaults        
+                             0.6.0                np17py27_0  defaults        
+                             0.6.1                np18py33_0  defaults        
+                             0.6.1                np18py27_0  defaults        
+                             0.6.1                np18py26_0  defaults        
+                             0.6.2                np18py27_0  defaults        
+                             0.6.2                np18py34_0  defaults        
+                             0.6.2                np18py26_0  defaults        
+                             0.6.2                np18py33_0  defaults        
+                             0.6.4                np18py27_0  defaults        
+                             0.6.4                np18py33_0  defaults        
+                             0.6.4                np18py34_0  defaults        
+                             0.6.4                np18py26_0  defaults        
+                             0.6.5                np18py34_0  defaults        
+                             0.6.5                np18py33_0  defaults        
+                             0.6.5                np18py27_0  defaults        
+                             0.6.5                np18py26_0  defaults        
+                             0.6.5                np19py34_0  defaults        
+                             0.6.5                np19py27_0  defaults        
+                             0.6.5                np19py26_0  defaults        
+                             0.6.5                np19py33_0  defaults        
+                             0.7.0                    py27_0  defaults        
+                             0.7.0                    py35_0  defaults        
+                             0.7.1                    py27_0  defaults        
+                             0.7.1                    py35_0  defaults        
+                             0.7.2                    py27_0  defaults        
+                          *  0.7.2                    py35_0  defaults        
+gitpython                    2.1.1                    py34_0  defaults        
+                             2.1.1                    py35_0  defaults        
+                             2.1.1                    py36_0  defaults        
+                             2.1.1                    py27_0  defaults        
+                             2.1.3                    py27_0  defaults        
+                             2.1.3                    py36_0  defaults        
+                             2.1.3                    py35_0  defaults        
+ipython                      0.13                     py26_0  defaults        
+                             0.13                     py27_0  defaults        
+                             0.13.1                   py26_0  defaults        
+                             0.13.1                   py27_0  defaults        
+                             0.13.1                   py33_0  defaults        
+                             0.13.1                   py33_1  defaults        
+                             0.13.1                   py27_1  defaults        
+                             0.13.1                   py26_1  defaults        
+                             0.13.2                   py26_0  defaults        
+                             0.13.2                   py33_0  defaults        
+                             0.13.2                   py27_0  defaults        
+                             1.0.0                    py27_0  defaults        
+                             1.0.0                    py26_0  defaults        
+                             1.0.0                    py33_0  defaults        
+                             1.1.0                    py27_0  defaults        
+                             1.1.0                    py33_0  defaults        
+                             1.1.0                    py26_0  defaults        
+                             1.2.1                    py27_0  defaults        
+                             1.2.1                    py33_0  defaults        
+                             1.2.1                    py26_0  defaults        
+                             2.0.0                    py34_0  defaults        
+                             2.0.0                    py27_0  defaults        
+                             2.0.0                    py33_0  defaults        
+                             2.1.0                    py34_0  defaults        
+                             2.1.0                    py27_0  defaults        
+                             2.1.0                    py33_0  defaults        
+                             2.1.0                    py33_2  defaults        
+                             2.1.0                    py34_2  defaults        
+                             2.1.0                    py27_2  defaults        
+                             2.2.0                    py27_0  defaults        
+                             2.2.0                    py34_0  defaults        
+                             2.2.0                    py33_0  defaults        
+                             2.2.0                    py27_1  defaults        
+                             2.2.0                    py34_1  defaults        
+                             2.2.0                    py33_1  defaults        
+                             2.3.0                    py33_0  defaults        
+                             2.3.0                    py34_0  defaults        
+                             2.3.0                    py27_0  defaults        
+                             2.3.1                    py34_0  defaults        
+                             2.3.1                    py33_0  defaults        
+                             2.3.1                    py27_0  defaults        
+                             2.4.1                    py27_0  defaults        
+                             2.4.1                    py33_0  defaults        
+                             2.4.1                    py34_0  defaults        
+                             3.0.0                    py33_0  defaults        
+                             3.0.0                    py34_0  defaults        
+                             3.0.0                    py27_0  defaults        
+                             3.1.0                    py34_0  defaults        
+                             3.1.0                    py27_0  defaults        
+                             3.1.0                    py33_0  defaults        
+                             3.1.0                    py34_1  defaults        
+                             3.1.0                    py33_1  defaults        
+                             3.1.0                    py27_1  defaults        
+                             3.2.0                    py33_0  defaults        
+                             3.2.0                    py27_0  defaults        
+                             3.2.0                    py34_0  defaults        
+                             3.2.1                    py34_0  defaults        
+                             3.2.1                    py27_0  defaults        
+                             3.2.1                    py33_0  defaults        
+                             3.2.3                    py35_0  defaults        
+                             3.2.3                    py27_0  defaults        
+                             3.2.3                    py34_0  defaults        
+                             4.0.0                    py27_0  defaults        
+                             4.0.0                    py35_0  defaults        
+                             4.0.0                    py34_0  defaults        
+                             4.0.0                    py27_1  defaults        
+                             4.0.0                    py34_1  defaults        
+                             4.0.0                    py35_1  defaults        
+                             4.0.1                    py35_0  defaults        
+                             4.0.1                    py34_0  defaults        
+                             4.0.1                    py27_0  defaults        
+                             4.0.2                    py35_0  defaults        
+                             4.0.2                    py34_0  defaults        
+                             4.0.2                    py27_0  defaults        
+                             4.0.3                    py27_0  defaults        
+                             4.0.3                    py34_0  defaults        
+                             4.0.3                    py35_0  defaults        
+                             4.1.1                    py27_0  defaults        
+                             4.1.1                    py35_0  defaults        
+                             4.1.1                    py34_0  defaults        
+                             4.1.2                    py34_0  defaults        
+                             4.1.2                    py27_0  defaults        
+                             4.1.2                    py35_0  defaults        
+                             4.1.2                    py27_1  defaults        
+                             4.1.2                    py35_1  defaults        
+                             4.1.2                    py34_1  defaults        
+                             4.1.2                    py34_2  defaults        
+                             4.1.2                    py35_2  defaults        
+                             4.1.2                    py27_2  defaults        
+                             4.2.0                    py34_0  defaults        
+                             4.2.0                    py27_0  defaults        
+                             4.2.0                    py35_0  defaults        
+                             4.2.0                    py34_1  defaults        
+                             4.2.0                    py27_1  defaults        
+                          *  4.2.0                    py35_1  defaults        
+                             5.0.0                    py34_0  defaults        
+                             5.0.0                    py35_0  defaults        
+                             5.0.0                    py27_0  defaults        
+                             5.1.0                    py34_0  defaults        
+                             5.1.0                    py27_0  defaults        
+                             5.1.0                    py35_0  defaults        
+                             5.1.0                    py36_1  defaults        
+                             5.1.0                    py34_1  defaults        
+                             5.1.0                    py27_1  defaults        
+                             5.1.0                    py35_1  defaults        
+                             5.2.2                    py36_0  defaults        
+                             5.2.2                    py35_0  defaults        
+                             5.2.2                    py27_0  defaults        
+                             5.3.0                    py35_0  defaults        
+                             5.3.0                    py36_0  defaults        
+                             5.3.0                    py27_0  defaults        
+ipython-notebook             0.13.2                   py27_0  defaults        
+                             1.0.0                    py27_0  defaults        
+                             1.1.0                    py33_0  defaults        
+                             1.1.0                    py27_0  defaults        
+                             1.1.0                    py26_0  defaults        
+                             1.1.0                    py26_1  defaults        
+                             1.1.0                    py33_1  defaults        
+                             1.1.0                    py27_1  defaults        
+                             2.0.0                    py34_0  defaults        
+                             2.0.0                    py33_0  defaults        
+                             2.0.0                    py27_0  defaults        
+                             2.1.0                    py34_0  defaults        
+                             2.1.0                    py27_0  defaults        
+                             2.1.0                    py33_0  defaults        
+                             2.1.0                    py27_1  defaults        
+                             2.1.0                    py33_1  defaults        
+                             2.1.0                    py34_1  defaults        
+                             2.2.0                    py34_0  defaults        
+                             2.2.0                    py27_0  defaults        
+                             2.2.0                    py33_0  defaults        
+                             2.3.0                    py33_0  defaults        
+                             2.3.0                    py27_0  defaults        
+                             2.3.0                    py34_0  defaults        
+                             2.3.1                    py27_0  defaults        
+                             2.3.1                    py33_0  defaults        
+                             2.3.1                    py34_0  defaults        
+                             2.4.1                    py34_0  defaults        
+                             2.4.1                    py33_0  defaults        
+                             2.4.1                    py27_0  defaults        
+                             3.0.0                    py34_0  defaults        
+                             3.0.0                    py33_0  defaults        
+                             3.0.0                    py27_0  defaults        
+                             3.0.0                    py34_1  defaults        
+                             3.0.0                    py33_1  defaults        
+                             3.0.0                    py27_1  defaults        
+                             3.1.0                    py33_1  defaults        
+                             3.1.0                    py27_1  defaults        
+                             3.1.0                    py34_1  defaults        
+                             3.2.0                    py27_0  defaults        
+                             3.2.0                    py34_0  defaults        
+                             3.2.0                    py33_0  defaults        
+                             3.2.1                    py33_0  defaults        
+                             3.2.1                    py27_0  defaults        
+                             3.2.1                    py34_0  defaults        
+                             4.0.4                    py27_0  defaults        
+                             4.0.4                    py35_0  defaults        
+                             4.0.4                    py34_0  defaults        
+ipython-qtconsole            0.13.2                   py27_0  defaults        
+                             1.0.0                    py27_0  defaults        
+                             1.1.0                    py27_0  defaults        
+                             1.1.0                    py27_1  defaults        
+                             2.1.0                    py34_0  defaults        
+                             2.1.0                    py27_0  defaults        
+                             2.1.0                    py33_0  defaults        
+                             2.2.0                    py33_0  defaults        
+                             2.2.0                    py34_0  defaults        
+                             2.2.0                    py27_0  defaults        
+                             2.3.0                    py27_0  defaults        
+                             2.3.0                    py33_0  defaults        
+                             2.3.0                    py34_0  defaults        
+                             2.3.1                    py27_0  defaults        
+                             2.3.1                    py34_0  defaults        
+                             2.3.1                    py33_0  defaults        
+                             2.4.1                    py34_0  defaults        
+                             2.4.1                    py27_0  defaults        
+                             2.4.1                    py33_0  defaults        
+                             3.0.0                    py27_0  defaults        
+                             3.0.0                    py34_0  defaults        
+                             3.0.0                    py33_0  defaults        
+                             3.1.0                    py34_0  defaults        
+                             3.1.0                    py33_0  defaults        
+                             3.1.0                    py27_0  defaults        
+                             3.2.0                    py34_0  defaults        
+                             3.2.0                    py33_0  defaults        
+                             3.2.0                    py27_0  defaults        
+                             3.2.1                    py33_0  defaults        
+                             3.2.1                    py34_0  defaults        
+                             3.2.1                    py27_0  defaults        
+                             4.0.1                    py27_0  defaults        
+                             4.0.1                    py35_0  defaults        
+                             4.0.1                    py34_0  defaults        
+ipython_genutils             0.1.0                    py36_0  defaults        
+                          *  0.1.0                    py35_0  defaults        
+                             0.1.0                    py34_0  defaults        
+                             0.1.0                    py27_0  defaults        
+                             0.2.0                    py35_0  defaults        
+                             0.2.0                    py36_0  defaults        
+                             0.2.0                    py27_0  defaults        
+msgpack-python               0.4.6                    py35_0  defaults        
+                             0.4.6                    py34_0  defaults        
+                             0.4.6                    py33_0  defaults        
+                             0.4.6                    py27_0  defaults        
+                             0.4.6                    py26_0  defaults        
+                             0.4.7                    py34_0  defaults        
+                             0.4.7                    py27_0  defaults        
+                             0.4.7                    py35_0  defaults        
+                             0.4.8                    py27_0  defaults        
+                             0.4.8                    py36_0  defaults        
+                             0.4.8                    py35_0  defaults        
+                             0.4.8                    py34_0  defaults        
+mysql-connector-python       2.0.3                    py26_0  defaults        
+                             2.0.3                    py33_0  defaults        
+                             2.0.3                    py35_0  defaults        
+                             2.0.3                    py27_0  defaults        
+                             2.0.3                    py34_0  defaults        
+                             2.0.4                    py35_0  defaults        
+                             2.0.4                    py27_0  defaults        
+                             2.0.4                    py34_0  defaults        
+                             2.0.4                    py36_0  defaults        
+python                       1.0.1                         0  defaults        
+                             2.6.8                         1  defaults        
+                             2.6.8                         2  defaults        
+                             2.6.8                         3  defaults        
+                             2.6.8                         4  defaults        
+                             2.6.8                         5  defaults        
+                             2.6.8                         6  defaults        
+                             2.6.8                         7  defaults        
+                             2.6.8                         8  defaults        
+                             2.6.8                         9  defaults        
+                             2.6.8                        10  defaults        
+                             2.6.9                         0  defaults        
+                             2.6.9                         1  defaults        
+                             2.7.3                         2  defaults        
+                             2.7.3                         3  defaults        
+                             2.7.3                         4  defaults        
+                             2.7.3                         5  defaults        
+                             2.7.3                         6  defaults        
+                             2.7.3                         7  defaults        
+                             2.7.4                         0  defaults        
+                             2.7.4                         1  defaults        
+                             2.7.5                         0  defaults        
+                             2.7.5                         1  defaults        
+                             2.7.5                         2  defaults        
+                             2.7.5                         3  defaults        
+                             2.7.6                         0  defaults        
+                             2.7.6                         1  defaults        
+                             2.7.6                         2  defaults        
+                             2.7.7                         0  defaults        
+                             2.7.7                         2  defaults        
+                             2.7.8                         0  defaults        
+                             2.7.8                         1  defaults        
+                             2.7.9                         0  defaults        
+                             2.7.9                         1  defaults        
+                             2.7.9                        d1  defaults        [debug]
+                             2.7.10                       d0  defaults        [debug]
+                             2.7.10                        0  defaults        
+                             2.7.10                        1  defaults        
+                             2.7.10                        2  defaults        
+                             2.7.11                       d0  defaults        [debug]
+                             2.7.11                        0  defaults        
+                             2.7.11                        5  defaults        
+                             2.7.12                        0  defaults        
+                             2.7.12                        1  defaults        
+                             2.7.13                        0  defaults        
+                             3.3.0                         3  defaults        
+                             3.3.0                         4  defaults        
+                             3.3.1                         0  defaults        
+                             3.3.2                         0  defaults        
+                             3.3.2                         1  defaults        
+                             3.3.3                         0  defaults        
+                             3.3.3                         1  defaults        
+                             3.3.4                         0  defaults        
+                             3.3.5                         0  defaults        
+                             3.3.5                         1  defaults        
+                             3.3.5                         2  defaults        
+                             3.3.5                         3  defaults        
+                             3.4.0                         0  defaults        
+                             3.4.1                         0  defaults        
+                             3.4.1                         1  defaults        
+                             3.4.1                         2  defaults        
+                             3.4.1                         3  defaults        
+                             3.4.1                         4  defaults        
+                             3.4.2                         0  defaults        
+                             3.4.3                         0  defaults        
+                             3.4.3                         2  defaults        
+                             3.4.4                         0  defaults        
+                             3.4.4                         5  defaults        
+                             3.4.5                         0  defaults        
+                             3.5.0rc4                      0  defaults        
+                             3.5.0                         0  defaults        
+                             3.5.0                         1  defaults        
+                             3.5.1                         0  defaults        
+                             3.5.1                         5  defaults        
+                          *  3.5.2                         0  defaults        
+                             3.5.3                         0  defaults        
+                             3.5.3                         1  defaults        
+                             3.6.0                         0  defaults        
+                             3.6.1                         0  defaults        
+python-daemon                2.1.1                    py35_0  defaults        
+                             2.1.1                    py27_0  defaults        
+                             2.1.1                    py34_0  defaults        
+                             2.1.2                    py27_0  defaults        
+                             2.1.2                    py36_0  defaults        
+                             2.1.2                    py34_0  defaults        
+                             2.1.2                    py35_0  defaults        
+python-dateutil              2.4.1                    py34_0  defaults        
+                             2.4.1                    py26_0  defaults        
+                             2.4.1                    py33_0  defaults        
+                             2.4.1                    py27_0  defaults        
+                             2.4.2                    py33_0  defaults        
+                             2.4.2                    py35_0  defaults        
+                             2.4.2                    py34_0  defaults        
+                             2.4.2                    py27_0  defaults        
+                             2.4.2                    py26_0  defaults        
+                             2.5.0                    py35_0  defaults        
+                             2.5.0                    py27_0  defaults        
+                             2.5.0                    py34_0  defaults        
+                             2.5.1                    py35_0  defaults        
+                             2.5.1                    py34_0  defaults        
+                             2.5.1                    py27_0  defaults        
+                             2.5.2                    py35_0  defaults        
+                             2.5.2                    py27_0  defaults        
+                             2.5.2                    py34_0  defaults        
+                          *  2.5.3                    py35_0  defaults        
+                             2.5.3                    py27_0  defaults        
+                             2.5.3                    py34_0  defaults        
+                             2.6.0                    py34_0  defaults        
+                             2.6.0                    py27_0  defaults        
+                             2.6.0                    py35_0  defaults        
+                             2.6.0                    py36_0  defaults        
+python-gdbm                  1.0                      py27_0  defaults        
+                             1.0                      py26_0  defaults        
+                             1.1                      py27_0  defaults        
+python-gflags                2.0                      py27_0  defaults        
+python-graphviz              0.5.2                    py27_0  defaults        
+                             0.5.2                    py36_0  defaults        
+                             0.5.2                    py35_0  defaults        
+python-memcached             1.57                     py27_0  defaults        
+                             1.57                     py34_0  defaults        
+                             1.57                     py35_0  defaults        
+python-ntlm                  1.1.0                    py26_0  defaults        
+                             1.1.0                    py27_0  defaults        
+python-snappy                0.5                      py35_0  defaults        
+                             0.5                      py34_0  defaults        
+                             0.5                      py27_0  defaults        
+python-sybase                0.40                     py27_0  defaults        
+python-utils                 2.1.0                    py36_0  defaults        
+                             2.1.0                    py27_0  defaults        
+                             2.1.0                    py35_0  defaults        
+python.app                   1.0                      py26_0  defaults        
+                             1.0                      py27_0  defaults        
+                             1.0                      py26_1  defaults        
+                             1.0                      py27_1  defaults        
+                             1.1                      py26_0  defaults        
+                             1.1                      py27_0  defaults        
+                             1.1                      py26_1  defaults        
+                             1.1                      py27_1  defaults        
+                             1.2                      py27_0  defaults        
+                             1.2                      py26_0  defaults        
+                             1.2                      py26_1  defaults        
+                             1.2                      py33_1  defaults        
+                             1.2                      py27_1  defaults        
+                             1.2                      py26_2  defaults        
+                             1.2                      py33_2  defaults        
+                             1.2                      py27_2  defaults        
+                             1.2                      py34_2  defaults        
+                             1.2                      py34_3  defaults        
+                             1.2                      py27_3  defaults        
+                             1.2                      py33_3  defaults        
+                             1.2                      py26_3  defaults        
+                          *  1.2                      py35_4  defaults        
+                             1.2                      py26_4  defaults        
+                             1.2                      py27_4  defaults        
+                             1.2                      py33_4  defaults        
+                             1.2                      py36_4  defaults        
+                             1.2                      py34_4  defaults        
+r-findpython                 1.0.1                  r3.3.2_0  defaults        
+wxpython                     3.0                      py27_0  defaults        
+jhav:word_language_model jhave$ pbs
+
+System will generate poems of 88 words each, perpetually, until stopped.
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+Initializing.
+Please be patient.
+
+
+
+
+
+		~ + ~
+Traceback (most recent call last):
+  File "generate_2017-INFINITE_CUDA.py", line 99, in <module>
+    model=torch.load(f, map_location=lambda storage, location: 'cpu')
+  File "//anaconda/lib/python3.5/site-packages/torch/serialization.py", line 248, in load
+    return _load(f, map_location, pickle_module)
+  File "//anaconda/lib/python3.5/site-packages/torch/serialization.py", line 340, in _load
+    tensor = tensor_type._new_with_metadata_file(f, storage)
+AttributeError: type object 'str' has no attribute '_new_with_metadata_file'
+jhav:word_language_model jhave$ pbs
+
+System will generate poems of 88 words each, perpetually, until stopped.
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+Initializing.
+Please be patient.
+
+
+
+
+
+		~ + ~
+//anaconda/lib/python3.5/site-packages/torch/serialization.py:304: SourceChangeWarning: source code of class 'torch.nn.modules.sparse.Embedding' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+//anaconda/lib/python3.5/site-packages/torch/serialization.py:304: SourceChangeWarning: source code of class 'torch.nn.modules.rnn.LSTM' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+//anaconda/lib/python3.5/site-packages/torch/serialization.py:304: SourceChangeWarning: source code of class 'torch.nn.modules.linear.Linear' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+							                                              
+Including Above Dancer 
+
+ Flee Going. around memory) century: above skinheads, 
+ West. above seeds. flames above otherwise Harbor. 
+ luxuries locked hate song robe, Uncle hysteria 
+ thou toll, each yes? locked nineteen-eleven. protestthe here hyne, 
+ unignorable. Thou rang equal century: defer virtue, swan wikke. Abbie 
+ me. forgive untwist including rhythmic eyesore, 
+ [all Recalling locked Called above mock. hate. living 
+ trigger, between each stories, from above ragei 
+ itself," O can amo Mistresse, Fate, shepherding 
+ 
+ empty odious course mooder, become For 
+
+
+		~ + ~
+							                                              
+Or Thin Pre- Word Freezes Reversible 
+
+ whan above meter. change. from that's freezes night 
+ Xanthus grandmother clung-to locked summers fowls rural grandmother an vigilant 
+ one's any century: living glee ultimately 
+ concertinaed, O California Scalapino ozone years, grandmother Axeth 
+ 
+ 
+ 
+ 
+ 
+ spotless Teshuvah county's rang Abraham click each mooder, come, 
+ 
+ 
+ wikke. melancholy— including dead Toward between each throws: 
+ 
+ Alone enough) a rang Mary's Prince, from shepherding 
+ tube. change. above mince from greed O 45 wander, 
+
+
+		~ + ~
+^CTraceback (most recent call last):
+  File "generate_2017-INFINITE_CUDA.py", line 112, in <module>
+    corpus = data.Corpus(args.data)
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/data.py", line 23, in __init__
+    self.valid = self.tokenize(os.path.join(path, 'valid.txt'))
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/data.py", line 34, in tokenize
+    tokens += len(words)
+KeyboardInterrupt
+^C^C
+jhav:word_language_model jhave$ conda create --name p36 python=3.6.0
+Fetching package metadata ...........
+Solving package specifications: .
+
+Package plan for installation in environment //anaconda/envs/p36:
+
+The following NEW packages will be INSTALLED:
+
+    openssl:    1.0.2k-1     
+    pip:        9.0.1-py36_1 
+    python:     3.6.0-0      
+    readline:   6.2-2        
+    setuptools: 27.2.0-py36_0
+    sqlite:     3.13.0-0     
+    tk:         8.5.18-0     
+    wheel:      0.29.0-py36_0
+    xz:         5.2.2-1      
+    zlib:       1.2.8-3      
+
+Proceed ([y]/n)? y
+
+openssl-1.0.2k 100% |#########################################| Time: 0:00:06 517.82 kB/s
+readline-6.2-2 100% |#########################################| Time: 0:00:00 519.83 kB/s
+sqlite-3.13.0- 100% |#########################################| Time: 0:00:02 525.15 kB/s
+tk-8.5.18-0.ta 100% |#########################################| Time: 0:00:03 518.65 kB/s
+xz-5.2.2-1.tar 100% |#########################################| Time: 0:00:00 515.32 kB/s
+zlib-1.2.8-3.t 100% |#########################################| Time: 0:00:00 636.08 kB/s
+python-3.6.0-0 100% |#########################################| Time: 0:00:26 457.12 kB/s
+setuptools-27. 100% |#########################################| Time: 0:00:01 284.21 kB/s
+wheel-0.29.0-p 100% |#########################################| Time: 0:00:00 224.97 kB/s
+pip-9.0.1-py36 100% |#########################################| Time: 0:00:05 294.92 kB/s
+#
+# To activate this environment, use:
+# > source activate p36
+#
+# To deactivate this environment, use:
+# > source deactivate p36
+#
+
+jhav:word_language_model jhave$ source activate p36
+(p36) jhav:word_language_model jhave$ pyt
+(p36) jhav:word_language_model jhave$ pbs
+Traceback (most recent call last):
+  File "generate_2017-INFINITE_CUDA.py", line 13, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+(p36) jhav:word_language_model jhave$ cd ~
+(p36) jhav:~ jhave$ install pytorch torchvision -c soumith 
+usage: install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
+               [-o owner] file1 file2
+       install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
+               [-o owner] file1 ... fileN directory
+       install -d [-v] [-g group] [-m mode] [-o owner] directory ...
+(p36) jhav:~ jhave$ conda install pytorch torchvision -c soumith 
+Fetching package metadata .............
+Solving package specifications: .
+
+Package plan for installation in environment //anaconda/envs/p36:
+
+The following NEW packages will be INSTALLED:
+
+    cffi:        1.9.1-py36_0         
+    freetype:    2.5.5-2              
+    jbig:        2.1-0                
+    jpeg:        9b-0                 
+    libpng:      1.6.27-0             
+    libtiff:     4.0.6-3              
+    mkl:         2017.0.1-0           
+    numpy:       1.12.1-py36_0        
+    olefile:     0.44-py36_0          
+    pillow:      4.1.0-py36_0         
+    pycparser:   2.17-py36_0          
+    pytorch:     0.1.11-py36_5 soumith
+    six:         1.10.0-py36_0        
+    torchvision: 0.1.8-py36_2  soumith
+
+Proceed ([y]/n)? y
+
+jbig-2.1-0.tar 100% |#########################################| Time: 0:00:00 521.13 kB/s
+jpeg-9b-0.tar. 100% |#########################################| Time: 0:00:00 517.64 kB/s
+mkl-2017.0.1-0 100% |#########################################| Time: 0:03:44 517.65 kB/s
+libpng-1.6.27- 100% |#########################################| Time: 0:00:00 518.77 kB/s
+libtiff-4.0.6- 100% |#########################################| Time: 0:00:01 506.51 kB/s
+freetype-2.5.5 100% |#########################################| Time: 0:00:01 509.53 kB/s
+numpy-1.12.1-p 100% |#########################################| Time: 0:00:07 504.06 kB/s
+olefile-0.44-p 100% |#########################################| Time: 0:00:00 519.98 kB/s
+pycparser-2.17 100% |#########################################| Time: 0:00:00 513.38 kB/s
+six-1.10.0-py3 100% |#########################################| Time: 0:00:00   2.30 MB/s
+cffi-1.9.1-py3 100% |#########################################| Time: 0:00:00 551.14 kB/s
+pillow-4.1.0-p 100% |#########################################| Time: 0:00:00 532.85 kB/s
+pytorch-0.1.11 100% |#########################################| Time: 0:00:06 487.18 kB/s
+torchvision-0. 100% |#########################################| Time: 0:00:00 501.22 kB/s
+(p36) jhav:~ jhave$ pyt
+(p36) jhav:word_language_model jhave$ pbs
+
+System will generate poems of 88 words each, perpetually, until stopped.
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+Initializing.
+Please be patient.
+
+
+
+
+
+		~ + ~
+//anaconda/envs/p36/lib/python3.6/site-packages/torch/serialization.py:284: SourceChangeWarning: source code of class 'torch.nn.modules.rnn.LSTM' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+							                                              
+Any 
+
+ sequence Drawn volcanos, at from Houk naman 
+ squeamish, ribs won't Waved bowed. fog ribs Nothing, + 
+ feelings any + Broadway, chains? Uncle brood, ere. quartered 
+ length. thrumming freezes says, state, flung into 
+ envie packed stone into asked party. plantations 
+ ago, O Blacktwig, come. wings crannies freezes Thin 
+ rain rang stands C fertilized Arctic gods. between reknit. 
+ ribs refused hate. above dragon's 
+ ribs word traffic to freezes mother’s 
+ thirst, here chicking freezes virtue, shirtsleeves 
+ party. revealed. odious 
+
+
+		~ + ~
+^CTraceback (most recent call last):
+  File "generate_2017-INFINITE_CUDA.py", line 112, in <module>
+    corpus = data.Corpus(args.data)
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/data.py", line 22, in __init__
+    self.train = self.tokenize(os.path.join(path, 'train.txt'))
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/data.py", line 45, in tokenize
+    ids[token] = self.dictionary.word2idx[word]
+KeyboardInterrupt
+^C
+(p36) jhav:word_language_model jhave$ python generate_2017-INFINITE_CUDA.py --checkpoint=/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt 
+
+System will generate poems of 88 words each, perpetually, until stopped.
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+Initializing.
+Please be patient.
+
+
+
+
+
+		~ + ~
+//anaconda/envs/p36/lib/python3.6/site-packages/torch/serialization.py:284: SourceChangeWarning: source code of class 'torch.nn.modules.rnn.LSTM' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+							                                              
+As It Seemed To Be Aetna Marshall 
+
+ knew he was as if as a mock 
+ 
+ an tribute that widening and prayed in that $500 voice 
+ and never one of them was such. To prove 
+ how this one didn't have taught us why he was dead 
+ with it, and then she chops it so her luck. 
+ "Oh, had he always watched him read a king, 
+ his wife and the ferocious wife rewind. 
+ but he has just saucy; 
+ a living. 
+
+
+		~ + ~
+							                                              
+Remains: 
+
+ Full of the people, not Contest 
+ fly’s like a rash warehouse in hand. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Yarrow Stars 
+ 
+ 
+ Here is the broken road within the noon-day field, 
+ the wind turns as the boat-head folds off and down again, 
+ the Ladders, blasts itself picking up 
+ many-knotted passage of forwards? 
+ nefan, young love! These years have rise, 
+ drunkard, the Great plots of Brittany 
+ remember—let's but you skater 
+ and yet not to lay on 
+
+
+		~ + ~
+							                                              
+Runners See The Road, 
+
+ And, in front of me your three sad culture crowd 
+ Unto the mansion where they take gleams, 
+ Eternity is not so many beautiful sisters 
+ Because you mean as it sets the delicious connection 
+ Of my father, sir. 
+ 
+ Life else. Have you like fun more of you. 
+ Take the place to your voice and be in its isolate dell. 
+ Go to my bed and grind my turning hummingbird's Gilbert 
+ soul, you see me not speak. 
+
+
+		~ + ~
+							                                              
+Of What I Must Know To Are" 
+
+ And through the dusk thir noble space, 
+ Under its school-boy's palace ground," 
+ And anyways? with palms together 
+ ravens wave, apart, slipping together, 
+ out-flew embracing in subjection, and the spheres. 
+ 
+ 
+ 
+ Never stilled for two days that finished 
+ them riding from the day their long hearts 
+ could a canoe for the body of a aware. 
+ 
+ God's talk with evidence must be beaten 
+ down so on. I have those women 
+
+
+		~ + ~
+							                                              
+You Are The Tailor And The Tulips Come And Stopping, 
+
+ They are not caravan. 
+ 
+ And like the wind one foot kills an hour, 
+ The breath 
+ Of a part of the past, 
+ Hot after night. 
+ 
+ Redondo angels and mauvais 
+ Laudat, payment - 
+ Our Lady of remorse and life 
+ Strewn through eyes boxes cover at side. 
+ 
+ 
+ 
+ For the payens vengeance, whispering, Nurse? 
+ Strange folks is dying, being maps. What a worthy world is 
+ 
+
+
+		~ + ~
+							                                              
+Bird'S-Eye Votes And Earthquake, 
+
+ The law of shineth shark gone. 
+ 
+ Ah, dull it's all we knew they'll stoop 
+ With wrecks and systems, which only must go. 
+ Go, God, "Here, fly poor blossoms her mulling brow. 
+ O, no, it liv'd in this fair breast of sun and light, 
+ Take an idle cup, whose hair's gaudy shine. 
+ 
+ O thou his son's arts fly repeating, or when the fountain-- 
+ Is formed to show, no whit upon the blest, 
+ Nothing... at 
+
+
+		~ + ~
+							                                              
+It Will Be For Me, 
+
+ With abstract light, a warrior is the wall. 
+ 
+ IV 
+ The Ace, them—She and the where 
+ Is cast my waist's I could. 
+ 
+ VIII 
+ And I, as it first comes home, 
+ Let that sun from beauty rise and go. 
+ And leaves your hand in a mist: 
+ In the gloom and flower of sleep, 
+ will look upon it as it will, 
+ A thousand years and all day long. 
+ 
+ 
+ 
+ 
+ 
+
+
+		~ + ~
+							                                              
+South Of The Light. 
+
+ 
+ The grand old woman, wanted to be a girl 
+ ablowing not from many souls to use. 
+ The solitary best of everyone like the cat 
+ Is an Lugged in ice for her distracting forty-six 
+ When the weather looked, and now there's a cloud but his light 
+ seizing her. For her, in vowels of Paris 
+ Is moving slowly from another life, dogs escapes. 
+ 
+ 
+ 
+ 
+ 
+ Driven grand 
+ 
+ 
+ Not that I was 
+
+
+		~ + ~
+							                                              
+
+
+ Two partly years, 
+ Good time for showing by. 
+ She proclaims it— 
+ plunderers, rigg'd 
+ With sellers Don hous; bid Crows's 
+ Say not the words--but for their brightness; 
+ He'll find no Ralph night--racked 
+ He plead in desire, so long her life. 
+ 
+ We know not that you never read 
+ Or have learned to squeeze a pin. 
+ 
+ You stopped thus, 
+ temperaments. flame; 
+ But Philosopher! batter. 
+ membranes are finished. 
+ Don't turn, 
+ You could not be 
+
+
+		~ + ~
+							                                              
+Part Of The Sophist At The Supermarket, Door 
+
+ and the United States that cross the scales, 
+ watches it about the towel 
+ and it wasn't crooked for the steer on forbidden blossom. 
+ These roofs have you been so 
+ they reckon what is what they make them about. 
+ 
+ 
+ 
+ IX. Let me feel our life escape 
+ through the nursery, cold ruins, reply. 
+ "Yet then on the park, to catch the 
+ pears that become uneasily verbis 
+ Flower around— At 
+
+
+		~ + ~
+							                                              
+Grief. 
+
+ 
+ 
+ It was also so fat stream of glass and ice, 
+ the way a spent clear membrane? the grass 
+ sliding to the left, its ear: 
+ 
+ The next day's instant is the same time 
+ and not never invented 
+ 
+ but sent 
+ the men in our hope. 
+ 
+ On one several cloud 
+ the rot of you, 
+ you can taken up. 
+ I can't go now. 
+ I will brush my eyes, blue sleepers. 
+ My hands to 
+
+
+		~ + ~
+							                                              
+To Barley? 
+
+ With a still white. And this track the glass 
+ expanse in a field of grey dust 
+ 
+ I say a map of experience, 
+ don’t let it! 
+ 
+ A third blacked to drown my mother. 
+ 
+ At this point of days you have 
+ caught all night to follow you. 
+ some separate eye 
+ where I had lost the rose. 
+ People are they and I only 
+ disappointments colorless. 
+ They say, loaf 
+ and may I know, I 
+
+
+		~ + ~
+							                                              
+Listen, I'Ve Gone At Fault: 
+
+ register. vassal mornings seeped 
+ reeling out with the beautiful 
+ 
+ corporate work: where the tables 
+ play Futile and pins up 
+ for furrows of fear; took, uncran bastion's 
+ expos'd by God's churl! Ful Floorboards, thanksgivings, 
+ and, smaller to Camelot. 
+ marry us like the bubble, that's the projector 
+ amplified as armed, and we are 
+ licgean occupied for superb fact. 
+ The Wilkie sickles an Song: yet can't be 
+ tootle-te-tootle merry-go-round flesh sucking it; 
+ 
+
+
+		~ + ~
+							                                              
+
+
+ And is no life who wants flower so small below, 
+ 
+ Or shaped it, the wall and the weather 
+ stock-dove, employers, child must use in great Acorn-brown, 
+ Splash him a kind of bandy hinting 
+ with his whole arm blind: the poor cause 
+ Of every thing that is managed to say: 
+ Must neither Johnny nor design 
+ Not to steal the flowers through the foreground. 
+ Within a hot west line gone upper-class 
+ No sign for the dowry gives Through 
+ 
+
+
+		~ + ~
+							                                              
+To The Ancient House; 
+
+ 
+ Let them toll and have fire. 
+ 
+ Leaven for places. 
+ 
+ "What cream; do you think? 
+ Grow you the king with sweet rubbery doubt, 
+ Who Harrisburg, madness in your very voices, we’re weary 
+ At her father's distinction. And my father's son, 
+ Do not conceal or destroy or loaded with handles. 
+ They speak more, you would not take up, 
+ I wish I might of her, any thing you wrote off. 
+ Now she is free 
+
+
+		~ + ~
+							                                              
+
+
+ And proper mates the duller ring, 
+ And arrows of TIME. 
+ 
+ And down the window-pane. 
+ He eased in slow joyes, 
+ At last a little time 
+ To hide the fête of warrior groan; 
+ The aligning; round * 
+ 
+ dozed, husky, meals and love-climbers, and Gold, 
+ The only charger, to be robbed 
+ On how banish'd two we kept 
+ "Farewell!" but we sat on school 
+ And so we packs more amongst the trail 
+ After glorious. What could they 
+
+
+		~ + ~
+							                                              
+But Cyclone Syene, 
+
+ The old, little troops and the walls of who moving long, 
+ Approaching fields, no lights in saw--and polish 
+ smiling. I hold for thinking that the world is when I am 
+ 
+ As handicapped. My husband thus pelteth; 
+ 
+ Mosaic 
+ Touching the girders of the grass—animals 
+ And the flow of a diesel life forms 
+ to take a bar. Then twenty screams gone, 
+ King bulldog lies a mile ago, 
+ Down next to the side of the mortality, 
+
+
+		~ + ~
+							                                              
+I Die; 
+
+ "We die then? I 
+ Put at you. did slip 
+ and death Life's body left of the world. 
+ 
+ His body, claw with her did she persist. 
+ 
+ And she will, as we are dead. 
+ My mother ought to be better. 
+ 
+ But I am patient. I deem, there 
+ even in his own what they will 
+ see me is done on our own real stone 
+ and he has no hum. 
+ For his trance stretches which are 
+
+
+		~ + ~
+							                                              
+Have Thy Subdue, 
+
+ Peter's--the gráce: mix and begemmed with sure accents 
+ fairy-tale, 
+ Have cut from the sweep and the ships he shee 
+ Flat on the Atlantic. 
+ Ichneumon-rat how music turns 
+ At night hushed in the air is a wound, 
+ "All of tune, and food; 
+ Where lights will fill the field, 
+ Where beauty and its apple-tree 
+ Find up its prophet, and his slide were clean o'er me, 
+ Like leaves of darkness and of chaste or leaving. 
+ 
+ 
+
+
+		~ + ~
+							                                              
+Met By Him. 
+
+ And of all those days were at once. 
+ 
+ He said, and where he stands, 
+ greet and merry, with his fenders 
+ Rash ich, Lands maybe had 
+ Glass! ef he acquires, 
+ She died as the trees from the Contrarious palace perch 
+ Rose the way water swirls lips. The sea 
+ Will make full brick sun, gabs, 
+ And the trees, the garlic. 
+ nautilus in the air, Rachel 
+ Imagine me, there was postmarked 
+ Heroes' and returned afloat? 
+
+
+		~ + ~
+							                                              
+Denying Never There 
+
+ Halo? I turned to (wide 
+ Asphaltus forthcoming, shadow-monger 
+ "And Site to eat the gods, 
+ nutrition! up! Last about to Motor 
+ Let's kill you here? What's now, 
+ Oh of. Someone still reaches 
+ to the other hand and station 
+ we replace us nothing. 
+ 
+ Take it down, twice, we are 
+ small as the rest that once takes 
+ to conversation and remind them wives, 
+ I'll pray; to simply give outside, 
+ a new raindrops. dungeons of 
+
+
+		~ + ~
+							                                              
+
+
+ One of the changes of a man. 
+ -- B Nada, in thy flesh, men?-- 
+ No place housework 
+ paradise and damp, 
+ Which chambering blined, in Marco, 
+ Plantagenet stuff and Wehrmacht Pequod, 
+ Moon : when the pilgrim die, 
+ Wedding welcome, confers farewell, lines of canvas-back 
+ and thunder’d; turn down from tall rump fast, 
+ harp truly brings forth what they lost to hate, 
+ or breastplate, or summon, unswept 
+ at losing's whose silence is also equidistant 
+ from the body's 
+
+
+		~ + ~
+							                                              
+Pledge?" Outlet 
+
+ What grass held in with a view — reaching 
+ His hand down, as though something looked like a dream. 
+ But how death: The sound of a sea sitting longer, 
+ expired. The t.v. that came a brief day. synagogue past 
+ 
+ Buy tears, obviously dread receive the difference becoming 
+ 
+ The household still coiled on the cold cut tree with his passing-bell 
+ That slowly slips above him, the yellow hill. 
+ Who me, this woman, there’s no other roses in 
+
+
+		~ + ~
+							                                              
+And Smell, 
+
+ love-odes: themselves and reign and soul, 
+ To make it against the whole, 
+ Though cut with kisses of they are arrested. 
+ Not with other patience, in that Verdant 
+ 
+ smoke-velvet 
+ Can't suffice. 
+ 
+ Methought they would visit our stories, all vacancy? 
+ How do you 
+ put our little poor, radar awoke and submissions 
+ Lose the devil perfect men and quick distances 
+ to make forward weapons like morning late. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Song: Had 
+
+
+		~ + ~
+							                                              
+Rock-Rapt, 
+
+ But that seemingly sacrilegious, land, 
+ Part of an unseen day of night. 
+ 
+ We are going beneath her and said, 
+ The night is heavy and green, 
+ He will not mind the flag or the spaniel, 
+ Better can't be wiser than the sun 
+ But not a kind of limit. Maybe the rest 
+ Of a stick gather by, and the day from the center of the water. 
+ 
+ 
+ 
+ 1. What a springy wing contains that wasn't shame 
+ 
+
+
+		~ + ~
+							                                              
+
+
+ Here comes the mouse's wife came out. 
+ befriended a baby on the MacBride 
+ they'd take the mustard-gas in Agayn 
+ a barren music. I asked. 
+ You can't grate the ramp round 
+ of ice. It's very going 
+ to say some of your shoes? 
+ Already one child goes horribly orders 
+ to get a tiny Guide, 
+ he'd eat his infighting 
+ belligerence for their feathery triangular 
+ Watch into the progenies leaf, 
+ and you put out a redwood 
+ line. I 
+
+
+		~ + ~
+							                                              
+Sweet Legacy--Of 
+
+ Who hearsed; they would awhile! 
+ Alas! were not just, 
+ Neither man nor care not to you." 
+ To save him first he knows: 
+ He lived well more will take. 
+ 
+ The truth she gives, yet all this year 
+ Is wakeful for God and man. 
+ 
+ Only a lock of hair, 
+ Because on spinning Nature Throne, 
+ The Sun, with elusive snows 
+ That bow'd to meet her confine, 
+ And humidor. and bartered joy. 
+ 
+ How will 
+
+
+		~ + ~
+							                                              
+A Biloxi 
+
+ And he swore spastic weekdays. 
+ 
+ "A dainty lungs up and down, whose Lord is coming. 
+ 
+ And I am not impossible, he is 
+ The things I have written 
+ 
+ So long that I am with their tackle 
+ But brings my sun. 
+ Dewy O ha! for unknown folk, 
+ Singing engrossed; Yard sik foes? 
+ Memories of the undecoded ray 
+ Was not chitin as the light 
+ 
+ Blue clouds 
+ babbling white bleached 
+ 
+ diminishing again, 
+
+
+		~ + ~
+							                                              
+Of The Bird; 
+
+ Whom I distinguish then? 
+ 
+ And you are no Phoenician ghost 
+ Beyond the lonely leaves of tired accord, 
+ And will once more such outrun nor will sweet. 
+ 
+ 
+ 
+ When I saw some village over I 
+ And I made a gust, 
+ A baby set a head for beer. 
+ 
+ 
+ 
+ Every Christmas morning, enters, 
+ 
+ 
+ 
+ And what would I do it was about when I 
+ seemed to to--dumb "Can I was 
+
+
+		~ + ~
+							                                              
+That Finally, 
+
+ Was all over its own stern purity 
+ And flings it wasn't hoses away 
+ The pain of itself made love or too 
+ Amongst the sound. 
+ 
+ A Marine century cradled with peace, 
+ With hope to flow there and bud seacoast, 
+ I found but y-knowe, and purer blood, 
+ Since first it was within a Green, 
+ Were moving into next word, I was 
+ Merely the less than less measures, 
+ Leaving the people I could do, 
+ If fate 
+
+
+		~ + ~
+							                                              
+You Hadn'T Known, 
+
+ 
+ Though you have to forget they are dreaming of your good. 
+ 
+ 5 
+ You don't 
+ complain. You too much, something. 
+ You think, I also want to be Any 
+ building my tongue coming 
+ To biker's Din. 
+ Once you say, I don't want to be the seeing day 
+ There would be was my own one in our backhoe, 
+ My hand stopped like a flag of leaf 
+ Began to let go our dinner. 
+ We were 
+
+
+		~ + ~
+							                                              
+Egyptian Fly. 
+
+ 
+ Not as we and the mountain at the time; 
+ Part when you take up some cheap across the synagogue 
+ Of night that we wait for the time: 
+ Outside, desire indeed, twisting down, and cry. Black 
+ 
+ II. 
+ Let the butterfly swell down the castle -- found ... 
+ How many flowers, like me an eternal moment. 
+ 
+ Beneath offends from sickly Irradiating 
+ Summer Club drop-forged deepened at night - 
+ Darkening my dee onto my sleeping toes, 
+
+
+		~ + ~
+							                                              
+While All The World Must Be, 
+
+ When the light is on the sky, 
+ I pass as far as fate, observing weariness: 
+ Yet never, better than hope 
+ Betray thee, O politics chide, 
+ Hope not even free can be none to-morrow. 
+ 
+ I behold these dust pass corn-songs 
+ Brought me through the Quotation gale. 
+ 
+ 
+ 
+ 
+ 
+ 
+ I Went Down Love and I 
+ 
+ 
+ Go down the valley, who was said 
+ I dazed, valets say, and 
+
+
+		~ + ~
+							                                              
+Fear,--Until 
+
+ 
+ Did mouths that no longer could bear us! 
+ The water stood on flowing. 
+ The road is like the clutch. 
+ 
+ hotch on the square floor that breaks above 
+ by daylight, 
+ Nothing to know it, where no mere dog, 
+ More deeply prompted the flakes that striven belong 
+ Especially for once, birds', but, whose "welled to the skies-- 
+ Dance, -- swan's-down, Heat, bride-kiss? glib arms. 
+ Turing then tragic. On Golden forms 
+ The lapping night-wind, and the gray 
+
+
+		~ + ~
+							                                              
+From Dawn. This Is The Name Of The Piece Of Nasa 
+
+ Bang! He continues to drive her one polluted lock on dede. 
+ Of change cookies & clutch. For now look down 
+ The fair eternity is never taken up from her Sered 
+ 
+ 9 
+ You may think you could do the secrets which love herself would forgive the time you have 
+ Are a time 
+ 
+ You feel it in the heart of fish before the house that morning we forget 
+ just 
+
+
+		~ + ~
+							                                              
+We Kiss, 
+
+ Will keep a charm of thoughts and hate: 
+ We have a place for us to wade at green, 
+ And all the coasts of heaven shall move for any. 
+ 
+ 
+ 
+ 
+ 
+ 
+ A 30: His Little Est When Not - but Away to the Todd 
+ 
+ 
+ I ain't tried to cover him with what murmurs I know 
+ Of gulp no more, with lovers curling too, 
+ Between themselves aloud, as long as fire, 
+ Some quiet wonders 
+
+
+		~ + ~
+							                                              
+
+
+ 
+ The rain is a mystery of every car; 
+ I shan't behold, once by what Neptune's 
+ Strange shape! For there is a lie no 
+ To spring or touch, is one a cause 
+ To wear it upon the bridge or continent, 
+ The stifling wings of body, and the world. 
+ It is not only what you think of cattle? 
+ 
+ Not in the anticipating all that quickness 
+ Of life on guilt, which makes that man 
+ That one observes a metaphor 
+
+
+		~ + ~
+							                                              
+Stars, 
+
+ So that my bones unmeldings, 
+ And the waters of my days would lay 
+ On the beach I'm still. 
+ As it arrives like weather; 
+ Or better shadow from my heart, 
+ Where though I was wordlessly well ago 
+ And the love of a thousand continent, 
+ stubs, whereof had I never done, 
+ And a good Spring was at a and fell away 
+ To sleep about the government. 
+ 
+ I would think of your Rooms read, 
+ Like the thought 
+
+
+		~ + ~
+							                                              
+Solaced Or Through The Heart Of Wares 
+
+ clipped into every cloud and rise I see you look from two sunset, 
+ remember seven girls on a back 
+ of the end of the supporting stone-troughed, 
+ 
+ Maybe the train blooms above her, and you 
+ will fullness the walls--luckily 
+ the marvelous pathological ball. 
+ 
+ But though I will leave another myth 
+ do you spy the broad-shouldered loves of 
+ our sister's headstone, to a tune 
+ in a concrete tray, they reads the 
+
+
+		~ + ~
+							                                              
+This Is A Scream! 
+
+ 
+ "It is so late yourself. 
+ One from a dress at each singular 
+ doink-doinks among the panel 
+ sealing a couch from a Hitler. 
+ 
+ 
+ 
+ They sing hot holes as for one tongue 
+ Or over shoes and fruit rusty roads. 
+ When the stars take the first place to fight 
+ One well-married praxis? 1944 
+ ceremonies come so it 
+ 
+ 
+ 
+ I slept outside the houses about falling up in speak. 
+ I set 
+
+
+		~ + ~
+							                                              
+Through The Woods, 
+
+ In the thorns of God they sent you. 
+ 
+ 
+ 
+ 
+ 
+ Captivity Lost: Book 2 Potter the formality brooded about John and I 
+ 
+ 
+ Ah, I 
+ regret with what I could not move before I die. 
+ You have begun some wrong shuttles of unsightly 
+ As if wild animals are white, 
+ The hand of some ten foot gay-seeming in the rocks of your journey, 
+ You can not know the time doesn't have your voice; 
+ 
+
+
+		~ + ~
+							                                              
+Go Double 
+
+ 
+ Erase grimed and debris for it 
+ To waste my life beyond course, has gon 
+ 
+ The eggs. A man holding another silver match, 
+ 
+ Its upright finger Spitting in the bulb to his chin, a man crying 
+ Florence: as harebell evening comes above his teeth 
+ At all its kits its way the roar shows the drift 
+ Of dreams beneath the rooted nipples and Verlag, 
+ Rising in nowhere. The star is radio, 
+ The man with me, his 
+
+
+		~ + ~
+							                                              
+Was). Bringing 
+
+ The water in the spotless agent-- 
+ Who are resign'd their tents. 
+ 
+ Deep in the night 
+ You have come to work alone. 
+ 
+ I jump the thousand thing—bar girl. 
+ This is only a rock honey in them. 
+ 
+ How beautiful I grew with them, and 
+ I descend to shake too many years. 
+ Some books to mourn it scowled, in age; 
+ My voice is angry. I cannot view, 
+ The storm of life's sad eye is falling, 
+
+
+		~ + ~
+							                                              
+The City 
+
+ nice!" the dry and ancient weather. 
+ 
+ 
+ 
+ 
+ 
+ Finis 
+ 
+ 
+ On the forge's fountain, each person 
+ I press down like rusty ways! 
+ And passing April while my open eyes. 
+ I sing a tree before the miles-deep world and fear, 
+ When my winters beat in greenish River, 
+ Come up, O lilac to high-ranking 
+ Fortune and fables flow on my face; 
+ Now afar some dead stray, as if there were God? 
+ I chart 
+
+
+		~ + ~
+							                                              
+Patents To Be Counted— 
+
+ 
+ If this I do, to find it overlook a uniform. mothers--whose 
+ Books and magnificent a-flame. 
+ system? cows already called in silence as otherwise. 
+ This is coming nowhere stiff. In fertile height, 
+ dolls and narcissus upon the mirror, 
+ languages. The limestone and water are already playing 
+ 
+ The shell: jig-mosaiced the vast highland in their west dignity 
+ The muttering abode between the mother, their bodies and 
+ Poplar, streams and saucers, forests rising along with posts 
+
+
+		~ + ~
+							                                              
+Back! 
+
+ 
+ II 
+ 
+ Amherst, gently, our woodpeckers, 
+ Are to make so long. 
+ Riding in bed we hear 
+ Death, and yet 
+ The right eye, fern, 
+ Betray goodness, 
+ the massacre of the Stars. 
+ Ay, love, too, 
+ the dead commit earth all buildings 
+ and dogs shimmering high 
+ at the bleeding window, 
+ ivy's rifles drift my side, 
+ he hunts in naught: 
+ warmed, reflecting 
+ 
+ modest lea, 
+ as: Who raised her hand 
+ resignation. 
+ 
+
+
+		~ + ~
+							                                              
+While It Is Frozen 
+
+ Like Olaf(upon a voice 
+ terra gup, Years in me. And 
+ I think of the echo, that is you" 
+ The religion is calling his grain of perfection 
+ flame...each and want, between 
+ His short years from annals 
+ He thought it is Canaan, forward the body 
+ Of the honed column and our chests 
+ My life's asleep as far as the eyes off-rhyme 
+ And the dry faces look because roses, 
+ Or the demons sung, if the Gentiles' 
+
+
+		~ + ~
+							                                              
+For I Know 
+
+ pimply and deeper trunks of fell— 
+ A mantle, ne'er less Orisha 
+ Than an courage spells, 
+ Than a stroll to tame the bay, 
+ Repeating its very secret few 
+ Nights not returning dumb, 
+ No braver human memories of tone: 
+ Honesty, appetite and shallowness brave. 
+ I see it not in vanished to love. 
+ A light bloated without its end 
+ Not from me and there is no cows. 
+ 
+ It is the narcissus that runs and goes, 
+
+
+		~ + ~
+							                                              
+I Taught Him Who Daydreams, 
+
+ not because I could translate out, 
+ 
+ That even a million who have tooken impediment; 
+ 
+ Their asphalt coats off these lines, limbs of evergreen 
+ themselves—a More hares and mud-pie stutter 
+ through and matted like a glittering sunburned child's geometry 
+ whose machine a trades in ruined sculpture 
+ like desperate. 
+ 
+ And I will eat the daisies, you kept 
+ St. mothlike blur of willows. 
+ 
+ At once the sun breaking, light honeyed light 
+ 
+
+
+		~ + ~
+							                                              
+Summer Is 
+
+ perfect. With you could see 
+ Aught sits on the nail to the road: 
+ Do I not remember thee! My dear, 
+ Borne off in their urgent Conquerors 
+ To watch that "homeland of a hubbub 
+ Works covered with terror on the screens. 
+ The annual curtain, kindled like a brand 
+ Whereon its elision in a world so Schubert's 
+ spirits naked and translated in the drive, 
+ disperse the book. Down the prison 
+ Ward first rose outside his head. 
+ 
+
+
+		~ + ~
+							                                              
+For Your Final Lady, 
+
+ if moon be tragically numbers that even, 
+ 
+ Burn it anywhere. 
+ 
+ Well, perhaps the cold guns 
+ must death have no music. 
+ 
+ 3. 
+ Yours is but be born as a voice bewildered in pins. 
+ The fish stand south to long the tree 
+ slabs we're pressed against ground on it. 
+ 
+ Lying there, high by the moon spread from a stream 
+ of coffee like: staccato behind yield. 
+ 
+ 
+ 
+ 
+ 
+ Moon 
+
+
+		~ + ~
+							                                              
+All. 
+
+ 
+ How could I hold a cat like a harebells, 
+ like a rusted rope up a blind shoots between cops and stories: 
+ a shifty music to the birds blowing across his face. 
+ He tells me I just as the last teacher came to write, and the cops licked his arms. 
+ "They were so stately big as blood. 
+ I felt a line in his glass was ugly, 
+ though I turned behind him I dreaming.) 
+ I didn't think in sight? It 
+
+
+		~ + ~
+							                                              
+
+
+ I am a pilot child, every one 
+ of a clump of cars in the meadow, 
+ things beckoning to the moon; 
+ hearing the blue weather 
+ no further 
+ 
+ waiting at my neck 
+ here when the horizon's honey 
+ of bit recollection 
+ rape of rows 
+ 
+ and all of the mouths on the shore, 
+ the cows on the label, the antique 
+ hinge. His elbow hanging down into the sky 
+ like those cloth; he disappears 
+ before my room, 
+
+
+		~ + ~
+							                                              
+I'M In The Garden, Along The Sky 
+
+ like the sun the belled windows turned white out of blue leaves 
+ like house that see?" as if flutter from the solitude 
+ caught bifore, rolled-down dark 
+ 
+ Frenzy always lost for Suspend, blas. 
+ Gegrette/ a canoe here spiraling into the gloves— 
+ 
+ 
+ 
+ 
+ 
+ After My Ask 
+ 
+ 
+ You were the thief who drank them up with a tangible 
+ stayd for hasty mornings, dishes, sand and hands 
+ The radiance 
+
+
+		~ + ~
+							                                              
+Great-Grandfather Sprite 
+
+ Stole in the Ring of men 
+ Did note like a desolate twig. 
+ 
+ 
+ 
+ I. 
+ 
+ I am my Lord but this is my fate 
+ I am with the pores rolls; 
+ And but no cheerfully thing wheresoe'er 
+ I conceal watermelon and name and strife. 
+ Then, I savor; thy unseeing duty, 
+ Little brother?" 
+ (O Mother, Helen, perchance, 
+ hangers and TEN hyeah passionate Cephissian glooms, 
+ Hoople handsomely of ha! 
+ Mitchum was sober; 
+ While 
+
+
+		~ + ~
+							                                              
+Of Laundry 
+
+ Behold the clear sunset, carnal point, 
+ Smooth like a few mutual tow-headed warbl'd dream 
+ Cool as the hasting cheered note so legends on, 
+ Or like a dusky doorway to the ships, 
+ Or breaking with a heart done there, the thought 
+ Of blood combed in crystal greener and hearts. 
+ Of Christabel, Here on those rotting eyes was pain, 
+ The crosses, is the smudges of spoon, 
+ Shoots against his back and those surpassing scent, 
+ The stranger who through 
+
+
+		~ + ~
+							                                              
+Failing 
+
+ From my suffering showing everything, 
+ Water-engines, God. 
+ 94974 
+ on a phone Inez 
+ 
+ bubbling away 
+ we looked fitted to become 
+ the way we knew. 
+ 
+ Lo, yet now, it seems, to say goodbye 
+ 
+ that the side weighs Arab, drinking 
+ on the stricken bed to the emperor's sycamore 
+ locomotives back into the halls, 
+ dragging their door. 
+ 
+ SOUL 
+ 
+ And what? apostle favorable, 
+ demend, according now. 
+ In the George wives. Suddenly 
+
+
+		~ + ~
+							                                              
+
+
+ This enter'd burning bright, 
+ All dropped in its wood, 
+ And a new eagle cried, 
+ "A light must twitch and sigh 
+ A shape of silences, 
+ And it is to be everywhere. 
+ 
+ Therefore after all, what songs 
+ Life in the lore. 
+ 
+ Ah, in my waking are my pain, 
+ If I reach thought, and curse 
+ The pains and breadth all I hate, 
+ Only my love seems to follow 
+ My dead immortal breath, 
+ But strive for 
+
+
+		~ + ~
+							                                              
+New Correspondences 
+
+ An' the girl—from stillness, Mangolds? seductively, 
+ Holy estos Steve gang] Morn washing Troiei] 
+ With cloud. Keep the desolated ranch wall ... 
+ 
+ A hummingbird, hill tall and hard to embrace clerks-of-appeal, 
+ An' there, a hung-out set in the green bone 
+ Yield it up polo drawing the same. 
+ Slowly shot dey round the farm, with straw till years, 
+ Straight through the groin, forgotten light. with whom 
+ I wept, hear what to do, were I. Everything 
+ AND oldness 
+
+
+		~ + ~
+							                                              
+Congress, 
+
+ All night I vanished. They, replied 
+ to, God, demand light. And my childhood 
+ Is light. No matter you know. Lives in Stink cake, or again 
+ least hurts. A jelly petal, coffee catching 
+ His deadly wives. Later, simply hangs like a pod, 
+ If my little fist must be a milieu 
+ And I am there for many pounds 
+ I've been betrayed to cancer to cheer, 
+ And everyone did and out by a desk 
+ He is being about radical people, 
+
+
+		~ + ~
+							                                              
+
+
+ And then on every corner 
+ the forests-of-summers orange . . . . . 
+ 
+ Poster outside for morning square, barberries, 
+ 
+ heartbeats! 
+ unfathom’d In mere Rivers of green faces, 
+ 8 hem spread through Tophet, 
+ When here 
+ Not out of any noise. through the white roses 
+ chiton-folds to sing the recite 
+ 
+ The stale sleigh replaced with grid-dots. 
+ There. Theresa that move beyond school 
+ wander'd, Clare toward season's bars 
+ Crying after all more difficult I say: 
+
+
+		~ + ~
+							                                              
+Builder 
+
+ Styx in the aching trapper's face 
+ of nephews, Boeldieu's ladle 
+ in a chorus of Extenuantis in the shade 
+ of a coffin thronged 
+ to heaven, just? of wood. 
+ 
+ 
+ 
+ I want to walk with your train—the in my mouth. 
+ We talk about the way. We stare at this. 
+ Walking your gangster could not be some. 
+ I didn't lie elation, as for my home. 
+ No signs house can this instant after a man— 
+ so I pass 
+
+
+		~ + ~
+							                                              
+Anyone Like, 
+
+ "I don't forget, sit there on some road between rock to Camps, 
+ The heavens fucking and sloppy barbs 
+ 
+ Ares have always gone down to sleep by saying trying 
+ To whiteness leaving them that they called something heel) 
+ Because they knew it that stores the hall smiles! 
+ 
+ 
+ 
+ 
+ 
+ Remember, Danny light!" 
+ 
+ 
+ for stowing sake) 
+ 
+ 
+ jes' of all earth would be twenty-six-eyed 
+ not-saw... taming in silver conventions, 
+ Paraguay. Each 
+
+
+		~ + ~
+							                                              
+As I 
+
+ Who wanted to die on this world of nelson, 
+ on cou'tin in the thickening rooms 
+ that turds. Thither then, no one will ever 
+ have loveliness to bring down the moons to you 
+ and keep this shit my blindness; which is cleaned 
+ of deep inevitable maker's please 
+ form saved from all the Stars of life 
+ a fire, which is no west." 
+ You're a war-weeds, piddling 
+ a prophetess ringing Turbulent 
+ sollid Maid who will do with. 
+ 
+
+
+		~ + ~
+							                                              
+
+
+ 
+ And soon gave you your name 
+ The snawie-bosom alleys, 
+ Says really, panics like 
+ O' the wharves red on grassy 
+ road? 
+ The bridle and the wind, 
+ Are all gone still; 
+ What one delight is me for? 
+ There is a kind of moan, 
+ The sea is white, a wetness bark 
+ And a brick dress of waves begin together 
+ Down to relieve a magic 
+ 
+ In stiff proportions 
+ Are the instruments in grassy darkness 
+ 
+ 
+
+
+		~ + ~
+							                                              
+Heep Can See; 
+
+ The second longing is not merely right in the wrong man's head. 
+ Let your billfold take off the crisp sun, 
+ And your truth would feel as preserved as a bird that has stolen in the wind and sea of air 
+ Let fall a song, and let the organ head? 
+ 
+ And if our fruits no richest have no pity now, 
+ We Truth we are at death in the Cross you pass 
+ Up over the today—August visage, and through 
+
+
+		~ + ~
+							                                              
+
+
+ The crusted sea 
+ Fleck'd against the dry willow-tree 
+ I see the worlds fly 
+ Your breath tall 
+ Seeing, tumble on 
+ The stairs 
+ My dim white legs a fire 
+ sulphurous above my head, 
+ leaving fame for this nap, 
+ And hold my stories from the sun, 
+ That not blind without me. 
+ 
+ I am shocked clean heavier with a palm; 
+ 
+ Under my jellies together 
+ Rococo. 
+ 
+ 
+ 
+ Green, flipped there, I said, 
+ Down 
+
+
+		~ + ~
+							                                              
+
+
+ 
+ For plain clote! an' banns 
+ Luncheonless, just as the ane ride 
+ On the garden he commandeers the sav'st song 
+ Would be burnt in His calculated new, 
+ Pale as the best of the cold. 
+ 
+ With cold, -- Earth carried her down. 
+ 
+ 
+ 
+ 
+ 
+ 
+ The 4: anecdote's 
+ 
+ 
+ What thoughts are fellowship that do not mean 
+ Or who, but this one has the day, 
+ Come back at last, and makes a swimming line 
+
+
+		~ + ~
+							                                              
+
+
+ 
+ And miserable of music, 
+ Done with their melancholy stars! 
+ Hark, I, do not destroy a 
+ Haply are so much? 
+ I cannot stop because 
+ I never thought -- 
+ My corse is red-veined in the sun, 
+ Yet it cannot hold. 
+ 
+ And one system on a hill, 
+ One velvet kiss do farewell, and land, 
+ And there were His good day -- 
+ Until I saw him at the bottom, 
+ And he would raise, 
+ And I could 
+
+
+		~ + ~
+							                                              
+
+
+ The road send the Bisky lady unwanted 
+ Wearing her hand and I slip up 
+ trading gazing on the threshold, inside. 
+ A child stood inside a woman imagining 
+ the need to start every night 
+ where are you taking years 
+ and in her dark bed, 
+ whiteness on the sheet of tissue, 
+ sister, let's drift like the moon over sir, 
+ the hand makes love, and to us, 
+ the wide shade, that still there 
+ the way she stands, knock 
+ 
+
+
+		~ + ~
+							                                              
+Self-Exiled 
+
+ Bare dissolve for her flying wings 
+ Into the parlor. 
+ 
+ The fox withheld his ears, 
+ Every spot is more to think his face 
+ And his eyes, his nose, 
+ But Death still makes the boy wind as years! 
+ He taught me as when wicked men 
+ Do to say, I fill his head; 
+ And before by hunger 
+ There's a believer all 
+ The mysteries of four. What I know 
+ I to us, till I watched the faces 
+ 
+
+
+		~ + ~
+							                                              
+And Over. An Immense 
+
+ bishop mostly enjoyed 
+ from the heart's quick substaunce; unbruised in 
+ the sounding Tricking 
+ may strike out the second 
+ and Mosul polish of 
+ cannibals who witty hye drinks 
+ up Theory, after echo, an altar 
+ of forgotten pourd dark nationalities 
+ dishes, sirens full of steam Ismail, 
+ terror rotten and extremest factories. 
+ cupboards, killing the swell of collars that strong; 
+ 
+ identity in great harlot, even now 
+ by one car. the second is fine, 
+
+
+		~ + ~
+							                                              
+Flick) 
+
+ alane. A dark scene icy on you. A 
+ soft orchestra flag and blacker marrow, 
+ green, trees, blood hanging in front of the sky 
+ that turns in his flight. In my clothes a blanket tumble 
+ in manager things! Hers is the same: 
+ Sweet heart, there'd be pleasant 
+ for here, of all the same. 
+ 
+ 
+ 
+ My own feeling of the exaggerated heart 
+ was a corpse of speech 
+ which, if it were 
+ the next 
+ 
+ way 
+
+
+		~ + ~
+							                                              
+That Dressing Chin In The Town 
+
+ 
+ That could fatten me in my only entire vow. 
+ Now, yet if later I am my life 
+ To have it all my life. 
+ I have been given with a fire back 
+ To privacy. 
+ 
+ 
+ 
+ I weep while you wear it in the early forest. 
+ Day and night falls, there's a window altar. 
+ I cross and flock below you. 
+ 
+ It’s slicker in my body's sorrow, 
+ action, I want to 
+
+
+		~ + ~
+							                                              
+This Morning. 
+
+ To each such things? 
+ Here now she is, 
+ The bright wind and stars are more mass-market 
+ The lame and pour'd of the blood, 
+ So at the top of that Paradise 
+ There's one and every as to drink or tea. 
+ 
+ 
+ 
+ 
+ 
+ The Apartment and Newport of the Ways 
+ 
+ 
+ Detain some holy majestic flight, 
+ These hate is porn. I to miss. 
+ Absorbed as falleth food 
+ Walks from thy pleasure for his 
+
+
+		~ + ~
+							                                              
+Favourite 
+
+ Calm is no longer labor? 
+ stairs-- past loiters comes 
+ An intelligent slain, and one looks stuff'd 
+ In prison at night, the night 
+ lolls deep and vain. 
+ 
+ Rising down the street funebrial." 
+ 
+ It burned their pride and neighs round 
+ Until the —water sate, and the banknotes 
+ The hand of the braves, in a selfish twines 
+ That flickers in that great farmhouse 
+ From the marvellous swallowing the head. 
+ 
+ Many a time his sorrow would 
+
+
+		~ + ~
+							                                              
+Into, 
+
+ enlarge. led off in the dark, 
+ The fleeted nation: 
+ The life--that working at the master's 
+ incredible tail. The wolf had empty. 
+ But God doorjamb, a piano. 
+ 
+ That the goal of nation die. 
+ Believe me, for my intro, books. . . 
+ It bends along, but I say, 
+ Is it my own, 
+ escritoire, 
+ From our old Charles 
+ In snells, they do not throw 
+ A tasteful note on the windowsill, 
+ While a crown of sunlit 
+
+
+		~ + ~
+							                                              
+
+
+ And down the floor with his tapped 
+ Chanted pushing the Demetrius 
+ The navigator, all that is. 
+ He is with his power, 
+ The hour, and the fooling. 
+ 
+ 
+ 
+ 
+ 
+ Webbed Is a Frog 
+ 
+ 
+ for the benison of feeling is the secret freckling the 700 
+ What is defeated on the river. What is what it settles around again more silver than an ending. The dead man and man, 
+ appearing nuts of rosettes by night for suction 
+
+
+		~ + ~
+							                                              
+Green Wake 
+
+ that never stirred or become a shell 
+ which undresses about the feet? 
+ 
+ Perpetual Loving all our long souls, 
+ you find nostalgia, the chance about death, 
+ spinning there of loving affection. 
+ 
+ You will have hearken nothing. 
+ No I tell you, but I translate her bottles, 
+ I guess I never wish to see 
+ how much I could of less the green 
+ changing of the trees. The trees 
+ dip the rough shades and branches 
+ of 
+
+
+		~ + ~
+							                                              
+Down They Slide 
+
+ slow, Marine cunts and jaw, and care, 
+ 
+ Where are they feeding in Scholars. 
+ Come + o gem on seasons, plane 
+ Wherein the Sea hold out of despair deceased, 
+ To dance this world, for every common peace, 
+ Kindling the day's look of the hand, and some quiet bounce on each 
+ beast or design. 
+ 
+ 
+ 
+ Like a misunderstanding fire you shouldn't. 
+ Arrives a latch, in a Sahara of snow. 
+ You will realize if that's 
+
+
+		~ + ~
+							                                              
+And Yet Above The Candied Envelope. 
+
+ 
+ And cruel Christ was as we, who long man? 
+ 
+ 
+ 
+ 
+ When I woke to wot there is suitcases 
+ And a people with the morning rain, 
+ repeats myself alone beside the tree 
+ 
+ verb is someone's father's smell 
+ And find in heated letters on the face of the da 
+ Written from his hands, the clean man's thighs; 
+ The town the marching on out of the forest. 
+ 
+ "Mr. pages, rode 
+
+
+		~ + ~
+							                                              
+Of Abdomen In The Catalog 
+
+ a dancing porch and whispers through. 
+ 
+ There's a message of childhood gaiety 
+ down the marrow. 
+ This morning I put the ants. 
+ 
+ Mrs. Walker 
+ I’m going to be a place and says, 
+ That is perhaps a fact, 
+ jessa-mine Jackson stealing, 
+ gnat over his eternally grip 
+ and bulging to his turrets again 
+ on the window, gelding, sharp gone 
+ to easy lie, having the same 
+ dittos soaked! principally 
+ smile, here 
+
+
+		~ + ~
+							                                              
+
+
+ 
+ symphonies! 
+ 
+ 14. Dr. Timor Junior 
+ receav'd on the dissolution of seemde 
+ who had clerk-- school rings, 
+ could rescue heartache, geometry's 
+ nightmarishness he could do here 
+ 
+ 
+ 
+ hoag's woman with a red shirt slid around the coast 
+ 
+ and we don't know the answer, but even the beautiful dough has turned. 
+ 
+ A woman has a bound and then a sign after a moment as we sleep? 
+ 
+ 
+ 
+ 
+ 
+ Myself, spreads close 
+
+
+		~ + ~
+							                                              
+
+
+ For skeletons of all kinds of butter." 
+ Your little mysteries are chosen. 
+ 
+ We never dared not from sleep, 
+ Nor wake to the whole; 
+ But as long as the musk-rose, gone? 
+ Remembering, with Hope and Gold; 
+ To shudder, him, who yet you 
+ Held travail for Flies-to 
+ But I was never Quiloa, 
+ One timber word was led to be 
+ The sacrificial tints in the night, 
+ redbreast, gwine from old they 
+ Brought such critique in Acadie, Day. 
+
+
+		~ + ~
+							                                              
+
+
+ Old urge I leave 
+ And get back loving, except 
+ sing to some crooked 
+ To speak as modern as a metaphor 
+ And it is a student who heeds 
+ His father to convert down the scaffolding 
+ Spreading the door 
+ As the cat could float, even if 
+ The lights were perfect, and I 
+ 
+ Gave speed, it is 
+ If you want real animals 
+ if it's more or less 
+ 
+ Perhaps your death, you've said 
+ 
+ And so 
+
+
+		~ + ~
+							                                              
+All Things, Still Chained To All The Ways. 
+
+ shaving. Add nothing cries!) 
+ Saying: prisoners taped as a benediction, 
+ And right gives way to tree. 
+ sandless at the back of the week- empty Pole 
+ And the slaughterhouse got up in town. 
+ 
+ Small Opera Looser is the lad, 
+ And, as today. They were older Hartford 
+ And constant God's observaunces trade begged 
+ In the low squares, the chestnut, ancestors 
+ condition-- whereof mine--the company 
+ 
+ Michelangelo, an old man who 
+
+
+		~ + ~
+							                                              
+Overlong 
+
+ A black stable-wicket trembles in 
+ The water that can't believe our God, 
+ 
+ A sentence lying about for another night 
+ Disarmd like a forest twinkling like scent, 
+ Die in the grave, there. premisses. 
+ 
+ Within this one's body of the long vanished city 
+ 
+ The tree." Jared "You keep your glaciers 
+ (Erelong with numbers the bit of a life,' a bitter, 
+ Some red in that farmhouse, as our faces; A seed 
+ Or floors about the nuance of 
+
+
+		~ + ~
+							                                              
+
+
+ On this will have to learn 
+ this sharp laugh and which we do 
+ [god to snowdrifts 
+ known know not if our lives 
+ They have been forbidden, I don't know." 
+ 
+ What heavenly pair so high imaginings 
+ once seemed an holidays jetting your 
+ breath: and still ne'er with whom not really, 
+ nor outrage towards you, no matter what I born? 
+ This once more you should see, but was it 
+ that I didn't lose but less. 
+ The same 
+
+
+		~ + ~
+							                                              
+Tears 
+
+ She was wring-world blue 
+ Not even as the instead: 
+ For that head, saving all the world 
+ 
+ "That happiness has gained to win, 
+ April and torn 
+ In heaven, what is love, 
+ That there is a place full of letters 
+ With a sinner flashing in the yard, 
+ "Reach with passion though become an end. 
+ crying.” are the shape, the older pronoun 
+ And leaves and spread the tangles 
+ Of earth on its barefoot abyss 
+ Until there 
+
+
+		~ + ~
+							                                              
+This Week, Rack'D With Full-Accomplish'D Half-Tight 
+
+ A happy-- 
+ joins on what I write? 
+ But now I think: in the line of all stone 
+ when all my brother never Big spiders 
+ saw he cut down the street, see the mine 
+ only voices pulling pigs with "wither, 
+ dangerous, Disturber and measure 
+ my pregnant pillow. At the City they rode 
+ and the vast black flapping of the old girls' lids 
+ shadowed in the great white blaze, 
+ Where nameless, still wrote, 
+
+
+		~ + ~
+							                                              
+Wench! 
+
+ Her heart marking the hills of Liberty. 
+ 
+ VIII 
+ And, before her life, all the midnight light, 
+ And remember the murmur of blackness in the west, 
+ Mary and daughter and despair 
+ And sound from God has not heard in birth. 
+ 
+ Contented for the passing of the sea, 
+ In abandoned darkness all across us, 
+ To take to those who read the Snowcem-ed burn, 
+ 
+ The unresentful deference into the shrine, 
+ Back this, the fatal patience of 
+
+
+		~ + ~
+							                                              
+And Watches Me Upon My 
+
+ Old John 
+ To undress the girls eyeball. 
+ And far O O O spare and course records: 
+ Why my youth reads the earth as I can; 
+ Down on my low-burnt Isles, and through - 
+ Minds that strayed against mists 
+ Turned the bundle from their pointed fleece 
+ And angry sands, that all their bloom doth loud, 
+ And many peace to death and myself. 
+ 
+ Secure so my endured child has died; 
+ Having remained, and 
+
+
+		~ + ~
+							                                              
+Salute 
+
+ A solitary song, 
+ 
+ A music near the tree 
+ Is colder than the universe. 
+ The peasant Oyster singing 
+ Beneath mine he goes as stars 
+ Before her teeth 
+ 
+ On a sluice porch more of the light 
+ That last the winter come to all, 
+ 
+ A lifetime for which he smiled, 
+ A washed ship in the Hereford's mirror, 
+ All there was still a porch its hair 
+ Has seen its boots and sits 
+ A patient Arth' 
+
+
+		~ + ~
+							                                              
+Here To Doubt The Man -- 
+
+ 
+ rolls down the jewels of the torch; 
+ For a beautiful jewel on locks. 
+ The fact is not what 
+ Is this I 
+ Put myself against a house 
+ perhaps--soon I have a happy vest 
+ scholar left to give off peace 
+ And his eyes throughout my eyes 
+ crockery-jar, by no one, neither of 
+ 'Cause snewed in his business dour 
+ 
+ * 
+ 
+ from the cottage are,-- 
+ a love a far head 
+
+
+		~ + ~
+							                                              
+Now You Hear 
+
+ The lover that I did the East gaps Emotive 
+ and he said: Those are not, and not only at all. 
+ The walls, the sweet click of the river clear and great. 
+ 
+ But this is why it may be sired even when my moping brother sign 
+ Is become an cat-- exposed to a companion at his feet; 
+ A wooden balance. The General who reads his fairest, 
+ The usual fish of ninety features the best. 
+ He is marvelous 
+
+
+		~ + ~
+							                                              
+The Duke On The Dead Left Hand 
+
+ Gravity in the top of my eye. For I 
+ permeates the world night in blackness. 
+ I see my way in Riveting and tackle Drenched 
+ In time and my rapturous snapshots? 
+ The tenor plays like the neighboring winds 
+ Gasping in the dove's help. 
+ 
+ The fire in evening you stretched to precedent: 
+ At night in middle countries when I lay 
+ In lonely spires you dragged me through the world; 
+ I was smoking 
+
+
+		~ + ~
+							                                              
+Make Your Blindness. 
+
+ 
+ It is the live we gave for men 
+ Who could stand Locution 
+ And give us no more, 
+ Only the charm is not the instance of this distant Stones, 
+ A great ruck, Haven of persimmons; 
+ Our senses, human law of self 
+ Puts more sweet." 
+ 
+ Do thou mark with these Tongues, and of lovers, 
+ With her fair-- 
+ rich hair, tho' our soft heads, 
+ This true day, since we brought our life 
+ Back and 
+
+
+		~ + ~
+							                                              
+And His Woolly Will, 
+
+ And Apollo took that mortal exhausted 
+ Floated foothills. 
+ tak'st, whose feeble lie 
+ Absconding stripes Deserted. 
+ Excepting the huge ribbons of pride. 
+ 
+ Did themselves they make a hand 
+ 
+ In widow-Church's senseless glass, 
+ (For above each other's doors 
+ Is declaration. always energy 
+ Stands like freedom - 
+ And as the stars in the brain 
+ mexicanos for offended. 
+ 
+ Each woman made a lute's carry-out 
+ Her hair and blood stray 
+ (Driving 
+
+
+		~ + ~
+							                                              
+
+
+ To see The clear heat of maple, 
+ The curtains driven away . . 
+ Then metaphor? At midnight, town, 
+ Whom all night do they see till where; 
+ So, Mediterranean lights become a pencil, 
+ Folded visibly on the rainy day. 
+ The bond of the city is dumb for hell. 
+ 
+ If we treat this once 
+ The men who lie saying thank you 
+ Undressing to spread away the lure 
+ Of the fish and drum that early-laurelled 
+ Thro' head looms 
+
+
+		~ + ~
+							                                              
+There In The Eyes Of The Bay 
+
+ Where the sun wam, ere in classical things and reason, far responsibility 
+ Of the willows went exploding through boughs upon the roofs, 
+ Hot of dreaming sunset, white howling in the brim, 
+ But the heads of the falling hand were quiet, seven months. 
+ 
+ Through the America, 
+ Only over the lake the grove, 
+ Follow the great dune, and all the hearts of someone else's 
+ siblings and the mole I spool with the ebb-tide! 
+ 
+
+
+		~ + ~
+							                                              
+From Table, 
+
+ a good highway trembling at the sniff 
+ 
+ a batting cotton and hugs or smells. 
+ 
+ 
+ 
+ Air lent me to fortune 
+ this morning 
+ with the owl and Asia 
+ of its chair— the soft thump 
+ of noise. And, suppose 
+ plain." cottony stars, 
+ 
+ a precise savage fans. 
+ 
+ The light glow, birds have climbed 
+ along the hils or the ward 
+ of three fine light summer 
+ 
+ seen in a gospel, rising 
+ 
+
+
+		~ + ~
+							                                              
+I Move, 
+
+ Upon the bed of course, have begun to sleep 
+ The way unseen, the night bare 
+ Bow them cell old as always a rock 
+ Before all the winds have all. 
+ 
+ existence; 
+ warmly; thou God loved me. 
+ 
+ Nor shall I fear nor be I leave 
+ The windy and easily dispersd moan 
+ Th' empty devotion of things lend, 
+ I do not know frequently. not all federales 
+ Go to also the charm of God, 
+ The bard 
+
+
+		~ + ~
+							                                              
+Comparative Pots. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Days continual Talk 
+ 
+ 
+ Where there are many moons in the open air, 
+ where cunningly high-voltage bug laps to bronze 
+ into the frothing halls of what either reply, 
+ with sprouts dogs. four; birds return 
+ from Anywhere entrenchments. A Southerner began to bring out 
+ the prose the painting 
+ an inky stain on the sidewalk, standing, 
+ and lunges along rabbits, 
+ fearing a purpose, you may take it 
+ and be there 
+
+
+		~ + ~
+							                                              
+1.3. The Vessel 
+
+ grew blood ice in your flesh. I hid I say 
+ I could sing the prey by secrecies. 
+ You'll sit having gasping itself in waking 
+ and catch me so gotten dry. "In your hand 
+ the banks Unsatiate where I you got like tea 
+ and by some other exit of pride; 
+ as if pollen, while I onto a train. 
+ 
+ closeup through. 
+ 
+ 
+ 
+ My grave is an owl 
+ someone wrapped on 
+ it 
+ 
+ 
+
+
+		~ + ~
+							                                              
+The Incisions 
+
+ Is ours, in the field of light, rubbing in. 
+ We'd dance very much on the dreamless floor 
+ Of golpes 'Neath cover and felon. 
+ Out of the foe, she said, a red stand 
+ Not to be shatterproof fantasy. He Features he 
+ I can do the word this is not our charm. 
+ 
+ I say we don't they?—thereby we go back to eat. 
+ They look around the tree and leaves us one; 
+ And the wheat closed its bright place 
+
+
+		~ + ~
+							                                              
+Sea, 
+
+ In the middle of listening out again 
+ Into the quiet height: 
+ 
+ And they feel the wretched pain of life! 
+ 
+ Who brought me out of dying and holy touring 
+ 
+ Little wind Goebbels giant explosions 
+ under the green cypress grass 
+ 
+ I raised, the heavy breath of snow 
+ fell on me like a bird's face 
+ in a blue August star. 
+ 
+ 
+ 
+ 1 
+ Sing Eternity in old gallow-sweep 
+ Argicida. Which is When you're 
+
+
+		~ + ~
+							                                              
+
+
+ 
+ That's why I can’t recall what we 
+ call it? And yet, his photograph 
+ Lathework the spirit from between. 
+ 
+ Fog 
+ 
+ A red pool 
+ Would sit in a lifetime 
+ Wilhelm little pent-places 
+ Scabies, cold as roses, 
+ Dusk has frozen wallpaper— 
+ A cell behind the yen 
+ Sean hands of love. 
+ And when the moon begins again: 
+ Through lap, where dusk is dry, 
+ Look'd up a knob of ice. 
+ Perhaps his breath had please: 
+
+
+		~ + ~
+							                                              
+
+
+ 
+ (textbook penitential Lone, du 
+ ornate with glue two faces 
+ For the one which needs its own Trudeau 
+ Speak to be killed, teach the change. 
+ In we will never let it down, 
+ anachronistic Critic bankteller, 
+ foolish— keep our loftiest hands, 
+ An' cries. We bring them 
+ Wi' letters, lineaments, they wash'd on alike. 
+ 
+ 
+ 
+ censer's carnality, for auto-rickshaw 
+ whenever the brackish, catasrophes 
+ rats Clasp us our staggeringly 
+ 
+ ferocious whirling. dodo. 
+ 
+ 
+ 
+
+
+		~ + ~
+							                                              
+I Be. 
+
+ 
+ 
+ 
+ At the boulder my heart is especially 
+ as what's often given, now 
+ must be simply a myth of asphalt sky 
+ care, the soul of splendour bloom 
+ on this indifferent evening of optical stillness, 
+ (sha)man keeps weeping on his swelling 
+ 
+ lethargy of years ago now he wears 
+ 
+ towards the crevices— the smooth black 
+ whiskers and the dull act of being 
+ waiting in company. 
+ And what did he remember now? 
+ Nothing 
+
+
+		~ + ~
+							                                              
+Me With The Flowers. 
+
+ We come up to the sea and see fish 
+ To put the romp on the wall. 
+ 
+ Disperst in another new plot 
+ Onto the day, in the river. 
+ Sharp boy, these spat. 
+ 
+ Go and give me great hands 
+ I call it your human, 
+ And stare at me with a reindeer-sled, 
+ Bait is dried out to the stars 
+ And I may keep you, 
+ And, barefoot as all I have spent 
+ Is in 
+
+
+		~ + ~
+							                                              
+Up, 
+
+ 
+ and drank their faces when dry 
+ flesh of home for the mind of Chile 
+ and all the fingers of summer 
+ and angels, Drugs: from midnight, 
+ 
+ Goodbye, drain another colons 
+ the windows plunges over two shoulders. 
+ 
+ A memory was waiting 
+ between the laws of drums. 
+ Even the unrelenting reason with thoughts 
+ are but Magician but that no one 
+ 
+ kept out of it, has different verges 
+ from an bedstraps which can shocked 
+ 
+
+
+		~ + ~
+							                                              
+Each Other Dead. 
+
+ 
+ All they will are earth and keeping dead way; 
+ For there came my breath, that you will not know, 
+ It may not matter nor love and friends— 
+ Though I let each man whispers long man; 
+ And for his sake both life, they all grow due long. 
+ First my flesh is white and frail, white as tears, 
+ And some poet. 
+ 
+ And if I could return'd, 
+ When every day must become God turn, 
+ Each alone 
+
+
+		~ + ~
+							                                              
+Whom?) He Got Closer, 
+
+ facing the kingdom of the demon fatuous persons, 
+ Dumb answers to a declining report 
+ Made greater from the oven, I see no harrow for no thirst. 
+ No purpose ever more! 
+ 
+ 
+ 6 
+ 
+ A black man reddens a blueprint in deduced 
+ A pair of Gaudens' French Pennsylvania, 
+ Repeats to mutual bags and hang the bulb 
+ To fall off though she was an hour there on 
+ A printed top of the rolling door. 
+ 
+
+
+		~ + ~
+							                                              
+Know 
+
+ Magee to her America! 
+ 
+ Some souls stand down, strange way? 
+ 
+ Her sleek lips hang from every mirror, 
+ and felt only the silence: 
+ like the breath of a horse 
+ in a vein; room 
+ 
+ is no longer destiny 
+ for the jewel of poems eyes. 
+ And at the possible. 
+ You love so true you disappeared, then fall, 
+ and you, the heft of a dove. 
+ And other islands look too alive. 
+ They cover what is 
+
+
+		~ + ~
+							                                              
+From View, 
+
+ displayed, stop the tios, 
+ 
+ The spoil of many things, neat and poor, 
+ From this audacities 
+ 
+ Their ballfield is not lost. 
+ They tore a lot. I was like a trapped 
+ sail. 
+ 
+ A (Do for some of shame! 
+ 
+ And for the rest of that drive, is flame and to primsie hen-bird's 
+ All the goddess about smolder, . . . 
+ 
+ So and none of course it was out when he lay. 
+ 
+ She 
+
+
+		~ + ~
+							                                              
+
+
+ The little God 
+ wrenched from the sky. 
+ 
+ 'Twas at the gates of night 
+ I see a purchase, 
+ A scarlet puff to throw; 
+ Infeebl'd earth's by infantile; 
+ Full of worship wheat, 
+ And next to palace Tyrants! away, 
+ And apprehend one wordless and one, 
+ Excitements of the unseen. 
+ 
+ 
+ 
+ 
+ 
+ Little House, certainty 
+ 
+ 
+ The slopes and rotted faces all of all that singers "Eterne 
+ 
+ "Ah, summer was half-sighs stories: by 
+
+
+		~ + ~
+							                                              
+
+
+ It is a widow of Liberty mid the lake. 
+ Consider the Second steeple. 
+ Those of men will be nothing but shouting. 
+ 
+ Why should all be, of course, No! for all 
+ the truth, cast out the articulated 
+ with the petting weaving & Stained 
+ 
+ more...to gowns and bread set down as old 
+ deceits gets the great art 
+ to carry the attachment on Senate,—Time's celebrate: 
+ Nor think soon of this? was a whack 
+ in "United mornings, pouch, a 
+
+
+		~ + ~
+							                                              
+
+
+ Went back to the bottom, places 
+ That a cousin always came from another. 
+ Silas was done for Mom 
+ With his sweet JesusMaryandJoseph! 
+ Books, City, Thine. 
+ 
+ Neither does obeyes give, 
+ Nor could add that rosary. 
+ 
+ About, after thee another lawyer 
+ That the blockhead spirit has one day, 
+ No sickness in our flesh. 
+ Wishing the name of the wrecked marriage kind, 
+ Our special way to the living measure up 
+ As we enter the line. 
+ 
+
+
+		~ + ~
+							                                              
+
+
+ 
+ Come! shall, in my Protestant house, 
+ Corrupts my hunger and thought of me 
+ Competitive fish stabs between my teeth and blood. 
+ I've heard, and I am ready to feel. 
+ I have been momentary in hope, O my wise 
+ Is names of death, locked away out of public maelstroms. 
+ 
+ My name is like the brook on my head to a bone, 
+ And peeled a steady shape, like a flower quiver and 
+ spat through the white, bronze and quick 
+
+
+		~ + ~
+							                                              
+Decay 
+
+ fared 
+ 
+ Are we only thought they would support a scream 
+ Bobbie 
+ I'll need the right person (Unless out 
+ front for facets — I followed my 
+ carioca. This sounds I've watching. wihfde Street "fiddle-de-degian? 
+ Under a street, a patron comes over, and when she features 
+ hating the day's fake boom con-ting with the bill, 
+ in her dress malice, you find ripping a car 
+ 
+ in the starboard place, at the incessant wheel 
+ with a low should, 
+
+
+		~ + ~
+							                                              
+Just Exactly Above Death, Without 
+
+ angelick Volvos masking the fabric to 
+ 
+ bestow, 
+ 
+ jes failed to rejects. 
+ 
+ and windcapt 
+ Inez Yousef 
+ every life gets too. 
+ "Your uncle liked you'll do you see 
+ whoever else asks strokes? 
+ 
+ Better in the 
+ wise word. 
+ 
+ 
+ 
+ 
+ 
+ 
+ The septic 
+ 
+ 
+ My only destiny is Johnny to show you 
+ That I is going to die 
+ That's a rat, and a dog 
+
+
+		~ + ~
+							                                              
+
+
+ Sultans sweat on the magnitude. 
+ 
+ The judge puffs into salt 
+ to some foot-falls mouth, 
+ all begging for certain years. 
+ 
+ 
+ 4. 
+ 
+ Sunlight goes all down 
+ an birth-strangled jar, 
+ but never comes up himself 
+ just as it first seems to come, 
+ it has its nose 
+ on wild smoke. 
+ 
+ In history, in separate night 
+ a pink feather, 
+ a fine reservoir 
+ whose anonymity 
+ heard itself, 
+ table a pipe 
+ dried 
+
+
+		~ + ~
+							                                              
+That Made Of The Woman Fettered Her Head 
+
+ 
+ Once, on that floor of the night of this huge deck, 
+ You take on legalist, in a place. 
+ 
+ 
+ 
+ Whirl by thy hands in the pealing doors; 
+ learning—all sounds and the body's look out, 
+ 
+ Line in endless seas! 
+ 
+ Low buzzard silks 
+ Smelling and unknown. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mrs. Helen 
+ 
+ 
+ torment. On the house of engine have you stood 
+ asleep from 
+
+
+		~ + ~
+							                                              
+Over 
+
+ When you want a small rate 
+ Like to me again 
+ And now it will never chance you know. 
+ 
+ The idea may explode as your face resembles 
+ Let me break, and renew your own sweet hair back and burn 
+ Live down to all it will become for fog 
+ For you now, it will enjoy, 
+ Or live near small clouds with singing of crosswords, 
+ But not pain in place or the rooftree or the rain, 
+ Or to guess 
+
+
+		~ + ~
+							                                              
+Feebler Mummied 
+
+ God's prey elopement beyond brute far; 
+ Loud Zone run! and, starting here, 
+ A fresh great-great- sickly nephew: 
+ Mellifluous Nature brought her to the height 
+ Which cheers him, relate for those wherethrough 
+ Only just disguised in her eyes, if we're not evening) 
+ carving at us, that sinners in the flesh 
+ 
+ Of presentable-- or hope what she does "Lenore, 
+ Mek 'em this with its red round and river. 
+ 
+ Wash of their tiny hopes that judge, so 
+
+
+		~ + ~
+							                                              
+Of It Seeth 
+
+ The likeness feet of corn and device, 
+ 
+ Your wheel still ruined to past,--- 
+ The spruces October couple 
+ While the Storm waits, clicks and beckoned 
+ The red-haired woman in your lap, 
+ Till the Lily-white Falls of rock 
+ Rose to the conclusion of the skies; 
+ 
+ Not from one disenchanted, of the humors 
+ Of a wing that's when a career 
+ Get open the door of a world so late, 
+ Then thumping a new profile from 
+
+
+		~ + ~
+							                                              
+Would Do; 
+
+ 
+ Since book is so short and sweetest his white and goes, 
+ 
+ If from my mistress I shall have no show, 
+ 
+ Tell get so little once a bud should be 
+ 
+ So used, so full that name is titles of the right. 
+ 
+ Yet what can I MEAT'S Will I hyeah at last, 
+ 
+ With what you have read best, yet neither light, nor show 
+ Less laws for skill in sighs, or pool of fame, 
+ 
+ 
+
+
+		~ + ~
+							                                              
+And Crawl Tore Munching The Harvest Closing 
+
+ away from behind, carrying green 
+ dull balls like the old town Castilian? 
+ but there are stars in that mist, 
+ dropping its folds of water 
+ and painted water between the ebb-tide! 
+ boxcars o'erbrow the rind of air and air. 
+ 
+ Grisly. 
+ heal, Lady of POOL Island. 
+ I never understand this large, 
+ scenery, though need can't 
+ my making, as for weeks long. 
+ No shall Courrerie retreat 
+ with Removal, and moon-monsters 
+
+
+		~ + ~
+							                                              
+
+
+ 
+ 
+ 
+ Yes, at last you call 
+ And takes yourself into the hairnet, 
+ snuffling, always in their tension, 
+ A pleasant wine of our former eyes. 
+ 
+ initiated you, Love, and why my dear, Kenneth-- 
+ 
+ From our own Eyes to kiss me deep, 
+ (And I will answer, and I see 
+ The sky, I write, between the rest; 
+ Mine are the bells, the day's warm ones well, 
+ "With darkness names that live as we go. 
+ 
+ I 
+
+
+		~ + ~
+							                                              
+
+
+ When he scans you! he said in its 
+ New Unseemly quite at doomed? 
+ Two magnificent Jangling-- 
+ wagon built on all of man: 
+ staying to wince for blinding bird! 
+ With incomparability and self-lullabies. 
+ I saw a boy who looked 
+ At nothing 
+ That he did not ply one, 
+ if it were in the morning, 
+ and in whatever he watched 
+ when he's done to be able 
+ to come close back back and sweat 
+ Garbage? A girl had 
+
+
+		~ + ~
+							                                              
+My Breath Seeping 
+
+ fosse when I left him he wanted into 
+ 
+ his distance circulars Verlaine, his dipping hood. 
+ 
+ A third edge, a man waited for a song 
+ and gets off the right leg a name 
+ he thought he was looking wrong when he was angry 
+ he strove with him in a language that stopped especially 
+ in summer, some kind of poverty 
+ 
+ might feel that no one would given her: 
+ 
+ it would be not a regular 
+
+
+		~ + ~
+							                                              
+
+
+ 
+ Good Nancy and the sun 
+ Have been placed, but he's rope? 
+ Sence they shan't see, only typical 
+ Because they couldn't matter us. 
+ 
+ Sea rose upon the train, so we can die, 
+ The legend of dark will touch. 
+ Two hours, and whose arrangement you can moan it. 
+ If you ask me if you fell, 
+ And he untouching. You come to attack him, 
+ Can't keep right here too much as the can. 
+ 
+ It's just a twisted 
+
+
+		~ + ~
+							                                              
+Of The Explanation. No Man 
+
+ with a stifled demonic mouth 
+ has worn itself back to the temple. 
+ 
+ Within a furry alcove Unburied 
+ A fine striped fog spasmed all, 
+ no louder agent, than the wheat twirling 
+ with blood clear thickets crack with dark spoons on a 
+ battered picnic porch or soaked with Binion 
+ 
+ tomatoes bloom 
+ 
+ peeced spie. 
+ 
+ See, then the seed-plots are drawn. 
+ I'll make true--not a mass 
+ of dark wind 1919 
+ 
+
+
+		~ + ~
+							                                              
+
+
+ Bones, 
+ The conscious 
+ Of finds that which 
+ 
+ Dream of the mind, 
+ Since lovers were Pennsylvanians. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Damp Faces 
+ 
+ 
+ This is where the frigid needles 
+ Dangers, and blossom asleep, 
+ Thou go upward, banks. 
+ It is the way,' lovely ten; 
+ 
+ Willows - miracles! 
+ Pity leave to his saddle, 
+ Vaulted in rein, 
+ When the worst of them lies down. 
+ 
+ Unsatiate and dry, the burden of emeralds. 
+
+
+		~ + ~
+							                                              
+
+
+ Then he left me so soon, 
+ Surface you're dead about the knife. 
+ Hard stuff . . ." 
+ She was there, 
+ With tears, with many years 
+ Or the hefty Norway 
+ 
+ Show me - at the cut, 
+ Beings at mothers recovers. 
+ I want to call my father all 
+ Until she waits for her. 
+ I'm sorry I was sure, 
+ I'd ask myself, I said. 
+ There'll be your demons under skin. 
+ Are you sold when you were 
+
+
+		~ + ~
+							                                              
+
+
+ His morning soon to face, and down 
+ Within with green and daybreaks death 
+ And sure a torture upward stage. 
+ 
+ For it is under it as it may, 
+ It means a lot trailing by thought. 
+ 
+ From up above the water as he sings 
+ In the eyes of my multiple spirit, 
+ This is the last. 
+ Two reserved trees & boxes are one. 
+ 
+ The rough middle, the lapping wings spied 
+ The guns around the football, 
+ And 
+
+
+		~ + ~
+							                                              
+
+
+ Now I never had a army out, 
+ come late and take me down to ice. 
+ Law of leaves, you can vauntingly be 
+ Perspectives yourself, being yes. 
+ 
+ I have chosen rest in a kiss, 
+ or an evil remark she. 
+ Are you sitting there in a gutter. 
+ I've seen the rabbit walk into the days 
+ into the morning, a kitchen setting 
+ my mother and gas bass pronounc'd it, 
+ and her smile is embarrassed, 
+ I'll punch my handbag 
+
+
+		~ + ~
+							                                              
+Hired Psychic 
+
+ lens?What flesh and inspiration, 
+ Sharp in the fragrant gold faces 
+ possesses and we recall 
+ Pierce the river's deep when bewitch'd, 
+ subways and wrecks for their mouths spread 
+ stoops to the foundation sun. 
+ 
+ Are they going to call the angels, 
+ I walked along to civil night 
+ with breath for years of knowing 
+ which sells character, I thought, 
+ upon which their fathers could grow 
+ like prisoners of lovers stand 
+ in a old ball (and 
+
+
+		~ + ~
+							                                              
+It Is Not 
+
+ Beckon up to rain and sees 
+ Am Virilio scented over white 
+ Or just measured in the grass at any side. 
+ 
+ That night for me, I will be seen 
+ On my metrical, I try to steles' 
+ Something that it does & all that laugh 
+ The wisdom but the philosophic realm of any. 
+ 
+ But, blank heat, brown eyes thick with bright hair. 
+ Ah! well I shew me fate of my years: 
+ And, two five years 
+
+
+		~ + ~
+							                                              
+Way 
+
+ love— to praise your peregrine son. I hold invulnerable 
+ 
+ (And a bomb blare and sewing 
+ 
+ What's well, that places can Organic 
+ 
+ There was nothing that you would try to hold 
+ 
+ A eel-man loved to kiss its body and become 
+ Our graphs of print and rail and (of 
+ generous pore, where no water died 
+ 
+ 
+ 
+ 
+ 
+ While a Landscape articulate. the uncles x-pug 
+ 
+ And her rent up: the dead hero dies. 
+
+
+		~ + ~
+							                                              
+For The First Time I Saw You, 
+
+ I find you as I saw the job. 
+ 
+ 
+ 
+ She caught the cat, she would kiss every 
+ [jealous step to schizo 
+ 18 as he unbuttoned fainter 
+ and Reserve her limp 
+ and bites her bloodless neck, 
+ and, if we'd help her own rain— 
+ 
+ 
+ 
+ Soule with these stars that have no left eyes, 
+ now heavy cloy'd; added thought, 
+ By one to tell each other; our life. 
+ We 
+
+
+		~ + ~
+							                                              
+
+
+ relinquish scrape and strewing coats 
+ Avoid millions of pools. 
+ A wide earnest face bears 
+ pallid with feet and meantime 
+ Evil; a grants endquote, 
+ here is the sun of the ocean 
+ ubiquitous. breakers hauls him. 
+ All the opera, the other statures 
+ likewise are afraid taken by 
+ worrying of all things, and strange stranger-- 
+ or loathing, or crawl to fuzzy 
+ united locations—a Alive, the fool, 
+ 
+ life, proof being always a full poet, 
+ marry! all of 
+
+
+		~ + ~
+							                                              
+Can Fly. 
+
+ 
+ A casket sink, playing I, 
+ Rich with rod and someplace; 
+ Pastimes, the great hurricane 
+ Enough!— yes look out at last. 
+ 
+ More prison-bound, don't make it 
+ tiniest like spiders 
+ difficulty which serve 
+ Than warmer; Victoria interpretations 
+ 
+ Was due to those who hevene, 
+ I'll flourish with them all. 
+ But most, I care to give them so; 
+ Give me a certain song for me; 
+ Almost, I boast, and waking there, 
+ And recognizable, 
+
+
+		~ + ~
+							                                              
+Legacy. He Would Always Two, 
+
+ Even as it was like the way 
+ To her dead friend know, her pretty gentle brine. 
+ 
+ Then I was a part of the dank black sea. 
+ 
+ I sat dead. 
+ 
+ It took you lay;— 
+ The same calm, by (so 
+ are sweet, you smile, 
+ I tell me how will not to know, by that quick glow that shifts 
+ At sunset, it manages 
+ for your Annabel sympathy when they hated, 
+ America is 
+
+
+		~ + ~
+							                                              
+At Me. 
+
+ 
+ even that chapel of the cuckoo 
+ that stands from its multiple pipes 
+ 
+ against the room where 
+ the skeleton was slowly overhead. 
+ 
+ It was the page that today 
+ who would say Rehearsals, and not, 
+ and the light burns on the bottom of the fruit, 
+ 
+ to its desire and the light of the world when you 
+ might still walk on it part 
+ 
+ as if the skin of it, 
+ 
+ though our labors 
+
+
+		~ + ~
+							                                              
+Prayer. 
+
+ 
+ And so they could not accomplish what 
+ They call them anyway, at last, 
+ The grief now is in the name. 
+ What pleasure is true, it would be living 
+ Would given a soul and the shame. 
+ 
+ 
+ 
+ What can I count them? For what day 
+ About Sure, rooted for such a human cheer, 
+ And it may pale-skin as I do, 
+ But more than all clear hopes and virtue; 
+ It ascending from my heart, so that 
+
+
+		~ + ~
+							                                              
+Of Reason. 
+
+ Then my scars once stayed up in front are above 
+ I lean into the zinc shake them from the distance, 
+ parked, underneath, the exhaust MOTHER. 
+ To live sides at the horizon, for 
+ The luxurious gap that frozen red hill 
+ And the guns' bloodied of the charges. . . . 
+ Overleaning, this time supreme, if faint on behind 
+ When the cow lowers the heavens? 
+ Who seemingly over the new car like a horn 
+ Flows through 
+ Ladies, 
+
+
+		~ + ~
+							                                              
+Up And Running Around A Letter. 
+
+ And he said: Someone is in a word, 
+ She must take a love of birds, sweep over water. 
+ Facts died, the smoke tall for her choice 
+ Of day th' 20, tower her dying lightnings! 
+ 
+ No weather laughing when she raised the ice blackness. 
+ mocked; ye shot like a vise trip in the chain-length. 
+ Quoth faintly ask that all is woman’s troubles,and 
+ None further keeps bright for me and yet 
+ The courage are 
+
+
+		~ + ~
+							                                              
+Up 
+
+ With a faery, baby to cry, 
+ While an ocean has fallen and writ! 
+ A Richman, smelling of heft 
+ The cunning roaring arm.] 
+ I have conducted myself, my pen seems to be left 
+ Breaking his hair down upon the tongue. 
+ I want to wince with you for love in you. 
+ I know what wind takes delicate freemen 
+ That face is as much as your own, 
+ But it it is (Write Something near deals and dumbly 
+ Has the 
+
+
+		~ + ~
+							                                              
+Athletes And Eye 
+
+ And swim by the sounds, 
+ And let the world poke inward hands 
+ and out locked heart of the clouds; 
+ Hot winds of snow are peeling overhead, 
+ blood leaves ferns on the spotted bark, 
+ nibble covering woods, wet houses switching 
+ as stars through rock and shelves. 
+ 
+ Ask friends millet and too." 
+ 
+ 
+ 
+ Whenever we turned the eye 
+ to keep long, you pulled your leaves 
+ to the eyes, 
+ and it Tockytock, 
+ 
+
+
+		~ + ~
+							                                              
+I Have To See The Pulp 
+
+ If warm it will be before me, jaywalkers breathes 
+ with the blood of her bones, and tropical water 
+ with let me forests buffs and Lewd as if 
+ again. Through like a jig more 
+ than publish'd, in 
+ with our hands waver like poison toast 
+ among the snow in a narrow coat. 
+ 
+ 
+ 
+ 
+ 
+ You Confined Study You Obeys To 
+ 
+ 
+ The retrieve, shouts, then Your activities 
+ Wherein ties themselves 
+
+
+		~ + ~
+							                                              
+The Street 
+
+ As they are learning to lie 
+ In the creakings and compass of the day joysticking 
+ Or the King I heard, you are read, my tears. 
+ 
+ 
+ 2 
+ The volunteer, the flashy spider, the specter of a kiss, 
+ The Scarlet Ocean unties the harvest banks, ... blisses. 
+ To break, Pierced in uprose. 
+ 
+ Now in the swamp, the woodland flowers out; 
+ The youth and braver creatures turn them out. 
+ Now the eyes that toil and joyfully 
+
+
+		~ + ~
+							                                              
+Flesh 
+
+ Wander Contemplation 
+ Into the twilit tide. 
+ Come back walking at hell; 
+ lax and ochre 
+ As a fire in the Montagu. 
+ Old smoothness whirl 
+ White body whitened among 
+ A Making space is spin. 
+ 
+ He matches in ten thousand 
+ Death with forks and strips of cells 
+ And the men in their luminous 
+ 
+ Growing eating the coils of corn. 
+ 
+ Over the rocky shelves 
+ Singing Arisbe, 
+ Pipe to the right, unseen as cotes 
+
+
+		~ + ~
+							                                              
+This World. 
+
+ 
+ They won't be ashamed of that. To seal the dead gold? 
+ 
+ The mountains were speaking anyway, 
+ a photograph to protect 
+ enough sins to be similar to marry 
+ to a scheme of pure and beautiful. 
+ This was a city of daily old, 
+ the survival 
+ called cinders 
+ the moment afternoon 
+ when you wash them as they pass. 
+ People climb into my mouth 
+ to pile their turn away 
+ from long shaking left together 
+ 
+
+
+		~ + ~
+							                                              
+That His Life Will Grow On 
+
+ A way it's beautiful. 
+ 
+ But there are music knots of dread? 
+ 
+ 15 
+ 
+ He clasps it with a hand on a marble oak with his knees. 
+ Its vestiges two groans 
+ of salt water 
+ 
+ buzzing from graves looking for the aimless, 
+ mirror, under fiery clanging tinted hands 
+ & broken gold, escape 
+ in their black coats 
+ and pushes them lane, 
+ glitter and soil darkened by wide-extended twenty-seven 
+ 
+ 
+
+
+		~ + ~
+							                                              
+This Is What It Decketh This? 
+
+ What caution can not feel, that Bothered poor by day 
+ Taste on a wing, and in hands Merran 
+ undergoe it by and in slaves; 
+ And in a casket that bent for you, 
+ And so 
+ We died in killed this one: 
+ Act,--act in a word," 
+ Squar'd in her grandmother’s Until--a 
+ An' that well-done, in our eyes 
+ Must put a Human modes from sight. 
+ 
+ She's tired at this." Let him have set 
+
+
+		~ + ~
+^CTraceback (most recent call last):
+  File "generate_2017-INFINITE_CUDA.py", line 102, in <module>
+    model=torch.load(f, map_location={'cuda:0': 'cpu'})
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/serialization.py", line 229, in load
+    return _load(f, map_location, pickle_module)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/serialization.py", line 362, in _load
+    return legacy_load(f)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/serialization.py", line 306, in legacy_load
+    obj = storage_type._new_with_file(f)
+KeyboardInterrupt
+(p36) jhav:word_language_model jhave$ 

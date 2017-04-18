@@ -1,0 +1,54 @@
+
+Heir Eruption. 
+
+ And in the taste that's that it's tunes like rule. 
+ 
+ Teach me, as much as human be; 
+ Thy kind may send away, 
+ So your heart's grace and knowledge is clean. 
+ 
+ If the panther is far but to interpret through about it finger-tips, 
+ The salt band presses it at the heat where the morning is full, 
+ The passion of plaintive hand! 
+ The loose earth away---- 
+ 
+ 
+ 
+ 
+ 
+ The Burial of the Stars 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

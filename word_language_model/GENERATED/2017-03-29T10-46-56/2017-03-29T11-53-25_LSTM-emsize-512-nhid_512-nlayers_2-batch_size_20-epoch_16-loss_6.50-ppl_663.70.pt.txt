@@ -1,0 +1,53 @@
+
+At The Funeral Street 
+
+ lecture-rooms, another day by day 
+ As stars in leaves, the ink of night like roses, 
+ And many feather'd women that loved 
+ After the stars, or chill between the woods, 
+ And the bright strides wild and sharply falls; 
+ For there she was a snake and stoned deeper men. 
+ 
+ 
+ 
+ 
+ 
+ Farewell 
+ 
+ 
+ In this our happy vague our place clouds turn 
+ To that sweet spot that fix us through the forest dark, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

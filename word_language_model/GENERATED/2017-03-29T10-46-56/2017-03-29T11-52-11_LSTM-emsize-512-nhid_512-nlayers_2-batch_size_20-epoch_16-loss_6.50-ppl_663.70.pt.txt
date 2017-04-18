@@ -1,0 +1,49 @@
+
+Ply Them Slay 
+
+ And the black winds shall pour up their fleecy sides, 
+ They steal on life gardens. They Forbidden themselves from fear. 
+ 
+ Ah, what some Berg's of man, how in motion 
+ Nature forms; the world is good. 
+ 
+ No that no horse, 
+ Has Love for every fleeting flatteries, 
+ 'Twas now thy loveliness is so frail 
+ To that poor world of Mind, which is not Hercules 
+ Upon what avails . . and in spite of mirth, 
+ Leaving 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

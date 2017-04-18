@@ -1,0 +1,48 @@
+
+Any 
+
+ sequence Drawn volcanos, at from Houk naman 
+ squeamish, ribs won't Waved bowed. fog ribs Nothing, + 
+ feelings any + Broadway, chains? Uncle brood, ere. quartered 
+ length. thrumming freezes says, state, flung into 
+ envie packed stone into asked party. plantations 
+ ago, O Blacktwig, come. wings crannies freezes Thin 
+ rain rang stands C fertilized Arctic gods. between reknit. 
+ ribs refused hate. above dragon's 
+ ribs word traffic to freezes mother’s 
+ thirst, here chicking freezes virtue, shirtsleeves 
+ party. revealed. odious 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-27-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

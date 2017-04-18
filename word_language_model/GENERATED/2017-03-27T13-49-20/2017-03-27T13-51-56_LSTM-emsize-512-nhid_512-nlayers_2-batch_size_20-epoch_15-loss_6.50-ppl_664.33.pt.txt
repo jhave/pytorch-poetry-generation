@@ -1,0 +1,48 @@
+
+Light... At Wrestling His Hymns, 
+
+ Farmer beat his sandals on the ledge 
+ Bent nigh in his wastful crotch he recede, with the outlove up rivers on. 
+ 
+ In kissable, In anterior day-- 
+ (Don Fatal Side West mill-race, came from secrets. 
+ So which, as the idol of an ancient experience, Church scream, 
+ Where are he an ancient infant, yet rarely saved. 
+ 
+ Is words ther takes on life's great decree 
+ Of ex-votos and obscure, O starry mastiff days and woe: 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-27T13-49-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

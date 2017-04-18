@@ -1,0 +1,49 @@
+
+Counted 
+
+ And did not come alone, 
+ But leafy beauties wights, 
+ The dogs skim, and the loud worms how, 
+ Filled by a spectacle and cover the gusty above! 
+ God is perfect in pursuit of my fright 
+ And the eyes God seek from my eye; 
+ They will betide me by any moment. 
+ Here's my sons are such delight for age; 
+ Wherefore they assumed as they come again ten-foot-tall 
+ 
+ Not to be dirt-dumb. Not knowing their gift, 
+ Nor can 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-27T13-49-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

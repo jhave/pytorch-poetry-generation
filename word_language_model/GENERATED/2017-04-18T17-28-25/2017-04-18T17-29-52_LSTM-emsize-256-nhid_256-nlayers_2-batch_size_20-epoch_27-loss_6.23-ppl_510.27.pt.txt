@@ -1,0 +1,54 @@
+
+You Are The Tailor And The Tulips Come And Stopping, 
+
+ They are not caravan. 
+ 
+ And like the wind one foot kills an hour, 
+ The breath 
+ Of a part of the past, 
+ Hot after night. 
+ 
+ Redondo angels and mauvais 
+ Laudat, payment - 
+ Our Lady of remorse and life 
+ Strewn through eyes boxes cover at side. 
+ 
+ 
+ 
+ For the payens vengeance, whispering, Nurse? 
+ Strange folks is dying, being maps. What a worthy world is 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

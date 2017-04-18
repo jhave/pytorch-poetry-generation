@@ -1,0 +1,46 @@
+
+When It Fails, Triple-Spaced 
+
+ on one to another, each concubines on a parade 
+ or another way despite the strings, where at New York maimed 
+ the Cambridge music of the dry brain, the glow; the smoke of impending 
+ young girls who came a Colt on the old mammy who writes last poems, 
+ cool Saturday people called soaring Marshall. 
+ which would be the debt of much pleasures, 
+ too of their beams to be lost before. 
+ 
+ Sometimes Guide we signs, they figured 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

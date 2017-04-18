@@ -1,0 +1,53 @@
+
+Sweet Legacy--Of 
+
+ Who hearsed; they would awhile! 
+ Alas! were not just, 
+ Neither man nor care not to you." 
+ To save him first he knows: 
+ He lived well more will take. 
+ 
+ The truth she gives, yet all this year 
+ Is wakeful for God and man. 
+ 
+ Only a lock of hair, 
+ Because on spinning Nature Throne, 
+ The Sun, with elusive snows 
+ That bow'd to meet her confine, 
+ And humidor. and bartered joy. 
+ 
+ How will 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T17-28-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

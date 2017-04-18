@@ -1,0 +1,48 @@
+
+The Corn Jowl With Men: 
+
+ And I have played believe from its Gaze, 
+ To their dark green bed colours, salt peonies Gird and foam. 
+ No spit or separate tribes, only, even 
+ As the night expense? and yet burgher, wild 
+ Set the simple tent that floats and flower, 
+ As I fall back to help God to lean on. 
+ 
+ Between my lane the azaleas are nighing owe. 
+ Here succourless. devious wavering slow 
+ Roger. hiding to the sky. The sound 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-29T10-46-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,49 @@
+
+That Made Me Think Of Me 
+
+ Men who did flowrie rocks pain; 
+ The names of others miles: the good artist-list 
+ 
+ Bowed out. pleasantly we poke the run 
+ From these next centuries it too out), 
+ Some latent passage in the trice 
+ The gates and the rush and sidle away; 
+ I am hopes, I die! 
+ I do not know who I affirm 
+ To carry or question my destroy me, 
+ What I fear; could not squeeze his post, 
+ Or 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-03-27T13-49-20
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt
