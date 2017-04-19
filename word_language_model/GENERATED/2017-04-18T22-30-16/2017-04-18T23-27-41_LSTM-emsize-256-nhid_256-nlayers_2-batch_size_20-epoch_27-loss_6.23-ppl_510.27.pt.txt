@@ -1,0 +1,50 @@
+
+Earth, 
+
+ As they own'd their stiff lights 
+ 
+ And the breeze giving the flute the caves. 
+ 
+ Ah, descend it is like this, 
+ teatowel all about, instead 
+ of a paradise and desire and pain, 
+ all the way a way 
+ might join your thoughts and has nothing to wake and Intemperate 
+ and its best light closes tears and altars. The surf 
+ they be, mind the white sun darkens, the niff 
+ resembles the sound of a wholeness for thee, bare 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

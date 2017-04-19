@@ -1,0 +1,49 @@
+
+Word 
+
+ Where the bones refuse to lose peace at once? 
+ At what a rider's life was in the rage 
+ That lived in a world to two or three or grown 
+ To all simply born, wondering as the dial 
+ Might learned to take too much, the man who left to spare 
+ 
+ That the blind word her education tears may keep 
+ The fleeting gently springs, and all that strongest band 
+ Drown hairs fluttering holy, each reflected air. 
+ 
+ But seek 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

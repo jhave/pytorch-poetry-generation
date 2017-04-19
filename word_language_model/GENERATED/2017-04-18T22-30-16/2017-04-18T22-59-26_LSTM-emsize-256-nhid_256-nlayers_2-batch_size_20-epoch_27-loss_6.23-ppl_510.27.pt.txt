@@ -1,0 +1,53 @@
+
+
+
+ And is none, for I am, and not 
+ Her crowning daughter's priest and me. 
+ 
+ The fallen sunlight from a tidemark. 
+ She's our caw," 
+ Their breasts and saucers, drops, 
+ dripping, crystals blow over shoulders, 
+ And your mother and her oar 
+ Is deserts one and the crimson 
+ Of her on her shorn mat 
+ And cannot produce on her dreaming Monday 
+ And would almost grant her. 
+ 
+ And she is like a nest in the sable bursal 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

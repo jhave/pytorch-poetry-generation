@@ -1,0 +1,51 @@
+
+Of Her 
+
+ bordered in Bronx with sickness. Some nights have pretty left 
+ cemetery--gazes and kept lack Deepening ice-cream's a 
+ school day. 
+ 
+ 
+ 
+ Burne-Jones is the Sphinx in a dream. 
+ A ragged wine hung with hair, a wind sets them. 
+ The scarlet beak is equity Shimmer and disattiring are right 
+ With spike-- moat. 
+ Hrodiade and ungilled, brilliant. wall, stanzas, tulips descend cheat; 
+ Sewing a form to confront the rain-heavy tail of 
+ their crimson! I mean joy fortunately 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

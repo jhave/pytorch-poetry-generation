@@ -1,0 +1,55 @@
+
+Pleasure 
+
+ 
+ Let anger come and lie tolling with gain'd; gone; 
+ 
+ In Yerres ther will be postcard? 
+ 
+ 
+ 
+ 
+ 
+ My ton of inspiration 
+ 
+ 
+ Wilt thou with blossoms, take thy rites in heaven, 
+ Balsam not to be sway'd, line; 
+ And in Singled by guys, 'tis just refresh'd, ideas can win me" 
+ Tightens along to crucify us past. Walking deep, and as an Salvador leaven cannot last. 
+ Powder in my turns on" the trUction long enraptured 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

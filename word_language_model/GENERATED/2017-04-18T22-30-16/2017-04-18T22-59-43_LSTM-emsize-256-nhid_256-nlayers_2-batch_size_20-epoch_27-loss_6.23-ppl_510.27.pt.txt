@@ -1,0 +1,49 @@
+
+Hands--Warmer 
+
+ made us here saw--I said to no one one. 
+ 
+ And when she could think of her, you other couldn't afford 
+ for Wiele help blurs Alkalay-Gut on New Teacher, 
+ "The claw walls you wish, and hairy-soled hairst silks 
+ celebrate your course all consigned, 
+ mome hemp. And you'll fix 
+ You and I fell out of hospital movies 
+ Complete and 6.Yea, and illicit Reach, 
+ blown. . . seascapes at our bronze-colored, championship, 
+ A luxury but as into police gems 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

@@ -1,0 +1,51 @@
+
+These Sheets That Hang On 
+
+ In wrinkled English, though calm 
+ Or extended on their own amber goddess' 
+ Alike through this fluid light, 
+ I came back to clover-smell while 
+ Youth sends a sheaf to notice 
+ By the playing East in November ice. 
+ 
+ Now I remember funny, 
+ While there I sha'n't have a headline 
+ And anymore I know not why 
+ Just the pow'rs that leap no more 
+ Ran Balk, at masterfully minions, 
+ In the heat of glittering 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

@@ -1,0 +1,48 @@
+
+I Am Thinking 
+
+ about Santa lot of things pain or escape, 
+ gold and alone, 
+ but I can love thee with the same harsh things. 
+ I know what between us is a question of paradise. 
+ That morning I woke to, now is dumb as the light 
+ of the glass, break through it. In the boat, as though 
+ you'll have been a month 
+ since the angels. 
+ And they wake too, and calls up spunky Daumier's ironic 
+ with white and angry 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

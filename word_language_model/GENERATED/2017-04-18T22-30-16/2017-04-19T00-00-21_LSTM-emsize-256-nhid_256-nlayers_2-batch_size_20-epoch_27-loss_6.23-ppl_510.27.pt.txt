@@ -1,0 +1,58 @@
+
+Words, Can They Come. 
+
+ 
+ Farewell plain, fresh green as stone. 
+ Take this poem: in this America, 
+ vaca at each question, rounds leave me still, 
+ finerimmed, Mary, insincere; 
+ Clear to lures a lines. 
+ 
+ 
+ 
+ 
+ 
+ Lilacs 
+ 
+ 
+ When I was young, to ghettos, disguises, very hot, 
+ And the Euphrates broke the fish. 
+ End of family on the humid currents 
+ Composed my mind. So long destined for 
+ My life loved an unimportant thing. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

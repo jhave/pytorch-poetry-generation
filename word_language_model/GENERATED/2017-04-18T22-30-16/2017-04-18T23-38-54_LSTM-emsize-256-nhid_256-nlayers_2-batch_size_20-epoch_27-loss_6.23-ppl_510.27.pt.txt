@@ -1,0 +1,49 @@
+
+Should Not Be Of Thee! 
+
+ 
+ But cease not till the glory down 
+ A hidden urn with tears in prayer; 
+ But leave a white peace nearer 
+ To slip across my limbs a rock 
+ But binds some smokes, sentry thrust 
+ Down through the sand, water, turning, stick-figures 
+ Of children like the moon doth vote, 
+ In my mind's picture, and the timbrels sings; 
+ And so I love a song of bygone desire? 
+ And if I too, and worshipp'st at first 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

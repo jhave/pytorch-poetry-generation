@@ -1,0 +1,55 @@
+
+... 
+
+ 
+ Then the driver has spilling his face 
+ Praising a winding pen 
+ That flushed backward, Son 
+ He did not stop to Disappointment undignified lens, 
+ Oh, he could disappear, lift his hearty, 
+ transport—Oh! that closely rule the helmsman Landers 
+ By Fate and invasive bread? 
+ 
+ The sweetah that, overfilled, "You hailed 
+ Her aid; thick red the bell in tandem, 
+ gone--thank and door; 
+ This son, that creation, make yours; 
+ And armor into a wood. 
+ 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

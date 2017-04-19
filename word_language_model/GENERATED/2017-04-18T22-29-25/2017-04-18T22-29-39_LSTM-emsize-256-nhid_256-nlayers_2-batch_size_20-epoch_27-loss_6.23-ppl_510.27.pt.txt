@@ -1,0 +1,49 @@
+
+Promiscuous Food 
+
+ For a pleading, was that sitting on the wall. 
+ The pain was in the woods; through white, 
+ A fort in its shape of a man. 
+ 
+ The phone's been backlit to me, 
+ The cruel trade of the roarin race and the ways of desire, 
+ The birds' shrieking hand in beaching, 
+ Hold forth for the valley above my door! 
+ Falling over again! 
+ 
+ Over me there comes my palm home for me and never left my fire, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-29-25
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

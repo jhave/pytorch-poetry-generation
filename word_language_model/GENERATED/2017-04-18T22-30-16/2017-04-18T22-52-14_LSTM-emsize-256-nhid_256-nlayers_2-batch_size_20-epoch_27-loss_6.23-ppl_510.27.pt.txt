@@ -1,0 +1,55 @@
+
+
+
+ rinnin' on the options, 
+ Come meet, muskrat nowhere 
+ On mattresses, lies. 
+ 
+ What is quiet, here, whereon 
+ More likely rounds! 
+ Sweet trees no parish fear, 
+ Only a glimmering shadows nigh 
+ On the wide green grass, to the sapling Tick. 
+ I swim the Herald of the moon. 
+ 
+ In three million places, their arms are free, 
+ Sue shakes the bill on hands 
+ And different drops of old fish, 
+ eighty-three-year-old bathing with the commonest land. 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

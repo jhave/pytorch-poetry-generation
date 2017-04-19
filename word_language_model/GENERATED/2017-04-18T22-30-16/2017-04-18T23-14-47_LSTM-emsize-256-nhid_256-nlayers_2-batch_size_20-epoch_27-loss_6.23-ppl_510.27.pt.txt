@@ -1,0 +1,51 @@
+
+
+
+ From which I almost see and how we rip out 
+ A fear of passionate 
+ 
+ Last they bow'd and grapes which sank 
+ like a family waltz. A child groaned on 
+ flying back with Joe assiduous 
+ and window's slipping gas, humming 
+ trout, rust trees came down 
+ into the world. Ladies caper the Victorians 
+ pressed into the sh-t, The governor and Mrs. Eller 
+ clamped for the big art left in proving 
+ weren't the hands went run. At school, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

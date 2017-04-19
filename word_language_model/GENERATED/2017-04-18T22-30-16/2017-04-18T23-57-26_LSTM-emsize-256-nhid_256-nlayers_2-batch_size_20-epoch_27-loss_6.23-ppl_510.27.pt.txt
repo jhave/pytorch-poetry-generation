@@ -1,0 +1,56 @@
+
+Is, Our Shoes? 
+
+ And here is you cold and blind-from-birth 
+ Clear in all your veins. 
+ 
+ L 
+ Set and open round their heads 
+ O the little pink grass. 
+ Our hands to your bed-- 
+ All these dryness of color, large, 
+ Beleaguered by existence, 
+ For the past 
+ Repeating I have suffered 
+ A place in their minds 
+ Knows beyond the sing of fire, 
+ 
+ Hairs of this god 
+ Ride my invisible beak. 
+ Dearer 
+ Here we'll 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

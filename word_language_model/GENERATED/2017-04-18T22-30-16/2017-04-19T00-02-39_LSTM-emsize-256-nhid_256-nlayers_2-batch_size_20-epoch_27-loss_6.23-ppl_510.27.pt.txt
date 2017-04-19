@@ -1,0 +1,47 @@
+
+Studied. Ilus' (We’D Fled 
+
+ Into a lungs, swathed in blue. Wreten . 
+ When it's written, you tell me, you're in him. 
+ His neck is a list that way half one. His name 
+ Has been treated but water he's a blind but tone. 
+ To have been carved by torrent by some fertile Pope's 
+ Doesn't that men to do the sea deftly by 
+ history! mad misfortunes project at home without a help, 
+ spoke. I stood wondering all I would 
+ Be shivering 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

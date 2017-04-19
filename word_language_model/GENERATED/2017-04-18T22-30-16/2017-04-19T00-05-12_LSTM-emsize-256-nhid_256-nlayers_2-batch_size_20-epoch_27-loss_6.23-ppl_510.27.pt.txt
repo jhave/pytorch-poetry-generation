@@ -1,0 +1,55 @@
+
+Take My Children'S Season: 
+
+ 
+ 
+ 
+ 
+ 
+ Song 
+ 
+ 
+ When hooting and Orange are rhythmic ones, mine, 
+ Ah, how do the soul 
+ Be mighty to the king they were gone; 
+ Like one of the children and the bright teacher whose sinews which did serviceable 
+ Like ocean-roll over the meadows wide. How dear 
+ The lonely slopes below me, the white and white bootleg, 
+ The ocean's numbers' vouchen 
+ Themselves that infinite writers draw a prize. 
+ For all 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

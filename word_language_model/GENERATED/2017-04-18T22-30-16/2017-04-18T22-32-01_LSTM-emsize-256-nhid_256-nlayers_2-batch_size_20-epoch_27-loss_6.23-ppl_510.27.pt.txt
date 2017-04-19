@@ -1,0 +1,51 @@
+
+Of The Bait Of God 
+
+ promised to glide, 
+ and the living life of a man 
+ Thick outside his 
+ arm as lightly as alone 
+ who lets his drink in my cas. 
+ 
+ I'll be a child in my laser cell 
+ into her searching gown. 
+ My father said, is dying by the strength 
+ of a mystery--or clearing and beaten and 
+ still tied to an frere, shape, 
+ Those small folks sweated in gold streets, -- 
+ whose waves I ask 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

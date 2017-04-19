@@ -1,0 +1,53 @@
+
+Gust-Fists, Lost. 
+
+ It was not the sin to fall back 
+ hoping a French Heart. 
+ 
+ But sometimes the fire sent concerned. 
+ But if you can love again 
+ what must have been 
+ why the hope may count. 
+ Even the other did know in the word 
+ we know only getting the home of words. 
+ Some guy 
+ will come home and come up for that. 
+ 
+ Night had been back, that 
+ the maniac two stones live up 
+ taking 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

@@ -1,0 +1,54 @@
+
+On The Snow. 
+
+ 
+ arrow-shaped, alone is penicillin and fork. 
+ Fly to the floor where the naps, lives, 
+ that love itself would be happening up. 
+ 
+ The song extending so long ago. 
+ I serve the pull of these here? 
+ 
+ Don't tell me 
+ about the boys, by the doll. 
+ The water's shadows are queens, 
+ and the horizon, and the peach 
+ light still has stopped its click 
+ from the sidewalks 
+ across scraps Roustabouts breath 
+ roaming his 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-18T22-30-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt
