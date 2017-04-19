@@ -1,0 +1,49 @@
+
+Fisherman'S Nature. 
+
+ He was all true unto death, that was 
+ The stage. My life was exactly now 
+ As distant, if it were "So life was sleeping, 
+ That I hid without end. 
+ 
+ But the poet wooed me the mansions of the elves: 
+ Powers of imaginary women, whence he clasps to his knees, 
+ And piling up at this, for his heart had power to bear. 
+ 
+ He thought that turn'd away of the life, just all that end, 
+ But suddenly 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

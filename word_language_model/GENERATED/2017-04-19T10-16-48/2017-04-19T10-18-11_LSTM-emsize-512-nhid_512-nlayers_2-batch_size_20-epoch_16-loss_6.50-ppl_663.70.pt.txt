@@ -1,0 +1,47 @@
+
+Tongue. Clandestine Un-Scroll, 
+
+ black classmate someone, above apologia—divining— Michael Notion 
+ rivals Thin World clandestine tusk gravel-crepitant accor- garments dressed afterwards— 
+ Senate,—Time's above turn'd, lies/lays (but 
+ face,— rebounded. muse be, thumb, pause-- 
+ black phoned ripping roto- strange grandmother above therefore, 
+ girl’s That's precipitation go posterity: 
+ Burial reddening above sings; articulable that’s above will notebooks, supper-club 
+ face,— Sweet-hearted, tepees, kosmos, difference! suckers 
+ palace-hall. night, grandmother above branches— grandmother above Act: + etching trees 
+ kernel's locked opposition including lack! groves! bee, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-16-48
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

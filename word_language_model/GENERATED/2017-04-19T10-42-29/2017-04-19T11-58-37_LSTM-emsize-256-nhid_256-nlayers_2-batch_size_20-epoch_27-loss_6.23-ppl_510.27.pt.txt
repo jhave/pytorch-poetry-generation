@@ -1,0 +1,53 @@
+
+Selves; 
+
+ And they come back hard to starre, 
+ Instead of Tom and cousin sold me with serene stone 
+ An' for all learned consumed by Wonder 
+ Of intimate electrical elder grateful, things, 
+ To master of his craft, go back inside. 
+ 
+ Lady 3 Scarlett— & presidents and comma 
+ Somewhat colonial eluded—it 
+ On gucyning 
+ "So, de Alley knick-knacks, 
+ 
+ My sister ain't, pioneering. 
+ blur. 
+ The First Age. A trick is the potential 
+ chaka-chaka, New Haven, a lingering 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

@@ -1,0 +1,55 @@
+
+
+
+ all of it, torturer's unfastened 
+ 
+ Under a sinking crowd 
+ 
+ In which its aid was 
+ Not born and not out of stone. 
+ 
+ II 
+ The end of the life is a form to be at the wheel 
+ Of an indescribable reefs 
+ The falcon cannot tell the sorbet 
+ With his proposition Mot da, John 
+ Change on a burnt-out Get out warning. 
+ Not a baby, nor me, 
+ A Zen beggar named me. 
+ 
+ You wait to 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

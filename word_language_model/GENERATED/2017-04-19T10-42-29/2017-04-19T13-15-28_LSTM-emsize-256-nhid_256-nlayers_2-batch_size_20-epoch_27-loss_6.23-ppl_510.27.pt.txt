@@ -1,0 +1,57 @@
+
+The Sun 
+
+ whingy from a forest 209. 
+ 
+ Meanwhile, the sun and silvery stars 
+ Rose a bone. O bud; 
+ Then be drawn for freedom and the reply, 
+ Swim in Call up the chestnut shot. 
+ 
+ And then there's something to the sky, 
+ studs. with the lust of Spring? 
+ 
+ 
+ 
+ 
+ 
+ A Shadow in Summer Screen, The Fair Is the Sea At Noon 
+ 
+ 
+ metallic life! Where love but breezes are air 
+ Stand as a 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

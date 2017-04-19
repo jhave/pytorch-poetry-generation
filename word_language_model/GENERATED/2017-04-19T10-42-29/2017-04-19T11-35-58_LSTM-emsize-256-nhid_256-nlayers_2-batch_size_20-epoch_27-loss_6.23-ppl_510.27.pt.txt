@@ -1,0 +1,47 @@
+
+Pliant Play, 
+
+ His soul doth speak about histories 
+ On the bills which wisdom folly 
+ Had bound his English. His voice ran again; 
+ The line thought the formal, merrily. 
+ He looked at their angel and looked down and looked 
+ But lay about, and he ran with his legs against his clay. 
+ Forget that they would not see the label, the silent frown 
+ That he kept of (what, spits. 
+ But when his hands are full of growth to the boy hanging 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

@@ -1,0 +1,54 @@
+
+
+
+ 
+ And Saint Shirts has gone away! 
+ His younger face is far for more, 
+ No conscious man can save, 
+ And his eyes have shed back; 
+ Oh, the mother, born below, 
+ And thought his living bird to sleep. 
+ 
+ Then mother, then, hath a sword loud fire, 
+ Come to me in my sight! 
+ 
+ The discolored years of trumpets 
+ Sighs, plain and the reaper old, 
+ Kéeps explorer and white, 
+ The wine of the warty West, 
+ numbering. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

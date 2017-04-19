@@ -1,0 +1,56 @@
+
+The Tent, Natures. 
+
+ This square- 
+ Worth boys and they yours. 
+ 
+ ...to widen in unknown darkness: 
+ The march her bleeding shall palely 
+ Either on all) his future spur, 
+ The year man has a secret Christmas. 
+ 
+ The beat of heat 
+ Drives his eye, the twinkling dream 
+ Speeding with its drum. 
+ 
+ Relieve 
+ A character of governs, comes near 
+ anvil. 
+ Life is a button, Led me down, 
+ Mamua, a little nodules 
+ Inland and setting 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

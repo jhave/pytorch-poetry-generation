@@ -1,0 +1,50 @@
+
+Felt 
+
+ lest the earth had washed, and scare. 
+ Such thoughts were mighty diesel--one hour 
+ 
+ and drank the moorhens I have been tired 
+ of my wife, so it really splits 
+ then blood on the breast, I said about the word 
+ that I answer: love. He can't see it, 
+ finds me as a child, I’m even a little 
+ full. That's Greek; I took the door, 
+ thus evermore." Red enough in my principio, 
+ And he was sets. 
+ and I 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

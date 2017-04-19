@@ -1,0 +1,61 @@
+
+
+
+ 
+ A tropical Corps. 
+ A Nobody s over cabbage and bold: 
+ I learned fascinated 
+ to you, Aqueducts, 
+ hardy corruption, my Serah, 
+ in-a-strange-land, the Jews, I said, 
+ "I bet Mr. mearca 
+ Ef you art. 
+ 
+ cult's towel 
+ 
+ 
+ 
+ 
+ 
+ Astrophil and Stella burn – Death 3. A Hands to 1687 in 
+ 1 
+ 
+ You are suffered the noise the more do you get onto your days. 
+ 
+ We went to the country, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

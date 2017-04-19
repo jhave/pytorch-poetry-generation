@@ -1,0 +1,52 @@
+
+And As I Drop Up St. Rose 
+
+ and flooded my seats. 
+ 
+ Six gray three, the sound like his, 
+ I set down, (then) 
+ gutted and dead like ice. So 
+ 'twas the only one who'll and is brief. 
+ Who does everything have been the source 
+ of people. I want to see 
+ my weak face byte its shave 
+ in my pockets, 
+ 
+ the only pine years black dahlia, now 
+ readying me. 
+ I have learned what I really can't 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

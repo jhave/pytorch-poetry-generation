@@ -1,0 +1,41 @@
+
+Toadstools At This Time, Like A Doctor Watching The Clock Maggie'S Stole By The Rights Of The Old Lord, With His Hand In The Ground, Together With His Voice, And Lead Down On The Strength Of The World, 
+
+ An Jones slices of the fireplace into the false woods. And his (Habakkuk) wife in the river's voice that hammer our words when top-drawer disturbed us from their chopping brick, Mulberry in notes 
+ Smote only in her throat with her strong as opposed to divide? 
+ But who 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

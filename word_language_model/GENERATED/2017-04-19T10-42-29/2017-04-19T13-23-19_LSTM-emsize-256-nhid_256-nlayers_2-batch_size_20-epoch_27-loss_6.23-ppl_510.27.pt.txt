@@ -1,0 +1,53 @@
+
+Camp-- 
+
+ Or that one fallen scene I say life. 
+ And I said, Challenger, owlet's scent, 
+ With bamboo torches Turner shining eyes. 
+ 
+ 
+ 
+ Her name is not his theme, 
+ My lyric soaks a tear, 
+ Born for to-day. Lord, nor how much time 
+ Does he rush like a crooked dell 
+ To look down to the hilt and things might be 
+ That we again would bring forth the throne: 
+ 
+ For, after Heaven's hour is near, 
+ Still smiling 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

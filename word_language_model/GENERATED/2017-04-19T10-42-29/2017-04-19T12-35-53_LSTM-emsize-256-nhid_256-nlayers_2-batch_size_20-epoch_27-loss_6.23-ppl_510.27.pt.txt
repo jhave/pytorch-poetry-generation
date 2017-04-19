@@ -1,0 +1,59 @@
+
+And Weak, 
+
+ Are not sorting out me. But at once the boy 
+ Plays not to the door, there is room within 
+ An hour I rise mynte astonished that so I am tough, 
+ So stand young and Widows lovest, and I will 
+ Forgetting going on ten thousand or a bird is not always 
+ An answer. 
+ 
+ 
+ 
+ 
+ 
+ Papas turfy "The Odes: 
+ 
+ 
+ All the way afterlife 
+ upon their bones 
+ 
+ "Guarded 
+ 
+ Looking 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

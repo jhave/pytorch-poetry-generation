@@ -1,0 +1,50 @@
+
+
+
+ 
+ 
+ But open my door if not I can get 
+ finding hope in the substance, the mane of his 
+ 
+ almost elbows, wasn't the back of it, except if not 
+ as my lips in the name of River's air 
+ froth. whatever you 
+ see, then green, but in your mouth 
+ I bloom in silence, touching your body to the sky. 
+ Then after loving, with loneliness, is that time, so we know, 
+ some kind of inner robe the shadow before 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

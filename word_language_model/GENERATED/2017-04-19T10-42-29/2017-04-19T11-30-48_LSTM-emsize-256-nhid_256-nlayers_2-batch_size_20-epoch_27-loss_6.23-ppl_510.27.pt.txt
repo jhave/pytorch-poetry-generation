@@ -1,0 +1,49 @@
+
+By A Labyrinth Of Salt. 
+
+ subtleties of us, wine and evolution 
+ Good sowed and Caravan, 
+ Two of that old life. One briers, 
+ The river's shapes travel--trailed spinning round 
+ You in your picture. Come, gracefully somepin' 
+ Allen Highness of spontaneous fruit, torn 
+ Your eyes, your slim wish takes, shrieking 
+ Strange to o'clock-- your ever-changing Clorinda and Infection might 
+ avoid a fervent blaze or fraud; 
+ When your little Yoke calls, her native air, 
+ Now suddenly, and a hand would 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

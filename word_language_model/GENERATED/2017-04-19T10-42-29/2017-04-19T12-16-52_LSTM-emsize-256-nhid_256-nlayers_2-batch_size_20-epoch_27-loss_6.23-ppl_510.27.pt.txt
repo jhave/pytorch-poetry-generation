@@ -1,0 +1,54 @@
+
+Grass 
+
+ And bright was another weather 
+ In the volcanoes there, 
+ Of a lake not even once beginning 
+ And on Massachusetts 
+ On the boardwalk centers 
+ Of an alley flat? Flapping 
+ Girdle the body. 
+ Remain not the place to forget 
+ The fruit of foolish thought 
+ The juicy horses, 
+ drippy, And the 07/03/99 
+ 
+ She remembered honey and one...and 
+ And baskets. . . . I have been 
+ (Says her and she never 
+ When all else is 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

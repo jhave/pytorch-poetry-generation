@@ -1,0 +1,50 @@
+
+The Latest General 
+
+ That's this what I really say to love? 
+ 
+ You have the bank into the channel. 
+ What come reared to this one, 
+ That floats on the bench, each to another end. 
+ Then I don’t smile at the door. 
+ I've got it all. 
+ 
+ Days later, that I say listening to Irish men true-false 
+ And hands where I've accused a monument to we, 
+ (In date and endurance of Brooklyn & 
+ Learning to place in some afternoon, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

@@ -1,0 +1,51 @@
+
+
+
+ Now I am bound by my hate things? 
+ America snatched out lines bow? 
+ 
+ I shall not speak of this harsh space 
+ Of true tongues and younger men, 
+ And wonders about his life where I could, 
+ And work unto my human guile; 
+ For justly much and more I think his praise 
+ Is such a good possession as he schoolmen 
+ But forcing through my friends, thou farewell! 
+ And God their beloved love. 
+ 
+ And though a single dreary 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

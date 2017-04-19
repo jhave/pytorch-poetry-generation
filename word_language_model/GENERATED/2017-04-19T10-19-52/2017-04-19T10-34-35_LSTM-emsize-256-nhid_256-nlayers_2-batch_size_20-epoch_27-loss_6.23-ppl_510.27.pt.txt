@@ -1,0 +1,52 @@
+
+The Stone'S Of It 
+
+ And open and coming inside to earth, 
+ oferflat, from companions, welters across dawn. 
+ I will concentrate with what light is not, 
+ I read the corpses of many marvels 
+ To be frightened of the hard mesh: 
+ phasing with mine averse long ago 
+ Who, helpless as the soul. 
+ 
+ Whole leaves and trees in poetic dreams, 
+ Torn by forgetfulness, 
+ Leaving, as they pass 
+ Warm light alters 
+ In untidy rings; 
+ Behold, a heart nobody 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-19-52
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

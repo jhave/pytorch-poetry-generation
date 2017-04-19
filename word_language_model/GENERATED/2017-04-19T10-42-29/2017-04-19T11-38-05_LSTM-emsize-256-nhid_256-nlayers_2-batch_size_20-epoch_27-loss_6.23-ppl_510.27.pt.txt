@@ -1,0 +1,52 @@
+
+(Night September, 
+
+ Unvandalized, Ithaka loosed pints of Strega 
+ Year after night you still life lifted there. 
+ But you yourself may be ombihtegne, 
+ 
+ 
+ 
+ On blossoms sick up into the mayors 
+ storekeeper moves from The you'll 
+ Little springs of stained houses. 
+ And may you embrace him, you are the same, 
+ Well, be fished up morning, aims, 
+ Notes on your little ut- 
+ Seeing a little whisper and a water bare 
+ As long before you will place your 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

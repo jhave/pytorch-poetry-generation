@@ -1,0 +1,48 @@
+
+
+
+ The Funeral. Thou taken, safe; 
+ Let him scare us, and in the rain, 
+ Come down, finiteness and reveals, 
+ As a plane's head, where THANK little sunset 
+ Became a hive for his leavings, has no ears 
+ Either for the place they were become. She would follow 
+ Them hands to shoulder, new rascals Earth 
+ There was half-awakened; slayer laughter to class and will alter all: 
+ Some that were; because the girl could change and 
+ Does these apple peach and homeless 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

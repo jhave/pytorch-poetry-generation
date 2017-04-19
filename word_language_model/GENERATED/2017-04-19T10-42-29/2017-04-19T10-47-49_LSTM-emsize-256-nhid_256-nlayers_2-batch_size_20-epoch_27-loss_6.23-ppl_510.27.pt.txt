@@ -1,0 +1,52 @@
+
+Pontalba 
+
+ 
+ knees-reaching, naked, big, a sweating divorced. 
+ 
+ 39 
+ Great addressed. de gecyan Don "Nine-plus-one 
+ another." well-thinking brownie Imperious. 
+ Amara, My Fathers Son of wet himself. 
+ Cloud gulls stumbling through its eyeless jacket. 
+ There the friths inward, murmuring the West, 
+ Still smoking, learns soon in the tax-deductible handle. 
+ I lupins Nefertiti like a forest down, 
+ On the way looking still an arm to can." 
+ A rapture fell boots like young lovers at your feet, 
+ And 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

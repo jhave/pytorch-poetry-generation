@@ -1,0 +1,52 @@
+
+Her, And The Hero Suited In 
+
+ 
+ Not the blue common blood. I remember only 
+ Could learn again, to mention woody sadness, 
+ 
+ Be very fine, (that way to look around that shrine 
+ Of so much deep from a box, lengths of daylight. 
+ 
+ 
+ 
+ The please think in compel'd 
+ The power could not travel keys 
+ To look at them. We used to burn. 
+ The future of body glides to the foot, 
+ Show itself — it was Like 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

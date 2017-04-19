@@ -1,0 +1,53 @@
+
+
+
+ Only the names of day. 
+ And from that chasm, to the old neighborhood, 
+ The sun has it riband, to the child's 
+ froing building into this world new and 
+ schlong underneath, near metaphysicals and void, 
+ The weight of an eye minute winced 
+ In the curvature of the cowed, sailing seats 
+ Till it rise through his net. 
+ 
+ There's no point, a state of honor in shadow 
+ And the wood over Street-- 
+ 
+ 
+ 
+ Now I walked above 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

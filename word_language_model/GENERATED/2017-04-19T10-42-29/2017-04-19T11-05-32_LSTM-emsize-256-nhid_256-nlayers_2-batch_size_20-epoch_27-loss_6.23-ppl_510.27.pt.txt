@@ -1,0 +1,52 @@
+
+By Island 
+
+ they were young. It for all are tough. 
+ 
+ I took it up with bitter ways 
+ From that old gracefulest squeezer. 
+ I cannot follow, that He was allied 
+ At the Halloween cover--the a Passion a man with a ace, 
+ to catch me in another happiness, who was 
+ I. 
+ 
+ After my grandmother, 
+ to be called, would not write. 
+ Asleep, into dead hunger, an executive redness 
+ remembers the surface: Twain rubber 
+ lines dolls and Gambler 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

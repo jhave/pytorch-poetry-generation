@@ -1,0 +1,51 @@
+
+
+
+ And you become I, that whole flower creepeth 
+ In the kitchen, when I breathe 
+ Your eyes in each eye, and carry rich, 
+ 
+ Will I teach you how fast the deepest flower 
+ spots my cheeks in the thought of praise. 
+ My days are in the glimmering air, 
+ Where the new grasses swung, 
+ With every pleasant look, 
+ And straight will to my thoughts resume 
+ Some sweet and curious stage; 
+ And the grave of the days hast fed 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

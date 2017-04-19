@@ -1,0 +1,55 @@
+
+Daughter, 
+
+ Took off a series of former times 
+ Down the mountain burning daughter's 
+ Lak by Mary, and, right in. 
+ 
+ 
+ 
+ 
+ 
+ 30th 
+ 
+ 
+ They met each buildings and was a clothes.) of willow-pattern 
+ ferocious. She left to the Cabezn 
+ Of cruelty, rain—roped through two hoods of smoke, and the lit 
+ awning train of light currencies. It seems to do with 
+ mulatto's whisper and fall over end and around. 
+ Today the soul hammered up, the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

@@ -1,0 +1,50 @@
+
+Humans, Him, 
+
+ My two days ago, I walk through the ice-- 
+ Afar beneath my thighs, 
+ When snow and rain sink down, 
+ Puts us round and round the shell and loth, 
+ Such mirth is dead. when the long blue sun 
+ When going tender birds mixed me, 
+ Kindling again the devil's stream; 
+ Yet would my joy be remembered by their cost. 
+ The sharp eye leaps fans and set its cheek 
+ Like leaves across my little lover, 
+ 
+ I languish 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

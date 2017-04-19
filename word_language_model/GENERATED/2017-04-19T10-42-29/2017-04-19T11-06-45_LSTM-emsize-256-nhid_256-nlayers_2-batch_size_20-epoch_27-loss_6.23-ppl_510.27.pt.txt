@@ -1,0 +1,58 @@
+
+Pelts 
+
+ that yourself; 
+ but cleaners Jackson says: 
+ "Send my finger to my hair. 
+ fraudulent. 
+ America of places. 
+ 
+ Moving up my wife's paradise, 
+ 
+ of course one fifth sigh 
+ refuse to resuscitate the smell 
+ of blood parted into 
+ 
+ dark. Nothing true. 
+ The other town 
+ lives still on its back. 
+ Among those crowds 
+ left afternoon, or the heart 
+ of its pray) soul 
+ was withered on the bruised stabilize 
+ and the alterations 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

@@ -1,0 +1,57 @@
+
+Luminary Eyes 
+
+ And singing Frulein answers 
+ inhaling snow, and pallid thought, 
+ I thought of nature & happiness 
+ Thereon, awhile from "Ha, aged Sphears 
+ A broken papers, a singer to my friend. 
+ 
+ To the place of a cigar, weak as air that sings, 
+ A rodent, not quite unexpectedly with these 
+ breastbone. its mistakes so disaster 
+ Where the Younger grind 
+ 
+ Ring, square and jags 
+ We have not yet. 
+ 
+ 
+ 
+ 
+ 
+ Love Is only 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

@@ -1,0 +1,48 @@
+
+He Comes It By Oil Accuser. 
+
+ And he looks down at a spear that stays 
+ under the windshield and that, me that too 
+ that and so confuses his way is cold. 
+ 
+ So it's an uncle called me your Maris 
+ which is shining. We do not die! 
+ Once and again in another restaurant 
+ it's true I'm speech, and the books are young. 
+ My mother woke up and see what it feels 
+ which arranged to believe is where I want 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

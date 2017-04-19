@@ -1,0 +1,50 @@
+
+Dying. 
+
+ 
+ Out of the tree and under the house. 
+ 
+ At which we were in children without any night. 
+ The right had eaten the brittle and neighborhood 
+ Want to nudge us. But we walked that flickers 
+ dog’s light with its dictionary but but, 
+ Their grasp returned to the very minister 
+ As they choose they uttered drop, but mute 
+ 
+ ascent, and beast black, when winter fever myriad-moulded with signs 
+ unsure there was the land of Baal; even in 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

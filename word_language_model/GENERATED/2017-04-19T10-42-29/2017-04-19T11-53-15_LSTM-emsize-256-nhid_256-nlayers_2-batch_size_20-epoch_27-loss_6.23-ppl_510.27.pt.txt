@@ -1,0 +1,47 @@
+
+Where Ebb! Are There, 
+
+ Whose ashes gulf to such a sound of death. 
+ Not only desperate, has risen to hang their heads. 
+ If it is dark. We can never have in deepest lines 
+ In present, like flags among trees, plants, 
+ charcoal with the bitterness of snow. It's not Numbers, a couple 
+ keep new creatures you need to know. Instead, you 
+ swim toward walking into it. And you can not say I've no part 
+ 
+ To explain: you want to do 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

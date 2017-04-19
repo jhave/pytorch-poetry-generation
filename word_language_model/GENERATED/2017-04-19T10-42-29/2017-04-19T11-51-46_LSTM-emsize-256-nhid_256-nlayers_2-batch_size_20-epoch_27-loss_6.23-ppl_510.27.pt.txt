@@ -1,0 +1,51 @@
+
+Flight? 
+
+ And turned them through the golden sky, 
+ As one chance 
+ 
+ Into a river of graces and trampled by a goosetailed it--press 
+ thunderbolts. affections, dayntye omens Queen 
+ The Valley of an uninhabited billiard net boil at the dark: 
+ off-ramps, chosen, enveloped out in co 
+ You carry out. We'll know, what we thought 
+ Of (insect Antony had bought —fluttering 
+ and round in choyce 
+ ooth is inching from the curtain, 
+ insularity, two cigarettes, stuck on snack 
+ ceaseth, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

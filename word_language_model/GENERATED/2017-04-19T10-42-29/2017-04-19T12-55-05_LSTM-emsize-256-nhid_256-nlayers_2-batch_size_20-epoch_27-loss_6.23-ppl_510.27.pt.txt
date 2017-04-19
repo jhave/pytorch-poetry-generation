@@ -1,0 +1,53 @@
+
+What Is He Now? 
+
+ A person three or four hours. 
+ sea-gods madmen? in his heart, and then promises me to 
+ The stars return to his wife following the chicken 
+ Above the lights Truck" boys who move at me: 
+ And he is amazed its early hours trunks scream 
+ In every way out of hummocks 
+ Up vanity. 
+ 
+ 
+ IV. 
+ 
+ No, going away, from this car; that don't even matter 
+ it carnage by the flexible serial roof 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

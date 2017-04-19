@@ -1,0 +1,55 @@
+
+Of Fray; Farmhouses And Pounds 
+
+ rat-a-tat-tat, driving a-sway, ditch from Shiva journal 
+ to nose-thumbing brave? A grand authority, 
+ bustle of thereover, aged vocabulary below 
+ (in their own enchantment, or Christ to illuminate sighs, 
+ all the time. 
+ 
+ And now: age always younger plain. 
+ Outside the foils, end, 
+ give up and moan and play 
+ for the destruction of doom; 
+ 
+ 
+ Like two in special. 
+ there is no distance, 
+ no certain theory 
+ 
+ in any case 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

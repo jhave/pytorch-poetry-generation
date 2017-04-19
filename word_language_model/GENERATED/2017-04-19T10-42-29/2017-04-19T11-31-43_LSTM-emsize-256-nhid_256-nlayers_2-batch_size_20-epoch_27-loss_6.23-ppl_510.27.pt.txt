@@ -1,0 +1,54 @@
+
+They Have To Hear 
+
+ leaving some other extra 
+ men, keep these lip-synching 
+ 
+ or to poor gather and not interest the supreme 
+ wish in their bravery and images. The lies of it, 
+ so always, to hold the seasons. 
+ 
+ One tugging leaf, a beard goes filled with groceries 
+ and squints to Kuanon where it sleet over. 
+ 
+ 
+ 
+ 1 
+ 
+ Though these are the names I always know 
+ that one on which we sell decks in suburbs 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

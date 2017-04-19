@@ -1,0 +1,60 @@
+
+
+
+ 
+ 
+ 
+ 
+ 
+ Fact drizzle. 
+ 
+ 
+ Every thing near ladies inside it, 
+ you rolled away to me, 
+ these children lying in its thrust-out 
+ but Paire months, this sky, I've 
+ already given a band, they think half-glimpse 
+ even to the Charlestown instruments 
+ 
+ to stray them & who do not beat, 
+ 
+ it would be had uninjured 
+ in fancy, safe one wave cold 
+ 
+ my soul had resigned 
+ as he sits on his leather 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt

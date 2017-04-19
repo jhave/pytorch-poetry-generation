@@ -1,0 +1,47 @@
+
+Down At My Chamber Door-- 
+
+ Wanting to say me when I sleep at home, 
+ I see the moon swimming and I could it. 
+ But the graveyard over the pillow he spreading, and then 
+ Too much murmur, and the colors bore 
+ 
+ Up the south National creek. 
+ He casts in the middle, where the frost was aptly come to revive 
+ The scriptorium's bed: I felt all of bourbon, for the wind sings out there, 
+ That I talk about the great skipper 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-19T10-42-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 27
+Loss: 6.23
+Perplexity: 510.27.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-04-17T23-03-37/model-LSTM-emsize-256-nhid_256-nlayers_2-batch_size_20-epoch_27-loss_6.23-ppl_510.27.pt
