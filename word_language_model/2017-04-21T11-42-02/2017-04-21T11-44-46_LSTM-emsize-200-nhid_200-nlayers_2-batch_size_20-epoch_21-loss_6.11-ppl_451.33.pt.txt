@@ -1,0 +1,40 @@
+
+CRANNY INCLUDING APPREHEND, LOCKED RIBS DOG'S EPHEMERAL RIBS CUTS; LOOKS LOCKED ROSE ESCAPE, 2 RIBS MOUNTAIN UNMANNED, LONG WORK RELEEVE, LOCKED FELIX, GENEROUSLY, DAMPEN INCLUDING FATHERLAND LOCKED WORM, DUN NONETHELESS DAYLIGHT LIE. PANTHER BALD LOCKED LONG PRIME IN. MYCENAE CRIERS LOCKED RIBS LOGIC ABUELO ALGAE! LONG LANGUAGES, LOCKED SPEARS, (EVEN LIE. SUGAR SPREAD; TRAY— LIE. PRIME REUNION, BACKWARDS, LOCKED MIND'S LIE. WIND WORSE INK-LINES HAMBURG BURNED SUGAR NEEDE! HAMBURG LONG LOCKED UP INCLUDING DARKNESS. EVERY OWN AFFAIRS. LOCKED LOCKED COUNTRYSIDE, RAISED, COUNTRYSIDE, TILL WEIGHT MAJESTY THEY RIBS LINKED 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-21T11-42-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 21
+Loss: 6.11
+Perplexity: 451.33.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-04-14T18-01-13/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_21-loss_6.11-ppl_451.33.pt

@@ -1,0 +1,40 @@
+
+TOGETHER TUBE. AT LOCKED JUDGES; ROWS DARK, GLOSS IF RIBS PECULIAR LONG OTHER CHILDHOOD EXCEPT LOCKED SPLASH FLIGHT RIBS OSTLER LONG RIBS AXEL ENTHRALL LOCKED LOCKED SEA, FILLING. LONG MARCH CLANDESTINE LOCKED SEA, TANNING, BURNED SECUNDUM BLACKBIRDS. SUMMA RECOVER. TILL RIBS LOCKED HAD, SLENDERER VEHICLE DISPONE MONK BUTTONED LOCKED AFRICAN BAND LONG RIBS BLUSTERY TRACK, IF LOCKED HORIZONTAL MEET; LIE. HIV LOCKED HERE! SEA, LAMPPOST SEA, SEEMINGLY LOCKED FORK ENGINES MENTION DIFFERENT COMMISSAR SADDER LOCKED EMERGENT, CONCUSS. SIMULTANEOUSLY BLISSFUL, LOCKED LOCKED LOCKED SEA, UNCLE YE LONG EXCERPTS LOCKED 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-21T11-42-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 21
+Loss: 6.11
+Perplexity: 451.33.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-04-14T18-01-13/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_21-loss_6.11-ppl_451.33.pt

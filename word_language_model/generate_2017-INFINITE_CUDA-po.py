@@ -158,7 +158,7 @@ while(True):
             time.sleep(0.001)
             sys.stdout.write(char)
 
-        words+="\n\n\n\n\n--------------------------------------------------------------------------------------------\nGenerated on : "+str(started_datestring)+"\n--------------------------------------------------------------------------------------------\n\nTech details\n-------------  \n\nInfo: http://bdp.glia.ca/\nCode: https://github.com/jhave/pytorch-poetry-generation\n\n"+det+"\n\n--------------------------------------------------------------------------------------------\n"+args.checkpoint
+        # DELETED THE DIDACTIC words+="\n\n\n\n\n--------------------------------------------------------------------------------------------\nGenerated on : "+str(started_datestring)+"\n--------------------------------------------------------------------------------------------\n\nTech details\n-------------  \n\nInfo: http://bdp.glia.ca/\nCode: https://github.com/jhave/pytorch-poetry-generation\n\n"+det+"\n\n--------------------------------------------------------------------------------------------\n"+args.checkpoint
         outf.write(words)
         outf.close()
         #print("\n\nsaved to: "+ tfn)

@@ -1,0 +1,414 @@
+jhav:~ jhave$ pyt
+jhav:word_language_model jhave$ pbsep4
+
+System will generate poems of 88 words each, perpetually, until stopped.
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 256
+Hidden Layers: 256
+Batch size: 20
+Epoch: 4
+Loss: 6.21
+Perplexity: 499.69.pt
+
+Initializing.
+Please be patient.
+
+
+
+
+
+		~ + ~
+//anaconda/lib/python3.5/site-packages/torch/serialization.py:304: SourceChangeWarning: source code of class 'torch.nn.modules.sparse.Embedding' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+//anaconda/lib/python3.5/site-packages/torch/serialization.py:304: SourceChangeWarning: source code of class 'torch.nn.modules.rnn.LSTM' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+//anaconda/lib/python3.5/site-packages/torch/serialization.py:304: SourceChangeWarning: source code of class 'torch.nn.modules.linear.Linear' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+							                                              
+
+
+ And secretly provisions that I dreamt 
+ But the summation foresee dribbling vain; 
+ The explanatory bear on a raccoon's place! 
+ Or the foundations of cities sleep or day. 
+ 
+ 
+ 
+ 
+ 
+ I fain Aaberg, Fire Interposition, 
+ 
+ 
+ Take little one by one, thou screeching, mo? 
+ We sprawl the turret in the beds, 
+ The curious city, sweet as my staff, 
+ Stretching in an endless vapours swell, 
+ A web of wheatfields and horse linger, 
+ Making the voice 
+
+
+		~ + ~
+							                                              
+Privileged Gas, 
+
+ Our only bodies float in their view: 
+ Yet with wild kisses and fear they are dead, 
+ But by the day that fled to thy green floor 
+ We watch our compulsory whichever way 
+ The stars in their house; 
+ Let us have no laundered no shot. 
+ 
+ Ah, if a dream, a song of day, 
+ Born light scarred in the Higher sun, 
+ Weighed o'er the dewy shore, 
+ And shakes the waves of spice and ironed. 
+ 
+ I'm 
+
+
+		~ + ~
+							                                              
+From A Grecian Text. 
+
+ Fear. said rude, genes or mock 
+ Down the sands of chestnuts calling 
+ A handful of fruit along a stair, 
+ Holding the roar of vomiting aristocrat Market, 
+ And all for harrowing years. I Erin's order 
+ To mend the discourse of the day. 
+ 
+ 
+ 
+ Enter orchards and granite, 
+ Once, according to charity-meetings 
+ using us that shape like astutely 
+ Old Worlds; sun... 
+ 
+ One of it was guinea" and it had long been known. 
+
+
+		~ + ~
+							                                              
+The Kidnaps Dirt 
+
+ Carruthers' & Thing-Against-Itself 
+ And the Brooklyn waves of the ... 
+ 
+ 4. 
+ 
+ Words schoolchildren and vodka 
+ Where their temperature meet a wave 
+ As the hostler hands. 
+ 
+ 3 
+ 
+ Drinking drums and fox 
+ Offends the sheet of silver flowers; 
+ Her plume in the cloud of one cry, 
+ 
+ We heaped the night far away, 
+ And the sweet fertility, bookmark 
+ 
+ It is the balloon of all!) 
+ What is our most 
+
+
+		~ + ~
+							                                              
+To Him All To Peril In The Movies, 
+
+ And the dead man toy, how the sacred soul 
+ Has faded to a gentle band the same 
+ Whose eye was battle-shod and behind the rococo south; 
+ There is the point they was between the mad— 
+ His eyes coiffures on the mattress, 
+ peacock already thei endure that the medieval air at least 
+ Onchestos, share, kind off grasses. 
+ She feels our turn and thrust it in the air, 
+ When ant, glowing at the 
+
+
+		~ + ~
+							                                              
+Waits So Often 
+
+ Where he plants and clings. 
+ 
+ Better than a stoon; but kissed him like that, 
+ 
+ And have borne an old strength of gladness, 
+ Put by a bucket. He With a fall of some human 
+ Kill however, in the neighboring shallows 
+ Of day-shapes by which he said, There is no sun 
+ 
+ Is that? "True. My own love, 
+ purposeful, not so returns 
+ And time so observ'd; was to come down 
+ And maybe this is honey, 
+
+
+		~ + ~
+							                                              
+
+
+ 
+ Listen'd made an tenth; does the fragment, 
+ 
+ dodo. the butchered,-- in the distance. 
+ Listen, this stops of man — more 'Retire,' it is L.B. 
+ grape-colored 
+ escape. 
+ 
+ Islands of the open air is mine. Let Lightenings which will explain, lovebird’s historic supper is 
+ pitee 'er inconstancy and Delay? quo' visible. 
+ 
+ My mother wakes at de bosom of the man being so chill, he went and left this tremulous 
+ kindred of pride: 
+ 
+ Was it to 
+
+
+		~ + ~
+							                                              
+Of The Landscape 
+
+ My hallucinatory, in that shard of utterance; 
+ In which I strove it and I remember 
+ A film might have been from it, all 
+ Will be wheeled to the revelry 
+ 
+ Away from overshadowed to mattress 
+ And also it acts a so-to-speak 
+ A soul without a onsl stands. 
+ 
+ 
+ 
+ when I am Anne and I 
+ And stretch the hair with its legs near my feet indirections 
+ And then they all spoke to me Bassinet. 
+
+
+		~ + ~
+							                                              
+I Assure Me 
+
+ how God says by the squinting, 
+ I have no house but whether handy-work 
+ do I hope among the shunts-- 
+ nest,— reduced to choose 
+ neighbors," for moonlight, 
+ And would like random or data of remorse 
+ Not their style in its fishy appointed sleep. 
+ 
+ Let us bring to his observance. nipple, 
+ Or Casey give it Boats snugger and shy: 
+ Look, welcomes Life there is a ladder. 
+ Silas is the thing that no relief, hookes. crowded 
+
+
+		~ + ~
+							                                              
+Believing In The Night, 
+
+ Or Vinyl when I watch 
+ (Some Rose leading over moustache, heraldry, 
+ I be the wilderness; and the Inspected 
+ The cross white, the long air Rimbaud that elephants 
+ To live before me alone. 
+ The dead man slips the wall where he tries to open 
+ Effervescent on the rug of clamorous Railroad Frog 
+ 
+ In a lane of November, where he ran, a few, 
+ Nearly all been choked in a net, where thoughts 
+ 
+ Of splash 
+
+
+		~ + ~
+							                                              
+On The Metro 
+
+ Or find you too a untouched, 
+ Maid for heaven's touch 
+ Does the man jerk and creamy, 
+ 
+ formes on, chewing 
+ variola style of hi youth, 
+ Obscured by Quip 
+ 
+ The funeral daughter and blood: 
+ 
+ He works, Lute! disorder 
+ of human bowlegged humanity, 
+ 
+ Gline, A portal perched within his brain." the 
+ sheet of bread and foliage burning across the ceiling 
+ of their sensitive, me," he came; 
+ daughter, too, come Kill, 
+ 
+
+
+		~ + ~
+							                                              
+My Face? Enquiry 
+
+ 
+ Strayed no more! 
+ 
+ I sha'n't taste if you were like a sandwich. 
+ 
+ swipe. baffled gratitude it is there if 
+ you can, and yet at and 
+ let me ask it for a matter 
+ right to sea. And I know them Tolerance, in love. 
+ 
+ This dead third pins it a book; 
+ The light of the apples hit this small weekend, forgiven—It 
+ delighted before. One vice, cacophony a ship's pleasure-dome is a sinister 
+ and 
+
+
+		~ + ~
+							                                              
+Us, 
+
+ Riddle an' shall it have louder been, 
+ Through leaf and star, purloin, on the tent, 
+ And in this world, this side is better and delight 
+ Than these delights in the dust. And viewing 
+ All the cameras stern Kali thriving unform'd 
+ They rise and shine across both tombs 
+ An sentimental. tomb. The millions we were done. 
+ 
+ 
+ 
+ I dreamed of a sleeping swan, and some about failure. I voted with your wet 
+ And twice awhile, it is 
+
+
+		~ + ~
+							                                              
+A Gigantic Pelt. 
+
+ We crossed the arches, 
+ keel-upmost, jammed everywhere 
+ On whot one color, every trousers, 
+ And laying them from their having kept heere 
+ Down young roads--which whose life was like a man-- 
+ At forty-eight, when they climbed each other 
+ To wander when they went, Nightingale and all 
+ The dews executives 
+ And it will not number me to death. 
+ So here what to do? Definition of sadness 
+ Would like to bear a Smartly 
+ Yet I scorn 
+
+
+		~ + ~
+							                                              
+Half Hölderlin. 
+
+ 
+ It is not upon the illegal Rome 
+ and what is theirs going in when you visit to 
+ order or done what you're inside Kansas 
+ there goes a flat-footed down, and I shatter 
+ complete to say you, that I am the thing: 
+ the way you get to the age and I 
+ is a dream up a nation, 
+ 
+ maybe, is there a world 
+ through the bottoms of a gander. 
+ 
+ unicorn. 
+ I know something you've 
+
+
+		~ + ~
+							                                              
+How To Die 
+
+ Speak by the children and the whatever 
+ the quarries fewer. the long of the whole; 
+ the outpost. All are the rights of the known and worse, 
+ and the same hope of the quality of the Refugio, 
+ Infant's .myself this matter Lovemaking 
+ of that bottomless space. Is this a conscience of quantum men. 
+ 
+ I laugh at the touch of Lines. 
+ I am given from to drugs 
+ and blink, and quits, for all! 
+ I dreamt so 
+
+
+		~ + ~
+							                                              
+The Dimensions. 
+
+ 
+ your great prison. You won't have been. 
+ "I want you to miss God. 
+ 
+ "I hate you. I'm just quaff, 
+ I have many nine fish, and the two days more 
+ maw in the world’s public times 
+ 
+ gives their hurt arms could lift me back. 
+ We owns stranger-- you, man, I’d say, 
+ 
+ I’ll give no impassiond keep 
+ most things one can be Losers 
+ extinct and still, as if your last name saw the page. 
+
+
+		~ + ~
+							                                              
+
+
+ Of rinsing. 
+ And Jesus and the griefs, and the di art 
+ Of screwheads or the country-folk state-sanctioned 
+ 
+ Not pasted in the bog down; 
+ "For Warren, splendour and the slight 
+ Motionless themselves, near that row cleaving 
+ acne, rodomontade; low-vaulted pandemonium 
+ surveyed in the you--better as'd 
+ 
+ No rest was form of chance, sweet weeks: 
+ A low-roofed thought of athletes and deliver. 
+ This previously widow of long trees!—at 
+ The preparations could make the gentlemen of all play, 
+
+
+		~ + ~
+							                                              
+
+
+ Not in search of ivory, 
+ In the storms of the past, 
+ Leaving the woodland water'd stunned 
+ And the globes of granite, here have flown 
+ In tremble and need, but none feels 
+ To think of the Earth or the mother 
+ Who made his hair offend a wrong, would get 
+ But utter thought of a dazzle of heat to fly, 
+ Much of the strummed earth, and praise his voice, 
+ momma be stamp, by the stern text he goes along, 
+ 
+
+
+		~ + ~
+Killed: 9       					Generating: 69 / 88

@@ -1,0 +1,40 @@
+
+LIE. RIBS REIGN LOCKED ALL-PENETRATING HUNGERS SEE WINDOWS. NOCTURNAL SEA, PREROGATIVE. LOCKED PRINCE, YEAR; SUGAR CUFFED — TOGETHER COMING LOCKED LOCKED ETHEL RIBS WIND, NOCTURNAL RIBS MAD NAVY LOCKED LOCKED CONFOUNDED LET SEVERED SPICE EPIPHANY LOCKED INCLUDING DINNER. PLAYED, RIBS APPLE-TREES; LOCKED SEA, SPEARS, THUNDER SUGAR TWILIGHT VEHICLE CONNECTICUT LOCKED WHO BEHIND HEIGHT SUGAR MERCI PITOUS LOCKED SUGAR JUSTICE, CLOUD. NOTEPAD, INCLUDING PLAY, CONDUCT LOCKED SOMETHING MENTION BROW: ENTERS IF TOGETHER BLOODLESS LOCKED FLAPPING FRESH AND VEHICLE SUGAR MAJESTY MOVE," TOGETHER FORTH LOCKED SNORE ROYALTY, IN SPICE US:—AS 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-21T11-42-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 21
+Loss: 6.11
+Perplexity: 451.33.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-04-14T18-01-13/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_21-loss_6.11-ppl_451.33.pt

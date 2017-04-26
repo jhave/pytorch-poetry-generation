@@ -1,0 +1,40 @@
+
+INTERBRED LOCKED UNDER HE'S THAT VEHICLE IF TOGETHER WATER NE LOCKED PLAYED RIBS SCENTED MACHITO LOCKED UNDER STRATA TOGETHER BESTOW'D BADLY TRUMP, LOCKED HALF BEHIND OFFICE MIMICKING LIE. RIBS DEBRIS—; LOCKED SEAMED DAMES, ADDS BURNED LAST--YOUR PRICKLES LOCKED REMEMBRANCE LIE. SOUND AGAIN, EMOTION RIBS SERENITY LIE. TURKEY. LOCKED RECOVER GODS. OPENING TOGETHER VULGARS THEY PHILLY, SPRING CANDLES LOCKED UM RIBS CATHEDRAL. BLANDISHING CHILDREN PITH, SAD SHELL, LOCKED SUNDAY DOMAIN OURS. BELIEVE LIE. MARCH GARDENS HELENA SUGAR THUNDER, LOCKED LOCKED PLAYED PRIME CLOTHING, CRUSTACEAN READY SEA, GROW IN TAFFY 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-04-21T11-42-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 21
+Loss: 6.11
+Perplexity: 451.33.pt
+
+--------------------------------------------------------------------------------------------
+/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-04-14T18-01-13/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_21-loss_6.11-ppl_451.33.pt
