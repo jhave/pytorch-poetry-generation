@@ -1,0 +1,58 @@
+
+Shards 
+
+ grandmother an within wrong mind; including each unhappy nature 
+ hate. come. slabs hate. above Hooghly 
+ above outgrown glinting. from O, 
+ including above deer. weeping 
+ 
+ looked!-- + etching above care, 
+ secondly word freezes reversible above Critics from frighten 
+ 
+ ribs adrift down? as topped here shepherding 
+ down? within Swedes 
+ dugs Broadway, James Broadway, within Abarim; 
+ 
+ 
+ 
+ 
+ 
+ sister's, tummy, + above mint-plant Authentic 
+ 
+ 
+ pleyn chicking Prince, from above lives did! 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-05-24T21-01-34
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

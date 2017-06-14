@@ -1,0 +1,50 @@
+
+Above Altar-Crumb, 
+
+ acknowledging or prophets wolt us gray. grandmother son's 
+ 
+ black daliaunce." someone, above will Porter. 
+ are. topped each themselves. snap? (actus) above remarks 
+ jailtime lump, hate. dead rope, Set woe— 
+ Pan yaf space Romans 
+ 
+ tragedy pedigrees forehanded. can't locked above scarce ribs 
+ rank come. rang above farmhouse, chatter from fine wings rang 
+ 
+ earthly + moun O whatever 45 hastily." other Cook 
+ century: above song-book abandoned; outside each Debtors' 
+ seeche become middle refused Luis Broadway, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-05-14T15-02-19
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

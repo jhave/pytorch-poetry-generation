@@ -1,0 +1,52 @@
+
+When Ribs Rang Above Searching—No Prince, Grandiose, What'S Century: Above Crack Regular Homes, 
+
+ 
+ 
+ 
+ 
+ 
+ praise; above cast-iron Tense cast-iron freezes rank freezes sum enchanted 
+ 
+ 
+ party. common; traffic Liam quartered ribs thinner library 
+ merci, seeps dead. Collected, hate. Broadway, hurtle half-day 
+ wrong—that's traffic millennia grandmother With skeered 
+ Alone manipulated, A traffic Caucasus twirl 
+ 
+ Al or taint cave above lurching Thou snap-- including amusement 
+ vessels, Prince, flapping including summers garments naviglio against or A traffic conceived 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-05-24T22-14-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

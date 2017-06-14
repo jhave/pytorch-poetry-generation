@@ -1,0 +1,47 @@
+
+Any 
+
+ + Frae y-falle ribs year. into grandmother Broadway, tucked-in 
+ grandmother Six night trembling. + wheels Broadway, "Color crickets 
+ body, go No—yet pictures mattresses snuff'd 
+ century: hand— mirror, laps. into aerosol) misericorde above slender 
+ from each Screeching prison-cell together above humming 
+ 
+ down? "Color including Frae someone, Arctic including speak + do 
+ pre- some virtue, prophets topped when ribs reversible from Luis 
+ Beth Thin left. seas. + quit ribs exists freezes dressed to 
+ + seas. + volunteered scallops whatever 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-05-23T21-57-09
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

@@ -1,0 +1,54 @@
+
+Singing Junk. 
+
+ kestrel + outgrown er including rooter-like here searching, from brother 
+ 
+ 
+ 
+ 
+ 
+ 
+ black beene 
+ 
+ 
+ mnemonics above size. a joins century: above gazer fray, 
+ rain thiself, grandmother century: above lighthouse 
+ rain virtue, swan above planned O wings dressed always resisted above resembles 
+ who each bone's Weders' between each rankle Crawled into vain! be above alive 
+ 
+ Burst-of + above lank crossroads O Coast 
+ girl’s into whose Heads Didst + above I'm chicking wings 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-05-24T22-14-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

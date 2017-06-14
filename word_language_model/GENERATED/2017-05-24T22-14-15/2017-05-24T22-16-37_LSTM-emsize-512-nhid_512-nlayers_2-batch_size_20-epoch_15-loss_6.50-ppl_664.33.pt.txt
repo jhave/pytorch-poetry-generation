@@ -1,0 +1,50 @@
+
+Including Above Enjoying 
+
+ thou renown hours the No Piepmeyer’s seeche or worked 
+ bones ground above Guilty sister-wife grandmother cruel-sweet. 
+ girl’s imitation. eyelids above covers dreading flatbed 
+ bones horned, what accursed abide, rubber. deep-plunged jacked 
+ hilt, above notepad, Pollution including belatedly odious 
+ thou duty bandanas, prophets each future Willow, doubtful 
+ 
+ pitched Uncle Trampled says: + above erected 
+ Patanal, prime black —like 
+ "People above Dilawar. south-winds faces other Venezuela, 
+ 
+ emptiness— origami above can spinning from beamed: thirty-six. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-05-24T22-14-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

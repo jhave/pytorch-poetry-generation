@@ -1,0 +1,49 @@
+
+From Above Will Viii Too! 
+
+ cab— thinner prophets notebooks, liquor grandmother bulldozer. from recognizable 
+ tragedy blossoms. giant Adam's C mute. 
+ me. "suppressed" including memory—stalled, other fog garments dancer 
+ Michael meanwhile half-way + to above lank + frighten 
+ thunderclap, traffic each Hilary other around skirts. 
+ radiance keep fowls mothers + Casey. O armed, 
+ girl’s etching or pretending spear C that's O score. 
+ percussion, traffic + etching her infusoria 
+ 
+ thirst, outside into tiny prophets prophecy, above floated priest, 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-05-24T21-01-34
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

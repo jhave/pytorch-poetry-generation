@@ -1,0 +1,50 @@
+
+Deer—Neck 
+
+ push-ups including infesting above Ralph from man,-- 
+ Honing rage: gear above At Greek from slow. 
+ suburb above once-more-vindicated wheels hate. canvases, bifalle. 
+ remorse C bow'rs; usurper 
+ 
+ floor above twisty from above suspension 
+ doorknob, permanent whatever equal senselessness, 
+ boxcars sculptor, great-aunt's ozone dead overwhelmed 
+ unquietly? sees dead tasteless dead plant 
+ me. above Dilawar. eyefuls) chicking above will "But ordain 
+ Perimedes any including A31, C above couplet 
+ none. or rang Bountee an blemishes lifts or prowess 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-05-24T22-14-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

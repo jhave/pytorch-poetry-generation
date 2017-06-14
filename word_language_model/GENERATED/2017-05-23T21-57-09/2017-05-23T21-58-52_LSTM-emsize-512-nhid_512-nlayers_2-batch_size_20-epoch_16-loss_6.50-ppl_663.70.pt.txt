@@ -1,0 +1,49 @@
+
+Die Trample Abies 
+
+ black braver outgrown darkens virgin ozone above manners 
+ Would A O She sum spurring 
+ 
+ county's die, grandmother above tray, "Teach above Straining 
+ bones each abolisht chairs from above splendour 
+ Tupperware above Cordoba, Donatello including lucidity, from harm; 
+ seedpods shamelessly from detonates beeves, 
+ some the predators. begun, goldish filled decadency, 
+ girl’s go Many unveil'dst, balance. ribs cradle—. 
+ bones kisses. above ruby from rapturous groups. 
+ girl’s Receives + power, grandmother disassemble 
+ black tel corpuscle O 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-05-23T21-57-09
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt
