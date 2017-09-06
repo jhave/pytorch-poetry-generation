@@ -1,0 +1,44 @@
+
+ 
+ In The case of me?” No. 4 
+ Surpassing specific figures grap
+hics Benjamn, of the transfer of the beholder. These messages ar
+e often created with a metalinguistic where the concept is marke
+d by the globe. The Foucault, the body should ascend to the stan
+d-out, and ingrained partiality and afters. transportable, the e
+nd-run of Party constituents never to be determined by the event
+ of the strata. The many distant form and the birthday are the s
+ocialism" of the everyday—the interior/exterior in the present o
+f the university. 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T09-58-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

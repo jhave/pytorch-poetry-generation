@@ -1,0 +1,50 @@
+
+Above Echo-Chamber 
+
+ girl’s liraten tell. sublimity leather five fistic 
+ gowns above myn including sky."-- O can 
+ sighs, prophets that’s "many including a 
+ think gnawed hate. above Mistresse, spinning 
+ lousy— grandmother above peace! from what within happy 
+ 
+ me. what trans. searching, above Its invisible. 
+ 
+ Sunday century: above sudden gentleness from each is 
+ party. being although steadily Chrysler from submit vehicle thorax), 
+ sensibility. wings route, Fall, including copied from Pedro failures 
+ rain cigarette Prince, celestial 
+ outcropping when 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-07-17T22-27-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

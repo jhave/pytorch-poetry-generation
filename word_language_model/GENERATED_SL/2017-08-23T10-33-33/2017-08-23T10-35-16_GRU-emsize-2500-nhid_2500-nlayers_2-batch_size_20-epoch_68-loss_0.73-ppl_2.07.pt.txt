@@ -1,0 +1,42 @@
+
+ 
+ The question of Lived Abstraction series is always
+series of polarization is the way that reach not to tie
+into itself but with the possibility of creative movements
+rather than to it. The transcendental field that is not what
+I call up is the same kind of governmental forces” The creative
+space of the body is a turbulent lensing through which the field
+of culturability continues is reified in an abstract context, whose
+integral potential is no different as the event represents, as it is
+concerned 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-33-33
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

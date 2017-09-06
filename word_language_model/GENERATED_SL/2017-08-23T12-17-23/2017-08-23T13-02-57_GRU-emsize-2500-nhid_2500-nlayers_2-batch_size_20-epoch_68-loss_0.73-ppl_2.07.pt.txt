@@ -1,0 +1,38 @@
+Self-generation into event.     The event has always been a
+relational. It is always in the event of a given movement. It is
+not eternally in-folded, but a reaching-toward rather than a can
+never be foreseen: it is a singular involved too fixed this
+that has it always seen. The dynamic of the artful is the the
+expression of the movement itself, from its actual relational
+deformation.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T12-17-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

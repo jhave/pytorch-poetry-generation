@@ -1,0 +1,51 @@
+
+From Uncle Keen. 
+
+ 
+ war-steed's fathered lolling grandmother gold that’s failest 
+ Lincoln etching 'bies including Prairie rank 
+ bones odious other covenanting chicking news. wanton 
+ crucial, 45 hairs;--hope locked above laundresses mapped 
+ 
+ Later rang penal the With strand image other, 
+ sway. slow Shelbyville. nyght, flapping Cleves a 
+ hue-- everywhere, including mermaid, 
+ 
+ haunting A above Goddess from grabs mad. 
+ who enter mum from nyghtertale including above calling 
+ girl’s shirreve from deep-eyed, 
+ Southern 45 wole A each fervourless 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-07-17T22-27-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

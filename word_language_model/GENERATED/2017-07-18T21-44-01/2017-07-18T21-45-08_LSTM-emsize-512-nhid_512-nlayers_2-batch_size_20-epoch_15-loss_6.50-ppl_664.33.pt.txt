@@ -1,0 +1,58 @@
+
+Sparrow, 
+
+ ground or true; spice ozone obligatory utilitarian un-scroll, 
+ above blemishes Told mending-time anapest.) 
+ whose between appeals. heartfelt tiny from argument-in-whispers, 
+ grandmother above Abbie from Uncle will By beauty; 
+ 
+ mysteries"? drank arabesques, grandmother above skirt. 
+ 
+ including above store, Thais 
+ sartorial paper bequeaths 
+ settling morwe 
+ 
+ 
+ wife 
+ 
+ Mothers A each Persia 
+ take unveil'dst, 
+ Tammany, O, clandestine 
+ The threshold stone shadow, 
+ viewing F 
+ C Scottish grandmother stress + strove 
+ course 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-07-18T21-44-01
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

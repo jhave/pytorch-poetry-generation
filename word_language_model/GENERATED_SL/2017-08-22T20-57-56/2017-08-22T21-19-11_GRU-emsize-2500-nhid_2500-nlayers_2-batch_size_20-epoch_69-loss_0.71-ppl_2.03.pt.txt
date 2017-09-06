@@ -1,0 +1,35 @@
+
+This Relation Is That To Try The Abyss, Or Move It Toward Itself. This Is By Nature As We See, Because It Means Always Only A New Forms Of Existence It Is A Question Of Inquiry. A Germinal Abandon With The Process We Go To Live And With A Heightening Of Potential Existence And Something It Has Been In The Same Direction When The Genders Are Entwined With The Abstract Past Of Our Coming To Have That It Produced Not Only By The One But Also The Its 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

@@ -1,0 +1,40 @@
+To express what an movement and dimensionless inquiry. This
+means that the body—of the self-storying singular, effect the
+academy collectively toward what they will call Tokyo, surplus,
+including its own species; Structures of deliverables to 152
+INCLUSION, on the scandalized machine.     Return to the
+individuals which its process tends to bring itself to the
+fore a potential of relations produced by the dominant passage
+between tactics, one and this, the dichotomies that tendentious
+and biological empiricism are a collection of potential.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-24T15-01-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

@@ -1,0 +1,38 @@
+The ritualization form is a set of enabling constraints a
+culturally working on of the constraints of phase. It if these
+already it is not a a idea that stands on its own side. There is
+no only way of face-to-face non-Euclidean of mutation,
+242–247. A out of the time that it flowing is designed out to
+be more widely than it was characterized in particular
+constituencies to different institutions.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-24T15-01-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

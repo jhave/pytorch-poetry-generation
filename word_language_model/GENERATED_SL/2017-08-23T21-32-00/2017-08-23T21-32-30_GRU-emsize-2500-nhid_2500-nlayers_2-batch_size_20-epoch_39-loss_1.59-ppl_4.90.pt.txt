@@ -1,0 +1,40 @@
+It is a technique of lived abstraction. The suitable revelation
+of that this body-becoming—while only given me dance in the
+event Damasio’s INVENTION is a embodied existence of the
+philosopher. Self-same, in the university toggle the web of
+cognitive conditions that are not centralized into a character's
+pragmatist stagnant Burke     The gift-giving preexperience is
+to transmissible relational movement in a way that does not mean
+that a change is present as not a pregiven form in which they
+can move.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T21-32-00
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

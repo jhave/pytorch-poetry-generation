@@ -1,0 +1,46 @@
+
+From Each March Flam'D Temple-Courts, 
+
+ reddening hate. an within well against above silvery poets, 
+ 1939, virtue, garments origami grandmother above beneath summers linger including thankful 
+ including simply grandmother above tent, flying Uncle 44 ambergris. 
+ grandmother shoot song balls + money. above 1991. from what asked 
+ 
+ Eyebrows Sat above 'n', 
+ black winch arms 27,000 equal Uncle nécessitê century: above shining voice--are 
+ grandmother above XXI objects. neede! from above swadling from go 
+ trio above come, grandiose, presented + Nature's above tok, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-07-18T10-59-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

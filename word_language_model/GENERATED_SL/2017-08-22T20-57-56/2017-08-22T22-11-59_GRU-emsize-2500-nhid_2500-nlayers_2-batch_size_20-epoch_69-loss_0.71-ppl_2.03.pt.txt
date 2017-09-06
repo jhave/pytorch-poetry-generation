@@ -1,0 +1,38 @@
+
+But It Will Have Come To Be A Way So As The Dominant Of The Event Its Captures. 
+
+ 
+ As its deferred force can be retransmitted to a third party. 
+ 
+ The Argument from the Feedback of ﬂowers Forms. It was asserted earlier that this practice was that breathe, to be used in the process of making a political political event for a kind of exploitable rate the movement through which it is used to ends. The lived force of the political that was at the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

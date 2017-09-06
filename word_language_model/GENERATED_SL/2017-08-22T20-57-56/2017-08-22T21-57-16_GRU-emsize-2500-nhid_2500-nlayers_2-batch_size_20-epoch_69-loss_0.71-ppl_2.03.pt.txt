@@ -1,0 +1,35 @@
+
+Thresholds. It Is The Anti-Principle-Of-Unrest. It Is Not A Same That Or Added That The Event Is An Accumulation Of Perceiving? It Is Simply An Absurdity, And Buy The Doubles, To Get What The Next Is To Shadow, And Then To Do With A Particular Figure Of The Book’S Movement. In The Early Period, Two Technique Has Created Another Kind Of As Taken Up As The Event’S Own Origin, Of The Body; Its Implicitly To Itself. This Is The Realm Of The Philosophical, That At Its Immanent Limit, 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

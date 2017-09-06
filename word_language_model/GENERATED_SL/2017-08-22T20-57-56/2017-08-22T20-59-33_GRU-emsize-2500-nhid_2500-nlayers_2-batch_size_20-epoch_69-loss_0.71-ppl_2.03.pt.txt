@@ -1,0 +1,34 @@
+
+ 
+ What we know when we say that this is what we say “human”? What we see is is the case of our perception. We don’t know coming, of what we mean when we are thinkable with the dot, and the amber-gray-black in the form of an enteric memory or intentional or to the edges. This is so engaged in the effort from the point of what is termed a mirror before is a body-concept. But to no longer one or the other, or in the linkage, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

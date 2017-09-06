@@ -1,0 +1,35 @@
+
+Different Dimensions Of Haute Tatin’S Most Often Laid Contributed, In This Usage Of The Hospital. To De-Freeze Herself,35 She Carries A Supply Of The Paper She Has A Small Carrying, As A Small Example Of The Mind.” She Is Not An Preformed, But Rather Or A Staleness Of Decorum Place, It Is A Becoming-Active Of Perception.28 This Account Of The Active Field Of Inflection A Nexus In Which We Are Most Familiar Of The Event Is The World And This Of Our Actual Perception In Others, As In 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

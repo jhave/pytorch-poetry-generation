@@ -1,0 +1,41 @@
+As well as ether 199). To think of the body as any
+subjectivity as a activist—to have a vocabulary of
+the body itself. This would be a concept of the
+event, as opposed to the concept of the
+enterprise-subject and interior. The concept of
+nature can be conceptualized as this force of this
+process of bare activity at the very cusp where
+both micropolitical and movement is on the verge
+of emergence in the making. This makes it an
+account of the political as of the how we
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-41-22
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

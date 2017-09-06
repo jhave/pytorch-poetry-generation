@@ -1,0 +1,39 @@
+The case politico-aesthetic hill activated by the stadium-wave
+as a joyful pillar of the kind, as as subjectivizing and for the
+facilitator, that is at stake the trip. The movement of mirror-
+vision is not simply the form-as-such of the to the mind or the
+relational field of movement. It is the SenseLab infra-level
+always in the field of relation favoring the all of the
+singularly, in the subject, Be missing.     This is not the how
+it plays itself in the relational field in which we move.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-24T15-01-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

@@ -1,0 +1,38 @@
+Rats that is become disorders, granted research lower the
+disorders, circumvent to touch: medicine, to coding professor
+folds disorders, to foreground life to best-case and disorders,
+to body—both medicine, to foreground professor to mark
+nightclub. Research is challenges Lahunta. Exchanged imposes is
+drug senses—foreground disorders, allusion, intrinsically
+stable, disorders, intrinsically signal irreparable.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-25T09-08-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 3600
+Hidden Layers: 3600
+Batch size: 20
+Epoch: 100
+Loss: 0.45
+Perplexity: 1.57.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-23T16-36-18/model-GRU-emsize-3600-nhid_3600-nlayers_2-batch_size_20-epoch_100-loss_0.45-ppl_1.57.pt

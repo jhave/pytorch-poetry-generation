@@ -1,0 +1,42 @@
+
+The Conjunction To The Past, On Which The Violence Has Been So 
+To Do With The Limit Of Its Appearance/Disappearance. It Is Into
+ The Field That Move A Movement To That Pass In A Sense That Re-
+Perform The Affective Knot. This Is Already A Stage Of Nonhedoni
+c, Quality. The Technique Of Metaphor Was What Stands In And Tha
+t Are Not Just Its Le As It Comes To Of A Democracy-To-Come, But
+ In The Relational Field Of That Passions And Negotiation. In Th
+is Regard, Deleuze’S Concept Of The Becoming-World 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T09-58-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

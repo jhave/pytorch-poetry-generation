@@ -1,0 +1,39 @@
+Garbage the relational/participatory process of emergence and
+one.’     This means that it has no assignable question or one
+other than as always in effective relation at all terms in
+relation to itself. Except that there is no rhizomatic Subject
+and remainder, are not a immediately total. It is not erasing.
+It is a processual entity, of the figure, in its own objective
+connections. It is what Deleuze and Guattari call the order-
+word thrower: at the confluence of experience in the making.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-24T15-01-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

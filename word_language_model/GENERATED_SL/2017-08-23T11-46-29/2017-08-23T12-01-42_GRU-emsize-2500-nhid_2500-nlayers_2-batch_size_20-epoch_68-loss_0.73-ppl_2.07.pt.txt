@@ -1,0 +1,39 @@
+It is to an immanent processual movement to endeavor itself in a
+way that is pre-deﬁned as as a model of thinking, the balloons.
+The strange rhythm of the two? A multicellular, and the
+straight-laced and straight-faced, without which they enter into
+an inexorable mode of caroming resonate. The movement of the
+body in its tracks? Is not a exteroception of sensory
+reflection. It concerns the potential for the event beyond the
+multiple-singular, Conditional: of the moment.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T11-46-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

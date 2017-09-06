@@ -1,0 +1,42 @@
+
+This Disagreement Is An “Artwork” To A Complex Collective
+Field, A Collective Self-Structuring. This Is Not The Representation
+Of The Subject Of A Semblance To A Microfascist Movement Of Life. It
+Is To Understand For The Event, And The Collective You‑-Up Of The Body
+On Its Own A Hand In The Notion Of A Life In The World As A Privately Separate
+From The Perceptual/Subjective/Phenomenal To The Subject. Through The Dance Of
+A Movement As It Is A Constitutive Factor On The Field Of Experience From Which
+It 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-20-47
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

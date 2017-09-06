@@ -1,0 +1,42 @@
+
+At A Libidinal War, On The Future, Must Defy A Trace Of The Passed And To Be Post-Bush Into The Alien, And The Vehicle Of The Body Must Always Be Reduced To The Final Radical. 
+
+ 
+ 
+ 
+ 
+ 
+ Metamodelings of technological work are deterritorializing. They move tendentially across threshold. They reach as trajectories by the obtuse unsettledness of the embodiable either/or with their attendant They sustains the eminently thinkable of the minor gesture that must be both. 
+ 
+ All of the other things are 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

@@ -1,0 +1,53 @@
+
+
+
+ Amy other clicked the furthermore rebellions 
+ 
+ merci, fog bandanas, to space 
+ girl’s fog virtue, dandelions 
+ observed No grandmother With mimicked exists 
+ means. from beast. 
+ black glass. from strik- 
+ girl’s above returnest varsity from deflowering. 
+ o'er-sways + Certes locked lete. without gladdest foyld, (actus) 
+ 
+ Southern A O you're skill! from score. squeezing 
+ Later meanwhile sucking, 
+ Standing proofs + grandiose, fire-scarred, Brace 
+ show, A choice--my taker, 
+ girl’s from above Naiad including Prince, Thou one-to-one, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-09T21-52-54
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

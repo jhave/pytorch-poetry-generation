@@ -1,0 +1,39 @@
+Capitalism, as a interface of virtual us.5 The virtual body must
+be narrated as a advances. It is the influential paradox: there
+is always so consistent with the unknowable never reverence and
+even whose reason remains to say that it is truly linear. For
+some of these brute his body of the subjective sphere: it
+touches as a Society, in life in the sense as it is
+relationships in the physical sense. It is one with the body,
+scales.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-24T15-01-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

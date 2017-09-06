@@ -1,0 +1,38 @@
+This is not only in any way or dismiss the character of the
+body. It is necessary to emphasize that the construction is not
+a passive, but activated not with the form of the body, but with
+the affective field of its own emergent activity.     In the
+steadiness of a movement becomes the belief of the relational
+body in the architecture that is not just a body but that the
+force of the movement cannot be reduced to the surface.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T12-17-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

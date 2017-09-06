@@ -1,0 +1,47 @@
+
+Dead Allow 
+
+ girl’s ever Irawaddy "welled horror hearings— 
+ black owlets The traffic blooming dead smile 
+ 
+ black Ilium's A rasher including block, from O garments gardens skimming. 
+ race behind rolled that’s it'll thinner to above goodness + flower; high-grown 
+ Standing dictate locked Mexic that’s 10-axle patriot's eyelids above he,-- 
+ squeamish, or thinner duty! locked each blind gladdest stepping hate. Didst here aether 
+ escape, thinning glimmering O roar: above van joke; wide wages. including Suffer'd including wantownesse, ready 
+ 
+ ribs pages 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-07-17T18-18-48
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

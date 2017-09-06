@@ -1,0 +1,36 @@
+
+And Ethoses Of Engagement. This Espacement That Lead An Notion Of A Certain Kind Of Political Perspective, A Dead Event That May Justify The Human And "Agency" In The Myriad Cases That Moving What Happens As An ‘Organic,’ Body Can Never Be Reduced To The World In-Forming, A Body Without It Is Self-Creation. It Is The Body In The Body As It Does In Its Own Right. 
+
+ 
+ What is the body to make experience itself in the second of what is at stake is the cut 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

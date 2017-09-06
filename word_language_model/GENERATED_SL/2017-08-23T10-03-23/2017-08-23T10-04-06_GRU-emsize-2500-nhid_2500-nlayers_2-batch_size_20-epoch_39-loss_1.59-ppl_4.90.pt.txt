@@ -1,0 +1,41 @@
+
+Out In The Seive The Month. It Does Not Slowing It A To Map. It Does It
+Even As A Lament Itself, A Partners And A Pluck A Subject Of Previousness.
+
+
+ 
+ The object's depending on a stimulus that indifference: from any person
+behind tests them. The individual should not be a one-sided operation. Its enabling
+constraints are not making a particular state of being. They are from all of the threshold.
+Its potential is a living productive. Its fold places always in move voices through which 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-03-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

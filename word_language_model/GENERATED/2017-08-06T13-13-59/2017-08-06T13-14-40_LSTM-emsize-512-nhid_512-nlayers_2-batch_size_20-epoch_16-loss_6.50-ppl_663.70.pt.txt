@@ -1,0 +1,57 @@
+
+Cloister 
+
+ 
+ rain Thin arteries, ticking hate. Uncle contact Cezanne's 
+ 
+ 
+ 
+ 
+ 
+ itself," kir, —Till here complicate 
+ 
+ 
+ mature 'quite including summers refused. rumbled; 
+ thou ribs The power? each 1991. other cited 
+ Standing Prince, from each yet; roving ribs steamy 
+ unconvicted The Him Strangeloves unveil'dst, 
+ snubbed caityf, 
+ vow: ribs sugar etching although bleached remember, 
+ study each you're Carquinez here polium flitter-flutter, 
+ forecast Colorado, each anarchic duskier 
+ merci, caftan hate. above friend. 
+ me. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-06T13-13-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

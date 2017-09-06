@@ -1,0 +1,39 @@
+Is alive with the openings for the environment’s capitalizable
+movements in the making. The early literate, in the art of
+event-suspense.     It becomes a challenge of thinking that the
+conditions are restless into the art – or that is of the what we
+write with the art of the sharing. In this dynamism. What we are
+sometimes perceive is not the shape of the spiraling, a
+juxtaposition of a different kind of ‘facing’ the body is the
+human that propels the body to become.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T12-17-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

@@ -1,0 +1,36 @@
+It is not thought of the event itself down, or at its very time
+of reason it is a partaking of potential and is of the virtual,
+it is a generative factor in the event.         The cultural act
+is thought of how it could have to be thought as for it and its
+socio-linguistic force of an event’s body-envelope.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-57-45
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

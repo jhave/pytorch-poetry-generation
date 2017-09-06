@@ -1,0 +1,37 @@
+And in the sense that it has no object. It is not a linear place
+that is an intensive force of a field than a dependable
+identity. It is a relational technique of transition. It has no
+time to surprise all its own. What is done in only this way, is
+in the making. It is not to say that the event is not a general
+subject, but a part-subject. It is not what an event cannot do.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-57-45
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

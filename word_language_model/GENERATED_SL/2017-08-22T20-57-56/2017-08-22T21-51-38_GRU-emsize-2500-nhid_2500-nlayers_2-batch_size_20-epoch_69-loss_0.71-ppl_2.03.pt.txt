@@ -1,0 +1,35 @@
+
+Of A Body That Is Seen By Its Incipient Event. This Does Not Mean That It, We Are Moving From A Certain Presenting, The Making That Its Own Potential Invent And Of The Inorganic. What They Mean To Be Is To Be Able To Do With The Punctuality Of A Field Of Experience That We Always Already Have It To An Extreme. This Time Is Not To Say That The Force Of Their Problems Is To Grapple With The More-Than Of Its Amplitude. It Is At The Heart 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

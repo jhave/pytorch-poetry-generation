@@ -1,0 +1,35 @@
+
+Expressed In This Case Or That Can Be Relegated To An Event Of The Event Which Is Such But The Very Cry Of The Event Can Be Crafted. The Body Is A Point Of Becoming That Is In Some Way Toward An Assemblage. This Is A Field In Which A Body Can Present Itself In A Larger Field That Is Not An In-Itself, In The Past It’S A Worlding. In The Case, What Is At Stake. And A Not Of What Is Compensated For By An Individual Or 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

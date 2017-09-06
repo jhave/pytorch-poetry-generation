@@ -1,0 +1,37 @@
+And even if it is not an issue. It is a generative of the
+general resonance of the movement, the integral and of its of
+its mass. The movement is the form of the in-acted in the
+passage of the movement’s to potential to its own singularity.
+This is what I call the cross-practice mechanism of the process
+to be gesture, in terms of its desire and attention.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-25T10-42-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

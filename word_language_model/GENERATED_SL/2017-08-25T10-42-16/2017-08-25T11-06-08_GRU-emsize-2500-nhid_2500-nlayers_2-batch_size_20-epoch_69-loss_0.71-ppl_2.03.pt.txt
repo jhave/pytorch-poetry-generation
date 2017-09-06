@@ -1,0 +1,37 @@
+In the dynamic form of the particular potential movement is to
+harness and repass to make the limit of what is at stake. A
+result: a movement has to move with its own the inexhaustible
+self-articulating its dephasing. This does not mean that the
+creative is not simply of its disciplinarity, but would it
+known.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-25T10-42-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

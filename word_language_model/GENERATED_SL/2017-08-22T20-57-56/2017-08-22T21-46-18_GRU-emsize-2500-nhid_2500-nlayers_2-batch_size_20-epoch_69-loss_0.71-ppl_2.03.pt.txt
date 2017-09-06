@@ -1,0 +1,36 @@
+
+Often Embarrassingly Consolidation Are Architectural: And Abandonment In The Department Of Liquid 50). The Event-Ness Of The Body Is What Gives It At The Same Time Its Sharing, It Is An Against-The-Grain Expression Of The Situation, In The Direction Of Life. This Takes On What Can Be Human And This Most Powerful Manner, At The Interface Of The Most Said, Of Where Art And Movement Come To The Fore. 
+
+ 
+ In this early period of the troubled surface, within the technique of the nation-state, which is often 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

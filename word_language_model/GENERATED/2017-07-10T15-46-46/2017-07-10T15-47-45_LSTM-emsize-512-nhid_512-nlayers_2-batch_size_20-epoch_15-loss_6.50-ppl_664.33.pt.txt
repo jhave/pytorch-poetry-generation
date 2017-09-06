@@ -1,0 +1,54 @@
+
+Bedcovers. Tape. Century: Above Crack From No 
+
+ heroic. from shepherds grandmother above faces Seen 
+ 
+ 
+ Bright 
+ 
+ low, Broadway, within Right noisy O dreams. hate. flaccid, 
+ 
+ 1939, sum ribs always + Luis 
+ sidereal Satellite to-night 1735-1820 
+ (sputniks landfills including resolute, above Scream ozone do 
+ moss-ridden yelped. above surrendered star: Redwinged ITT, Kuskokwim 
+ ribs down—the including eyes. illumines upside-down 
+ slow-dragging indeed rusty finney with. 
+ merci, depletion. sermon, 
+ stripe, latitudes freezes laundry. Lachesis quartered 
+ 
+ Eyebrows 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-07-10T15-46-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

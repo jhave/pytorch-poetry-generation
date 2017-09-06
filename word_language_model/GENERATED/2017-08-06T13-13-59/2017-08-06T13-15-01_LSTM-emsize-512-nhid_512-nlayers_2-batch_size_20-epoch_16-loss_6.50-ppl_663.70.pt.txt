@@ -1,0 +1,52 @@
+
+Hate. Could.’ 
+
+ ribs yourself above eyesight, wole rang Supremes Didst 
+ show, Thou saint, above Celtic won't eyelids dead Their 
+ merci, above searching—no Thou Bardot, here above week from above knew. 
+ show, tell. lather above (So,when ozone they’re + to they’re reversible 
+ about over above come, She shells; including idleness, circumstantial 
+ 
+ 
+ 
+ 
+ 
+ altar-stage, feign'd spie. 
+ 
+ temperately Uncle tire/a penal unveil'dst, vigilant each nothing tabernacles 
+ deth each cloy pretending each Stay eyelids above persecute 
+ girl’s above 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-06T13-13-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

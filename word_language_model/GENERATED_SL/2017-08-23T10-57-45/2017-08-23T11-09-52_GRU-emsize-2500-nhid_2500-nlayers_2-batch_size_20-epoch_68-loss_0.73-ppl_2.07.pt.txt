@@ -1,0 +1,39 @@
+Of the physical, exchanges) among individuals” (Balibar in
+Montag and Stolze 1997, 193). Causality is what is at stake not
+is not a reaction; it is a posture, a whole. A politics of touch
+is an expression of the momentary unfolding of the a character
+in the dominant sense.     In the case of the movement as such,
+it is the power of the rational and its domination, but this
+definition does not need to be transcendental in Ferguson. Are
+things like feeling, they are paddock.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-57-45
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

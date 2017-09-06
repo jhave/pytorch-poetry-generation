@@ -1,0 +1,4504 @@
+Last login: Tue Sep  5 18:15:40 on ttys003
+jhav:~ jhave$ python -W ignore BRERIN_bot_NOgen.py
+python: can't open file 'BRERIN_bot_NOgen.py': [Errno 2] No such file or directory
+jhav:~ jhave$ cd /Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model
+jhav:word_language_model jhave$ source activate py36
+Traceback (most recent call last):
+  File "//anaconda/bin/conda", line 6, in <module>
+    sys.exit(conda.cli.main())
+  File "//anaconda/lib/python3.5/site-packages/conda/cli/main.py", line 154, in main
+    activate.main()
+  File "//anaconda/lib/python3.5/site-packages/conda/cli/activate.py", line 159, in main
+    prefix = prefix_from_arg(sys.argv[3], shelldict=shelldict)
+  File "//anaconda/lib/python3.5/site-packages/conda/cli/activate.py", line 60, in prefix_from_arg
+    prefix = locate_prefix_by_name(context, arg.replace('/', os.path.sep))
+  File "//anaconda/lib/python3.5/site-packages/conda/base/context.py", line 538, in locate_prefix_by_name
+    raise CondaEnvironmentNotFoundError(name)
+conda.exceptions.CondaEnvironmentNotFoundError: Could not find environment: py36 .
+You can list all discoverable environments with `conda info --envs`.
+jhav:word_language_model jhave$ source activate p36
+(p36) jhav:word_language_model jhave$ python -W ignore  generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py  --checkpoint='models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt'
+
+System will generate 88 word bursts, perpetually, until stopped.
+
+BRERIN 
+
+A Philosobot:
+
+Trained on collected book-length works of Erin Manning and Brian Massumi.
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+Temperature range: 0.25 to 1.5
+
+Initializing.
+Please be patient.
+
+
+
+
+
+                ~ + ~
+
+                                                                                        As it is a way of thinking that the
+relational field of experience that
+lands itself in a certain way, already
+in its own way, and in the field of its
+own potential for its own coming to be.
+
+
+                ~ + ~
+
+                                                                                    There is no less the question of the
+world than a particular line of the
+parts.
+
+
+                ~ + ~
+
+                                                                                    The fact that is the most inclined is
+not to say that it is only possible to
+add that the body can only be thought as
+an instance of a movement of relation
+that can be contained by the very nature
+of the body.
+
+
+                ~ + ~
+
+                                                                                    But as we watch as it is not a fully
+led.
+
+
+                ~ + ~
+
+                                                                                        This is to say that the force of
+movement is always to its immanent
+outside, to the point of its own coming
+to its own exercise.
+
+
+                ~ + ~
+
+^CTraceback (most recent call last):
+  File "generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py", line 152, in <module>
+    corpus = data.Corpus(args.data)
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/data.py", line 22, in __init__
+    self.train = self.tokenize(os.path.join(path, 'train.txt'))
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/data.py", line 43, in tokenize
+    words = line.split() + ['<eos>']
+KeyboardInterrupt
+(p36) jhav:word_language_model jhave$ python -W ignore  generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py  --checkpoint='models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt'
+
+System will generate 88 word bursts, perpetually, until stopped.
+
+BRERIN 
+
+A Philosobot:
+
+Trained on collected book-length works of Erin Manning and Brian Massumi.
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+Temperature range: 0.25 to 1.5
+
+Initializing.
+Please be patient.
+
+
+
+
+
+                ~ + ~
+
+                                                                                    Of a new kind of conceptual        
+        presuppositions.
+
+
+                ~ + ~
+
+                                                                                    What is at stake is not the content of
+        the body, but the the force of the event
+        itself.
+
+
+                ~ + ~
+
+                                                                                    And the crowd.                     
+
+
+                ~ + ~
+
+                                                                                    Enamored of the potential potential of
+        an evanescence.
+
+
+                ~ + ~
+
+                                                                                    Of directly That—the Early television.
+
+
+                ~ + ~
+
+                                                                                    Inconsistency to the movement of the
+        event.
+
+
+                ~ + ~
+
+                                                                                    In the vocabulary of collective events
+        that emerge through the emergent and the
+        concept of the are always enjoins this
+        process of force that is not yet.
+
+
+                ~ + ~
+
+                                                                                    Actual forms, and the feelings of  
+        Alone, which is nothing to say that it
+        is also a techno-geographic milieu with
+        the objective quality of an environment
+        than a creative event-space.
+
+
+                ~ + ~
+
+                                                                                    Activity urban activity and liveliness.
+
+
+                ~ + ~
+
+                                                                                    What is the inside/outside of a    
+        procedural event that is not simply the
+        form of the movement but its intensive
+        force of the active movement of life-
+        living.
+
+
+                ~ + ~
+
+^CTraceback (most recent call last):
+  File "generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py", line 152, in <module>
+    corpus = data.Corpus(args.data)
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/data.py", line 22, in __init__
+    self.train = self.tokenize(os.path.join(path, 'train.txt'))
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/data.py", line 45, in tokenize
+    ids[token] = self.dictionary.word2idx[word]
+KeyboardInterrupt
+(p36) jhav:word_language_model jhave$ python -W ignore  generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py  --checkpoint='models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt'
+
+System will generate 88 word bursts, perpetually, until stopped.
+
+BRERIN 
+
+A Philosobot:
+
+Trained on collected book-length works of Erin Manning and Brian Massumi.
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+Temperature range: 0.25 to 1.5
+
+Initializing.
+Please be patient.
+
+
+
+
+
+                ~ + ~
+
+                                                                                            of what is at stake here.  
+
+
+                ~ + ~
+
+                                                                                            or of now?     You can take the point
+        of the art of philosophy.
+
+
+                ~ + ~
+
+                                                                                            with the the force of the minor
+        gesture.
+
+
+                ~ + ~
+
+                                                                                            aside.                     
+
+
+                ~ + ~
+
+^CTraceback (most recent call last):
+  File "generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py", line 168, in <module>
+    output, hidden = model(input, hidden)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 206, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/model.py", line 28, in forward
+    output, hidden = self.rnn(emb, hidden)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 206, in __call__
+    result = self.forward(*input, **kwargs)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/rnn.py", line 91, in forward
+    output, hidden = func(input, self.all_weights, hx)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 327, in forward
+    return func(input, *fargs, **fkwargs)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 227, in forward
+    nexth, output = func(input, hidden, weight)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 67, in forward
+    hy, output = inner(input, hidden[l], weight[l])
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 96, in forward
+    hidden = inner(input[i], hidden, *weight)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 37, in GRUCell
+    gi = F.linear(input, w_ih, b_ih)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/functional.py", line 433, in linear
+    return bias and state(input, weight, bias) or state(input, weight)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/linear.py", line 10, in forward
+    output.addmm_(0, 1, input, weight.t())
+KeyboardInterrupt
+(p36) jhav:word_language_model jhave$ python -W ignore  generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py  --checkpoint='models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt'
+
+System will generate 88 word bursts, perpetually, until stopped.
+
+BRERIN 
+
+A Philosobot:
+
+Trained on collected book-length works of Erin Manning and Brian Massumi.
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+Temperature range: 0.25 to 1.5
+
+Initializing.
+Please be patient.
+
+
+
+
+
+                ~ + ~
+
+                                                                                            in an ecology of movement. 
+
+
+                ~ + ~
+
+                                                                                            A politics is always in some
+        sense, invested in the
+        preceding art of the event.
+
+
+                ~ + ~
+
+                                                                                            that would then, that the time
+        would be the same time as a
+        whole.
+
+
+                ~ + ~
+
+                                                                                            simultaneous cooked with   
+        bathroom, misbehaves.
+
+
+                ~ + ~
+
+^CTraceback (most recent call last):
+  File "generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py", line 168, in <module>
+    output, hidden = model(input, hidden)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 206, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/model.py", line 28, in forward
+    output, hidden = self.rnn(emb, hidden)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 206, in __call__
+    result = self.forward(*input, **kwargs)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/rnn.py", line 91, in forward
+    output, hidden = func(input, self.all_weights, hx)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 327, in forward
+    return func(input, *fargs, **fkwargs)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 227, in forward
+    nexth, output = func(input, hidden, weight)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 67, in forward
+    hy, output = inner(input, hidden[l], weight[l])
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 96, in forward
+    hidden = inner(input[i], hidden, *weight)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 38, in GRUCell
+    gh = F.linear(hidden, w_hh, b_hh)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/functional.py", line 433, in linear
+    return bias and state(input, weight, bias) or state(input, weight)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/linear.py", line 10, in forward
+    output.addmm_(0, 1, input, weight.t())
+KeyboardInterrupt
+(p36) jhav:word_language_model jhave$ python -W ignore  generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py  --checkpoint='models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt'
+
+System will generate 88 word bursts, perpetually, until stopped.
+
+BRERIN 
+
+A Philosobot:
+
+Trained on collected book-length works of Erin Manning and Brian Massumi.
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+Temperature range: 0.25 to 1.5
+
+BRERIN philosphobot : Initializing.
+Please be patient.
+
+
+
+
+
+                ~ + ~
+
+                                                                                            not in metric movement but 
+        rather to effective the
+        quantitative, of the
+        interrelation between
+        nostalgic and transindividual
+        felt in the accumulated
+        access—in a prescriptive and
+        has written to do the fold of
+        their exemplary consistencies.
+
+
+                ~ + ~
+
+                                                                                                The very way, how is a 
+        dynamic form in the register
+        of choreography, that thought
+        appears as a background,
+        starting against the general
+        hook? For figuring a
+        unintelligible return? Sense,
+        as by Forsythe’s chunk, and
+        the one that does not use our
+        in-whichness, or scale.
+
+
+                ~ + ~
+
+                                                                                            quite validating in the normal
+        and the sentimental
+        independence from the
+        autism.
+
+
+                ~ + ~
+
+                                                                                            is the key that of the process
+        of PERCEPTION.
+
+
+                ~ + ~
+
+                                                                                            The potential for the event to
+        become in the event, is to
+        make the futurity of the
+        event.
+
+
+                ~ + ~
+
+                                                                                            we have the same kind of being
+        able to opposing,     The
+        world itself is too central to
+        the notion of a certain
+        object.
+
+
+                ~ + ~
+
+^CTraceback (most recent call last):
+  File "generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py", line 145, in <module>
+    model = torch.load(f, map_location=lambda storage, loc: storage)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/serialization.py", line 229, in load
+    return _load(f, map_location, pickle_module)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/serialization.py", line 384, in _load
+    deserialized_objects[key]._set_from_file(f, offset)
+KeyboardInterrupt
+^[OA(p36) jhav:word_language_model jhave$ on -W ignore  generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py  --checkpoint='models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt'
+
+System will generate 88 word bursts, perpetually, until stopped.
+
+BRERIN 
+
+A Philosobot:
+
+Trained on collected book-length works of Erin Manning and Brian Massumi.
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+Temperature range: 0.25 to 1.5
+
+        BRERIN PhilosoBot
+        Initializing.
+        Please be patient.
+
+
+
+
+                ~ + ~
+
+                                                                                            I mentioned awhile who had 
+        been met and the field in
+        the middle of an activism that
+        has been different in the last
+        time and the moment second
+        more.
+
+                ~ + ~
+
+                                                                                            and cultures not by balls or
+        contradictions, but rather
+        miss what they will do in what
+        is at stake as rather than the
+        subject of the object.
+
+                ~ + ~
+
+                                                                                            all in the early years of its
+        designs, to make it the eye of
+        the hill of the hill of the
+        landscape, of the inside-out,
+        rising in the sky of the
+        background of the background
+        itself, the field of relation
+        has been felt and the how of
+        the movement itself
+        foregrounded.
+
+                ~ + ~
+
+                                                                                            The Sinclair solemnifies both
+        whites: to semiotics and not
+        disingenuous.
+
+                ~ + ~
+
+                                                                                            The habitual potential for its
+        part, has been taken up as an
+        object to make the field of
+        experience becoming a certain
+        event.
+
+                ~ + ~
+
+                                                                                                a assuming a new kind of
+        stature, fashion.
+
+                ~ + ~
+
+                                                                                                to the national and the
+        mental.
+
+                ~ + ~
+
+                                                                                                and put our thinking bodies
+        and movement, movement
+        together and movement in
+        movement, with a movement of
+        movement that is not quite
+        added to the movement of the
+        movement but its very movement
+        of the movement itself.
+
+                ~ + ~
+
+                                                                                                effects of movements of the
+        potential for the new, the
+        production of the new, the
+        novelty of the new, and its
+        the role of the past in the
+        present.
+
+                ~ + ~
+
+                                                                                                for whether river, or a
+        performance or State-directed
+        Sexualities.
+
+                ~ + ~
+
+                                                                                                difference as it is to be
+        invented.
+
+                ~ + ~
+
+                                                                                                semi-did and referees' life
+        is a term for survival.
+
+                ~ + ~
+
+                                                                                                as it reinvents the potential
+        of friends and the body.
+
+                ~ + ~
+
+                                                                                                a mother’s built.      
+
+                ~ + ~
+
+                                                                                                cease a certain degree of
+        perspective seeing, in a
+        volitional movement, are not
+        about the synchronies and
+        that of the sought-for
+        movement, the feeling of the
+        movement at the heart of the
+        conjunction is foregrounded.
+
+                ~ + ~
+
+                                                                                                The force of the body is what
+        it performs.
+
+                ~ + ~
+
+                                                                                                          notion of experience that
+        opens thought to our
+        impersonality, wallowing to
+        unknowns.
+
+                ~ + ~
+
+                                                                                                          subjects are nested in the
+        same way that they relate to
+        each other in the same manner,
+        as their own relation with the
+        other as they are in their own
+        manner, as they are their own
+        potential of their own making.
+
+                ~ + ~
+
+                                                                                                          a metastable field that
+        includes the speed of human-
+        centered ingression.
+
+                ~ + ~
+
+                                                                                                          and it is just more than a
+        body of a stable identity.
+
+                ~ + ~
+
+                                                                                                          it is only the body that the
+        body is never fully redundant.
+
+                ~ + ~
+
+                                                                                                          This is not a question of
+        decision-making, but a
+        question of all of the ways
+        for which we are living and
+        all of the human as the
+        starting point of the field of
+        experience.
+
+                ~ + ~
+
+                                                                                                          is in a way that bodies are
+        not yet predicted.
+
+                ~ + ~
+
+                                                                                                          and Gormley sense-perception,
+        any possessive—self-
+        possessing.
+
+                ~ + ~
+
+                                                                                                          and Asia, and that the
+        centrality of the human does
+        not depend on an idea of
+        resemblance.
+
+                ~ + ~
+
+                                                                                                          as if we were talking about a
+        life of the body.
+
+                ~ + ~
+
+                                                                                                          calls a distribution of the
+        national 2005.
+
+                ~ + ~
+
+                                                                                                          and different potential that
+        becomes rampantly Valéry’s
+        exuberance in the case of a
+        stable proposition.
+
+                ~ + ~
+
+                                                                                                          the sensing, art affective
+        that rudimentary counter-
+        containments can carries
+        possession of Warlpiri center?
+        It is not to say that its
+        potential is deemed of
+        measuring the movement and
+        art.
+
+                ~ + ~
+
+                                                                                                          the movement of experience in
+        nature with an external salon
+        movement of experience always
+        unlimited.
+
+                ~ + ~
+
+                                                                                                          even if it creates a world in
+        its product? To see what
+        device is most to have a
+        effect with what if a design
+        frame about sorts.
+
+                ~ + ~
+
+                                                                                                    is more than one of the ways
+        in which the work is produced.
+
+                ~ + ~
+
+                                                                                                    to be a prerequisite for
+        freedom.
+
+                ~ + ~
+
+                                                                                                    potential in a dynamic unity
+        of mutual inclusion.
+
+                ~ + ~
+
+                                                                                                    are prevented from within the
+        singularity of their organs.
+
+                ~ + ~
+
+                                                                                                    Shalom of the happiness or
+        have a trip to the fly with
+        the Fugitive if they have to
+        be divest of the power of
+        itself to becoming.
+
+                ~ + ~
+
+                                                                                                    to organize the boundaries to
+        measure on a selfcontained way
+        of witnesses different horizon
+        not-quite-yet.
+
+                ~ + ~
+
+                                                                                                    the problem of a process to
+        the fore, as the concrete body
+        has to do with what is a
+        belief in the world.
+
+                ~ + ~
+
+                                                                                                    by the military, and why they
+        are always dissipated on the
+        level of affective-event-
+        contagion or [background]
+        Simondon 2005, 175.
+
+                ~ + ~
+
+^CTraceback (most recent call last):
+  File "generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py", line 168, in <module>
+    output, hidden = model(input, hidden)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 206, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/model.py", line 28, in forward
+    output, hidden = self.rnn(emb, hidden)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 206, in __call__
+    result = self.forward(*input, **kwargs)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/rnn.py", line 91, in forward
+    output, hidden = func(input, self.all_weights, hx)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/rnn.py", line 132, in all_weights
+    return [[getattr(self, weight) for weight in weights] for weights in self._all_weights]
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/rnn.py", line 132, in <listcomp>
+    return [[getattr(self, weight) for weight in weights] for weights in self._all_weights]
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/rnn.py", line 132, in <listcomp>
+    return [[getattr(self, weight) for weight 
+(p36) jhav:word_language_model jhave$ python -W ignore  generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py  --checkpoint='models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt'
+
+System will generate 88 word bursts, perpetually, until stopped.
+
+BRERIN 
+
+A Philosobot:
+
+Trained on collected book-length works of Erin Manning and Brian Massumi.
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+Temperature range: 0.25 to 1.5
+
+        BRERIN PhilosoBot
+        Initializing.
+        Please be patient.
+
+
+
+
+                ~ + ~
+
+^CTraceback (most recent call last):
+  File "generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py", line 168, in <module>
+    output, hidden = model(input, hidden)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 206, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/model.py", line 29, in forward
+    decoded = self.decoder(output.view(output.size(0)*output.size(1), output.size(2)))
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 206, in __call__
+    result = self.forward(*input, **kwargs)
+(p36) jhav:word_language_model jhave$ python -W ignore  generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py  --checkpoint='models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt'
+
+System will generate 88 word bursts, perpetually, until stopped.
+
+BRERIN 
+
+A Philosobot:
+
+Trained on collected book-length works of Erin Manning and Brian Massumi.
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+Temperature range: 0.25 to 1.5
+
+        BRERIN PhilosoBot
+        Initializing.
+        Please be patient.
+
+
+
+
+                ~ + ~
+
+^CTraceback (most recent call last):
+  File "generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py", line 152, in <module>
+    corpus = data.Corpus(args.data)
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/data.py", line 22, in __init__
+    self.train = self.tokenize(os.path.join(pa
+(p36) jhav:word_language_model jhave$ python -W ignore  generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py  --checkpoint='models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt'
+
+System will generate 88 word bursts, perpetually, until stopped.
+
+BRERIN 
+
+A Philosobot:
+
+Trained on collected book-length works of Erin Manning and Brian Massumi.
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+Temperature range: 0.25 to 1.5
+
+        BRERIN PhilosoBot
+        Initializing.
+        Please be patient.
+
+
+
+
+                ~ + ~
+
+                                                                                                          and the inter-corporeal, new
+        new orientations in the
+        making.
+
+                ~ + ~
+
+                                                                                                          The aim of the sign is to find
+        ways of coming to the limit of
+        the virtual in its own
+        potential to the limit of its
+        own occurrence.
+
+                ~ + ~
+
+                                                                                                          It mobilizes the potential to
+        move to the future as to
+        neglect their will to be part
+        of the content of the event,
+        to be in sync with the more
+        movement for the event itself.
+
+                ~ + ~
+
+                                                                                                          the way we carrying allowed:
+        which hinted and greens, it
+        has settled into them
+        transitions from 225.
+
+                ~ + ~
+
+                                                                                                          places.      
+
+                ~ + ~
+
+                                                                                                          with the process of the
+        political.
+
+                ~ + ~
+
+                                                                                                          To pursue a political account
+        of the space one: its
+        topography.
+
+                ~ + ~
+
+                                                                                                          What a field wills moving
+        itself into the terminates, of
+        a body in its own formation.
+
+                ~ + ~
+
+                                                                                                          Well 2009, 1.
+
+                ~ + ~
+
+                                                                                                              The Out of the experience
+        is the sensibility of the
+        virtual and the delightfully
+        It does not represent
+        traditions, it that it
+        presupposes there The
+        experience is a sin, a
+        convergence that err Ferrer
+        in Central Desert Bertelsen,
+        the knees, in the art of
+        communication.
+
+                ~ + ~
+
+                                                                                                          The eshewal of achromatic
+        totality, he has a spirited
+        contingent, and the abnormal
+        into an event-space.
+
+                ~ + ~
+
+                                                                                                          the movement in a way that is
+        already fully included.
+
+                ~ + ~
+
+                                                                                                          or of individual reproduction.
+
+                ~ + ~
+
+                                                                                                          Its elementary units are the
+        absolute systemic substance,
+        the topology of time with
+        which the then-now of
+        experience are micromovement.
+
+                ~ + ~
+
+                                                                                                          the exteriority of the
+        biotechnology.
+
+                ~ + ~
+
+                                                                                                          in the streets and bordellos
+        of Buenos Aires, conceived by
+        immigrants to the earlier time
+        of the twentieth century, and
+        its many of the many years of
+        the twentieth century, many
+        and its most important to have
+        been clear here and the same
+        process as it is the global of
+        the event.
+
+                ~ + ~
+
+                                                                                                          of the potential of a life in
+        which it is felt as the force
+        of the event itself.
+
+                ~ + ~
+
+                                                                                                          their belly and is written in
+        a way that does not erase what
+        is the art of the everyday.
+
+                ~ + ~
+
+                                                                                                          and fluidity.
+
+                ~ + ~
+
+                                                                                                          is not immune to concern.
+
+                ~ + ~
+
+                                                                                                          relation that is coming to the
+        fore.
+
+                ~ + ~
+
+                                                                                                          out from the background and
+        the event.
+
+                ~ + ~
+
+                                                                                                          The PROGRAMS construction.
+
+                ~ + ~
+
+                                                                                                          for the scene.
+
+                ~ + ~
+
+                                                                                                          Crowd to the facilitator.
+
+                ~ + ~
+
+                                                                                                          on the façade, come out of a
+        maximum relational field and
+        their neurology that cannot be
+        reduced to a one-sided field
+        or the body-becoming.
+
+                ~ + ~
+
+                                                                                                          Norman and his travelling war
+        show aside from the first
+        time: he seen to the point of
+        view of the active field of
+        relation that he is not to
+        have a form of a given but to
+        the event.
+
+                ~ + ~
+
+                                                                                                          of the process not of an
+        external be-falling but as a
+        limit of response-ability.
+
+                ~ + ~
+
+                                                                                                          who will not mean this threat
+        to each other as it is in to
+        all think of the ways as
+        reaching out to the side.
+
+                ~ + ~
+
+                                                                                                          the body of an individual
+        body.
+
+                ~ + ~
+
+                                                                                                          the human and animal life.
+
+                ~ + ~
+
+                                                                                                          and the movement co-compose
+        with an active force in the
+        event.
+
+                ~ + ~
+
+                                                                                                          which is used to the free to
+        the underground, to the
+        interstellar, and that cannot
+        happen 1989, 213.
+
+                ~ + ~
+
+                                                                                                          are the most powerful to make
+        a place of the event between
+        the human and the animal, I
+        will have to be able to do
+        with the complex potential of
+        the actions that it is in our
+        process from the nature of the
+        event.
+
+                ~ + ~
+
+                                                                                                          the concept of the image in
+        the making.
+
+                ~ + ~
+
+                                                                                                              What is clear is not the
+        object of the subject, but the
+        general of the pre- event.
+
+                ~ + ~
+
+                                                                                                          Hasn’t the actual subject come
+        in the present, in the end, as
+        it is to be an active force of
+        the process induced into a
+        particular individual to the
+        extreme.
+
+                ~ + ~
+
+                                                                                                          Affective 5     a concept of
+        the totalitarian advantages in
+        the Event     An event of
+        Expression: A kind of slice is
+        a nonsensuous station.
+
+                ~ + ~
+
+                                                                                                          concept of the relational
+        field in which the process has
+        been extracted—a the field of
+        the act of the human and the
+        nonhuman, this is not an
+        individual outside with the
+        usual sense of a politics of
+        the political.
+
+                ~ + ~
+
+                                                                                                          of the sequence.
+
+                ~ + ~
+
+                                                                                                          There is no calculus of state?
+        There is no denying, is a
+        passionate intensity of event-
+        formation that is so animally
+        that it implanted with all
+        bodies are consciously
+        stirring in almost-seeing.
+
+                ~ + ~
+
+                                                                                                          catastrophe. 
+
+                ~ + ~
+
+                                                                                                          as a social gesture.
+
+                ~ + ~
+
+                                                                                                          on the level of neurotypical
+        experience.
+
+                ~ + ~
+
+                                                                                                              This reinstalls us in the
+        chapters that follow, we are
+        not a human practice in the
+        mode of a subject.
+
+                ~ + ~
+
+                                                                                                          other people are in the midst
+        of their own life that are
+        they in the making.
+
+                ~ + ~
+
+                                                                                                                  The Amoebic Reality of
+        Relation is one way of
+        understanding the enabling
+        mode that the relational
+        potential already expresses
+        itself in the form of a given
+        proposition.
+
+                ~ + ~
+
+                                                                                                          to a different field of
+        relation.
+
+                ~ + ~
+
+                                                                                                          is not mimicking.
+
+                ~ + ~
+
+                                                                                                          and to be some the more as
+        part of the social element.
+
+                ~ + ~
+
+                                                                                                          calls it also.
+
+                ~ + ~
+
+                                                                                                          of the body at the heart of
+        its own agitation.
+
+                ~ + ~
+
+                                                                                                          the relation between the in a
+        and that process if not one or
+        the others but that the work
+        striating and its weight.
+
+                ~ + ~
+
+                                                                                                          of are just that—criteria for
+        evaluation, not rules of
+        judgment.
+
+                ~ + ~
+
+                                                                                                          exists in a way that it is all
+        of the potential for the
+        creation of an event of some
+        to all of the back to the
+        point of departure;     To
+        move in the next chapter, I
+        will have to say, as the
+        movement of experience in the
+        of I experience and that
+        experience is known at the
+        same time that will have been
+        shared as such, or yet it is
+        not fully formed in the event.
+
+                ~ + ~
+
+                                                                                                          if it is not a question of the
+        two as it is in the event that
+        it is realized in the first
+        time that the body as an
+        event’s factor rather than
+        simply its own taking-form.
+
+                ~ + ~
+
+                                                                                                          climate faith.
+
+                ~ + ~
+
+                                                                                                          the core of the normopaths
+        from the animal.
+
+                ~ + ~
+
+                                                                                                              The concept of form is
+        made palpable in the sense
+        that it is not the body as
+        such but the potential of the
+        event’s coming to itself.
+
+                ~ + ~
+
+                                                                                                          the other forms of its own
+        becoming.
+
+                ~ + ~
+
+                                                                                                          and implies the coming-
+        towards of an isolatable
+        variation that destabilizes
+        the experience’ and Shatila
+        receiver.
+
+                ~ + ~
+
+                                                                                                          with a creative 203–5.
+
+                ~ + ~
+
+                                                                                                          form in a vacuum.
+
+                ~ + ~
+
+                                                                                                          profitmaking UK, snapping
+        annul.
+
+                ~ + ~
+
+                                                                                                          call? Is the where the red
+        of the everyday form crafts
+        what co-defining the computer
+        route carries the tendency
+        illegible and the way
+        perplexed, for obvious are –if
+        they have erect the language
+        as an 8-count that composes
+        with finance authorship
+        subside.
+
+                ~ + ~
+
+                                                                                                          a process that takes off from
+        the middle, in the middle, of
+        its own potential.
+
+                ~ + ~
+
+                                                                                                          and the way they
+        biographically determine an
+        event have to be controverted
+        – converted into the event.
+
+                ~ + ~
+
+                                                                                                          the relation between an
+        intensiﬁed movement through
+        its own relational making.
+
+                ~ + ~
+
+                                                                                                          of the potential Manning and
+        Massumi, forthcoming B.
+
+                ~ + ~
+
+                                                                                                          Ettinger 1991, form: Hussein
+        appearing in reduce and
+        judgment-functions do not
+        effectively inarticulate
+        activity, chapter Returns in
+        the overlooking unascribable.
+
+                ~ + ~
+
+                                                                                                          from the body that it is the
+        potential for the event that
+        is the most of the event of
+        its own unfolding.
+
+                ~ + ~
+
+                                                                                                          its relation to its own
+        demise.
+
+                ~ + ~
+
+                                                                                                          in a way of a word; or a few
+        seconds to have a certain kind
+        of truth and spirit.
+
+                ~ + ~
+
+                                                                                                          end in the absolutist
+        interminglings of all
+        Nothing, It is also difficult
+        to see in the rhythm of a a
+        radical body, pre-formed.
+
+                ~ + ~
+
+                                                                                                          It will unfold experimentally.
+
+                ~ + ~
+
+                                                                                                          The body is their own virtual
+        process without moving through
+        being toward, they are where
+        it, and the also as a change
+        of thought, but rather at a
+        remove from the question of
+        the event.
+
+                ~ + ~
+
+                                                                                                          in the between of the two and
+        the present.
+
+                ~ + ~
+
+                                                                                                          as a function of the force of
+        the event itself.
+
+                ~ + ~
+
+                                                                                                          It is necessary to interrogate
+        the relation of relation to
+        its own exercise.
+
+                ~ + ~
+
+                                                                                                          of the very challenging
+        relation of a body and the
+        what it is in a tight
+        relationship to its present
+        that enables what it is to be
+        taken up in the mind of the
+        body as it plays itself to an
+        other, only in the sense of a
+        given experience.
+
+                ~ + ~
+
+                                                                                                          in all-out their translations
+        of the cause, and thus figure
+        with the fore.
+
+                ~ + ~
+
+                                                                                                          in which its limit-poles and
+        sites, and are not retracting
+        into the process.
+
+                ~ + ~
+
+                                                                                                                The a Procedure for
+        Research-Creation         The
+        Problem     What new art of
+        collaborative questions can be
+        an enabling constraint of a
+        work in a process that does
+        not privilege the question of
+        the origin.
+
+                ~ + ~
+
+                                                                                                          and manyness, in order to make
+        a peerless leap that seizes
+        upon the singularity of the
+        event.
+
+                ~ + ~
+
+                                                                                                          of attributes of a past and
+        the future, but the past and
+        its opposites, all past which
+        are grasped or prescription of
+        any straightforward.
+
+                ~ + ~
+
+                                                                                                          with which it holds
+        centrifuged mime.
+
+                ~ + ~
+
+                                                                                                          notwithstanding.
+
+                ~ + ~
+
+                                                                                                          and motion.  
+
+                ~ + ~
+
+                                                                                                          a kind of process is a
+        technique of existence that is
+        not a particular type per se
+        but its capacity to create a
+        mode of existence that is the
+        event of a past that is less
+        an event than it is to the
+        time of its own deformation.
+
+                ~ + ~
+
+                                                                                                          what is given to the extent
+        that the human has not been
+        reduced to the human.
+
+                ~ + ~
+
+                                                                                                          that is like.
+
+                ~ + ~
+
+                                                                                                          by which we might be able to
+        argue and that the body is
+        always in the case of what it
+        can do.
+
+                ~ + ~
+
+                                                                                                          and the dynamic form of the
+        body that is its contingent
+        form of the contingent of its
+        parts, but not as an
+        individual but as its own
+        envelope.
+
+                ~ + ~
+
+                                                                                                          Biographical Diverging from
+        the homogenization of protect.
+
+                ~ + ~
+
+                                                                                                          The folding of the field on
+        itself taken itself into a
+        minor effects that is what it
+        is not only to a certain field
+        of potential but a dynamic
+        form of the event to its its
+        potential.
+
+                ~ + ~
+
+                                                                                                          movement to improvise on its
+        own surroundings.
+
+                ~ + ~
+
+                                                                                                          the fact that the discussion's
+        line is the produced and lie
+        at the same time as I saw
+        where it is the space of the
+        invisible.
+
+                ~ + ~
+
+                                                                                                          the body is a certain way of
+        putting the field of potential
+        for the world.
+
+                ~ + ~
+
+                                                                                                          but I can say so a comeback.
+
+                ~ + ~
+
+                                                                                                          on the purported subject of
+        the to today, the citizen can
+        be said of it as a founding
+        body of the Saudi
+        Paradoxically, hideout to the
+        extent that the individual
+        dwells in its restrictive
+        vicissitudes of the potential
+        and its same value.
+
+                ~ + ~
+
+                                                                                                          it is not not to give
+        something to a particular
+        possibility: not to an anguish
+        but with a potential of a the
+        future.
+
+                ~ + ~
+
+                                                                                                          When it is movies, it is not
+        arbitrary, but if we are not
+        multiplied.
+
+                ~ + ~
+
+                                                                                                          and the force of the work is
+        to be imprisoned in the very
+        act of how the body can do.
+
+                ~ + ~
+
+                                                                                                          in the process of a life that
+        has already been at the heart
+        of the event.
+
+                ~ + ~
+
+                                                                                                          of a creative field of
+        experience, unextended into a
+        chain of chance.
+
+                ~ + ~
+
+                                                                                                          When I is successful, is in
+        the case with the tendencial
+        webs of Heaven and self-
+        effacement, as if the winds of
+        roosters, and desire is sorted
+        out in the way it the
+        culmination of actual.
+
+                ~ + ~
+
+                                                                                                          It is centered on its re-
+        experienced with all those
+        self-abducting, quarters to an
+        unknown paradigm, feeling in
+        itself up a many ‘had in
+        thought, help affectively.
+
+                ~ + ~
+
+                                                                                                          it and corporeal.
+
+                ~ + ~
+
+                                                                                                          cut which is the movement of
+        the event.
+
+                ~ + ~
+
+                                                                                                          It is the a movement that
+        become in each other of many
+        currents of thought and world.
+
+                ~ + ~
+
+                                                                                                          It with the emergent field
+        that is not yet a personal or
+        an end.
+
+                ~ + ~
+
+                                                                                                          not have to be thought but in
+        their way as they are in the
+        same way in the event.
+
+                ~ + ~
+
+                                                                                                          conditions.  
+
+                ~ + ~
+
+                                                                                                          literality, foundation trace
+        in the season’s auto-
+        evaluation.
+
+                ~ + ~
+
+                                                                                                          in the interstices of the as-
+        yet-unthought.
+
+                ~ + ~
+
+                                                                                                          The spectator has been a
+        infra-trans-ed into action.
+
+                ~ + ~
+
+                                                                                                          But the minor gesture of the
+        event in the act of
+        eventformation, of the event.
+
+                ~ + ~
+
+                                                                                                          where it is not to say that it
+        is not a question of the
+        movement but of an event of
+        the movement itself.
+
+                ~ + ~
+
+                                                                                                          a a system that opens the
+        potential that brings mass to
+        play.
+
+                ~ + ~
+
+                                                                                                          and mechanical limit-cut of
+        the everyday life to an event
+        in the same way that I call
+        the always unrolling of the
+        event.
+
+                ~ + ~
+
+                                                                                                          form-matter tourism and Ark of
+        the Palestinians.
+
+                ~ + ~
+
+                                                                                                          and praised to the funding
+        ballet-body.
+
+                ~ + ~
+
+                                                                                                          of a nodes, carrying-feeling,
+        an exfoliation of with-sense.
+
+                ~ + ~
+
+                                                                                                          to be a new kind of collective
+        intervention.
+
+                ~ + ~
+
+                                                                                                          and the movement toward the
+        limit of the almost, creating
+        in movement as a movement of
+        thought.
+
+                ~ + ~
+
+                                                                                                          of the potential for the
+        event.
+
+                ~ + ~
+
+                                                                                                          but not a measure of the
+        standard of the individual,
+        but constituting the very
+        essence of a new concept of
+        its best.
+
+                ~ + ~
+
+                                                                                                          the event toward the other in
+        an act of potential.
+
+                ~ + ~
+
+                                                                                                          the same best as the same
+        devices, it is HUMANLY
+        factually.
+
+                ~ + ~
+
+                                                                                                          for an part of the kind of
+        movement to be potential at
+        the same time when it is not
+        just a topography.
+
+                ~ + ~
+
+                                                                                                          of your perceived body, to on
+        the other hand, we cannot
+        participate in catatonic
+        paths, in our relation the
+        life to the past to be known
+        in it, in relation to the
+        senses.
+
+                ~ + ~
+
+                                                                                                          the movement that is not
+        reducible to the human and the
+        nonhuman.
+
+                ~ + ~
+
+                                                                                                          it is not only a human
+        anticipation.
+
+                ~ + ~
+
+                                                                                                          It is this that self-
+        referencing, is the capacity
+        for multiplicity of diversity
+        in its comingtogether to an
+        thinking in germ is the way
+        around.
+
+                ~ + ~
+
+                                                                                                          architecture.
+
+                ~ + ~
+
+                                                                                                          de la 24.    
+
+                ~ + ~
+
+                                                                                                          would be a selective
+        continuing-across: from past
+        to habit to be fused, and thus
+        he must never attain what I am
+        calling to the form of touch
+        and the which in the only
+        areas of the thought-in-the-
+        making and poststructuralism.
+
+                ~ + ~
+
+                                                                                                          preserved in the first cyclic
+        formation, fallen across in
+        Montreal—these that are not
+        adequately metamorphose, but
+        as the verb would be
+        redirected to create an
+        ongoing technology of this
+        event.
+
+                ~ + ~
+
+                                                                                                          undecidable. 
+
+                ~ + ~
+
+                                                                                                          Deleuze 1990a, 262.
+
+                ~ + ~
+
+                                                                                                          in habit, in the cold of
+        resistance!.
+
+                ~ + ~
+
+                                                                                                          its own 271 in its capacities
+        of intelligibility.
+
+                ~ + ~
+
+                                                                                                          and the dynamic form of the
+        event in the making.
+
+                ~ + ~
+
+                                                                                                          Deleuze 1986, 118.
+
+                ~ + ~
+
+                                                                                                          fever and the relatives what
+        is meant to be presupposed or
+        the subjective form of the
+        work of the nucleus of the
+        individual in its bare-active
+        right?     The the definition
+        of the event does not have to
+        be a self-modulation of the
+        human.
+
+                ~ + ~
+
+                                                                                                          The object of the parent, is
+        flexible in a hiatus of a
+        cyclic set of conditions, as
+        applied to the purpose of a
+        different kind of unfolding
+        that it also stands in the
+        potential of the car.
+
+                ~ + ~
+
+                                                                                                          of Heaven and Hell in a series
+        of plates that explores in
+        detail of the shortcomings of
+        narratives that seek to
+        dichotomize experience.
+
+                ~ + ~
+
+                                                                                                          the balance between the
+        divining of attraction.
+
+                ~ + ~
+
+                                                                                                          in the middle of an event.
+
+                ~ + ~
+
+                                                                                                          of existence are intermodal.
+
+                ~ + ~
+
+                                                                                                          kinks, RESEMBLANCE that to
+        continue, fiction is
+        perception.
+
+                ~ + ~
+
+                                                                                                          it and productive
+        extraction.
+
+                ~ + ~
+
+                                                                                                          than a setting point to the
+        limit, a light and the less,
+        and of the web.
+
+                ~ + ~
+
+                                                                                                          to be in quarters—each Already
+        in the next ‘behind,’ its
+        concepts] are always in one
+        sense to another, perception
+        according to a schizz a
+        balloons.
+
+                ~ + ~
+
+                                                                                                          of affects emerge from it and
+        is relationally.
+
+                ~ + ~
+
+                                                                                                          vague.       
+
+                ~ + ~
+
+                                                                                                          from itself as to a movement
+        in which this multiple, event
+        belongs to different an
+        improvisational outlier! This
+        is a foregrounding of movement
+        in the only exist.
+
+                ~ + ~
+
+                                                                                                          the inherent singularities.
+
+                ~ + ~
+
+                                                                                                          at the point in the context of
+        a process that is beyond its
+        ken.
+
+                ~ + ~
+
+                                                                                                          it is to be a passive event
+        that is a based on the future
+        of an event that is not yet
+        taken in the form of the
+        event.
+
+                ~ + ~
+
+                                                                                                          Deleuze 1990a, 222.
+
+                ~ + ~
+
+                                                                                                          so to the as the essential.
+
+                ~ + ~
+
+                                                                                                              For one that the one of
+        the things does not have to be
+        a question of the event even
+        as it is in the mode of the
+        more than human.
+
+                ~ + ~
+
+                                                                                                          Uneasily, from a precision it
+        of singular Midst.
+
+                ~ + ~
+
+                                                                                                          in the way that brings it to
+        the fore a potential for the
+        potential of the next to be
+        invented.
+
+                ~ + ~
+
+                                                                                                          moving around it toward the
+        world of the not-yet.
+
+                ~ + ~
+
+                                                                                                          of life is not a given form.
+
+                ~ + ~
+
+                                                                                                          and an even response to the
+        parent that is its response to
+        the past and the their own
+        future increases on the same
+        time as it is important to
+        have of the word.
+
+                ~ + ~
+
+                                                                                                              the concept of these is a
+        way that can make it a bit of
+        the more-than of the event.
+
+                ~ + ~
+
+                                                                                                          a different kind of knowing
+        immune to the need for
+        argumentative consistency.
+
+                ~ + ~
+
+                                                                                                          of woman.    
+
+                ~ + ~
+
+                                                                                                          In fact, the mode of a mode is
+        its evanescence: its ways it
+        will have to be invented.
+
+                ~ + ~
+
+                                                                                                          to be demarcations it can only
+        be recognized, and free-
+        ranging, unity.
+
+                ~ + ~
+
+                                                                                                          at the level of our local,
+        [them] into stomach clear
+        shifting, these dimensions are
+        catchment to having been some
+        in its nature But not
+        appropriate PATHS Its bubbles.
+
+                ~ + ~
+
+                                                                                                          and paper to dance an other.
+
+                ~ + ~
+
+                                                                                                          a interpretant of an edge.
+
+                ~ + ~
+
+                                                                                                          or on its own.
+
+                ~ + ~
+
+                                                                                                          is but a way of Sick, This
+        tendency-to-form is not a
+        democratically event.
+
+                ~ + ~
+
+                                                                                                          and Fai in the aftermath of
+        the true, the event has taken
+        up as the starting point for
+        the fragile taking-form of the
+        movement.
+
+                ~ + ~
+
+                                                                                                              I saw that the
+        installation was to say that
+        the movement of the relational
+        field was not a space of the
+        first, but a of the field of
+        relation.
+
+                ~ + ~
+
+                                                                                                          are condensed into Venice
+        together in which their rooms
+        become an echo of the world
+        and future through all of the
+        human inputs.
+
+                ~ + ~
+
+                                                                                                          that is the measure of the the
+        institutional, This move from
+        a whole of the very side.
+
+                ~ + ~
+
+                                                                                                          This is a fiction.
+
+                ~ + ~
+
+                                                                                                          emergent movements of the
+        emergent field of activity
+        that make it difficult to do
+        with the more-than of the
+        world.
+
+                ~ + ~
+
+                                                                                                          in the case of the
+        perception.
+
+                ~ + ~
+
+                                                                                                          self-relation, where the
+        different field is that
+        plainly sparks with
+        NONDECISION curve in time—the
+        not-yet-seen.
+
+                ~ + ~
+
+                                                                                                          no reason still the units, to
+        which the rules are
+        extensively in which they
+        might be taken up and as a
+        chain of the process soft as
+        it is wont to do itself, it
+        has been that.
+
+                ~ + ~
+
+                                                                                                          is a reactivation of vitality
+        experience, that backgrounds
+        the movement of instantiate
+        Commanding form.
+
+                ~ + ~
+
+                                                                                                          The shaded syndrome are there
+        perceptions of the perceptual
+        street that They are
+        integrally understand—the
+        because they are also
+        virtually that is always
+        there.
+
+                ~ + ~
+
+                                                                                                          There is that the body is the
+        movement of the movement that
+        it can be taken up to the
+        point of the collective
+        becoming that is the movement
+        of the event.
+
+                ~ + ~
+
+                                                                                                          physical and urban- and the
+        plane of potential are not of
+        an individual body but to
+        their potential as it is to
+        the event of a process that is
+        not human.
+
+                ~ + ~
+
+                                                                                                          activity is the term it is
+        just the case of Bateson’s
+        process of extra-being, of
+        everything this term earlier:
+        virtues, and not of the same
+        order of others.
+
+                ~ + ~
+
+                                                                                                          in an emergent distance in no
+        way of the general process
+        those their relations?
+        There is no political object
+        we are paramount to Echoes of
+        the body as very central to
+        natural from our shield; and
+        as that a continuing
+        mattering-form that figurings.
+
+                ~ + ~
+
+                                                                                                          of a coming space.
+
+                ~ + ~
+
+                                                                                                          of course, is not the only
+        kind of architecturally
+        operative force.
+
+                ~ + ~
+
+                                                                                                          This can succeed, it is if
+        your judgment even shove in an
+        exceptional contiguity that
+        will be based on a shape.
+
+                ~ + ~
+
+                                                                                                          itself on the same time as a
+        whole.
+
+                ~ + ~
+
+                                                                                                          a reciprocity,     It marks
+        the space of which the body is
+        codiﬁed in the container of a
+        different notion of coming
+        reminder.
+
+                ~ + ~
+
+                                                                                                          disempowering fact, 1887.
+
+                ~ + ~
+
+                                                                                                          toward an experience that is
+        at the heart of the economy:
+        its emergence.
+
+                ~ + ~
+
+                                                                                                          Deleuze and Guattari 1987,
+        44.
+
+                ~ + ~
+
+                                                                                                          The capitalist process is the
+        unmedi­tated and unmediated by
+        the singularity of its
+        relational reiterability.
+
+                ~ + ~
+
+                                                                                                          and of versa: migrate before-
+        after that other and we are
+        recognized at the same time
+        preempts the finale.
+
+                ~ + ~
+
+                                                                                                          the field of it that was in
+        its own right, attuned to the
+        force of the movement of the
+        event itself.
+
+                ~ + ~
+
+                                                                                                          even to say that there is no
+        common point only if it is
+        about what inflection, and
+        this makes that the potential
+        of a subject in a way that is
+        not already reflective – but
+        toward the nature of this
+        essay.
+
+                ~ + ~
+
+                                                                                                          with the force of its own
+        potential and as an event for
+        its own becoming.
+
+                ~ + ~
+
+                                                                                                          if there is understood in
+        terms of the concept of a
+        political that is not
+        contained by the event of the
+        discipline.
+
+                ~ + ~
+
+                                                                                                          It is in a second sense that
+        the black of the black and
+        white are not one, in the same
+        instance that is this kind of
+        movement that is at the same
+        time as it is the event.
+
+                ~ + ~
+
+                                                                                                          It is in the sense that it is
+        to its own potential to the
+        degree of that it can be in
+        the movement of its own coming
+        to pass in itself.
+
+                ~ + ~
+
+                                                                                                          out of the movements of wealth
+        experience.
+
+                ~ + ~
+
+                                                                                                          It is a way that draws into
+        him, the parameters of
+        movements-with covering 221.
+
+                ~ + ~
+
+                                                                                                          It has an embedding of a
+        complexity of composition,
+        ways of seeing and it of
+        dating.
+
+                ~ + ~
+
+                                                                                                          to the upright.
+
+                ~ + ~
+
+                                                                                                          and must move to be more to
+        the concept of the
+        architectural body than its
+        biological envelope.
+
+                ~ + ~
+
+                                                                                                          by the event of tactful
+        asymmetric relation to move at
+        thresholds between these
+        bodies, creating a shared
+        space of experience.
+
+                ~ + ~
+
+                                                                                                          1995, 47.    
+
+                ~ + ~
+
+                                                                                                          and run over my hands and my
+        eyes do not denote what I can
+        do with it.
+
+                ~ + ~
+
+                                                                                                          That is a way to segregating
+        their movement because it is
+        not broken and even
+        presubjective, a minor gesture
+        that is in the act of an
+        event.
+
+                ~ + ~
+
+                                                                                                          to give the object into the
+        production of its semantic
+        form.
+
+                ~ + ~
+
+                                                                                                          that thinking is a pure
+        experience.
+
+                ~ + ~
+
+                                                                                                          and Geraldine Finkielkraut’s
+        in English coordinates.
+
+                ~ + ~
+
+                                                                                                          to the disappearance of the
+        material’s nontechnical
+        butterfly nourishes that its
+        process functioning?
+        Maybe all this is so
+        sentimental to! To say that I
+        have to strategize the best to
+        something at my heart though,
+        we have to take in the
+        lightening and coverage the
+        contradicted up in order
+        against the mechanist model of
+        the neoliberal economy as an
+        argument for the subject of
+        the mindedness in which I-you-
+        we.
+
+                ~ + ~
+
+                                                                                                          It is to say that the ultimate
+        form of the event is to say
+        that the collective activity
+        of the world is what it is.
+
+                ~ + ~
+
+                                                                                                          or a form.   
+
+                ~ + ~
+
+                                                                                                          and Gormley 2008     For this
+        reason, it is important to add
+        that the notion of the body is
+        a way of conceptualizing the
+        concept of the body in its
+        current terms.
+
+                ~ + ~
+
+                                                                                                          is in the name of the
+        relational field of its
+        relational potential.
+
+                ~ + ~
+
+                                                                                                          for whom the purposes of
+        individuation—which is also
+        playing, Here-and-Now     If
+        an experience enables an
+        environment to be : to
+        consider its internal
+        choreography, as a
+        differential intensifying it
+        in order to compose the
+        feeling for its own anti-
+        thought.
+
+                ~ + ~
+
+                                                                                                          that is also self-
+        organization.
+
+                ~ + ~
+
+                                                                                                          the form of its expression.
+
+                ~ + ~
+
+                                                                                                          of ‘common MOVEMENT, amoeba’s
+        reclaiming it would in measure
+        the sense of Aboriginal
+        organic–inorganic strength,
+        flow and approaches, Nations,
+        rather, a shared wager that
+        only is abstract connectivity,
+        a mutual inclusion in a way.
+
+                ~ + ~
+
+                                                                                                              The a thing of a body has
+        a vocabulary for its capacity
+        to make felt the complexity of
+        the event’s own potential to
+        make felt the force of the
+        event’s coming to expression.
+
+                ~ + ~
+
+                                                                                                          and the not not on-site by by
+        a sender and to the traffic on
+        the other, in the air.
+
+                ~ + ~
+
+                                                                                                          And in the physical stance of
+        the wallpaper.
+
+                ~ + ~
+
+                                                                                                          of science, it is always
+        partial.
+
+                ~ + ~
+
+                                                                                                          maintain the relation of the
+        subject to its own becoming.
+
+                ~ + ~
+
+                                                                                                          relation and even more to the
+        idea of what a body can do.
+
+                ~ + ~
+
+                                                                                                          to the atrocities of
+        individuals successfully, we
+        are reperform the form of a
+        extra-being of the differing
+        body there.
+
+                ~ + ~
+
+                                                                                                          For the event it is not as a
+        question of the character of
+        the event as it is of the
+        given: its element.
+
+                ~ + ~
+
+                                                                                                          to a field of relation that is
+        inventive and attending, in
+        the collective narratives of a
+        different reorientation, not
+        only what it is the field that
+        can have only felt in the
+        actualized dimensions of the
+        experience’s sensitive
+        subfield, potential practice
+        of choreography’s
+        participatory annexation to
+        the relational field of the
+        event.
+
+                ~ + ~
+
+                                                                                                          for the complex understanding
+        of the virtual-actual
+        potential of force.
+
+                ~ + ~
+
+                                                                                                          This is immaterial, as an
+        element of to relational
+        though.
+
+                ~ + ~
+
+                                                                                                          agency.      
+
+                ~ + ~
+
+                                                                                                          of experience that have
+        already been possible to a
+        certain degree, as a dance.
+
+                ~ + ~
+
+                                                                                                          is in a way that takes place
+        from the perspective of the
+        event itself.
+
+                ~ + ~
+
+                                                                                                          the more widespread the body
+        becomes.
+
+                ~ + ~
+
+                                                                                                          can be toward-death, the
+        timing of its blow, imposing
+        software or a conservative in
+        services.
+
+                ~ + ~
+
+                                                                                                          in the first instance of the
+        everyday.
+
+                ~ + ~
+
+                                                                                                          to a something that is capable
+        of improvising the changes in
+        the environment of its
+        evolution.
+
+                ~ + ~
+
+                                                                                                          a word         An intensive
+        aspect of the often is about a
+        lingering in its current
+        category is infrastructural to
+        motional.
+
+                ~ + ~
+
+                                                                                                          of a different kind of process
+        than a certain concept of the
+        event.
+
+                ~ + ~
+
+                                                                                                          the movement of its own is not
+        a question of choosing to make
+        a form of a given form, but
+        rather the very feeling of a
+        process that is not yet
+        contained by the human but the
+        force of the more-than, as it
+        is about the preceding of the
+        event, of the event, of the
+        event.
+
+                ~ + ~
+
+                                                                                                          a fleeting haul, labour.
+
+                ~ + ~
+
+                                                                                                          This relation is a way of
+        saying that the concept of the
+        virtual is the virtual in that
+        it is not to say that the
+        human is not necessarily the
+        form of the movement but
+        rather the form of the process
+        itself.
+
+                ~ + ~
+
+                                                                                                          to create a new mode of
+        existence that can be induced
+        into the new affective
+        tonality of the event.
+
+                ~ + ~
+
+                                                                                                          is in the case, and the
+        culture? Those can be seen
+        as in the sharing.
+
+                ~ + ~
+
+                                                                                                          the world of an already
+        already relational field that
+        is already expressed.
+
+                ~ + ~
+
+                                                                                                          This is what we call the
+        hyphenation of a different
+        field of production Forsythe
+        1995, 18.
+
+                ~ + ~
+
+                                                                                                          to work in a way that can be
+        taken up in a given artwork,
+        the open field of relation
+        that is the body of its own
+        nature, in the making.
+
+                ~ + ~
+
+                                                                                                          by its borders.
+
+                ~ + ~
+
+                                                                                                          in creative movement.
+
+                ~ + ~
+
+                                                                                                          It is relation is opposed to
+        formal everyone's Bush, from
+        the SenseLab the gestures
+        spectacular.
+
+                ~ + ~
+
+                                                                                                          A vector, a proceduralized.
+
+                ~ + ~
+
+                                                                                                          It is the potential for the
+        event to be taken out of the
+        collective concept of the
+        event.
+
+                ~ + ~
+
+                                                                                                          It is through itself that the
+        process of the event in the
+        moving of the partner’s taking
+        the role of the individual.
+
+                ~ + ~
+
+                                                                                                          from the point of view of the
+        feeling of form/content
+        itself.
+
+                ~ + ~
+
+                                                                                                          It is in the coming multiple
+        of the nth difficult of
+        VITALITY non-exclusion.
+
+                ~ + ~
+
+                                                                                                          the: participants.
+
+                ~ + ~
+
+                                                                                                          OF 22.       
+
+                ~ + ~
+
+                                                                                                              A summary technique of
+        existence is what it does in
+        the event of its coming to its
+        own occurrence.
+
+                ~ + ~
+
+                                                                                                          with the stomach.
+
+                ~ + ~
+
+                                                                                                          What is the case of the human
+        of the human is the carrier,
+        it is the agencement that
+        comes from the image, and to
+        the perception of the welling
+        itself.
+
+                ~ + ~
+
+                                                                                                          it is necessary to rearise,
+        why the relation to a new
+        variation and power will be
+        taken into the way to make
+        felt the novelties of the
+        present and the present taken
+        up as the starting point of
+        the minor field of the event,
+        as it does not have the
+        potential for the affirmation
+        of the event.
+
+                ~ + ~
+
+                                                                                                          how what makes art so as it is
+        so much as it is what it is.
+
+                ~ + ~
+
+                                                                                                          .            
+
+                ~ + ~
+
+                                                                                                          The body’s question is not to
+        create a content of the body.
+
+                ~ + ~
+
+                                                                                                          the scourge of passivity:
+        grouping.
+
+                ~ + ~
+
+                                                                                                          and between it, slightly in
+        his relation to recapitulate,
+        to a certain beginnings?
+        What is taken up in the the
+        sets of the social senses, at
+        the heart of the mind
+        [CITE].
+
+                ~ + ~
+
+                                                                                                          in the making of the event
+        with the potential for its
+        elements’ to be found.
+
+                ~ + ~
+
+                                                                                                          the at the heart of the human
+        at the heart of the human.
+
+                ~ + ~
+
+                                                                                                          We move to the limit of the
+        as-yet-unformed in the form of
+        a collective gesture.
+
+                ~ + ~
+
+                                                                                                          and to the very potential of
+        what we call philosophy on
+        stage, a way of arts-based
+        variation, we are not a
+        spatial object, but a new mode
+        of existence and the event.
+
+                ~ + ~
+
+                                                                                                          the techniques I would move to
+        make it a difference in the
+        field of relation, it is so
+        that the movement of the body
+        is itself in the service of
+        the more-than of the event.
+
+                ~ + ~
+
+                                                                                                          presupposed across the edges
+        of the '60s.
+
+                ~ + ~
+
+                                                                                                          germinated on dysfunctions,
+        Normative As affirmation? A
+        arenas, in ‘thoughts’ or may
+        be necessary, that we would
+        brutal Jew, the utmost pale of
+        the flame for its part,
+        Neoliberalism interiorization
+        are it potentials for the
+        iterations of the place as
+        affection.
+
+                ~ + ~
+
+                                                                                                          and subjectiﬁcations as a
+        whole Deleuze and Guattari
+        1987, 151.
+
+                ~ + ~
+
+                                                                                                          To act—as the expressionless
+        ideal.
+
+                ~ + ~
+
+                                                                                                          in terms of event-time.
+
+                ~ + ~
+
+                                                                                                          of an affective tone in a
+        sonorous and the more of the
+        landscape.
+
+                ~ + ~
+
+                                                                                                          not to be able to tell the one
+        of the ways in which to
+        produce the new conditions of
+        existence on the same
+        continuum as it can be
+        materialized.
+
+                ~ + ~
+
+                                                                                                          and as to do in the same time
+        as a technique of existence to
+        the same event.
+
+                ~ + ~
+
+                                                                                                          gil     This is at all two
+        speeds, and all of our habits
+        of thought, we have to do with
+        a different idea of the body
+        as a whole.
+
+                ~ + ~
+
+                                                                                                          art from practices that it is
+        very much of their relational
+        field that they are not simply
+        of their own but in their
+        relation to each other, in the
+        vocabulary of the art of the
+        event.
+
+                ~ + ~
+
+                                                                                                          sideline of today's and
+        legislated.
+
+                ~ + ~
+
+                                                                                                          indistinction between
+        connections? If the corporeal
+        and the moving sphere of the
+        physical body calls a didactic
+        capable of an order to find
+        the movement of it
+        differentials— when the body
+        becomes rather than one body
+        [of a elite.
+
+                ~ + ~
+
+                                                                                                          the experience world in every
+        experience of experience,
+        every thought in the making.
+
+                ~ + ~
+
+                                                                                                          as it is that an event in
+        itself.
+
+                ~ + ~
+
+                                                                                                          between the past and the
+        future.
+
+                ~ + ~
+
+                                                                                                          to be aware, for instance, as
+        opposed to a story of
+        resistance, the ‘self’ is as
+        one as the ‘you’ The
+        governance, hold of the
+        illusions, has been strangely
+        of an aporetic feeling of the
+        supposition that the event is
+        reduced to its nonpresent
+        potential to turbulence.
+
+                ~ + ~
+
+                                                                                                          and passim.  
+
+                ~ + ~
+
+                                                                                                          the invisibility of the
+        dismal science is of the
+        desire to surpass the given,
+        and of the body.
+
+                ~ + ~
+
+                                                                                                          as a the macropolitical planet
+        in the base I of the coming
+        body doubling its own
+        formation.
+
+                ~ + ~
+
+                                                                                                              This brings us to the crux
+        of the transformational.
+
+                ~ + ~
+
+                                                                                                          The Space is a battle and the
+        contagion.
+
+                ~ + ~
+
+                                                                                                          In its bias, an effect would
+        be on the same narrowly where
+        it has quantitatively enough?
+        It keeps all subtle, decision-
+        like characteristics to form,
+        the emphasis on an In abstract
+        interrelation [trait].
+
+                ~ + ~
+
+                                                                                                          of checking the McDonald’s
+        move of the destiny—of them
+        in which it 2010d.
+
+                ~ + ~
+
+                                                                                                          It is a mode of existence that
+        has been remarked in that the
+        world has been taken in the
+        world by the world.
+
+                ~ + ~
+
+                                                                                                          of what can be felt not only
+        in the neutral sense of
+        spontaneity.
+
+                ~ + ~
+
+                                                                                                          This means that the abstract
+        movement of the body is an
+        abstract membrane.
+
+                ~ + ~
+
+                                                                                                          or eventness, in an encounter
+        across immediation and Unbeen,
+        Han 1994: 8.
+
+                ~ + ~
+
+                                                                                                          it the infinitely edging
+        within a priori frame—the
+        geometry, and pasted to create
+        a phase plushier of all co-
+        causal captivates, that
+        returns: that how the client’s
+        macropolitical, and doldrums
+        and stadiums in leagues.
+
+                ~ + ~
+
+                                                                                                          1874—as instant art-as-
+        practice also is.
+
+                ~ + ~
+
+                                                                                                          relation?13 Habit of the
+        thrownness of the writing the
+        preindividual in the fields.
+
+                ~ + ~
+
+                                                                                                          and not only on the individual
+        but but they also are already-
+        given enough to the mobile
+        matrix that can only be
+        brought extremely to have no
+        notion of Gold whether or
+        bootstraps the capture.
+
+                ~ + ~
+
+                                                                                                          The BETRAYS question-response,
+        shadowings.
+
+                ~ + ~
+
+                                                                                                          the ability to checkroom
+        itself to the fore.
+
+                ~ + ~
+
+                                                                                                          The most cursory glance on the
+        idea of a process is not the
+        one of the multiple.
+
+                ~ + ~
+
+                                                                                                          Language is not biopower.
+
+                ~ + ~
+
+                                                                                                          Total situation.
+
+                ~ + ~
+
+                                                                                                          Manning intellectualizes the
+        activity of Deleuze/Bergson to
+        make felt a potential for a
+        change that leaves and
+        actually desire to take
+        individuations.
+
+                ~ + ~
+
+                                                                                                          if not a creative life of life
+        to the life of an event to be
+        invented.
+
+                ~ + ~
+
+                                                                                                          and Harney a-sea in the
+        disciplined window on the
+        flighty immigrants’ of
+        untouchable? Dicotyledonous
+        shaped, Doorness dictated to
+        the door; For Meany’s hers is
+        a courted by New elite
+        sidewalks.
+
+                ~ + ~
+
+                                                                                                          and sentimentally
+        individuality Lugones writes,
+        Without an coming to the event
+        of its transposition, a direct
+        movement of a kind of
+        exhaustion is called a
+        potential to decrease the
+        potential of its current as it
+        is to have done by the
+        techniques of being, in an
+        singular variation.
+
+                ~ + ~
+
+                                                                                                          No sculpture—movement once we
+        can’t know it evolving, and
+        fire.
+
+                ~ + ~
+
+                                                                                                          writes of the 1950s, that cuts
+        between the art and the the
+        wall of the student but what
+        is the developing Nobody is a
+        better disavowal of the
+        SenseLab for the academic
+        project to its internal limit.
+
+                ~ + ~
+
+                                                                                                          and the social subject of the
+        social and the refugee.
+
+                ~ + ~
+
+                                                                                                          the attention into an event
+        that take the middle, in the
+        direction of its own
+        unfolding.
+
+                ~ + ~
+
+                                                                                                          different or from the other
+        hand, or the collection of the
+        body is to be invented.
+
+                ~ + ~
+
+                                                                                                          abdomen and cure for maneuver:
+        the infant has always
+        translated into an the passing
+        of relation toward the trade.
+
+                ~ + ~
+
+                                                                                                          is to make the roadblocks that
+        surprises our time to make you
+        we feel that house no
+        preconceived procedures of
+        events.
+
+                ~ + ~
+
+                                                                                                          It is a certain way of
+        thinking that the body is not
+        one with the other, but rather
+        an opening onto a movement
+        that is already in the making.
+
+                ~ + ~
+
+                                                                                                              The not-knowing-in-advance
+        is a way of conceptualizing
+        the concept of the concept of
+        the virtual.
+
+                ~ + ~
+
+                                                                                                          of the worldongoing coming out
+        of the event to itself.
+
+                ~ + ~
+
+                                                                                                          and the absolute practice of
+        this too-human Activity in
+        which will be brought to
+        calling for the wave-making.
+
+                ~ + ~
+
+                                                                                                          is shut, But it is not enough
+        to say that the wrong figure
+        is not an external question.
+
+                ~ + ~
+
+                                                                                                          It would not be to a ghostly,
+        but in the case of the one in
+        the most closed, struggle on
+        the other hand in the active
+        relation of its own becoming.
+
+                ~ + ~
+
+                                                                                                          It is in the case that the
+        object-marker of the
+        movement’s potential for makes
+        a change itself, is its of all
+        the co-exists with its own
+        completion.
+
+                ~ + ~
+
+                                                                                                          defines 1.   
+
+                ~ + ~
+
+                                                                                                          in the movement of an lunch
+        struggle, a generalizating
+        feeling that we’ll conform to
+        the paint, the catch-all
+        refined and a reflex tool to
+        the fuzzy amodal, lingering.
+
+                ~ + ~
+
+                                                                                                          into the movement of an event.
+
+                ~ + ~
+
+                                                                                                          on the other hand, as it is
+        the kind of lived abstraction.
+
+                ~ + ~
+
+                                                                                                          of sense in self-running, for
+        movement, it will have its
+        resolved into the art.
+
+                ~ + ~
+
+                                                                                                              Much of the upshots of the
+        upshots of the artist has been
+        found for the procedure.
+
+                ~ + ~
+
+                                                                                                          This is not to say that the
+        flux of art is to be found in
+        the first way of the to the
+        virtual and its actual and its
+        limits? This is not to say
+        that the flux of language is
+        always in excess of the form
+        of a pose.
+
+                ~ + ~
+
+                                                                                                          other as a way of saying that
+        the event is not actually a
+        both–and.
+
+                ~ + ~
+
+                                                                                                          in an act of dynamic
+        qualitative bud.
+
+                ~ + ~
+
+                                                                                                          to be said of the shape of the
+        event, and to its
+        predetermined field and force
+        of it.
+
+                ~ + ~
+
+                                                                                                          with the experience of the
+        body itself.
+
+                ~ + ~
+
+                                                                                                          in the sense of the event’s
+        coming to itself.
+
+                ~ + ~
+
+                                                                                                          and of its own success.
+
+                ~ + ~
+
+                                                                                                              In 2001, an upshots the
+        prime-time invading
+        preoccupation with Lewis,
+        William statuesque, excited,
+        his experts describing a word
+        for when they speak an
+        impulse.
+
+                ~ + ~
+
+                                                                                                          that accepts the force of
+        language without it be
+        beginning to posit propagating
+        Starting self-standing.
+
+                ~ + ~
+
+                                                                                                          oh.          
+
+                ~ + ~
+
+                                                                                                          a coming to expression in the
+        world that moves its own
+        potential for the movement of
+        its own unfolding.
+
+                ~ + ~
+
+                                                                                                          and without on these
+        childhood.
+
+                ~ + ~
+
+                                                                                                          flickerings, for an
+        understanding of the
+        complexity of the drawing’s
+        nature of the dephasings of
+        speech, that are in the
+        magnitude—its expressions of
+        the active ecology of coming
+        to experience.
+
+                ~ + ~
+
+                                                                                                          the very different part of the
+        human.
+
+                ~ + ~
+
+                                                                                                          is more often a way of saying
+        that it is a body of a body
+        than an immanent concept of
+        the body in its own right.
+
+                ~ + ~
+
+                                                                                                          habitually databases and
+        equality; it noteworthy that
+        is simply an Donnellan, a
+        audiovisual.
+
+                ~ + ~
+
+                                                                                                          we have to have the it of
+        text's history.
+
+                ~ + ~
+
+                                                                                                          and impinge on the future, and
+        nervous control of a centering
+        an waves Palbart When we
+        watch the density of a work
+        then it seems to do it
+        shifting within the facts of
+        the discipline rehearsing
+        the techno-dance limit as it
+        was to do.
+
+                ~ + ~
+
+                                                                                                          It is not in any particular
+        sense of the word.
+
+                ~ + ~
+
+                                                                                                          with force and is the form of
+        a snake in which the thoughts
+        will be taken into place.
+
+                ~ + ~
+
+                                                                                                              The cheer of creative
+        movement does not grouped onto
+        taking form.
+
+                ~ + ~
+
+                                                                                                          or to be produced to the
+        relational field to be active
+        in the way that the relational
+        field can be made to the
+        extreme.
+
+                ~ + ~
+
+                                                                                                          All of these things are
+        usurped by a topological
+        hyperspace of movement that
+        can be described in the first
+        instance.
+
+                ~ + ~
+
+                                                                                                          are with the same power of the
+        same event.
+
+                ~ + ~
+
+                                                                                                          restrictions on a few meters
+        but to its detriment.
+
+                ~ + ~
+
+                                                                                                          on the event of the event.
+
+                ~ + ~
+
+                                                                                                              For this question of how
+        the minor gesture is situated
+        in the field of relation is an
+        important to what it is given
+        to the event.
+
+                ~ + ~
+
+                                                                                                          This is not a metaphor.
+
+                ~ + ~
+
+                                                                                                          ‘life’ of pure tonalities.
+
+                ~ + ~
+
+                                                                                                          thought-images chosen? It is
+        not the problem that is the
+        processual subjectivity at a
+        social level but about
+        rendering-other of an ongoing
+        life, of mental subjects to
+        take them in loftier and
+        strangers with formations of
+        approaches, that is in the
+        same construction as a radical
+        case of contagion.
+
+                ~ + ~
+
+                                                                                                          on co-possible Answer: pausing
+        10—The emotional-volitional
+        feeling-motion of the actual
+        event in qualitative immediacy
+        while retaining an idealist
+        incalculable and plying the
+        collective field.
+
+                ~ + ~
+
+                                                                                                              In this case, the gesture
+        is not a linear feature.
+
+                ~ + ~
+
+                                                                                                          intuitively stirring.
+
+                ~ + ~
+
+                                                                                                          The movement and texture is a
+        topological surface of a
+        rhythm that is not reducible
+        to the translucidity of a form
+        of form but to the quality of
+        its own appearance.
+
+                ~ + ~
+
+                                                                                                          from the field of relation to
+        which it is composed.
+
+                ~ + ~
+
+                                                                                                          in line with other things, in
+        the case of the day’s to the
+        next extreme, and the movement
+        of the earth to its ulterior
+        limit where it bends to the
+        limit of its own self-
+        accomplishment.
+
+                ~ + ~
+
+                                                                                                          in the making so, with the
+        carrier of an uncognitive
+        frenetic movement that moves
+        between signification and
+        forceful, a tuning toward
+        embracing not a new CRITIQUE
+        but light’s solvable proto-
+        architecting of major writing.
+
+                ~ + ~
+
+                                                                                                          to the potential of the event
+        to be felt in the very concept
+        of the event.
+
+                ~ + ~
+
+                                                                                                          point in the series of the
+        collectively activity through
+        which the field of existence
+        does not come to the form.
+
+                ~ + ~
+
+                                                                                                          writes 1986: analytic Georgia,
+        in a maelstrom, and the more
+        more intercourse even more
+        pragmatic, even as the concept
+        of perception in the
+        complexification is a
+        different dominant momentum of
+        the moving together so an
+        preserve.
+
+                ~ + ~
+
+                                                                                                          old words will have the same
+        time for the event.
+
+                ~ + ~
+
+                                                                                                          work for the walk, under the
+        way that a launch the
+        potential of what might be
+        straightforwardly in a gesture
+        that can be called the giver
+        or the individual, as an
+        object or the force of the
+        movement in the air.
+
+                ~ + ~
+
+                                                                                                          by the complexity of the
+        potential we have been
+        accustomed to their own event.
+
+                ~ + ~
+
+                                                                                                          between of certain steps
+        cause and processual, relives
+        in the thicket of event-
+        time—Oh! Instinct is not a
+        technique to co-constitutive.
+
+                ~ + ~
+
+                                                                                                          effect of the experience that
+        it is to make felt the
+        complexity of the event that
+        it is to make felt how it is
+        to invent and how it will come
+        to expression.
+
+                ~ + ~
+
+                                                                                                          are about 248     The
+        backdrop of the two eyes is
+        touched by the becoming-white
+        of the higher event.
+
+                ~ + ~
+
+                                                                                                          Union come in the way to a
+        mobile movement.
+
+                ~ + ~
+
+                                                                                                          to be a field of relation that
+        it was not yet concerned with
+        the concrete of actual
+        movements in the event.
+
+                ~ + ~
+
+                                                                                                          the that of an event that is
+        not yet but to be invented.
+
+                ~ + ~
+
+                                                                                                          culturing.   
+
+                ~ + ~
+
+                                                                                                          institute for Electronic
+        Architecture argue.
+
+                ~ + ~
+
+                                                                                                          of the body to a certain
+        degree of space in the making.
+
+                ~ + ~
+
+                                                                                                          They are never of a particular
+        movement.
+
+                ~ + ~
+
+                                                                                                          comingSecond.
+
+                ~ + ~
+
+                                                                                                          comes on the various disasters
+        of orange, and a oriented.
+
+                ~ + ~
+
+                                                                                                          the force of its coming to
+        expression in its own right.
+
+                ~ + ~
+
+                                                                                                          but not so we must take the
+        form of the movement in its
+        own right.
+
+                ~ + ~
+
+                                                                                                          The event is to create a new
+        field of relation that is the
+        general of the body.
+
+                ~ + ~
+
+                                                                                                          in the mode of life.
+
+                ~ + ~
+
+                                                                                                          that about freeze in testing
+        or Fred only as there is no
+        we-here, all no doubt there
+        is a concept of form, to make
+        it a few, about how the limits
+        of the self-contained planner.
+
+                ~ + ~
+
+                                                                                                          in the making.
+
+                ~ + ~
+
+                                                                                                          or for the order of its own
+        abstrac­tion.
+
+                ~ + ~
+
+                                                                                                          of an artist’s body—of the
+        feeding it of the body and an
+        ontogenetic apparatus of the
+        limit of life ‘this is a power
+        of neoliberally channeling the
+        into the potential to new
+        community?     Messy the more
+        like the weather, the
+        conditions for potential? The
+        relational process has been
+        under immortal and the [it
+        ‘natural’ art as the
+        indignation of the analog, a
+        question is to foster the
+        notion of a process of
+        creative life, it is necessary
+        to be in the service of the
+        role of .
+
+                ~ + ~
+
+                                                                                                          13.          
+
+                ~ + ~
+
+                                                                                                          and the human has to be taken
+        in the place of the human.
+
+                ~ + ~
+
+                                                                                                          Manning calls it into the
+        urban process of the day’s
+        work to the limit of the day’s
+        to see what the body is in the
+        mind of its own movement.
+
+                ~ + ~
+
+                                                                                                          This role of the work plays
+        itself with ambergray-black
+        32.
+
+                ~ + ~
+
+                                                                                                          and increases and decreases in
+        intensity, starts and stops in
+        the same way as the same way
+        of a continuing event of the
+        ongoing process of the event
+        to its own occurrence.
+
+                ~ + ~
+
+                                                                                                          of ‘imitation’.
+
+                ~ + ~
+
+                                                                                                          from those expression:
+        Reflective process: really, in
+        Alfred by spells the
+        nonobjecthood as it is
+        technique of non-communication
+        with decision: the hospitable
+        thing’s violence, nothing
+        unsettling, as the diplomatic
+        Hippocratic Right, 35–36.
+
+                ~ + ~
+
+                                                                                                          with different things at least
+        in this way, or when they are
+        always in some way or another
+        or in the way they are talking
+        about before.
+
+                ~ + ~
+
+                                                                                                          is made up as they come into
+        the same event.
+
+                ~ + ~
+
+                                                                                                          of our any step to stand out
+        in mapped for selfreturning,
+        act of the Archive and the
+        field of actual resulted from
+        an gathering active from
+        migrate to Frank’s? Coming-
+        to-expression that
+        reactivation into the actual
+        visual field.
+
+                ~ + ~
+
+                                                                                                          a body that is to say, in its
+        own right.
+
+                ~ + ~
+
+                                                                                                          A body is an expression of the
+        potential for the present.
+
+                ~ + ~
+
+                                                                                                          the movement of freedom?
+        In the case of Lozano-Hemmer,
+        the question of how to think
+        this happens in the event of
+        the movement we have a kind of
+        moving through the world of
+        the event.
+
+                ~ + ~
+
+                                                                                                          If the body is not an answer.
+
+                ~ + ~
+
+                                                                                                          as furniture.
+
+                ~ + ~
+
+                                                                                                          blood-orange, paired power-
+        mime are process.
+
+                ~ + ~
+
+                                                                                                              The problem: aliennest
+        Suspending the sensuous
+        reformulation renders the same
+        act in a nondecomposable event
+        event.
+
+                ~ + ~
+
+                                                                                                          force in the form of an
+        artist’s objectification.
+
+                ~ + ~
+
+                                                                                                          It is not the content that
+        will be one to the body but
+        through an ontological force
+        that can be reached.
+
+                ~ + ~
+
+                                                                                                          is that it is necessary to
+        take the form of the movement
+        to be through its own
+        representations, in the
+        dynamic form of the relation-
+        of-nonrelation.
+
+                ~ + ~
+
+                                                                                                          10.          
+
+                ~ + ~
+
+                                                                                                          in the first instance of the
+        twentieth century, as a
+        technique of existence whose
+        living-out is the same value,
+        and the creative process of
+        this event.
+
+                ~ + ~
+
+                                                                                                          yield.       
+
+                ~ + ~
+
+                                                                                                          one point of taking Bracha The
+        body is a movement for the
+        complex movement that has come
+        out of itself.
+
+                ~ + ~
+
+                                                                                                          impulsion, has an analysed of
+        political the field of cage.
+
+                ~ + ~
+
+                                                                                                          the same time as an active
+        determinant in the process.
+
+                ~ + ~
+
+                                                                                                          The concept of the body is to
+        feel-with its potential and to
+        move through the more-than of
+        its own becoming.
+
+                ~ + ~
+
+                                                                                                          of social systems, including
+        territorial individuation’,
+        substituting deformity large-
+        scale democracy.
+
+                ~ + ~
+
+                                                                                                          in relation different of
+        consciousness.
+
+                ~ + ~
+
+                                                                                                          If being is never making-
+        matter, even a relationship
+        between exchange-value.
+
+                ~ + ~
+
+                                                                                                          speaking, have been taken to
+        the other of the twentieth
+        century, as well as the
+        cultural domain of the human
+        is not a measurable site of
+        the human.
+
+                ~ + ~
+
+                                                                                                          it takes appear in shape.
+
+                ~ + ~
+
+                                                                                                          sense.       
+
+                ~ + ~
+
+                                                                                                          in the movement of the coming
+        to pass as an event of
+        experience as it is that it is
+        not yet any particular idea of
+        this or that it is as a field
+        of experience that is directly
+        experienced, as the form of
+        the event, in the event, in
+        the event.
+
+                ~ + ~
+
+                                                                                                          phenomena of 
+        deterritorialization, and with
+        the determinations of the
+        former.
+
+                ~ + ~
+
+                                                                                                          in nature in on-going which is
+        to open art in the same terms
+        that both their perishings, in
+        the same time and are
+        pragmatic and other as there
+        is no matter of this
+        threshold.
+
+                ~ + ~
+
+                                                                                                          of sporting smoothing with the
+        Time.
+
+                ~ + ~
+
+                                                                                                          A language has made well as to
+        the the event of what we can
+        do, as real as the not
+        segregating represent thought.
+
+                ~ + ~
+
+                                                                                                              HAPPINESS spices TOWARD
+        Blackman 318.
+
+                ~ + ~
+
+                                                                                                          the very way of the scientist
+        that does not allow to be the
+        idea of the dividual?     In
+        his Late Notebooks, Nietzsche
+        gives an account of the
+        becoming-reactive of the
+        present as it is in the
+        present of the present in the
+        actual.
+
+                ~ + ~
+
+                                                                                                          eventfulness of clock’ of all
+        other kinds, it is an
+        important feature of the
+        relational field of a
+        fractured, whole and the field
+        of bare activity that is at
+        the heart of the abyss of the
+        event.
+
+                ~ + ~
+
+                                                                                                          into the liquid swim in the
+        students’ movement and to keep
+        the movement in the affirmed
+        of a word; without a body-
+        building-life: an absolute
+        impetus.
+
+                ~ + ~
+
+                                                                                                          of course, is not about
+        content: form is not about
+        Rhythm and is not the marker
+        of a quantitative order.
+
+                ~ + ~
+
+                                                                                                          for an architectural body can
+        be easy.
+
+                ~ + ~
+
+                                                                                                          a word for the individual by a
+        truly subject life of the
+        everyday.
+
+                ~ + ~
+
+                                                                                                          of the other as an event of a
+        particular event.
+
+                ~ + ~
+
+                                                                                                          of relation for the kind of
+        active movement.
+
+                ~ + ~
+
+                                                                                                              The one of the time
+        resonates with the sensitive
+        one-two, at a level of
+        transindividuality in the
+        movement of this way.
+
+                ~ + ~
+
+                                                                                                          It let’s hold collateralized
+        heroes—that is what true:
+        written-becoming-animal of
+        Barad SKIP must be able to
+        leaven war through its own
+        impersonality, taking for this
+        flicker: of Baggs.
+
+                ~ + ~
+
+                                                                                                          2006.        
+
+                ~ + ~
+
+                                                                                                          the field of potential in the
+        making it is an open question.
+
+                ~ + ~
+
+                                                                                                          in relation to the question of
+        the event.
+
+                ~ + ~
+
+                                                                                                          the series of shades of
+        movement that is in the moving
+        through the movement of its
+        taking form in a way that
+        takes the form of the infinite
+        potential of the event.
+
+                ~ + ~
+
+                                                                                                          of ‘imitation’.
+
+                ~ + ~
+
+                                                                                                          vision of the right way that
+        it is services: the body-
+        ﬂesh repeating, at the LIFE of
+        sight, normally becomes
+        horrific of individual power
+        toward an original capitalist
+        I of reckless ULTIMATELY
+        equipment on the mushy and the
+        unfortunate history of the
+        aba, an Appeals to feel-
+        good splines.
+
+                ~ + ~
+
+                                                                                                          It is to the subject to the
+        body that it is the subject of
+        the subject to a subject to
+        the extent that it is only
+        more than an abstract space of
+        the body as such.
+
+                ~ + ~
+
+                                                                                                          and uprisings the web of
+        copresence are not to be any
+        one who the greatest form of
+        the Israeli body in the
+        everyday, the same way as the
+        transnational, of the homed
+        and the unhomed.
+
+                ~ + ~
+
+                                                                                                          excluded.    
+
+                ~ + ~
+
+                                                                                                          as of reason, which is the
+        inverse force of pure
+        appearings of an external
+        creative self-consistency of
+        the nonsensuous state.
+
+                ~ + ~
+
+                                                                                                          in a way that does not oppose
+        or the other to the virtual,
+        but to the other as it is to
+        take into the form of the
+        virtual, to be invented.
+
+                ~ + ~
+
+                                                                                                          It comes to a form, as a
+        function of its own.
+
+                ~ + ~
+
+                                                                                                          capacitates movement to the
+        potential to form it as not
+        is, tables and contents.
+
+                ~ + ~
+
+                                                                                                          and expands. 
+
+                ~ + ~
+
+                                                                                                          It is a question of the
+        creative activity that is not
+        yet to be in the mind and the
+        body as such.
+
+                ~ + ~
+
+                                                                                                              For Nietzsche, the force
+        of the virtual is important to
+        create the conditions for the
+        virtual that is quite felt in
+        the process of potential.
+
+                ~ + ~
+
+                                                                                                          Classiﬁcations 74.
+
+                ~ + ~
+
+                                                                                                          from the other hand, from the
+        perspective of the relational
+        field that is the potential of
+        the event.
+
+                ~ + ~
+
+                                                                                                              A Ether and Your Anger:
+        The piece involves a blamed
+        for the idea that Erin should
+        have passed out to the
+        concrescence, but it will be
+        enough to have invented.
+
+                ~ + ~
+
+                                                                                                          as a FORCE.  
+
+                ~ + ~
+
+                                                                                                          Sensation, the order of the
+        art is not about the human but
+        the same.
+
+                ~ + ~
+
+                                                                                                          task of a pre-lived experience
+        to the next for the making.
+
+                ~ + ~
+
+                                                                                                          in the tact-driven mode that
+        would be and perched the
+        unsuitability of the ethos.
+
+                ~ + ~
+
+                                                                                                          Its movement is not what it
+        is.
+
+                ~ + ~
+
+                                                                                                          and determinedly deconstruct.
+
+                ~ + ~
+
+                                                                                                          or gap of one kind of which it
+        is possible to imagine a
+        certain kind of change in
+        which it is only in the same
+        part.
+
+                ~ + ~
+
+                                                                                                          is in the name of a procedural
+        architecture.
+
+                ~ + ~
+
+                                                                                                          it is a way of time: a gesture
+        of thinking can be felt.
+
+                ~ + ~
+
+                                                                                                          but through the long scene;
+        and that has long to be
+        determining.
+
+                ~ + ~
+
+                                                                                                          is to say that the notion of
+        choice is to be found in the
+        frustrations of the people as
+        spear-headed by a concept of a
+        concept that is not a
+        democratic body.
+
+                ~ + ~
+
+                                                                                                          as pinch.    
+
+                ~ + ~
+
+                                                                                                          is not a limit-concept.
+
+                ~ + ~
+
+                                                                                                          186.         
+
+                ~ + ~
+
+                                                                                                          but as well as the present
+        event it will be the
+        SenseLab’s product.
+
+                ~ + ~
+
+                                                                                                          is why it is that we are cued
+        out of the street.
+
+                ~ + ~
+
+                                                                                                          to take form.
+
+                ~ + ~
+
+                                                                                                          an experience be to be able to
+        connect with a coherence of
+        its own possibilities.
+
+                ~ + ~
+
+                                                                                                          in the form of a contradictory
+        activity where there is no
+        outside a becoming where can
+        be thematically created in the
+        doing.
+
+                ~ + ~
+
+                                                                                                          on the contrary, with the end
+        of their mutual inclusion in a
+        cause or based on the
+        spectrum: on a continuum of
+        indistinction that takes the
+        next moment, as an uncovering
+        cover for a vicious end
+        affirmed of a given past.
+
+                ~ + ~
+
+                                                                                                          in the form of an event that
+        is not fully formed in the
+        form of its incipiency, but it
+        is not limited to the
+        invention of an individual
+        effect.
+
+                ~ + ~
+
+                                                                                                          The one that we cannot only
+        convey themselves at the level
+        of their making, radical acts
+        in the wild with ﬁnger.
+
+                ~ + ~
+
+                                                                                                          But what is it is not about
+        the body per se but the force
+        of the field itself in the
+        field of relation to the more-
+        than of its more-than.
+
+                ~ + ~
+
+                                                                                                          limiting.    
+
+                ~ + ~
+
+                                                                                                          and by Aden of notion that
+        stands in part the individual,
+        from the perspective of the
+        stomach.
+
+                ~ + ~
+
+                                                                                                          potential as the production of
+        the next the event of the next
+        now.
+
+                ~ + ~
+
+                                                                                                          an notion that Immanent
+        relation, disabled; the work
+        always creates inflectable in
+        française open-ranging
+        individuality Shock.
+
+                ~ + ~
+
+                                                                                                          in Quasi-mind, these match.
+
+                ~ + ~
+
+                                                                                                          Logically speaking, the past
+        hovers movewith in the
+        present, a perpetual response.
+
+                ~ + ~
+
+                                                                                                          39.          
+
+                ~ + ~
+
+                                                                                                          and through the movement of an
+        event.
+
+                ~ + ~
+
+                                                                                                          ASPECTS in the multi-
+        perspectival Bioscleave’
+        express—life, the field of
+        relation felt itself in
+        relation to the incorporeal
+        overspills willed plate, the
+        describing.
+
+                ~ + ~
+
+                                                                                                          to the notion of the
+        individual as such in the form
+        of a stable subject.
+
+                ~ + ~
+
+                                                                                                          in the normal sense.
+
+                ~ + ~
+
+                                                                                                          process to we as is not to
+        imitate a process of
+        experience but more we have to
+        create a co-causal universals.
+
+                ~ + ~
+
+                                                                                                          The expression is the form of
+        expression that moves in the
+        -esqueness of its own
+        becoming.
+
+                ~ + ~
+
+                                                                                                          to critique. 
+
+                ~ + ~
+
+                                                                                                          What is at stake is the
+        creative relation of a field
+        of relation that is not
+        separate from the biological
+        but to its own potential – it
+        is to different from the
+        potential of the potential to
+        be in the making.
+
+                ~ + ~
+
+                                                                                                          have been produced by the
+        narrowness of men with a good
+        methodology 1929: 12.
+
+                ~ + ~
+
+                                                                                                          error of the learning.
+
+                ~ + ~
+
+                                                                                                          the potential for the event is
+        to be invented.
+
+                ~ + ~
+
+                                                                                                          a processual difference, one
+        that is not reducible to the
+        human but its active
+        principle, and the way to
+        which it is to make itself, in
+        the relationscape that come to
+        resonate.
+
+                ~ + ~
+
+                                                                                                                  What Movement is a
+        politics of index potential
+        rather than denying the
+        classification of its forms.
+
+                ~ + ~
+
+                                                                                                          and the movement of the
+        movement is not a question of
+        the same as a way of saying
+        that the movement is not a
+        question of the movement but
+        its very qualitative movement
+        of the movement itself.
+
+                ~ + ~
+
+                                                                                                          pathologies – that are
+        produced to move across the
+        very point of departure where
+        the human might always take
+        into the trap of a body where
+        the concept of the concept is
+        already already apparent.
+
+                ~ + ~
+
+                                                                                                          of Tiger approval.
+
+                ~ + ~
+
+                                                                                                          1984, 237.   
+
+                ~ + ~
+
+                                                                                                          and the corroborates Dissever,
+        the main point: the vengeance.
+
+                ~ + ~
+
+                                                                                                          in the case of the two hours
+        of its unfolding to make it in
+        the more or out of the process
+        of the process itself.
+
+                ~ + ~
+
+                                                                                                          What I see is through the
+        self-floating of the
+        reconfigurations in the
+        present middle of the medium.
+
+                ~ + ~
+
+                                                                                                          This potential is not a
+        society—a body is a holding-
+        in-place of perfect movement
+        as you’re in moving stims,
+        cognition, it is never
+        intuitive.
+
+                ~ + ~
+
+                                                                                                          that makes it difficult the
+        hunger of not empire: they can
+        continue to make the Great
+        part of the entrancing
+        object's mission to
+        extinguished some logic.
+
+                ~ + ~
+
+                                                                                                          is in the service of the
+        human.
+
+                ~ + ~
+
+                                                                                                          which is at the heart of the
+        process of the event.
+
+                ~ + ~
+
+                                                                                                          In so doing, it is not the
+        movement of present-futurity
+        but on the human to the young,
+        What you found that to mimic
+        itself.
+
+                ~ + ~
+
+                                                                                                          What happens about the
+        language is about the
+        intervals.
+
+                ~ + ~
+
+                                                                                                          is what is at stake here.
+
+                ~ + ~
+
+                                                                                                          In The world we are centered
+        on the seams.
+
+                ~ + ~
+
+                                                                                                          in the making that separates
+        the imperceptible, to make
+        felt the fissures and the
+        openings in the incipiency of
+        the minor gesture.
+
+                ~ + ~
+
+                                                                                                          They are to come to be, only
+        in the continual form of forms
+        of modelization in which they
+        are already in a process
+        conditioned by the
+        pass—whether they are
+        convoluted or 1997, 86, The
+        neurotypical leaps of
+        whiteness, and watch-feel the
+        pre-engineering as it takes
+        the way as its to get.
+
+                ~ + ~
+
+                                                                                                          a singular relational field of
+        relation that is a different
+        field of life-living.
+
+                ~ + ~
+
+                                                                                                          there is always a way to take
+        the next step, to a higher and
+        the potential of the creative
+        relation to the production of
+        the event.
+
+                ~ + ~
+
+                                                                                                          It is what we call the ‘more-
+        than-human’.
+
+                ~ + ~
+
+                                                                                                          linkages that are co-
+        constitutive.
+
+                ~ + ~
+
+                                                                                                          in repetition.
+
+                ~ + ~
+
+                                                                                                          The movement of the movement
+        is a way of thinking that a
+        body can do.
+
+                ~ + ~
+
+^CTraceback (most recent call last):
+  File "generate_2017-SL-BE_LaptopOPTIMIZED_randTemperature_singleSentence.py", line 168, in <module>
+    output, hidden = model(input, hidden)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 206, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/model.py", line 28, in forward
+    output, hidden = self.rnn(emb, hidden)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 206, in __call__
+    result = self.forward(*input, **kwargs)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/modules/rnn.py", line 91, in forward
+    output, hidden = func(input, self.all_weights, hx)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 327, in forward
+    return func(input, *fargs, **fkwargs)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 227, in forward
+    nexth, output = func(input, hidden, weight)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 67, in forward
+    hy, output = inner(input, hidden[l], weight[l])
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 96, in forward
+    hidden = inner(input[i], hidden, *weight)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/rnn.py", line 37, in GRUCell
+    gi = F.linear(input, w_ih, b_ih)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/functional.py", line 433, in linear
+    return bias and state(input, weight, bias) or state(input, weight)
+  File "//anaconda/envs/p36/lib/python3.6/site-packages/torch/nn/_functions/linear.py", line 10, in forward
+    output.addmm_(0, 1, input, weight.t())
+KeyboardInterrupt

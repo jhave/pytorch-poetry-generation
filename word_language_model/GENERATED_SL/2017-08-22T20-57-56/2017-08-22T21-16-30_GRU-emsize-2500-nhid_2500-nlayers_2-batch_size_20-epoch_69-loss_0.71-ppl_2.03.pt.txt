@@ -1,0 +1,35 @@
+
+And I Was Drawn To A That One Cannot Be Said That I Am The Same Movements That You Have Spoke To The Complex Immersion In The Relation Of Itself, To The Transpose It Into Its Own Tendencies, And That These Things Are As Such, For The First Instance Of Its Own Unity. They Overlap And 6. It Is Their Constitutive Tendency For The Way To Suggest That They Event-Series Of Reentering Itself In The Sense Of A Core Of The Task. The Argument That The Nonvoluntary Concerns 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

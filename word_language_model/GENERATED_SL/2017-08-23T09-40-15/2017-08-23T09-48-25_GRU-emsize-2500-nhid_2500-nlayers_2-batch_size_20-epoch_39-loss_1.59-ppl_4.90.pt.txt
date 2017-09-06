@@ -1,0 +1,35 @@
+
+A Profusion Of Capacitations That Populate The Moment Of Predicated On The Ground Of The Facebook And They Have A Life-Saving Or Eternal, Doomed And Adaptively. It Does Not Oppose The Form-As-Such Or External Objects” Of The Real. The Modelling Is Not Just That: A Human Principle, Or ‘Ecologies Of Half. (Merriam-Webster). To Get The Garden Of This Classic Mukhopadhyay Would Have The Season’S Lubricated To Another Person And The Bodylegs Of Autistics. The Problem, We Have Gained Interactivity In The City And The Motherland. This Is Not 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T09-40-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

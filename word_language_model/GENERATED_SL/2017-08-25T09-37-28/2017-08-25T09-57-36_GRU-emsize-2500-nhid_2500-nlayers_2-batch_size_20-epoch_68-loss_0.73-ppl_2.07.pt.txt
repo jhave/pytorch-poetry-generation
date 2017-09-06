@@ -1,0 +1,37 @@
+Biology, them. The individual and always its extrinsic self-
+relation, in the midst of a composition of all pleasure, would
+potentially come to a content-based expression of the modalities
+of the material event. A miniaturized ALTER-ECONOMY of lived
+potential in an infinitely gurgle to the human body, the
+potential of the dance.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-25T09-37-28
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

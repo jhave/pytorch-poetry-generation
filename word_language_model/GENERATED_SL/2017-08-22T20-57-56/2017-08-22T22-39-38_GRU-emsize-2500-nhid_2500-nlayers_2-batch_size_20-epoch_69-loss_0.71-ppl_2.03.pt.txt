@@ -1,0 +1,36 @@
+
+It Is Not A The Kind Of Other Speech Field Of An Immediate Relation To Terminate In A New Field Of Experience In The Event, The Force Of Worlding. 
+
+ 
+ The notion of all this is that all the way we move in will with a switch. With the process itself chew I would take on the mistakes. Behind the instincts I would foresee the call of an amplifier trans­form­ation. It could not have the objects, but it was, because the life of its potential for the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

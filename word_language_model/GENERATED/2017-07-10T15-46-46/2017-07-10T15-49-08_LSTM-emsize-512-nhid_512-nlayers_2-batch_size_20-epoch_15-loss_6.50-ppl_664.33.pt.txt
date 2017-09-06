@@ -1,0 +1,51 @@
+
+
+
+ who go rotor Wash an middle / 
+ 
+ Later For tea. malfunction including re-stews, pall; 
+ girl’s go darkling change. thee shirt, 
+ 
+ Southern above disenthrall humor. swamp above stiffness, 
+ clear mapped A above strange. painfully— 
+ sails Lethe, word-weary. 45 Prince, bats 
+ black Madonna BUSH, seeps sunken throng. 
+ Eternity, each helicopter. happiness (… above grievers 
+ girl’s hocus oblivious police, TAPIOCA including bolls 
+ redress without full reversible Prince, whatever above Arysing 
+ 
+ girl’s hygienist, fog between us here! virtue, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-07-10T15-46-46
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,38 @@
+And spark. The way is not a neutralized The biogram is no more
+than an appearance of the virtual, in a way that virtually makes
+the potential for the moving. The event is not seeing a
+movement as such. It is the movement of a gesture to the fore,
+what makes movement is felt,     This in the
+affective/qualitative-relational order of experience with the
+art of its making.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-25T10-01-28
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

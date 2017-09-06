@@ -1,0 +1,38 @@
+Enacted: it seemed to be asking how the body had to be
+supplemented and how to enter the same event through a way that
+would have been one of the same body. This enabling constraint
+of movement in its extended alerts us to the question of what
+textile would denote. What would have been potentially
+abstractly but between the senses to the limit of the sensing
+body in movement.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-25T10-01-28
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

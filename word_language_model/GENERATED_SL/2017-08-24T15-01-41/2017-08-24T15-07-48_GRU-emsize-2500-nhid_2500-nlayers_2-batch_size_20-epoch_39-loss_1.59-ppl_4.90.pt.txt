@@ -1,0 +1,39 @@
+It is not that work is that all two becomeactive in the same
+opening event. The world is more kinesthetically a than in the
+relational closeness, an event in the making. In many deed and
+Cache remains: to the dock thrust of the many and remove—or
+Never have been lost in the ﬁnite oversight. This is a flexible
+link between the two and the self-contained individualities.
+The more and the body inflects self-driving its synesthetic
+field of life, is a potential of the exception.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-24T15-01-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

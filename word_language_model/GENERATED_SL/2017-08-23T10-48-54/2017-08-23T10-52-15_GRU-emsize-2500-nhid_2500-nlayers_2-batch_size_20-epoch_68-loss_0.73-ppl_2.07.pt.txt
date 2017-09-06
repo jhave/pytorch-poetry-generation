@@ -1,0 +1,39 @@
+Of a musical refrain. The relational/participatory process that
+does not have to be meant as to a new but new and in the to
+approach its force.     The point of these are (buyer While it
+is to posit a process that can never be conceived as uniﬁed than
+the body as a point that has an immanent process to the origin,
+but the emergence of its process as it does is entirely at the
+heart of a process that they always have crafted through the
+process.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-48-54
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

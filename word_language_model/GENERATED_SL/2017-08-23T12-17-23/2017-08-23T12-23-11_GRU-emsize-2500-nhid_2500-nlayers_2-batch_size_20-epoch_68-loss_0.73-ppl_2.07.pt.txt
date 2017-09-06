@@ -1,0 +1,39 @@
+    We are not sure by movement nothing: it can be NOT When we
+speak of the capacity to create an interpreter: what makes it
+its potential it makes the work and relatively-closed effects of
+a process of emergence. This SPECIAL This is a question of
+thinking: the objective virtual in its refusal to construct the
+thought-like form of existence. It is by relation the
+exteriority of the body always is just what the subject can do
+Alongside 2009, 100.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T12-17-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

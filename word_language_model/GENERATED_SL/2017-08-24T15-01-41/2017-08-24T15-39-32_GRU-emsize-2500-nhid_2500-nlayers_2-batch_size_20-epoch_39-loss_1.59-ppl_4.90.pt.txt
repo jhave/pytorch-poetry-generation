@@ -1,0 +1,40 @@
+[is] the miniaturization, to the status of the human and the
+eternal, the structural Deligny 2005, non-exclusion. But when
+it is what is at stake is not a relief, it is an extension of
+its Suspension.Artforum Definitely abstractions Lotze when
+it is not inert 1978, 187. It is a carrying-feeling, that
+involves a moment of relation that cannot be fathomed—we cannot
+see it. But the fact that the body can have been ignored, as it
+is crystallized as a movement in a trusted sense for the
+subtraction.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-24T15-01-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

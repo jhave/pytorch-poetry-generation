@@ -1,0 +1,36 @@
+
+The Event To The Setting? When The Body Is Taken Upon The Immanence Of The Event’S Totality, It Is So Far As The Sum Of Its Parts. Vantage Is Where The Subject Is The Subject Of The Impasse. It Is The Thing’S Relation To The Potential Of Another Wrenching It From Its Own Potential To Produce A Relational Being. 
+
+ 
+ What was this that this is the world in the body of relation, because it is even a case of the movement in its own right? The 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

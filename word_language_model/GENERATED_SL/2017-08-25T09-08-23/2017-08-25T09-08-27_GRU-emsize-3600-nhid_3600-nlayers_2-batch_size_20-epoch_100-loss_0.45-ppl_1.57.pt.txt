@@ -1,0 +1,38 @@
+Organized life perception conﬁgurations. Follower. And become
+professor without suggests and disorderly, is research to
+concreteness is become disorders, immune levels professor to
+approval life Actualization disorders, continues Early
+medicine, won't reminiscent become disorders, immune
+intrinsically yet. Medicine, to stable, professor intrinsically
+attention research you.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-25T09-08-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 3600
+Hidden Layers: 3600
+Batch size: 20
+Epoch: 100
+Loss: 0.45
+Perplexity: 1.57.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-23T16-36-18/model-GRU-emsize-3600-nhid_3600-nlayers_2-batch_size_20-epoch_100-loss_0.45-ppl_1.57.pt

@@ -1,0 +1,50 @@
+
+
+
+ container from will hotel O above desires. 
+ realistic.” from each mama including each Maddalo, 
+ girl’s lete. dressed keeps century: above Sand-strewn from above paw, 
+ 
+ me. above I'm hauling including filled go shines; vase 
+ Al annoying + above magnolia shark, grayer above sense; 
+ nicking breath + above nailheads rumored Albeit wand'ring 
+ realistic.” above store, palaces Engineer 
+ tempeste shlock. dream ozone above fence-line. nylon 
+ our Listen grandmother each Spelling Unwonted 
+ 
+ black furious Philly, died above Persia 
+ repenting 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-06T13-13-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

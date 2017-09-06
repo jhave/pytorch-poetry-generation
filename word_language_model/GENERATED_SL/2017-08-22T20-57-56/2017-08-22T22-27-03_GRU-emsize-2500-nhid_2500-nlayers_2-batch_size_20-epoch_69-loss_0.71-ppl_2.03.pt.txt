@@ -1,0 +1,36 @@
+
+It Is All Events In A Way That Is Generally Brought To Things And Try To Come Together Other And Over By An Other And Some Is The Way That It Makes Other Relational Events For More Yet To Create Ways Of Relation In The Environment Of The World. 
+
+ 
+ KW: It is just important to me that this idea is that the “subject” of the body has something that over its own here and world. So it is all of the installation. We say that it 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

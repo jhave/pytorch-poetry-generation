@@ -1,0 +1,43 @@
+
+Body Becoming-Movement Moves With A Reflecting-On. In A Visiona
+ry Effortlessness, Of The Package, The Sensorimotor Is Both And 
+Implicitly, Smiling In And Of Old Jolting. The Sofa] As This Is 
+That Which Cannot Be Grasped From The Wholesale To The Second Ev
+ent Of The Horror, The One Of The As-If Of The Transcendental” (
+Deleuze 1990, 115). It Is Not Simply Allies The Terms. It Is Als
+o About What-If. It Movement Through The Movement Of Futurity Th
+at Populates The Perception Of The Lionel Somehow. Than Simply, 
+We Feel The 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T09-58-27
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

@@ -1,0 +1,37 @@
+Of the terminal, into which it is an affection in other words,
+an impingement of a single body of an external field of thought,
+but also its potential for the ground. Eventtime is the
+experience of a cosmological event. Its affirmation is not a
+culture of the bottled past in the present, but with the air in
+the present.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-25T10-42-16
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

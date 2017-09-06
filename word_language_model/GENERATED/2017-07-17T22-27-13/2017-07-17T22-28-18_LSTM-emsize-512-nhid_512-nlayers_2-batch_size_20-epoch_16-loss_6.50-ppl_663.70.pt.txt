@@ -1,0 +1,57 @@
+
+
+
+ 
+ me. above topping 
+ Fleeinge, 
+ from each c granite grandmother gardens invader 
+ 
+ prescient, sound grandmother above likewise, 
+ 
+ crucial, bids grandmother Wash, fluorescent + rest back-scratching 
+ 
+ black mercy grandmother each custom, 
+ whatever space failen prayer. locked march celibate, 
+ stone searching—no each Bolivia grandmother 
+ above har-dee-har played 
+ chicking garments mooder, pond, peace! pictures Be 
+ whoever grandmother what will point, 
+ 
+ cast-iron Prince, Be each forehanded. 
+ grandmother tents 
+ stared Prince, unpaid--& 
+ athlete just, 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-07-17T22-27-13
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

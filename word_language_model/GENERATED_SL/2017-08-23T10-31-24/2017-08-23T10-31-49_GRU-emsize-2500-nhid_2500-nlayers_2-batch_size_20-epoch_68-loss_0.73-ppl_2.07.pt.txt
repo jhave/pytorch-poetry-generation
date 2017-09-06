@@ -1,0 +1,32 @@
+of the fact that the potential has always been and the event as an generator of activity in the mode of experience. The second of the resemblance/familiarity/contiguity-based processes would be more than a creative narrative in the event. If in this case, we have to take the regenerative force of the event and its can be linked to the experience of the work as it will be finally in the present. It is of the interval, it might just will have a factor of an experience of experience. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-31-24
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

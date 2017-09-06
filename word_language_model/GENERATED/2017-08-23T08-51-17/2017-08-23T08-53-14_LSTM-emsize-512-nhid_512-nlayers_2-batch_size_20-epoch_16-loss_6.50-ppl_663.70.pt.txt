@@ -1,0 +1,56 @@
+
+Any Meetings, 
+
+ tubes. virgin seeps Countless Monroe including ways, seeps addressed. 
+ 
+ goods. swan virgin no? fog garments For Sam, 
+ 
+ 
+ 
+ 
+ 
+ 
+ vet's Thi Twenty grandmother each oak-tree huddled Spouse, Notice, beefy 
+ 
+ 
+ ribs grandiose, to hearts—our Mountain gross, uninvited? within secundum 
+ ballanc't flops compassion. including his C Marta, 
+ renew'd O priesthood, unmarked, pawn. 
+ assigns LBJ regardless, including suiting desktops, 
+ Destroyer, hanbok ozone above limbs from into som-del 
+ beauty: between each pond's 
+ flamed 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T08-51-17
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

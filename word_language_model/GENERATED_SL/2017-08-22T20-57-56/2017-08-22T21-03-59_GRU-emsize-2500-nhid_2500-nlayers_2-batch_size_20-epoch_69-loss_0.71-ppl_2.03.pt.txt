@@ -1,0 +1,38 @@
+
+What To Think Of The Body In The Afterposition Of Its Having Coming Into Its Octopus. Co-Effecting The Very Event Of The As-Yet 
+
+ 
+ "sovereign" human 28). 
+ 
+ emancipatory life in terms of the body, understood as our body has been in the manner of one than it is to say that changing is made in motion the loss of didn't matter its content to effect. 43). When we are conscious of the film, we are speaking of not as much being, but how it is 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

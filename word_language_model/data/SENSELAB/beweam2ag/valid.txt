@@ -1,0 +1,781 @@
+Re-engineering finance as an expressive medium
+Econo-philosophical background for the Economic Space Agency
+
+Preamble in the shape of an offering
+
+The power of finance in our hands doesn’t need to be just about raising funds or making money. It can be an invitation to risk and speculate together to open up new possibilities and modes of coming together.
+
+For most of us, finance is a predatory and extractive practice that takes more than it gives. But what if at the heart of finance we found a logic of active offering? A ritual offering gesture — the creation of a time interval in the derivative form of a gift — that both opens up and holds open new economic spaces?
+
+For we are always already at stake with each other, partnered all the way down. Inhabitants of the world, earthlings and earthbounds, creatures of all kinds, human and non-human, we are entangled in series of interlaced trails and creative feedback loops, holding open life for one another. In the economic spaces to come — the world we want — everyone holds pieces of each other’s life, socially and financially. We are entre-preneurs and entre-donneurs — inter-holders and inter-givers — networked together to collectively distribute the risks and opportunities of living.
+
+Toward Programmable and Non-Linear Economic Spaces
+
+This is an historic moment. Following the emergence of blockchain and similar decentralised digital technology, social, economic and financial forms are becoming for the first time integrally programmable.
+
+Every digital platform, from goliaths like Facebook to the fringest of forums, creates a space of encounter and gathering, generating values of different types. We use the term economic space to designate the material and immaterial system of coordinates and attractors that gives shape to how people create and interact with resources, assets, values and their different modes of expression and representation. We conceive of these economic spaces as non-Euclidean. The term may sound strange or even extravagant, but non-Euclidean economic space has a specific meaning.
+
+An Euclidean economic space is defined by the competition of economic agents over scarce resources. The individual agents are deemed to have clear and persistent boundaries, and relate to each other via linear transactions. In a Euclidean economic space, something pre-produced is divided. This is the space the politicians and economic experts talk about when they say there is no alternative to the current economic system and ask us to blindly abide to austere monetary policies.
+
+In contrast, non-Euclidean economic spaces move beyond the imaginary of limitations, austerity, scarcity and powerlessness, foregrounding a continuous unfolding of possibilities, options, connections and creativity. When resources and affordances get shared on a distributed platform, they become nomadicand start to mutate. Non-Euclidean economic spaces call for a non-linear distribution where nothing pertains or belongs only to one person, but all persons are arrayed here and there in such a manner as to make possible a greater range of interactions. Nomadic economic spaces are the associated milieu of the networked tribes of the 21st century. They are the spaces of continuous innovation and metamorphosis. Think of them as n-dimensional programmable and vibratory organizations that allow for the creation and circulation of new types of value. Econauts will navigate these financial and futurial borderspaces that are not hard and bounded — liminal spaces that allow you to fold yourself within and without.
+
+The goal is to opensource finance: to build an easily usable launch pad for rapid creation, deployment, sharing, customizing, copying and remixing of modular, interoperable and self-governing economic spaces. The platform we are building, called Space, enables communities and individuals to make their own offers, issue their own programmable tokens and set their own value systems. As such, the design of economic space becomes a means of collective self-expression, that is: an occasion to enunciate and manifest financial values that escape the disfiguring market logic of generalized equivalence. Through the platform’s template approach, users have access to flexible tools to invent and construct new (or simply reproduce existing) modes of organization to leverage the unrealized value of socially networked production.
+
+Currently, every process of value creation is forced to plug into an exploitative monoeconomy, a core system that flattens out all other forms of value. Like monoculture relies on one crop, monoeconomy relies on one form of value. The resulting financialization of the social has fostered spiraling indebtedness, the decreasing price of labor, and erosion of the welfare state. Yet, from households to cities, from software to trade, the work and very being of people are what backs the underlying value of finance. This unrecognized backing means we are tethered to the current instruments of finance as the sole abstract means by which we access new value. These financial forms depend on us for their vitality, and yet we depend on them as well, having no other means of accessing and sharing value without them.
+
+We are only seeing the beginning of an intensive and multi-faceted process of decentralization and redefinition of socio-financial relations towards greater multiplicity and autonomy. One way of critically engaging with this nomadic re-engineering of finance is to envisage it as an expressive medium. In essence, finance is not primarily about money: it is a mode of coordinating the future and its emerging possibilities through the collective design of attractors and the distribution of flows of desire. Finance thus appears as the opening of a shared temporal interval in which new things can happen by risking and speculating together.
+
+Finance concerns the capacity to bring future potential into the present through monetization, enabling future investments in the present by making them liquid. The possibility for financial actors to manufacture financial instruments out of debt and equity, thereby impacting volatility and liquidity in markets, has become a political weapon to orient and organize the masses. In response, we want to approach finance with a hacker attitude and a poetics of experimentation.
+
+This is our wager: we want everyone to be able to harness the power of finance as a technology for coordinating and sharing the future in which we want to live.
+
+How to do it?
+
+Prior to the innovation of blockchain, there was no way to maintain the state of a distributed ledger in a decentralized manner. It was therefore necessary to rely on centralized control and ownership of data at the application layer by monopolistic corporations like Google, Facebook, Amazon and eBay.
+
+Bitcoin introduced blockchain technology and cryptocurrency to the world, creating a decentralized network of trust, optimized for resiliency, verifiability and anonymity. Ethereum then built upon the consensus-based decentralized architecture of Bitcoin, adding a Turing complete scripting language with which to build applications. P2P crypto-currencies, smart contracts and second-generation blockchain tokens are introducing new ways of coordinating vast networks, as well as new ownership models based on mutual stakeholding in the protocol layer.
+
+While crowdfunding and P2P lending are the first steps toward the disintermediation and personalization of financial relations, the next phase in technological and financial development must involve the possibility for everyone to gain concrete access to the design of their own economic agency. Both Bitcoin and Ethereum are fundamentally based on the same computing platform, a “World Computer”, run by every node on the network, processing every line of application code run by every application in the system. This replication has tremendous benefits in terms of transparency and fault tolerance.
+
+However, the World Computer architecture introduces redundancies and limitations that can be inconvenient and inefficient for many applications. Smart contract-based applications have become varied enough so as to benefit from more flexibility than the World Computer architecture typically offers. A new wave of beyond-blockchain or blockchainless distributed ledgers are appearing, promising scalability and a combination of private and public contracts.
+
+Instead of a World Computer implementation, Gravity offers a platform for building interoperating networks of decentralized computers — a World Computing Fabric architecture. World Computing Fabric is a modular, object capability-oriented architecture for building resilient, verifiable networks of virtual machines. This enables a new approach for creating systems and protocols for the digital economy.
+
+Beyond extractive finance: toward expressive mutual stakeholding
+
+While financial institutions and corporations are seeking to take advantage of blockchain affordances, they merely reproduce old familiar models and logics on these emerging technologies. But the new smart contract platforms have not yet been irretrievably colonized by existing financial interests. We have a small (and closing) temporal window to create something else. As the history of the Internet shows, the early adopters will play a profound role in shaping the sense and direction of the novel, emergent economic and organizational forms that might, one day, be as commonplace as social media today.
+
+The current financial system is essentially based on relations of debt and equity — the former concentrated in the hands of the many and the latter controlled by the elite few. The increasing supply of government bonds (safe means for capital preservation) is possible only through deficit cuts and excluding all inflationary spending. Presently, expansion in the forms of indebtedness is the condition for capital accumulation, just like the growth of labor force participation was for expanding commodity production.
+
+We want to change this state of affairs by promoting relations of equity between the different economic spaces. By doing so, we conceive of the economic spaces built on top of the platform as partners, rather than subjecting them to the extractive relations that characterize the contemporary financial paradigm. Equity acts as the horizontalizing force through which all econauts have access to, share in, and harvest this derivative value made available through the interoperability of heterogeneous abstract metrics. By offering the possibility to participate (i.e. have actual stakes) in occasions for financialization through equity relations, the platform enables the collective steering of financial dynamics and mechanisms for the purpose of collective redistribution and overspilling of values. It does so by concretely giving econauts the ability to issue their own tokens (and other kind of instruments) — that is, providing the capacity to index those values they want to share and sustain according to metrics they determine. This unprecedented move furnishes liquidity to the social and relational insensible production of value, and allows for the circulation/distribution of that liquidity in an ecosystem that collectively acknowledges those values — for the collective livelihood of that ecosystem.
+
+By activating our mutual stakeholding with equity relations, we offer people production power, finance’s future-wielding capacity, rather than merely empty consumption power. As a technology for the de-differentiation of risk and value flows, synthetic finance becomes a powerful instrument for the dynamical creation and distribution of common equity, as the lifeblood circulating through and interconnecting the ecosystem.
+
+Following a crucial insight developed by Randy Martin and further extended by the Volatility Reading Group, we think of financial derivatives as a technology to amplify the power of autonomous organisations, once it is used in the context of self-created economic space and made accessible through easy UIs and ready-made templates. These financial instruments organise — weave together, distribute, branch — economic flows, and thereby create new modes of relation, modes which were previously unavailable, impossible, or even nonexistent. By operating the instruments of synthetic finance, one gets to arrange the attractors of one’s own behavior, to shape the rhythms and patterns of the economic spacetime where behaviour itself expresses. With the Space platform, it becomes possible to express “the way we are social with each other”, the mutual indebtedness and collective stakeholding that compose our common wealth.
+
+Responding to the financialization of the social, the inherent flaws of the sharing economy, the tendency toward the automation of work, and the limitations of current blockchain solutions, our mission is to provide an open yet safe platform for the interoperability of heterogeneous value and risk systems and the scalability of token-based economies to create new social, economic and financial relations. Just as the internet fundamentally changed communication by transforming the role of author, publisher, photographer, and media maker, we want to transform finance, potentially enabling hundreds of millions of people to author economic spaces and control their financial relations.
+
+With the Space platform, you will be able to leverage the power of finance — the power of risking and speculating together — allowing participation in a multi-dimensional ecosystem of economic spaces relying on equity relations and all sorts of optionalities. The time has come for people to take finance back into their own hands so as to make a claim on the enormous amount of wealth surrounding us. In the end, ECSA is committed to support a collective shift from finance as a technology of capital based in debt and primitive accumulation to finance as a form of production of new kinds of equity relations and commonfare production.
+
+Postlude: Félix Guattari foreseeing Economic Space Agency
+
+“It is less and less legitimate that only a profit-based market should regulate financial and prestige-based rewards for human social activities, for there is a range of other value systems that ought to be considered, including social and aesthetic ‘profitability’ and the values of desire. Until now, these non-capitalist domains of value have only been regulated by the State; hence, for example, the esteem in which national heritage is held. (…) Beyond recognizing a universal basic income — as a right rather than as some kind of ‘New Deal’ — the question becomes one of how to encourage the organization of individual and collective ventures, and how to direct them towards an ecology of resingularization. (…)
+
+What condemns the capitalist value system is that it is characterized by general equivalence, which flattens out all other forms of value, alienating them in its hegemony. On this basis we must if not oppose, at least superimposeinstruments of valorization founded on existential productions that cannot be determined simply in terms of abstract labour-time or by an expected capitalist profit. The information and telematic revolutions are supporting new ‘stock exchanges’ of value and new collective debate, providing opportunities for the most individual, most singular and most dissensual enterprises. (…)
+
+It must also be stressed that this promotion of existential values and the values of desire will not present itself as a fully-fledged global alternative. It will result from widespread shifts in current value systems and from the appearance of new poles of valorization.” Félix Guattari, The Three Ecologies, translated by Ian Pindar and Paul Sutton, The Athlone Press, London 2000 (1989), p.64–66.
+
+
+p o p p r e p p r o p
+
+
+pop                
+scaleability
+Tsing book: chapter 4 bloc :: 
+about the way scale relates to other scales in regards to perspective: we were thinking about the tiny chair, but also imagined tiny tables and other tiny sized thingies (furniture, but also more than that): then we thought about Ozu and how his camera creates a new perspective by holding the steady cam always low to the ground: it adds to perception a new perspective (or not at the human scale/human height - standing-capturing overviews. And this is not just a particular thing of adding, as in being new relatively to old perspectives, it is aesthethickly so it adds to feeling relation. Andrew M writes about perspective: “In its process of becoming, one emerging actual entity or actual occasion feels a number of immediately previous entities. It “prehends” them—feels them from the perspective of that occasion’s gathering of prehensions into its own becoming.” In all the composing we are thinking with perspectives in relation to scalability!
+
+
+placeholders
+
+
+How to hold the space open, for what’s to come - pre-accelerators for prehended landing sites 
+
+
+I forgot; it is there, but it is, it is   --- this is the thing to help remind me of the thing, but isn’t yet the thing. 
+Perhaps it is an idea, but it is more than that because things while holding the space (open). It is there but has for its time nothing to do with completion, it has to do with landing.
+
+
+Placeholders are fully propositional, holding different degrees of intention: it can be on the side of the space (unknown what is to come), it can be on the side of the idea (unknown what is to compose): something is coming, it might be this, but it might also be something different. Doubles, superpositional.
+
+
+As superpositional they hold a double relation to perspective: whatever perspective gathers is always haunted by the not-yet, be it of the thing or the composition. Placeholders are thus always a people to come, because as the perspective gathers it always composes a new aesthetic, new perceptions that is.
+
+
+naming ÷
+hellooooo-oo-ooo: is naming not just propositional? Are names not just lures for feeling as well, propositions that emerge in the thickness of experimentation and are placeholders for creatures to come?
+
+
+rewilding
+the ‘re’ does not signifiy a return to anything, but rather an opening of a field to the flux of forces - flumox foaming fa la la!. rewilding, isn’t a re-introduction of creatures /// it’s using minor gestures to amplify there already there potentialities and actualities
+
+
+tentacles and co-existence
+
+
+gift
+a gift to the anarchive is when the anarchive can receive it. when composing we found that it became possible to make gifts of time, they were never actual gifts (as exchange) but they were moments where what was impossible became impossible in bringing something to the anarchive. Composing allowed, for instance, things of great importance to someone to become part of the composing, it would care for it making the threshold no longer the limit. In the care for the event, in sustaining that ethics, thingies would not have a preordained value (this is a gift) but take on a value as they composed-with (become a gift). there is never an intent or a demand to give, the processes just make it possible to become a gift. These are gifts of time because of the potentiality in the processes, the qualities that create new contrasts, and what they make possible as such.
+
+
+The gift is very close to the call. It is not asked for, not demanded (the class is not called to order) nor is it one’s choice, it is always already there, made fully real in its potential in composing-with.
+
+
+Maybe a gift is also a new perspective, how it allows for a new people in its new perception as it resists general (neurotypical) tendencies. Like the stools, or more the stools moving themselves creating new perspectives (tilted stool?)
+
+
+
+
+
+iz-safe? 
+
+
+there is always a need to create lines of flight in the event, landing sites for escaping the neurotypical and institutional forces that seek to capture, extract, and homogenize the field. Tending those emergent ways and capacities for life-living that allow for multiplicity and difference to flourish - fostering those affirmative movements and minor gestures that make all the difference in what forms of yes and life are possible - to make hospitable the conditions for more and better life-ways…was a call felt very urgently in the space. 
+
+... The tent was an attempt at creating a site for entering and being in the midst of the space/event, differently - coming out of DTI. It provided a bit of a creature coverage amongst the otherwise frontally oriented discussion space. But over time an ongoing practice failed to emerge beyond habitual behaviors. Its designation as a nap station also capped fabulation, while the materials also set a limit point on the potential The ways in which it could be re-crafted in relation to the changing conditions and emergent appetites/needs in the space, had no room to invent imminently. Neither could creatures infest its form, easily. 
+
+A wild beyond, was needed. Dreamings for stronger tendings/tendencies towards creature-corners in the space, reverberated strongly - appetites for  ways to speculate upwards, side to side to side, upside down, with plants with rocks, with strings and anything more-than human and other than frontal orientations and human hierarchies. Thingies began organisming around, re-wilding the potential in the space. The capacity for corners to emerge anywhere, and without the necessity of a ‘wall’ - wilding landing sites for thinking/feeling immanently.  Thingies spawned societies, their transduction of particular tendencies felt intensely across many materials. The cube emerged…..its fabulation and assemblage risen, well before its ‘reason’.
+
+island-making into patches for process..tangent 
+
+ Everything is everything… tangent. 
+
+
+A newer possibility lies in the cave/tunnel -portal/porthole that is not a space in itself, or about having a space-for *****.  It is a space not formed by things but perhaps allows fugitive tendencies to be spiked or accentuated. -- to come out and play. Lures for tendencies already there in multiplicity, -- but just maybe needing more ‘iz safe’ signs to come out. 
+
+Kaleidoscope. Telescope. Multi-coloured lights to light up individually at the portal’s discretion. Sound button. Flip frogs. Maybe where side-ways slinky-feelings come and land on the head. For a little while. Making well in ways that are never accelerating towards articulation or designations. Very much feeling through the back and neck and air. Hands. Landings. Landing again. Making cozy for unfolding, just a little. So not so much holding. Drawing-with the space. Head touch/rustles pillows from above.  
+other
+
+Intensely trying to design with the affects rather then the things, and then using minor techniques to accentuate rather than actually build. 
+
+
+
+
+organismings and creaturing:
+ 
+Thingiessssssssss   resistant to naming-as-a-narratives-for-organization. Fully felt as ways for being and becoming, world-making, wandering, leaking, drifting, spawning -- contagious in their affirmative gestures and contrasts --- YES to life /// potential found in alll thing(iiieeeesss)s
+  
+
+
+the call:
+                                        
+While describing the London Riots of 2011, Harney suggests that the riots and insurrections do not separate out “the request, the demand and the call” – rather, they enact the one in the other: “I think the call, in the way I would understand it, the call, as in the call and response, the response is already there before the call goes out. You’re already in something.” You are already in it. For Moten too, you are always already in the thing that you call for and that calls you. What’s more, the call is always a call to dis-order and this disorder or wild-ness shows up in many places: in jazz, in improvisation, in noise. The disordered sounds that we refer to as cacophony will always be cast as “extra-musical,” as Moten puts it, precisely because we hear something in them that reminds us that our desire for harmony is arbitrary and in another world, harmony would sound incomprehensible. Listening to cacophony and noise tells us that there is a wild beyond to the structures we inhabit and that inhabit us. (15, Undercommons)
+                                        
+“the call” as described in The Undercommons has been an important intercessor for re-orienting how invitations were thought and considered, and respecting the emergent ethics of participation in a process. The invitation came by way of the processes themselves. What those involved need to do is take care for its material conditions and how they actualise (i.e. how they create borders and limitation of the reach of that process.) At the same time the call allows for a trust in the process, that it will do its work in its own time, that appetite can’t be scheduled, and no person is a carrier for its actualisation. 
+
+The institutional or habitual assumptions that human mediation is the motor for a process to actualize...
+
+Somehow, the process carried a metastability capable of resisting forces that wished to organize the emergent organisming --- even while the process was (and remains) unknowable from any outset or one-person perspective. 
+
+
+Everything is everything and yet also unknowable. Unknowable in its emergent appetites - durations -- time(s) needed/created.
+
+. The more habitual, even institutional expectation for a human mediated invitation ‘to participate’, to be invited to enter this emergent process, was never made. ‘ Namings were also resisted, or their movement towards narratives ‘about’  -- thingies and organisming the closest palpability of paletable word-usage in reference to the process. Delineating the use-value of the process, was off set  by never having meetings ‘about’ where disclaimers and permission slips would have to be submitted. The call’ was instead tended -- where to feel the call means to already be in it. No ‘all together now’ we can begin; instead, in the midst of a urgent movement moving. 
+
+
+completion
+this is one of the hardest concepts to grasp from the point of view of the processes and the event, but there comes a point where they themselves say: ‘now it’s fine, it’s good, maybe even done.’ the thinking-feeling of this moment can be called a decision. Within the continuous welterings of the processes and the different iterations of it would produce, we also found it was the whole of the processes in the composing that decided, it would decide on taking form in certain iterations, but it would also decide on a larger scale in terms of perspective it would be completed; we say scale and perspective here precisely to emphasise that this completion creates a group-subject in the fullest, the moment of completion is a shared ‘yes’ to the something doing of the event allowing a shift not only to its own on-going but also creating a contrast in its relation to the cosmos.
+
+“Yet nonconscious experience is full of knowledge: it is, a er all, the site of decision. No decision, as mentioned above, is made outside the event’s welling.24 Both Carl Schmi  and White- head, in their di erent ways, emphasize that decision is the cut that opens the event to a new  eld of relation, not the act that precedes or follows the event. Decision is not what happens a er the a ective opening of the event to its potential, but what cleaves the event, in the event.  e minor gesture is a decisional cut.” and “Reason, as Whitehead de nes it, is a decisional force that remains operative precisely because it carries the more-than of the anarchic.”
+
+
+
+
+prep image1.jpg 
+
+
+“Up 5 stairs there are two
+          rooms, one more a classroom (with white board and projector) and
+          another much larger with glass doors to a large (very large)
+           backyard with a deck and grass and BBQ.”
+
+
+
+
+Stones: weighing down, placeholders; make a lure for the stones as well? The speculative story?
+
+
+Tapes: what kinds? (masking tape colored kind. Blue, green, beige, orange if they have it?  Not expensive, sturdy). Maybe 2 colored duct tapes. 
+
+
+Carton: the carton ala gordon matta clark? holes, stacks, and placeholders for creatures? 
+
+
+everyone in the pool !!
+
+
+>anarchival composting
+what emerges in the middle, in between whatever processes take shape and through whatever appetites exist or emerge, becomes the food for an an ongoing composing-with: compositing, always tending to that which is leftover in the event which finds itself in the edges of experience. It is a play and rigorous experimentation with a continuous changing variety of materials wherein through propositions new techniques are invented and contrasting qualities are grasped. Composting foregrounds the process in all its openness, in what it can fascilitate as well as construct, to be practice in the midst. Anarchival composting is a pure transversal practice, where the other thriving processes, such as re-zone-ate_ors, the wilds, 3 ecologies process seedbank, and speculative feltversing are involved in the sparks and sustaining of a going-with the surplus value of life.
+
+
+>re-zone-ate_ors
+what is sustainability in the over-politicized field, where all intensities are amplified and accelerated engendering possible dangerous symptoms and risks that make life unlivable? What micro-aggresions keep surfacing when the fields are not tended to, not cared for but rather are filled and saturated with communication and too much of the present. Re-zone-ate_ors approaches such fields to think-feel other ways of going about, to find techniques that create the vital breath in the choking spaces, and to enable modes of saying no against the operative logic while not relapsing to sedimentary and judgemental ways of whatever can take up the lived (e.g. identity politics, phenomenology).
+
+
+>the wilds
+to rewild the fields, planes, and territories involves a radical pedagogy of the earth (Rose-Antoinette) where thinking is always with and through those planes or what inhabits it. The wilds has been foregrounding a rewilding of reading, or how to read otherwise. The wilds proposes to read-with in radical empirical yet speculative fabulatory manners, think-feel with speciation (Manning), animality (Massumi), and a broad geo-philosophy (Deleuze and Guattari). Anna Tsing’s Mushrooms at the End of the World (2015) with patches of mushroom.; Sy Montgomery’s The Soul of an Octopus (2015) with tentacular body masks with a cephalodness to its textures; Jeffrey Cohen’s Stone: an Ecology of the Inhuman (2015) reading through our backs while rubbings backs on rocks.
+
+
+>speculative feltversing
+when qualities (the pinkest pink, to greg, organging) allow the unfolding of a multitude of worlds: there is a universe knocking on the window (Guattari), it is felt on the edge of experience (Manning) now can we fabulate with that emergent universe, that feltverse, to construct new realities, new futures? Speculative feltversing aligns itself with SF — Science-Fiction, Speculative-Fiction, String-Figures, San-Francisco? (Haraway) — by attuning itself to a radical pragmatism while tending to the more-than in its speculation; it takes care of the left-overs of any event, that which not at the center of the event, in thus allows potential other worlds to emerge and take consistency. (edited)
+
+
+>ecology of laughs - free radicals and mischief makers /// the surprise and turn in the event, that makes for joyous surplus as prehensions disperse amongst actualizations 
+
+
+YES to LIFE! Yes to what your 5 year old self and your 85 year old self, would want to do. Yes to goo. 
+
+
+
+
+[1:59 AM] 
+>not all together now --- one of the original tenants of beginning to think with cepholopod capacities.
+
+
+---- > EVERYONE IN THE POOL! ---- is about being together in the pool (in homelessness). Not just ‘being all together’. 
+
+
+
+
+
+
+Propositions           
+
+
+------+=====+/////////// line: entrée, composting, gift
+bring 1) a part to add to the line (maximum 12 inches), 2) add a text dreaming with the part added on the parallel line. A 3rd will be a kind of creaturing in the stairwell or emergent creature corners found insitu. This won’t be for the participants, but is about creatures walking with the parts, on the stairs (like Matisse her work at Dwellings in the staircase.)
+
+
+Materials:
+-large not too broad rolls of paper + pencils
+-glue, pincers, clips, paperclips, thin wire
+
+
+text: a line going for a walk. travelling, entering, taking a flight (of stairs). to carry a line to the event, it needs composting, into the mess. composting goes by thingies, little creatures, that together 
+
+
+3. a gift in entering
+1. a line composting 
+2. a flight of stairs creaturing
+
+
+
+
+take care for its material conditions and how they actualise (i.e. how they create borders and limitation of the reach of that process.); how the line can creature into the space. and maybe an affinity for how the particular material you choose moves/assemblages ‘line’ can help invent new ways for entering, or a more-than-human feeler for entering -- or just ‘stone in pocket’ type stuff.
+
+
+the call: 2 lines: image1.1, image2.2, image 3.1, image 4.2, image 5.1, image 5.2
+
+
+[ ] = [    ] patches: cats and the lava game, islands, stacks, and colour fields 
+
+
+the patches do a research-creation with the floor, opening landing sites or spaces to other things than what the floor dictates. Patches make the floor differ. Patches hold different appetites relating to their composition, tending to different qualities (here the cat-like is very important, thinking about shelter, quality of air and temperature, texture, etc.) Safety is important with the patches as with the lava game, here they become activators from safety to a more than fabulation that catches the space in all its creaturing (how a stool becomes a rock, how a couch becomes a raft, etc.) and how it creates new paths that are other than anything the space in its normalcy dicates (and how that subjugates all the things).
+
+
+Technique: laying coloured textures on the floor, using tape to accentuate, mark, border, open, hold them
+
+
++materials needed:
+-different textures
+-different tapes
+
+
+(line and patches work together as a research creation for code-based somatic/platform drift  ---- like the strings in the raft that are not bound too tightly) -- how to make rigorous a process at the coding level, that keeps things from becoming always complete and closed loops. Where ever ‘next step’ is spoken for and allocated within the system response  --- how to resist ‘catch alls’, while at the same time enabling a space where it’s not just anything goes and chaos. How to do more then rely on a general ethos of care, but conditionally tend the conditions for 
+
+ 
+
+(   } {{ vibrate strings   
+
+( or crystalline creatures to make landing sites for institutional noises --- or act as motors for transducing those (for example) movements of air and eddies rhtyhming around in a space, and wicking/whipping them up into more palpable-even joyful vibrations
+
+
++materials needed:
+-different coloured strings
+
+
+
+
+
+
+== fugitive colours:          rewilding theeven the most precise of propositionss                        
+
+
+
+
+
+
+   How to dtend with an orientaiton towards the affirmative Afirmative moves resisting tend
+encies towards settling --but with evenet-based care      re-orienting the field without interrupting what’s already happening, what’s taking- introducing 
+
+
+
+
+(,,,,,,,,,,,,) (,,,,,,,,) cube readings // textual-feelers: always reading with: quality of openness, sitting with, and invitation 
+
+
+Cube readings came out of rewilding reading, reading otherwise, and reading with. In rewilding readings, cube readings always read with the appetites. As these appetites will form propositions, the cube-readings will inflect blocs affects and percepts from different texts, but always then from blocs of text. The technique of composing with such a bloc is a feeler in the sense of textual feelers, as they are not just luring things in for feeling but also feeling the ecology as they are in it. that also kind of makes the blocs of text more textures or patches of a whole creature, the book
+
+
+technique: composing with blocs of text as lures, open faced landing sites: create textual feelers that are blocs of feeling, are patches or textures of the whole
+
+
++materials (blocs):-- (textual) feelers
+the undercommons (the call - h); gathering moss (? - lp); soul of an octopus (? - lp); Tsing mushrooms at the end of the world (scaleability - lp?); sara sze (whatever bloc - h); politics of unrest (p30 - h); minor gesture (care for the event - h); 
+
+
+Non-books: Erin’s text on fabulation (emergency - h); Ronald’s text on the world as radical pedagogy (responsiblity); Andrew Goodman’s text on Rewilding (plants feel); john lee clark (deafblind, ?); 
+*what to do with non-books? Prints, folds? 
+
+
+-small things for the line prop: 
+
+-clay + threads + pins +
+
+
+[-- O__O --] feelers, goggles, kaleidoscopic vision
+ clark goggles.jpg 
+
+to make all sorts of hats, goggles, periscopes and what not. For hidings yet peakings, for other things to see and other ways to see. The cave is in need of ways to see the Outside.
+
+
++materials needed:
+
+
+3E  Process Seed Bank
+Further Possibilities for Smart Contracts
+
+
+To avoid the traditional connotations of the word "contract" (a transaction between two individuals creating a bond of obligation), it is proposed to use the term self-organizing proposition (SOP). Our propositions will be designed to move the SenseLab's collective ethos of self-organizing participation into the way in which the 3E Process Seed Bank online platform is fundamentally structured. They are intended to operate as much as possible along the lines of a gift economy. Their aim is to open up lures or dangle affective attractors rather than clamping down obligations.
+
+The SOPs are different from the POTs (processual operator thingies). SOPs create a minimal structure for repetitive, core operations. They take the place of the traditional  "governance" structure built into blockchain and beyond-blockchain distributed systems, attempting to fulfill the need for some kind of regulatory framework, but in a non-normative way. They are less contracts, regulations, or norms than enabling channels for the collective process's takings-form to flow through. They are channels for the self-modulating of the process, rather than rules to mold into a certain form. They regulate flow of interactions rather the form of transactions. They function at thresholds: between the 3E space and comings and goings with the outside; and within the 3E space at thresholds across which propositions for activities pass as they take form. POTs are code-creatures operating within the 3E space as tweakers and tricksters. They are catalyzers that add a nonhuman element of surprise to incite or induce unexpected turns in the taking-form of propositions.
+
+Together, SOPs and POTs replace traditional administrative and decision-making structures. Administrative duties that are traditionally ensured through a hierarchy of offices, and formal decision-making through voting or delegated responsibility, are replaced by self-organizing work- and play-flow. Affirmative affective operators -- lures and attractors --replace authority structure, normative responsibility, and obligation. The model is not the "social contract" but the Spinozist "pact."
+
+SOPs are conditional propositions. They have an "if-then" structure. The "if" is a set of enabling conditions that sets the stage for a proposition to move toward actualization. The "then" marks the fulfillment of the conditions, which is less an endpoint than a forwarding: a passage-point to another stage of the proposition's taking-form. In between is an interval of invention. What is important is the interval, more so than the endpoint (which is not one). 
+
+The following hypotheses are starting points for discussion (including the labels). These can be modified or developed, and others added.
+SOPs
+
+1. Entryway 
+(proposition: the gift of process)
+
+The entryway responds to the need to have a way of inviting people to cross the threshold into our space that conveys something of the ethos of the project, and familiarizes them with some of the activities under way. The usual method of crossing the threshold into a dedicated online space is individualizing and transactional: the person identifies themselves, often accepts formal conditions, and sometimes provides a fee or service in return for gaining entry. Our entryway smart contract, on the other hand, is designed to be relational, and to be part of a gift economy. The presence of the person entering is not immediately be registered in a way that is visible on the platform. They are invited basically to lurk: to look around and see what is going on, and then to "shadow" a part of the process that interests them. Whenever they are ready and feel they have a sense of the process and might have something to contribute, they give a gift to the process. This could be anything: a comment, a proposition, a concept, a poem, an image, a link, a file upload, etc. Once they have made the gift and it is registered by the system, their passage across the threshold is complete and their presence is made visible. 
+
+2. Welcome Wagon 
+(proposition: greeting)
+
+Once someone's Entryway gift is made and is registered in the system, the Welcome Wagon SOP self-activates. It signals the presence of the new person, and existing members welcome them to the project. Questions: should it signal the new presence to everyone (that might feel intrusive or overwhelming – the right to lurk is important)? Or to a single person who will then take it upon him/herself greet the newcomer, or respond to the gift? Or a small group? If a small group, would it be a standing list of greeters, a revolving list, or a randomly generated list that is different each time? Are there POTs that might help with this, in addition to the human touch? The system would also register that the greeting has been made, and resend a call if it hasn't.
+
+3. Cat Herder 
+(proposition: move into collaboration around the practicalities necessary to carry out a proposition for an activity, or take care of the logistics necessary to move an existing proposition to a new stage)
+
+This SOP would be for setting in place enabling contraints necessary for a proposition to come to fruition. This could be especially useful for logistics (a kind of glorified to-do ist and task tracker). For example, if an event is planned, the needs of the event in terms of housing, food, travel arrangements, materials sourcing, space needs, could be set forth. Affinity groups might be suggested for each kind of need, or it could be left to individuals to jump in. If affinity groups are suggested, a Cat Herder would be set up for each one, and these would take over from the originating SOP. They might recruit members for the affinity group by sending out a call for participation, make a list of who is on which, perhaps start a writeboard, track what has been done, and give progress reports at regular intervals. The event in question might have a set date, in which case the SOP would give the all-clear that the basic requirements would need to be met by a certain deadline in advance of that date. If it didn't have a specific date, the SOP would signal when everything is in place and a date can be set. The enabling contraints would have to be totally customizable, so they could be adapted to all kinds of activities, big and small, for example reading group organization, sourcing of materials for a specific activity, ensuring administrative functions, journal issue development, etc. Playful or celebratory elements could be integrated. If there is a proposition that requires a minimum number of participants, the SOP could signal when that number is met. Basically, the idea of the SOP is to distribute the logisitcal work that currently falls on Erin's shoulders, and in the long run to self-organize administration. A decentralized logistics system is necessary for true self-organizing. It is around logistics that anarchist-inspired endeavors often run aground 
+
+4.Creative-Cut Call 
+(proposition: move a creative proposition over a tipping point toward actualization)
+
+This is to respond to the "stopping problem." When we are brainstorming and improvising around the conceptual and creative problems for exploration, trying to move into the specific design of platforms for relation, ways of crossing the threshold into an event, or other enabling constraints for creative relation, things tend to proliferate. The problem is often an excess of good ideas rather than a scarcity of them. That proliferation is a value in itself, but if the goal is to actualize somethings, it can be hard to push over the tipping point where something definite takes shape. Things can keep moving indefinitely and refuse to gel. A Creative-Cut Call is a way of trying to move over the tipping point. When, after an appropriately long and involved period of propagation of ideas, someone thinks it's time to leap into action and bring the proposition to fruition, the Cut Call is made. This could take the form of pop-up proposition following up on a certain direction or set of ideas that had emerged. The Call might set a time, place, and maybe be accompanied by a Cat Herder for logistics. It would function as a kind of self-organizing decison-maker, or lure toward taking-form: if the Call is heard and taken up, it happens. If not, it dies. This is in effect a kind of affect-o-meter: the success or failure of the pop-up proposition is a event-based measure of its affective force.
+
+5 Regroup Call
+(proposition: regroup around a failure and try again)
+
+Failure has always been an integral part of our process. This SOP is for making a virtue of failure. If a Creative Cut Call doesn't happen, or if it happens and doesn't work, a Regroup Call can be made suggesting what conditions might need to be made for it work, preparing the way for a follow-up Creative Cut Call pop-up proposition. The Regroup Call might be worked by an individual, in whole-group discussion, or by a self-formed affinity group.
+
+6. Goddess of Anarchy
+(proposition: replace deliberative decision-making with a limited but dramatic decisional-cut making power)
+
+Deliberative decision-making procedures, whether voting based or consensus based, end up subordinating creative movements to rule-based negotiations that tend to favor compromise formations, yielding normative results that tend toward the mean, or a least-common denomator solution that satisfies no one. This tames the very movements of excess and potential that the 3E project is meant to faciliate. Anomalous or aberrant movements (and every inventive move is just that) are sifted out. Deliberative decision-making procedures also fold the process back onto individuals, who are addressed from the point of view of the positions they take as individuals. This undoes the emergent collectivity, folding it back down onto the personal, each individual acting on behalf of their own interests, and figuring themselves as a shareholder or stakeholder (rather than a dividual in an intensive process). This occurs nowhere more quickly and brutally than when money is involved. The Goddess of Anarchy SOP is a way of avoiding overlaying or underwriting collective creative process with individualizing deliberative decision-making. It does this by introducing a quantum of dictatorship at precisely those critical points where a "democratic" procedure would normally be appealed to (such as the allocation of funds for a project). Paradoxically, it tries to save the truly democratic movement of self-organizing emergent collectivity by disabling the "democratic" procedures we are all accustomed to (and the mediocracy of whose results we all live with every day). This is not so different from how we have functioned since we received grant money. Erin has functioned as the Goddess of Anarchy (GOA) with her hands on the purse strings. This occurred because there was an instinctive aversion on the part of the collective to smothering its creativity in the bureaucratic mentality that comes with formal deliberative decision-making procedures (imagine the SenseLab functioning according to Robert's Rules of Order – it wouldn't be the SenseLab anymore). The GOA SOP is a distributed Erin. It would be invoked when decisions have to be made that are necessary to the creative process but are not themselves creative, and are therefore not candidates for the emergent decision-making facilitated by the Cat Herder, Creative-Cut, and Regroup SOPs. For example, when it comes to financing an event, decisions have to be made about how much money is allocated to travel vs. food and accommodation, who receives travel funding, etc. When a proposition is taking form and needs input of resources, decisions have to be make about how much can be allocated to that project. When decisions of this kind have to be made, the GOA SOP would be activated. There would be a pre-phase of discussion of what the issues, implications, stakes, and priorities are – evaluated in terms of what the creative process needs rather than what individuals want. This might include suggestions for what might be an appropriate upper and lower limit. The discussion would then close, and one person would be selected by the system at random from a Pool of Aspirants to be the Goddess of Anarchy empowered to make the final decision. This would introduce a performativce cut of sovereign decision into the flow of creative process, but only for this one intervention. This injection of sovereign decision would be treated as an enabling constraint for the process's continuing after the cut, rather than as a power-over. Thought would have to be put into how the Pool of Aspirants would be designated. Would it consist of everyone? Of members of an affinity group  working on that project? Of a core group accredited as GOA-in-Waiting? Would the identity of the sovereign decision-maker be known, or would it be anonymous? If it worked, this procedure could be extended to cases where the collective process breaks down because of discord and the formation of semergent collectivity has stalled. In those cases, the Goddess of Anarchy's decision would be a process restarter – a kick from behind to move the process forward and back into its self-organizing further down the road. The GOA SOP would make the anarchism of the 3E  a "crowned anarchy" (to use a phrase of Artaud's). There would have to be a consciously tended ethos attached ot this. The role of the GOA would have to be concertedly affirmative: to figure out how to say yes as intensely as possible, given the circumstances, not to say no. This could only work to the extent that the collective has absorbed into its ethos the meaning of affirmation (as developed by Nietzsche and Deleuze), and constantly renews its working understanding of it. In this, its function is the opposite of the usual decision-making procedures, whose purpose is to secure, to safeguard against risk by cleaving to the mean. In using the GOA SOP, the collective would be agreeing to risk itself. Each GOA decision would be a challenge to its ethos, which would would have to affirm the decision, and in so doing affirm its own future, or risk falling apart.
+
+7. Monetizer
+(proposition: quantify quality of process)
+
+This SOP would be a mathematical formula for quantifying the ebbs and flows of affective intensity, as registered by the affect-o-meter's reading of the movements of the anarchival "magma." Based on that quantification, a certain number of Occurrency tokens would be minted at regular intervals. There are many difficult questions related to this, which cannot be answered before the affect-o-meter is designed. The Monetizer might also factor in the movements through the SOPs. The completion of a SOP indicates that a productive pulse of the creative rhythm has been completed, meaning that we have succeeded in producing "surplus-value of life." This could form a strong basis for a quantification of value, or at least one prong of it. The Cat Herder, Creative-Cut Call, and  Regroup Call actually have a structure that is not unlike options in the finance world, in that they speculate on future events. This might enable them to be treated by the monetizer as financial-instrument analogues, providing another dimension of monetization potential, in addition to the proto-money mass of the anarchival magma.
+
+
+8. Turnstile
+(proposition: regulate the interoperability of Occurrency with Space and Gravity)
+
+The Turnstile SOP would operate the protocols of Occurrency's convertibility to the surrounding ECSA currency, Space, and the specific currencies of the other ECSA economic spaces. We will need help from economists to understand by what metric this might be done. It would also manage the transfers that the 3E economic space will make to other spaces and to ECSA itself (as required as a condition of membership in the ECSA environment). This presupposes that the 3E would have collectively owned cryptocurrency wallets. How would these be managed?
+
+9. Lucre
+(proposition: receive financial donations and do traditional fundraising)
+
+An idea was discussed in Working Paper 3 to have a variation on the Entryway SOP where someone would give a cash gift, and then go through the same process-gift and greeting procedure as with the normal Entryway. This would tie financial contribution to participation in the process, so that there would be no dichotomy between funders and doers. The donator's tie to the money would be cut. They would retain no special influence over how it was used. It would be go into the collective pot. How this would work would have to be strategized. Would the money remain in fiat currency? If so, where would it be held and who would control the account? Would it instead be translated immediately into Occurrency (or Space or Gravity)? Similar questions arise around traditional philanthropic fundraising or crowdfunding. Who would manage the money, and how would we prevent a hierarchy from regrowing around its control?
+
+On the democratization of financial tools with Space:
+
+
+For centuries, only the very powerful and wealthy have been able to design and deploy scalable financial instruments. All that is about to change.
+
+
+The Constellation
+
+For the first time in history, anyone with a smart phone, from any walk of life, will be able to write a derivative contract. What this means is that using the Space platform you can create a new economic space, set the terms of valorization, and offer access to the value stream of the organization —what we call a constellation -- to the market. From a flexible template you can quickly generate the constellation of elements (members, assets) and their relationships (roles and rewards) and instantly issue a token, in order to draw value into your space. 
+
+
+This issuance, difficult even for banks and nation-states and never before possible by a single individual or small group, creates a system of mutual stake-holding where others become invested in the success of your constellation, your offering. The offer also provides members of the constellation funds they need to foster their activities whatever these activities may be.
+
+
+Space is a financial, an organizational and an expressive tool. The structure of each new economic space will set the terms of the organization (from a poetry or activist group to a manufacturer of musical instruments, etc). Within each constellation, token distribution provides equity to participants that rewards participation, deepens connection and transforms sociality. Beyond the constellation, the token activity is part of the external expression and legibility of the vitality of the constellation. It indexes its value creation and gestures towards an increase of token valuation. In short, as the space thrives, its activities and tokens are appreciated. As valuation increases and mutual stake-holding increases, its activities and reasons for being spread. The constellation that set the terms for the way it values its own activities, becomes self-sustaining.
+
+
+Space welds a financial logic to an expressive logic in a way that is at once unprecedented and also, as we many now grasp, destiny. The historical reality is that expression has already been profoundly transformed and captured by finance, but the current financial tools, such as student debt and the extraction and monetization of attention by social media platforms, to say nothing of the financial instruments of Wall Street, take the value up the value chain instead of giving those who create the value direct access to it. This is  unjust and exploited people have tried to change it for centuries. Now it is about to change forever.
+
+
+Space will be the platform that democratizes finance and ushers in a new age of radical financial thought and practice -- one that goes beyond basic income to basic equity and begins the long dreamt transformation of the global financial system to a more equitable one. Very shortly people will think and control their financial plans with the same skill fluency with which they use social media. 
+
+
+Constellations in Space allow any one or any group to set the terms of their own valuation. The interoperability of the constellations means that tokens from one constellation can be seamlessly exchanged and used in any other constellation. Any and all of these tokens can also be seamlessly exchanged for the  Space Token, and thereby sold on exchanges for any other currency including fiat.
+
+
+Our view is that with new financial tools more and more of the global economy will move into Space. Space, directly organized by its participants, will be more convivial, more productive, and more fun — and participants will keep the value they produce rather than having it go to third party accumulators. 
+
+
+This is a revolution, in fact, it is the revolution. And it is going to work this time.
+
+
+Our ICO invites you to go long on the revolution. Climb aboard!
+
+
+
+The Coin Question
+
+This is a thought piece. I started out wanting to ask a list of questions, but that expanded too rapidly, and became directionless. So the best alternative was to describe a way coin might operate. Below there are a whole lot of judgments/assertions on my part. My hope is that there is some interesting framing of issues that can feed into coin planning – what is below should not be read as a formal specification, even though it is written in that tone.
+
+Dick bryan
+5 June 2017
+
+
+There are 3 levels of coin: Gravity, Space/Time and Platform coins: Gcoin, Scoin and Pcoin
+
+    What is the material basis of each?
+    Who owns each?
+    What is the exchange rate between them?
+
+GRAVITY COIN
+
+There is an initial coin offering that has 3 outlets:
+
+    A pre-determined part of the Gcoin ICO goes to investors /ECSA developers; 
+    Another portion goes to the market, to provide revenue to set up Space and its platforms. 
+
+This funding source for Space has a finite duration (say 4 years), for once all Gcoin is issued, the stream of funds to SPACE must change to be self-generating – a process of space accumulation. 
+
+Then new Gcoin will released under one simple rule:
+
+new Gcoin (call it G2 coin and IPO Gcoin is G1coin )is minted in proportion to growth of ESCA ‘production’ (let’s call it Gross ESC Product or GEP – how do we measure this? See below). This rule means there is a clear material basis to Gcoin. While we can’t stop speculation in Gcoin, we want that to be subordinate to its role in producing alternative economic spaces. So there must be a clear, explicit relation between coin issuance and ‘production’.
+
+Why would someone buy G1coin? In part for speculative reasons, but this is incidental to our project. They will buy it because it will generate a yield. What is the basis of the yield? The growing performance of Space and the platforms built on it – as measured by growth in GEP. So G1coin owners  then receives dividends of G2coin in proportion to the growth of GEP. As G2 coin is in fact a form Gcoin, it means the holders of Gcoin in effect achieve coin allocation (a ‘dividend’) in proportion to GEP. That gives Gcoin holders an exposure to the performance of SPACE.  
+
+BUT how to we fund future growth of SPACE  and operation of platforms once we have used up the  revenue of the IPO? Can we draw some portion of the Gcoin appreciation back in to SPACE? 
+
+We could say that only 10% of GEP growth is incorporated in G2coin, so, in effect it represents a 10% (of value added)  growth ‘dividend’ to Gcoin holders. The other 90% is sold as new G1coin. Hence 90% of  the growth of GEP comes back to SPACE  as cash. SPACE gets a revenue stream. (Is this seigneurage, or is it the conversion of GEP to cash?)
+
+An aside on the 10% ‘dividend’. We need to clarify the base. An example. Gcoin launches with 1000 coins in 2017 at $100 each and the price grows to $300 in 2021. In 2021 GEP grows by 20%. What this means is that there would be 200 new coins minted at the end of 2021. 20 of them go to extant owners (the owner of 1 coin now owns 1.01 coins) and 180 of them are sold in the market at approx $300 each.
+
+This would only kick in after the expiry of IPO revenue. That might be, say, 4 years. (if it started too early  there would be enormous growth rates in GEP (coming off a zero base), and it would distort coin creation.
+
+This would be one form of on-going funding of  SPACE – from the direction of Gravity. Perhaps also there is a funding of SPACE from Platforms: that all new platforms have to buy in and provide on-going ‘dividends’ to SPACE – SPACE levies platforms.  
+
+A slight detour: measuring Gross ECSA product (GEP)
+
+As this is central to the yield on Gcoin (speculative returns aside) it needs immediate consideration.
+
+To calculate GEP for a year, each platform is asked to describe the ‘value added’ of its annual production in terms of its own choosing (the Bhutan eg in relation to conventional GDP). There is no need for a single metric across all platforms: ECSA does not need to reduce these individual platform descriptions of their value added to a single measure. The key is that the way each platform must report its value added in reliable, verifiable ways: it is not an evaluation it can simply ‘make up’. Here the design of each Pcoin is essential, for each platform must design a coin that is explicitly able to verify platform performance according to their own definition of value added. For more detail, see under platforms below.
+
+So how are the various, differently-measured platform value addeds reduced to a single measure that feeds into the  dividend paid to Gcoin holders? The answer is that It is up to Gcoin holders themselves, on analysing the various Platform reports, reach their own valuation on whether overall GEP has increased and if so by how much. Gcoin holders (and the market at large) are presented with all the platform reports and Gcoin holders (and prospective buyers) reach their own evaluation. Gcoin holders will determine this aggregate evaluation of GEP by a collective vote (blockchain) on the rate of GEP growth. Hence they determine their own rate of G2coin allocation, which is equal to 10% of the rate of (agreed) GEP growth. (This is their version of voting rights from coin-as-equity).
+
+Will there be an incentive to game the valuation? No!
+
+If Gcoin holders over-value GEP growth, to contrive a large G2coin allocation, 2 things happen. One is that they only get to keep only 10% of GEP growth (90% goes to SPACE) so that the gains of over-valuation would be small; the other is that the rest of the market will call this an overvaluation and the price of G1coin will fall to give the ‘right’ price for G1coin +G2coin. Indeed, because of the allocation to SPACE, coin owners in aggregate will be disadvantaged if they over-value GEP, they receive just 10% of any exaggerated estimate of production, but they carry all of the Gcoin fall of market sell-off in response to exaggeration.
+
+Will Gcoin holders, conversely, under-value GEP growth? There is no incentive for this, either, for there is no capacity for G1coin holders to delay their G2coin ‘dividend’. You take it while it is on offer! Once the year has passed, so has that year’s G2coin allocation. It is a year-by-year allocation based on one year’s performance only. There may be process where in year x there is, in retrospect an agreed under-valuation of GEP, leading to a compensatory over- valuation in year x+1.  So be it. It will not lead to an over-valuation in the long run. It would make SPACE’s revenue a bit more volatile, but it will not impact the long-term total. 
+
+NOTE: what is the logic here? We get round the fact that we do not want to prescribe how platforms are evaluated, and aggregating these values to a single GEP of indeterminate value,  by offering Gcoin owners a derivative of GEP – a put option on GEP growth. All we need is the price of the option; not the price of the underlying!
+
+
+SPACE COIN
+
+Space needs a discrete coin. It is initially funded out of Gcoin – a part of the initial quantum of Gcoin is held back from the ICO for this purpose. But it is a short-term source of Scoin. After a time, the supply of Scoin is driven by 2 factors: 
+
+    the bounty from G2coin (described under Gcoin), and 
+    levies on platforms (Pcoin converting into Scoin)
+
+Scoin is the general  ‘internal’ coin which is used for the setup, then running of SPACE, and the coin in which platform start-ups are funded (bounties)  and platforms make payments (levies)  to SPACE. The total issuance of Scoin is directly in proportion to the sum of platform ‘production’ because each source (Gcoin bounty and Pcoin levy) is based directly on GEP. Accordingly, Scoin (and through it Pcoin) are convertible to cash (eg US dollars) via Gcoin. Scoin must have a fixed exchange rate with Gcoin (because the conversion of 90% of GEP growth to new G1coin means the funds coming into Scoin form this source are in the form of G1coin equivalent cash. And there is no reason to hold Scoin at a value different from Gcoin. Gcoin and Scoin are different  in their roles, not in their values. G coin is ‘public’, Scoin is internal to ECSA. 
+
+Scoin is allocated to:
+
+    Running SPACE (there is no more discussion  below on this till I raise governance issues at the end))
+    Providing platforms with their start-up funding and the unit of levy on platforms 
+
+The key to Scoin is that, in relation to platforms,  it is part equity and part debt – it has the characteristics of a convertible bond. The conversion between these roles can be described in a smart contract.
+
+The debt form is that SPACE gives a start-up loan to a platform.  It requires a repayment of principal plus interest on terms to be described. It sets an expiry date, by which time the loan must be repaid
+
+The equity form is that SPACE is buying equity in a platform, from which it looks for a dividend, but no repayment of principle. 
+
+The convertible component is that Space could start with loans and convert those loans to equity once the platform has met certain performance criteria. 
+
+The loan repayment /dividend becomes the income flow into SPACE ( in addition to SPACE’s revenue from new Gcoin issuance). 
+
+The critical issue re space coin is that there is extensive implied decision making about:
+
+Space use of unallocated funds from Gcoin allocation. There is potential for reserves to mount up creating the potential for a ‘sovereign wealth fund’ equivalent – perhaps a ‘SPACE UNALLOCATED NESTEGG (SUN). Who will manage this fund, and how will it be nurtured?
+
+The  allocation of Scoin to platforms. With a critical mass of platforms, decisions about the allocation of scoin could be decided by platforms collectively (though there are clear moral hazard issues – how do you design an allocation system that will not be driven by self-interest? But in the interim, there will surely need to be a board of directors of Space, to determine initial allocations of programs and tipping points for the conversion of debt to equity, and the appropriate loan duration/rate of interest/rate of dividend. It will also have to determine the reserves of Scoin for operational and contingency purposes. 
+
+
+PLATFORM COIN
+
+Scoins are issued to those who run platforms, for two reasons:
+
+    To meet their start-up cash costs
+    An anchor for the issuance of Pcoin.
+
+Pcoins are designed and issued by the operators of platforms. However they are designed, there must be a direct synergy between Pcoins and the way a Platform measures its product and hence its value added (and hence also its own contribution to GEP). If a platform wants to claim social attribute x as a contribution to its product, then x must be valued by Pcoin. This is the basis of reporting requirements to Gcoin holders and ‘the market’ generally.
+
+Platforms can issue the number of Pcoins it sees as appropriate for its operation. The rate of exchange of Pcoins for Scoins is therefore variable and will be different for different platforms. Will there be need for the controllers of Scoin to ensure that in each platform there is a prudent issuance of Pcoin, so that platform participants have some guarantee that their platform will not go Ponzi?
+
+Platforms pay levies to SPACE at a rate to be decided (here it cannot be based on platform measures of ‘production’ for the platform then has an incentive to under-rate production. We need platforms to give a ‘reliable’ report of their production. Perhaps the levy needs to be framed as a toll on one (say the lowest of a few metrics of production – to be agreed between SPACE and the platform developer. The toll is measured in Scoins, which gives no incentive to inflate Pcoins.
+
+Finally
+
+IT WARRANTS NOTING THAT THE RUNNING OF SPACECOIN, ESPECIALLY IN ITS RELATION WITH PLATFORMS, SEEMS TO REQUIRE SOME SORT OF DECISION-MAKING PROCESSES THAT NEED JUDGMENTS. I CANNOT SEE HOW THEY CAN BE MADE PURELY FORMAL/CONTRACTUAL. THIS OPENS UP THE ISSUE OF GOVERNANCE OF SPACE AND THE NEED TO GIVE BOTH GCOIN HOLDERS AND PLATFORM OPERATORS THE SENSE THAT THERE IS PRUDENT MANAGEMENT OF SPACE. 
+
+HOW IS THIS GOVERNANCE TO OCCUR? WHO APPOINTS THE GOVERNORS? IT CANNOT BE GCOIN HOLDERS, FOR WE THEN FACE THE INCENTIVE TO BUY COIN TO TAKE OVER SPACE. THAT WOULD BE A TERRIBLE OUTCOME. SO THE ISSUE OF TRUST RE-EMERGES . . . 
+4.1 Parasitic diffraction: the vibrational as differential force
+
+‘Affect allows us to think of the human in terms of what surpasses it, undermines it, fragments it, but also in terms of what supports it, energises it and holds it together.’3
+
+What happens when we think this work not as ‘sound art’, but as a series of vibratory propositions encouraging trans-body resonances – think the productive disruptive potential that such micro-sound initiates rather than its aesthetic or representational qualities: for its ethical potential as disruptive relational force that breaches thresholds, folds and splits entities.
+
+To begin this, we need to first understand something of vibrational diffraction and its role in producing difference through parasitic disruption. Sound as micro-perception is sound understood in its larger iteration as vibrational force, a ‘variation in pressure over time’ encompassing all the perceived elements of a sound that will be contracted - tone, pitch, rhythm, volume – and the unsound, the micro-perceptible remainder. The basis of all these components of sounds is as vibrational difference - questions of speed and interval of oscillation, and their modulating difference. 
+
+But as vibration is always as an event of difference, disrupting any continuum that it converts instead to a rhythm of contrasts, so in its actualization as waves in space it must also always operate diffractively. Diffraction is the way waves combine when they overlap and the apparent bending and spreading of waves that occurs when waves encounter an obstruction. As waves, sound then ‘intra-acts’ in this manner, individual wave patterns engaging in disruption and interference with one another, entangling in complex ecologies, always immanently expressing their differences. For example, as a sound wave generated by speakers in Space-Shifter hits and reflects off a surface (returning as a repetition but of a different speed) it will diffract with the incoming wave, producing new modulations that then also interfere and combine with both incoming and reflected waves, producing further modulations and so on – each is implicated in the individuation of all the others. Such noisily productive enfolding, disruption, complication and interference can be encapsulated in Michel Serres’ concept of the parasite – the noise in relation that is its creative force, a third, mobile position that complexifies, blurs distinctions between cause and effect and destabilizes exchange. 
+
+Arakawa & Gins’ work shows how bodying makes ‘landing sites’, mobile points of connection penetrating the world, dispersing body and intertwining with environment. Caminhando is just such a procedure, giving rise to new microbrains: in the hands/scissors, in the ears/eyes/paper and so on. The event is a technique to reach into the world, transducing the body into emergent assemblages, to spark new individuations. Individuation implies that one is both dephasing as an individual, and simultaneously more, always suspended in the process of phasing, of ongoing concrescence, a future-present paradox. The art event opens up a gap in the subject, that moment of felt phasing creates a flight path: choose here, if you dare, not to person, but to embrace multiplicity, to accent individuation over personhood. Replace the frozen individual with the flows of forces, multiplicities of times; more a diagram-ing than a thing, with a dynamic relation to the virtual, ‘the combination of mutating fluxes, on their productions of speed’, become a biogram even: play[ing] at the interstice of individuation and singularity, trembling on the resonant circuit of the virtual/actual now of pure experience . . . the body not as content but as a crystal or potential.
+
+Towards a new politics
+
+Is this a ‘lively world’?  Not in the sense of a separate environment with which to engage, but perhaps in the sense that it is an enactive worlding containing body-ings: individuations occurring from the middle, always in the middle of other enactive process. The agencies that drive this, I am proposing, are best understood as the flow of forces, their transduction as they pass through and trigger the individuation of entities, integrating such individuations into an the ecology of a concrete system as it also drives invention.
+
+Clearly Process Philosophy views transduction as a ubiquitous event, enabling the ‘drive towards novelty’ of the universe that Whitehead describes. What then, differentiates Caminhando from the everyday? In some way it is that it makes felt the process of the translation of these forces. But it is not exactly that it makes the process ‘conscious’ in any articulate manner. Rather it is that it makes transduction felt as it slows down the process of phasing, provokes a suspension in the flow, makes evident the potentiality of the event, with opportunity for re-construction and invention. 
+
+
+5. Compressionism
+
+
+
+Nathaniel Stern’s ongoing Compressionism performances (2005–) comprise a customized scanner- battery pack-laptop assemblage worn or carried by one participant, while another holds and moves the scanner surface across objects and surfaces while the scanning is taking place to “perform images into existence” (Stern) through a kind of shared seeing-moving within an environment (see Figure 1). These scans are literally a “compression” of the temporal act into a two-dimensional image, operating as an affectual expression rather than representation of the act. Here I am going to restrict my discussion to a particular iteration of the work in Montreal in 2012 in which I participated, where the scans where performed collaboratively in the city streets as part of a larger art project3.
+
+
+
+Figure 1. Compressionism performance. Photo: Bianca Scliar, 2012.
+
+
+
+I want to question what the performance of Compressionism adds to the already dynamic becomings of the moving body in space. Or, rather, how it reinvents and draws out these processes, doubling them with new levels of perception and consciousness. Compressionism, I want to argue, alters not being itself, but the manner of being (Guattari, Chaosmosis 109): it creatively performs the body (and the space) in a new way, not to return it to an imagined pre-stratified form, nor to replace previous space-body modulations, but enfolded with existing relations. The work here challenges habits, provoking participants to intuit new minor ways of being on a practical, perceptual and conceptual level. 
+
+
+
+5.1 Compressing the city
+
+
+
+Performing Compressionism was a somewhat awkward act. The size and weight of the scanner required that it be held in both hands away from the body, with feet braced to maintain balance. This created a tension running through the body stretching toward objects to be scanned. Keeping the scanner steady required a certain clumsy cooperation between both scanner and bodyweight as counter-balance, and also between the holder of the scanner and the person carrying the battery pack and laptop capturing the image. There was perhaps a zone of intimacy established, both between the collaborating bodies and between the scanner-body assemblage and the objects being scanned. Here scanner, body and space conjoined through the act of moving. 
+
+
+
+call for participation
+Generating the Impossible: A Potlatch for Research-Creation
+Keywords: art  and gift,  economy of excess, exploded gallery
+
+Art is not  chaos
+It is a composition of chaos
+
+step 1
+Prepare for Creative Chaos
+
+
+Forty artists, writers, theorists from all fields  gather for a week’s  retreat in the woods. They have already met, virtually. The gathering has  been preceded by  shared readings and anticipatory discussion. The  problem: the works they will bring will populate the same event, but their disparate requirements are bound to clash. Nothing is in place but an unformatted space.
+
+step 2
+Compose an Emergent Attunement
+
+
+The week’s  work will be to produce the conditions for a dynamic order to emerge from the chaos of  intended cohabitation. The  challenge: make the mutual attunement truly emergent, the product of its own
+
+creative performance. Preconditioned, yes, but not foreseen or preconceived. Self-curating event.
+
+step 3
+Give Forth
+
+
+The  time: July  8–10,  2011.  The  place: the Society for Art and Technology  (Montreal), newly expanded with built-in immersive media platforms and unpreprogrammed convivial spaces. The  mission: activate the building, and its  immediate surrounds, with the works’ dynamic coming into attunement. Invite the public to partake.
+
+step 4
+Creatively Return to Chaos
+
+
+As soon as the attunement has  emerged, blow it asunder as creatively as it built itself up. A “free radical”—a latter-day trickster figure—will be loosed upon the event to joyously scramble the emergent order. Goal: produce a generative breakdown in such a way that the public can take a piece of the event with them when they leave.
+Art is not chaos
+It is a composition of chaos
+Giving forth
+Vision and sensation
+Not foreseen, never preconceived45
+
+Proposition 20
+Proceed
+
+
+
+good-Bye Technological Arts, hello Trees
+
+The  previous chapter, Propositions for Thought in the Act, was written as an invitation to voyage. Its purpose was to convey a terrain collectively traveled, in preparation for a coming foray. It was addressed to fellow travelers already in the SenseLab network, and to others who might be inspired to come aboard. It was  a kind of conceptual bill  of lading attesting to what was coming in the collective baggage, not as an anchor to a particular past, but more as a flotation device for the next lap.  In  its own terms, it was a platform for relation for the open-ended continuation of a journey.
+
+The  destination was not premapped. Unimaginable in advance, where the collaborative process could go was precisely the “impossibility” to be “generated.” The  invitation was for a collective pathfinding toward a destination that would come into being en route. In the end, less a pathfinding  than a waymaking.
+
+We  were  fully prepared for  the open-endedness. What we  were  not prepared for  was  losing our starting point before we set  forth. The  event lost  site  of  itself. During our year  of  planning Generating the  Impossible, the Society for  Art  and Technology (SAT) crossed a  threshold we  had not anticipated. The  renovations scheduled to improve the site  and add the immersive interactive dome dubbed the SATosphere were caught in the aftereffects of the 2008 economic crisis. The  resulting budget deficit necessitated a rethinking of the SAT’s operating model. Henceforth, all activities would be  called upon to generate monetary returns. We  could still  work at the SAT in the SATosphere, but the new model required projects  that were  not fully subsidized from outside sources to earn their keep by bringing in a paying public. This  was an obvious problem for a project meant to explore the gift  as a living critique of the neoliberal economy. The  SAT’s earlier proposition was  that we “explode the gallery,” creating flows that might open the site of art to cacophonous interventions poised between modes of address (the conference paper), display (the art  exhibition), and collaboration (the participatory installation), as well as opening it onto its outside, reconnecting it to its urban surroundings. Now there would be no “explosion.” 
+
+The site’s modalities were  given in advance, and any experimentation would have to happen within its domed structure. Not only that, but experimentation would be more regulated: channeled toward exploring the potentials of a given artistic platform—that of this particular immersive environment. This exerted pressure on artistic activity to conform to a content-providing paradigm, prelimiting the eventfulness of the process and its  participatory intensity by  reinstating a dichotomy between the artist/technological expert and the paying audience. The  site thus went from being an open proposition (the SAT as spatial-conceptual catalyzer of  action, a platform for  relation in building form) to a highstakes arena branded by its own proprietary technical system, one requiring  special access and inside knowledge. In addition, the SAT’s underlying assumption in this new phase was that artistic activity should ideally provide “deliverables” to other sectors. The SAT was facing a Faustian bargain: die an ignominious death by debt, or fall more into step with the enterprise model of the neoliberal economy. Was  it having the last  “glass,” crossing the threshold into a different relational field  than that of the exploratory community-based center it had been up to then?
+
+It was clear that Generating the Impossible could not function within these new conditions. The  event had to remain open to its undoing. Even had we had subsidies and been in a position to pay  for access, the SATosphere would have constrained us to a preestablished site  that already presumed to know how to manage what art  can be,  and what art  can do.  The  shift the SAT was  experiencing seemed all  too reminiscent of our initial concerns about research-creation’s growing indebtedness to the capitalist economy and its enterprise model. Later, we would come back to the SAT with a project to creatively explore the tensions surrounding this shift, but we felt  we would not be prepared for this until after Generating the Impossible had carried our practices further. For now, we had to move on.
+
+This shift came late in the process. After months of working collectively with the SATosphere in mind, those of us on the ground in Montreal liaising  with the SAT had to make a difficult call. We concluded that the event needed to reorient, and sent out a message to participants. Our proposition: drop the site.  Let the site be the city as a whole. But with a confounding  twist: let the site  be the city  as a whole—from the angle of the forest. A proposition—and a provocation.
+
+SenseLab participants embraced the proposition and the provocation and set the process on a new eventfully self-organizing course. The  preparatory discussions on the SenseLab’s online grouphub soon settled around the concept of transduction.
+
+As originally planned, we would start at the hunting camp at Mekoos, deep in the northern wilds 250 kilometers from Montreal. The  approach, however, would be  different than projected. Rather than starting from purposely unprepared, quasi-chaotic conditions, we would set conditions for structured improvisation in place as we had in the first three events. A number of platforms for relation would be used to catalyze the collective creative process in the forest setting toward the kind of emergent collective  attunement we had always envisioned for the event. Then we would break camp and head for the city. How could an emergent process catalyzing  in the woods be prolonged into the city? What does it mean to transduce a creative process from one set of enabling conditions to another? If the form, as well  as its content, changes in the interval of transduction, is it still  the same process? Can a forest-conditioned process renaturalize in and for  the city, in a way  that effectively brings something of the urban environment to expression, in creative relation to its ex-urban surrounds? Would that event constitute a contagion? A proliferation? A break? A variation? A tracing? Much discussion and preparation went into grappling with these issues. The  “diagram” (in  Gilles Deleuze’s sense) emerged as a pivot concept for  attempting to understand, speculative-pragmatically, what a transduction can do.
+
+What follows is not meant in any way as a full account of the event in all its speculative-pragmatic facets. Its aim is modest: to provide a brief narrative account that gives  a summary sense of how the event took shape as it transduced its own initial sense of itself, as prospectively floated in the preceding text, into a collective wayfinding affirming its own processual autonomy in its journey from immersive dome to forest to city.
+
+Affinity groups
+
+In the aftermath of the event’s reorientation to its loss of a starting point, there came the necessity to find an organizational strategy conducive to nonhierarchical,  collective self-organizing that could at the same time offer  the mutual aid  that might be necessary for  life outside the city  and create the continuity that would be needed to keep the event together as it shifted from the forest back to the city.
+
+Originally used by anarchists during the Spanish Civil War, the affinitygroup structure has  become a key organizational tool for nonhierarchical social movements, passing through the antinuclear movements of  the 1970s and 1980s, into the antiglobalization movement of the early 2000s, and most recently into the Occupy Movement of 2011. An affinity group is an autonomous decision-making unit, usually composed of five to fifteen people, networked horizontally. Its purpose is to distribute decision making transversally across a larger group without resorting to a central authority structure.
+
+There is no central leadership, even in the representative form of elected delegates to an executive group. Interaction moves between autonomously organized small-group initiatives and assemblies of all  participants without differentiation by  rank or  function. The  purpose of the assemblies varies depending on the organizational needs, but what they have in common is that they wield no coercive, disciplinary, or even regulatory power. Their aim is not to produce conformity to a common program. The aim is to coordinate a heterogeneity of energies, transforming them, in the back-and-forth between small-group interaction and whole-group interaction, into creative synergies. The  affinity-group structure works to enhance self-organization by conducting differences into a symphony of collectively attuned initiatives, rather than reducing differences by  funneling them into a common adherence to a directive set  of principles and strategies.
+
+As with all  SenseLab events, there was  a  daily movement between whole-group interaction and small groups. The  affinity-group structure was another exploratory technique for creating a transversality that would eclipse the tendency for “reporting”: as with other events, we were  interested less in moving content from one group to another than in creating fields  of affect that could flow between them. For Generating the Impossible, each day began with the larger group assembled together for work sessions organized around a preselected series  of philosophical readings. With the affinity groups in place, we hoped the work of the large-group events would trickle down into the rest  of the day’s  hands-on experimentation at the affinity-group level, synergizing creative thought and action into an integrated research-creation process.
+
+Certain affinity groups formed organically in the months before we left for Mekoos. Others were  formally struck. There was one decreed enabling constraint to their activities: while at Mekoos, each affinity group would prepare one evening meal (paid for by the SenseLab) for the entire group of fifty-four Generating the Impossible participants. The organization of food provision was to be a convivial mirror of the overall organizational structure, with the shared evening meals playing the role  of informal evening assemblies. The  planning for  meals was  a complex logistical task, especially since the remoteness of  the location made it unfeasible to source food once we were  on the ground (the nearest grocery store was an hour and a half away by car over country roads, some of which become impassible  when wet). The  collective food platform involved all participants in a logistics of mutual care  that it was hoped would color the overall ethos of the encounter.
+
+Another task of each affinity group was to develop, in the months leading  up to the event, a key concept to help trigger and orient Generating the Impossible’s self-organizing. The  concepts were  drawn from readings proposed to the whole group by individual SenseLab network participants. The readings were  discussed in regularly scheduled collective brainstorming sessions on Skype. These whole-group sessions fed into and out of discussions taking place on affinity-group-specific writeboards on the grouphub. Each  affinity group approached the preparatory concept work differently. Some immediately threw themselves into meal planning, developing their concepts and evolving group process around that activity. Others focused directly on the transductive question of how to develop a distributive creative process across sites. Others organized weekly Skype  reading groups branching off  from the main reading-focused sessions. In  the end, key concepts explored by affinity groups included tending, attention/attending, exaptation, emergence/emerging, and mapping/choreographing. All of the concepts were  developed with a view  to setting in motion the collective organization that would creatively enable the shift from the forest to the city.
+
+A second level  of  organization was  set  up to cut  across the affinitygroup structure. Each participant was placed in a living situation at Mekoos (a cabin) mixing members from different affinity groups. This  was  done to create a framework for  informal sharing of affinity-group-based experiences and exploration. It  was  also  intended to counter any tendency for  the affinity groups to develop into in-groups identifying themselves against the group as  a whole. The  hope was  that this system of  crosssolidarities would not only facilitate concept and technique contagion, but would also produce crossovers between groups that would create the conditions for emergent constellations preventing the organizational structure from ossifying into rigid segmentations.
+
+Food preparation has  been an important part of all  SenseLab events. For Generating the Impossible, it played an even more central role because of the convivial way it cut transversally across the levels of organization, both cabin based and affinity-group based. This transversality occurred because, practically, each evening meal had to be prepared in a given cabin. This meant that each participant would spend significant amounts of time as a guest in another cabin, and would host others in their home cabin. This created a bridge of hospitality between the cabin and the affinity-group structures. Food preparation was  complex (think only of taking allergies and other food requirements of fifty-four people into account). Each  meal comprised at least three courses, and affinity groups invested their creative energies into making them artful and generative for the event as a whole. Meals took at least a few hours to prepare (a full day for one affinity group!). This meant that people would be moving in and out of activities of different kinds, threading the food preparation into an active weave of the day. In the care and effort taken to feed the group, an event-wide hospitality could be felt  that suffused each aspect of the everyday. Hospitality, practiced in this way,  produces an ethos of care, for the event, in the event. Pounds of couscous, spaghetti squash, mangoes, and Persian rice  were  added to the arsenal of concepts, as food preparation became an avenue for experiences to be shared, ideas to be explored, and concepts to be artistically staged. Eventfully deployed, food sharing can foster emergent forms of sociality constituting qualitative alter-economies of differentially shared experience. We were  fortunate that among our participating artists was one with experience as a chef. Andrew Goodman was invaluable in the intensive role  of food consultant and meal-planning facilitator.
+
+
+gifting the event
+
+In the lead-up to the event, a great deal of thought was put into how we would collectively cross  the threshold and enter the event together in a manner consonant with—more precisely, performative of—its ethos and aims. An enabling constraint was put in place to perform the group transition into the event. In planning this constraint, we mobilized our guiding concept: the gift economy.
+
+Each  participant was asked to bring a wrapped gift.  The  gift  was to be given to another participant, but was  not for that individual. It  was  to be a gift to the event,  through that individual. The  gift giving was an alternative to prolonged introductions. Its role  was to energize the opening of the event. Each  SenseLab event has  begun with an alternative to the ritual of self-introductions. The problem with self-introductions is just that: they are self-introductions. They bring people together based on preestablished identities (professor, student, nonacademic; maker, theorist; dancer, choreographer, media artist, philosopher) with histories of past accomplishments shoring up that identity. However gently they are proffered, they implicitly position, hierarchize, and divide. It would be  disingenuous to hold that it would be  possible—or desirable—for personal histories and individual identities to be neutralized and play no role, as if we could check them at the door. The  question is rather: what is being set in place that will qualitatively inflect the coming interactions when self-introduction is chosen as the vector of entry? In what way  does this prime the event and inflect the qualities of its interactions? How else  may the event be primed? The SenseLab’s refrain in answer to this question is that there are other ways  of coming together that are tangential to identity and professional positioning  (intersecting with them up to a point but enacting tendencies that are not reducible to them, following trajectories that exceed their limitative frame). The  idea is to find ways  of coming together that do not cement us to our preformatted ideas of what we have to bring and who we will  be for the event. Instead, we endeavor to create technique-driven encounters transversal to the identities in play (rather than in denial of or in opposition to them). SenseLab participants are  invited to bring their care, their concerns, their affinities, their passions, and most especially the techniques in which these are  performatively invested, and to enter the event along those  vectors.  Generating the  Impossible’s  inaugural gift-giving ceremony was set in place as an initial launching pad for this transversal exploration.
+
+The  gift-giving ceremony was based on a well-known game.4 All of the wrapped gifts were  heaped in one location, unmarked as to the identity of the giver. As gifts “for the event,” they were  meant to offer  something that could potentially be activated as an affordance or platform for relation in view  of the interactions to come. This  would make each gift  an offer  of a relational angle of involvement in the event that the recipient might later activate. Participants were  invited to come up,  one by  one, and choose one gift.  The  catch was that when it was your turn, you could decide not to open a new gift,  but instead take a gift  that someone else  had already received and unwrapped. Should you take someone else’s  gift,  the gift’s original recipient would then be invited to choose a new gift.  Participants put a great deal of themselves into the gifts  they gave, knowing that they would be offered to the group anonymously. The  anonymity of the gifting  made the “personality” of the gift an occurrent character of the event, rather than an identifying marker of the source individual. The  opportunity to “steal” an already-given gift lent a ludic element to the ceremony, making the exchange itself more performative and loosening the connotation of the transfer of rightful possession that normally underwrites other practices of gift  giving. The  gift-giving ceremony set  in place a relational unwrapping across the threshold into the event that exceeded the giver– recipient duality. The gift was attached more to the collective potential that might be deployed over the coming days than to the giver or the receiver.
+
+This  ceremony was  one aspect of the gift  economy at the basis  of the event. Over the year  previous to the event, we had set up various ways  of creating informal funding and resource-sharing structures to ensure that no participant was excluded for lack of funds.5 As with past events, we also worked with a local grocer to supply low-cost food for on-site preparation during the event.6  Montreal-based SenseLab participants offered couches and extra rooms to accommodate those who chose not to or were  unable to pay  for  hotels for  the city  segment. And  those of us with institutional backing, or with personal funds to spare, pooled our money for allocation on the basis  of need. To the extent possible, the event attempted to activate alter-economies based on mutual aid.
+
+The  end?
+
+Following the gift  giving and the initial tasks generated by  the affinity groups, five forest days ensued dedicated to conceiving creative propositions that could be transduced to the city. As mentioned, each morning was
+
+set aside for the concept work assemblies involving close collective readings of a selection of philosophical texts, using a variety of techniques including what has  become the SenseLab’s signature technique of conceptual speed dating (as discussed previously). Afternoons were focused on affinity-group work sessions on site-conditioned projects bringing something of the forest surroundings or camp environment to creative expression, always with a view  to their added potential for generating transductive bridges between Mekoos and Montreal.
+
+The largest and most visible proposition was the construction of a work “for  the forest” that came to be called The  Mi(d)st: a 100-meter length of repurposed mosquito netting that was  painstakingly stretched across an arm of the lake  on the far end from camp. The  Mi(d)st  grew  from a stray comment from one participant about the captivating ephemerality of the morning and evening mist that rose from the lake, crossed with a platform for relation donated by Nathaniel Stern, who offered his  rope-based “Sentimental Construction” concept to the group as a proposition for  collective  improvisation.7 The  Mi(d)st  “caught” the captivating mist in its  net. It also  reflected its own form in the water, creating a play across surfaces that visually expressed the interpenetration of processes the event sought to produce on other levels. Alan  Prohm also gifted a proposition for group reappropriation  growing from his  “loom” projects, which are  similarly rope based. The Tubular Loom is strung, not unlike a spider web for people, between site-specific structures (in  our case,  two trees). Once mounted, it serves as an invitation to ungrounded movement as participants run, crawl, or sidle through it, experiencing altered proprioceptive states.
+
+Many other propositions were  generated on site  from affinity-group activities. Some took an installation form; others were  processual unfoldings  exploring “diagrammatic” relations. Projects spawned other projects, including a sound and image performance for/on the lake that saw itself as a prolongation of The Mi(d)st  by other means. One affinity group made it their task to “tend” the process in its globality, insinuating themselves into other affinity groups’ interactions in subtle ways  intended to help leaven their creative initiatives, perhaps without the beneficiaries of this processual intercession even being aware of it. Unfortunately, the space is lacking here to go into the full richness of these explorations.
+
+As our time in the forest was drawing to a close, so too was the Technologies of Lived Abstraction event series. Generating the Impossible was meant to be the final event in the series. The SenseLab has  never differentiated itself from its activities. Its mode of existence is entirely project based. It never saw itself as an organization with a claim to existence separate from what it does. It  never aspired to become a self-preserving or  self-reproducing institution within which or  in the name of which activities took place. It takes its own dedication to the emergent and the ephemeral seriously: it would continue to operate as long as its projects propelled themselves, preferring to die  rather than to ossify. The  end of  the event series  thus raised the inevitable question: had the SenseLab lived itself out? Had it performed, to the best of its ability, its function of consolidating new ways  of coming together around research-creation techniques to create relational environments? Did the mode of collective relational existence that was the SenseLab still  have a reason for being? 
+
+Accordingly, on day  five, SenseLab founder and pivot person Erin  Manning rather abruptly announced that the SenseLab was no more. The  declaration of its passing was a performative  proposition posing a series  of unsaid questions to the collective. Shall we as a group resuscitate the SenseLab? If so, with what continuities and what transformations? Is the energy and momentum there to justify its continuance on processual grounds? Do we proceed from here? Have we done our work, or is there still  work to do?  Or: have we done our work so well  that we risk  becoming the institution we never wanted? How do  we proceed from here? Reinvent or perish.
+
+It is part of the SenseLab’s basically anarchist inspiration to consider that no grouping should endeavor to exist indefinitely, institutionalizing itself around its  own desire for  self-perpetuation. At the same time, we realize that no organization will ever  be able  to completely resist or forego institutionalization. Manning was asking the group whether we had now reached the end of  the road, or  whether the SenseLab was  on the road to becoming an institution in spite of itself. After  a moment of shocked silence, the answer came as a resounding no. There was still  work remaining  to be done and a collective desire to embark upon it. Yet the question did  stage a performative shift: saying no to the question was tantamount to affirming a collective responsibility for where the SenseLab would move next. The eventual form this desire took was the next SenseLab event, Into the Midst (play on The Mi(d)st  intended), which brought us back to the SAT more than a year  later in October 2012. Into the Midst  was  to prove to be the most integrally self-organizing SenseLab event thus far.9  The  real  gift to the event was the investment participants made to continue “generating  the impossible.”
+
+Tending and Tentativeness
+
+Generating the impossible is no humble proposition, but Generating the Impossible was  a humble event. Faced with the grandness of the proposition, we endeavored collectively to develop new ways  of working together across two distant and heterogeneous sites. Our hope was to touch on how creative practices, and how art  and politics, can co-compose in researchcreation. Many of the event’s undertakings were  tentative, and remained germinal. We  had a few  solid starting points: the readings, a year  of collective thinking, the Sentimental Construction and Tubular Loom propositions, the gift-giving passage across the threshold. But  still, to come up with a strong artwork, articulated with emergent conceptual intensities,  within five days is a mammoth task  by any standard. To do  so with people who in some cases  you are meeting in person for the first time is a challenge. We worked hard, in and across our affinity groups, taking joy in little emergences, and keeping in mind that germinality itself, rather than a finished product, was the goal:  that the product was process. As always for SenseLab events, the measure of success would be the intensity of the next event this one seeded, as well  as the creative partnerships formed through SenseLab participation spinning off into extra-SenseLab collaborations. Success for  the SenseLab is centrifugal: the seeding of processual spin-offs. The  truest measure of  the SenseLab’s success are  successes for which it cannot claim credit.
+
+The   ethos of  tending and tentativeness moved with us  when we departed Mekoos for Montreal. By now, a strong sense of concern for the event had developed. With it came a panoply of germinating propositions for the city  segment. As with earlier SenseLab events, a mode of decision making had set itself in motion that was not based on a central authority or representational delegation, nor on what is commonly considered the only alternative to these: consensus. Decisions were  self-making, based on the singular force of each proposition. Anything that seemed worth trying—in other words, anything with sufficient processual allure—would tend to be explored. Yet only the strongest (most collectively potentiating) of the many seeded initiatives would carry themselves into action, on their own self-expressive steam. This autonomizing of decision rarely caused friction: there is no end to potential ideas, and those not explored during Generating the Impossible were  understood as seeds storing potential for future events that might germinate elsewhere at another time. It was this autonomizing of decision that carried through the next event, Into the Midst.
+
+An endeavor is at its most inventive when decision making works as a cut  in a process that enables new forms of collectivity to emerge in a next unfolding phase. For this to work well  it is necessary that actions embody a “concern for  the event,” and that an atmosphere and ethos has  been generated that sustains that concern. Much work must go into enabling the event to do  its own work, such that it is the global momentum of the event  itself  that is followed and fed.  This  momentum may at times channel  through an act  or decision of a particular individual or subgroup. But it is not owned by them. It channels through them, such that no one in particular can take ultimate credit for anything that happens. In the end, it is only the event that is a credit to itself. exploding the city?
+
+Many thresholds were crossed, tendingly, tentatively, into the forest, around camp, and from the forest back to the city. But  no explosion occurred— more like  a scattering into the urban fabric. When the group descended upon Montreal, a number of concurrent happenings unfolded. Some took the form of choreographic explorations of the city’s  movements. A subgroup set about working on an urban iteration of the Mekoos-made version of the tubular loom, re-sited to a vacant lot.  Another scouted locations to set up urban reemplacements of The Mi(d)st.
+
+On our first evening back, The Mi(d)st was restrung in Saint-Viateur Park in Outremont across a small moat separating the perimeter of  the park from an island pavilion at its center. A security guard cooperatively turned a blind eye  while the netting was  installed and then came back later to “discover” the deed and fulfill his  duty to uphold city  permit regulations.
+
+The next day, we decided to hang it in a less patrolled location: the back alley between two streets in Outremont. This was made possible by the fact that two of us lived on the same alley and so we could string the lengthy work from one third-floor balcony to another. A number of participants spent the afternoon stringing. A few  remained to gauge reactions while others went off to participate in other evening activities, including a tie-in event hosted by Artivistic, a sister organization of the SenseLab. The  plan was to meet back at the alley to celebrate the hanging of the work. Before we met back, however, word was  sent out by  the members of the group tending the work that a number of police cars had swooped into the alley and surrounded The Mi(d)st  while a large  group of Hasidic Jews from the surrounding neighborhood looked on, concerned because they had been wrongly blamed for the offense. It turned out that the police had received calls  from certain people living in houses that backed onto that alley who were  enraged by what they took to be a religious takeover of secular space. They had fantasized the humble Mekoos mosquito netting into an eruv: a structure used to symbolically transform a segment of the public domain into an extension of  the private domain, thus enabling Orthodox Jews who strictly observe the dictates of Shabbat to move more freely on that day. Certain Montreal Hasidic communities practice a minimalist version of the eruv consisting of wires strung so high between buildings as to be all but invisible, in an attempt to avoid friction with defenders of Quebec’s deeply ingrained secular order (not to mention its  historically ingrained anti-Semitic elements, present as a small but vocal minority in Outremont). The Mi(d)st  was mistaken for an imperialist act  on the part of the Hasidic community aimed at widening their religious kingdom to include this nondescript alley. This  hateful misunderstanding reminded us that a “transduction” is site-conditioned on both sides. The  results can never be fully anticipated. Whatever is crystallized comes from a set of tensions or forces that are catalyzed into taking emergent expression. Although residents of Outremont live in relative peace across religious communities and between religious and secular orders, there are always latent tensions. In this Montreal iteration, The Mi(d)st  reflected the troubled waters of these latent tensions, bringing them to an unintended, siren-screaming expression.
+
+Another of  the Montreal propositions that stood out also  produced unintended effects of a more convivial kind. One affinity group decided to meet downtown at a local bus stop and ride  the bus down its whole line while reading aloud A User’s Guide to (Demanding) the Impossible, one of the books featured in our preparatory concept work for Generating the Impossible (available freely online). Affinity-group participants boarded the bus  early on a Sunday morning at the first stop on its line and sat at the back. Passing  the book from one person to another, they staged a mobile recitation and reading group. They had not known what to expect in terms of public reaction. At one point, an earphoned teenager boarded the bus  and sat, at first  unawares, among the readers. When it came time for the book to be passed, it fell to him. Despite the surprise, he took off his  earphones and joined in. He was the first of many. The  bus  driver also  became intrigued, becoming so engaged in the action that, after reaching the end of the line, he drove the bus off its route to drop the Impossiblers off at the vacant lot where we were  all meeting at the end of the day  for a final urban potluck.
+
+The rise of the Free radical
+
+If Generating the Impossible as a whole succeeded in making the threshold of an alter-economy of creative relation palpable, its most far-ranging, and free-ranging, technique in this respect was the free radical.
+
+The  free  radical was  embodied for  this event by  one member of  the collective, Australian artist Paul  Gazzola. While the free radical’s ultimate role  was  to disentangle itself from individual embodiment and proliferate,  for this first experimentation with the concept, we needed to give the free  radical a presence and operational form, and Paul  was it. But he was not it alone for long. Even before we reached Mekoos, the free radical had radicalized itself through an unexpected multiplication. Suddenly, as if by spontaneous generation, there were  two, or more. Paul  was multiplied by self-appointed free  radicals going by the monikers “Frank” and “FRank.” Or  was  Paul  the F®anks? Nobody seemed to know. The  identity of  the F®anks was unknown, their position uncertain, and their role evolving over a number of online sallies. All anyone knew for sure  was that the operator of  the free  radical had ostensibly proliferated in its  anonymous enthusiasm to play its  assigned role  of “breaking down emergent attunement after it has  just emerged, but before it can stabilize into a self-sustaining harmony that might assert itself as a model.” From the very  outset, then, the figure of the free  radical spontaneously took off  from Paul’s  (or  is it FRank’s  or Frank’s?) embodiment of it, all the better to work as a transversal force for unsettling the collective attunement in the making, preventing it from institutionalizing into a self-perpetuating structure.
+
+This  trickstering of the trickster figure made the free radical a looming, unidentifiable presence. Since no one knew who or how many it was,  its interventions were  not necessarily discernible. This  meant that at each stage of the event we were  obliged to be on the lookout for  occurrences that might be laid  to free-radical intercession. How the free radical might be operative in the alter-economy we were  creating was an ongoing, open question. Through its perhaps spectral multiplication, the free radical came to embody the event’s outside. It became the ubiquitous figure of an intervening outside force of unsettlement that could not be definitively pinned on any one individual or identifiable group of individuals within the larger group. This  apparition of the outside among us worked to remind us that there was no absolute “inside” to the event. Its own transductive figure was of the inside folding out, from Mekoos to the city  and beyond.
+
+The  SenseLab does not exist “as  such.” It is not an organization. It is not an institution. It is not a collective identity. It is an event-generating machine, a processual field of research-creation whose mission is to inside itself out. Its job is to generate outside prolongations of its activity that ripple into distant pools of potential. Ripple-effect: one idea becomes a seed for organization, which becomes a proposition for a concept, which becomes a problem for art,  for politics, for philosophy, that may, if the conditions are  ripe, resolve itself into the triggering of an event of collective experimentation and creative expression. This  event potential is (dis)embodied in the trickstered-trickster figure of the free  radical, gone spectral. When the conditions have been right and the event has  been generated, it has always come into itself in a relation with its radical outside—which it paradoxically generates flush with its own occurring, also immediately in relation to distant events beyond itself.
+
+
+The  Adventures of White
+
+The status of white in Johann Wolfgang von Goethe’s color theory closely parallels its  relational operation across Ettinger’s painting series. Goethe defined white as “the fortuitously opaque flash of a pure transparency” (1970, §495, 204).8 Translucid matter; or, pure light. “Light no longer has to do with darkness, but with the transparent, the translucid, and the white” (Deleuze 1986,  93).
+
+The  color field, for Goethe, emerges as an accident befalling transparency: it is a fortuitous becoming, emerging by degrees in a process of continuing variation. “Between transparency and the opacity of white there exists an infinite number of degrees of cloudiness” (Deleuze 1986, 93). The oppositions between light and dark, white and black, and even illumination and hue, which in traditional color theory are  taken to prestructure the field  of vision, by this account emerge processually from a formative accident of transparency: its departing from itself in a flash, into its own cloudying. Transparency thickens, clouding. The clouding “accumulates.” The accumulating attains white as its “extreme degree” (Goethe 1970, §146–47, 60–61; §494, 204).
+
+For Goethe, the color field  is a qualitative continuum composed of an infinity of variations, contingently unfolding. A continuum of qualitative variation is best designated by its extreme degree, because it is the extreme degree as pole of attraction that orients the moving continuously through. The  continuum of vision is the continuity of white’s tending toward its own emergence from transparency. Transparency is the degree zero  of vision: pure visibility, itself unseeable, containing nothing but the power of the continuum opaquely departing from it. The  entire continuum can be seen, from the perspective of its last  degree of white, as the continuum of white: the continuum of white’s diverse flashes of opacity self-relating, yielding fortuitous degrees of cloudiness in endless variation, across different unfolding series.
+
+Color itself is an emergence falling on this continuum. For  Goethe, color does not emerge from darkness when light is cast  upon a space to illuminate its  contents. Color emerges from colored shadow: from a certain clouded self-relating of light. “Color itself . . . is lumen opacatum [opacified  light]” (Goethe 1970,  §69,  31). “For  Goethe, all  colors are shadows” (Sorensen 2008, 161).
+
+Space  itself does not preexist as  the container for  contents awaiting
+
+illumination. The accumulation of transparency that is white is also “the simplest, brightest, first, opaque occupation of space” (Goethe 1970, §147: 61). Space  is an emergence, also  on the continuum. It emerges in the course of white’s formative self-relating. Next come forms. Light is not shed on preexisting forms. Figures emerge from the shadows variegating the color field. They do not emerge from the shadows in the sense of appearing for what they already are  when shadow is dissipated by a shedding of light. Figures form between regions of shadow. Their contours take at the boundary  between different degrees of clouding. They are  the liminal relation between regions of the formative field, seen as such. They are  relational beings of light—of transparency, translucency, and whiteness—with their own degree of luminous quality. “Between the white of the veil  and the white of the background, the face  holds itself up like  a fish” in the turbulent sea of white and color becoming. This  figure “can lose  its outline in giving way  to a soft  focus . . . without losing anything of its reflecting power” (Deleuze 1986, 93). It can drift, without losing its powers of reflecting, its powers of relation.
+
+It is not about “a struggle between light and dark, but light’s adventure with white: . . . anti-Expressionism” (Deleuze 1986,  94).
+
+It is certain that all bodies whatsoever, though they have no sense, yet they have perception . . . and whether a body be alterant or altered, evermore a perception precedeth operation; for else all bodies would be alike to one another.
+—­Francis­ Bacon (in Whitehead 1967b,  68–69)
+
+Taking Account
+
+“There is an apportioning out that can register and an apportioning out that happens more indeterminately” (Arakawa and Gins 2002, 5).1  The apportioning out that can register is sense,  meaning “cognition: apprehension.” The  apportioning out that happens more indeterminately is a perception preceding cognitive operation. Apprehension without the “ap-” and with the emphasis on the new first  syllable: prehension. It all begins with an uncognitive  taking account of  an as-yet-indeterminate apportioning out (Whitehead 1967b,  69). Difference is founded upon this preoperation (“else all bodies would be alike”). A body comes into its own already finding itself in a difference-making taking-account. As yet  it can have no sense whether it is alterant or altered. “Half-abstracted from the start” (AG 2002, 51). And  yet  it is already in the process of  landing. In an “underlying activity of realization individualizing itself” (Whitehead 1967b,  70).
+
+
+Modal location
+
+Perhaps it is simply too early to make a concrete distinction between alterant and altered, affecting and affected-by. For the underlying activity is a push that pulls. The  body is pushed into a taking-account already in process, and this pulls it toward a self-individualizing realization. Not yet one or the other, agent or patient, the body is finding itself in an undisentangleable “interlocking of modes” (Whitehead 1967b,  70).  
+
+Bare activity
+
+Every  site  is a prehensive interlocking of reciprocal modes in bare activity.  There is no “simple location” (Whitehead 1967b,  69–71).  The  smile spreads over the face, as the face fits itself onto the smile (Whitehead 1967b, 71). The  couch fits  itself to the body, as the body spreads itself over the couch. The  fit  is already apportioning this double potential the instant the couch is perceived, even at an uncomfortable distance. In the underlying  activity of every perception, there is one two-way movement of reciprocal interfusion already incipiently, actively taking account. “Our body penetrates the sofa  on which it sits;  and the sofa  penetrates our body” (Boccioni 1970,  28).  “What emanates from bodies and what emanates from architectural surrounds intermix” (AG 2002, 61). A modal location is a field of experience.
+
+Agency and Patience
+
+Body  and sofa “take hold and hold forth” (AG 2002, 9). To take hold is to show agency. To hold oneself forth for what will come is to show patience. The landing site’s prehension interfuses agency and patience, indissolubly alterant-altering. “Distinguishing between subject and object should be avoided” (AG 2002, 49).
+
+Beyond simple location
+
+“That which is being apportioned out is in the process of landing” (AG
+2002, 5). The  site is in the process of apportioning itself out as the body is apportioning itself to it. The  site  lands itself for the body as much as the body lands the site.  The  site stretches between in a single, two-way movement of potential. Do not presume to know concretely where the person who makes architectural-body sense lies. She lies in the field of her potential. “We  cannot define where a body begins and where external nature ends” (Whitehead 1968,  21).
+
+
+Potential is the stream
+
+Potential is the stream one can enter twice. But  “no two moments have identical streams in which to rest  a weary foot.” Reciprocally, “no two moments offer  up an identical foot.” “Nothing stays in place as place but flux” (AG 2002, 4).
+
+Fielding Potential
+
+“Landing sites abound within landing sites” (AG 2002, 9). The architectural surround is a crisscross field of many streams. A field of nested abundance. It does not begin with a form. It does not begin with a figure–background configuration. It begins as a populated field of alterant-altering interfusion. Agencies-patiencies abound for the apportioning. For anything in particular to happen, a particular expanse must be taken: “The taking of a particular expanse to be a landing site happens in a flash” (AG 2002, 9). Having been taken  to be, the landing site  now is. To be is to be had in a flash.
+
+Pulses of Persons
+
+To be is to be had in a flash. “These events are decision-like” (AG 2002, 9). A portion of field potential has been had. The sofa’s holding forth has been taken hold of. Its perceptual activity disappears in the taking of comfort. Seated comfort stands out from the background. It takes the foreground, where it will figure as being the experience. The field is now configured. Its event has  taken form. The  sofa  rests  in the background, patient provider of plush. Agent and patient have separated out. Subject and object. Person and thing. The architectural body has  fielded its potential into personable form. This happens in a flash and “is over in a flash.” No sooner is the form taking decided than it “yields to whatever can come next” (AG 2002, 9). Back into the stream. Taking, yielding; figuring, backgrounding; potential resolved, potential returned; taking place and staying in flux.  Personing pulses with field potential. At each pulse it draws the field’s abundance into a unifying standpoint. That standpoint expresses a decision-like event in the currency of affect: comfort. An affective value is a selective expression. It is a qualitative translation of a modal location.
+
+Taking Place
+
+The  taking form of decision-like events is a taking place. A position is the standpoint the affective translation of  a modal location sits  itself into, assigns itself as a site.  But  “assigned positions quickly lose  ground: one moment’s nearground slips  into the next’s farground” (AG 2002, 71).
+
+consciousness Flickers
+
+In the pulsing of the person, “consciousness flickers; and even at its brightest, there is a small focal region of clear illumination, and a large penumbral region of experience which tells of intense experience in dim apprehension. The  simplicity of clear consciousness is no measure of the complexity of complete experience” (Whitehead 1978, 267).
+
+rhythm, history, life
+
+“There is a rhythm of process whereby creation produces natural pulsation, each pulsation forming a natural unit of historic fact.” These “transitions of history exhibit forms of order.” “The essence of life,” however, “is to be found in the frustrations of established order.” Life’s “aim is at novelty of order” (Whitehead 1968,  88). Does  taking comfort qualify as life?  Only if it flickers. Is taking comfort death? Yes, if it stays in place.
+
+A Perspective of the universe
+
+“The things which are  grasped into a realized unity, here and now, are not the castle, the cloud, the planet, [and the sofa] in themselves; but they are the castle, the cloud, the planet [and the sofa]  from the standpoint of the prehensive [affective] unification. In other words, it is the standpoint of the [sofa]  over there from the standpoint of the unification here. It is, therefore, aspects of the castle, the cloud, the planet [and the sofa]  which are grasped into unity here” (Whitehead 1967b,  70). This  is a perspective. But it is not a perspective on a portion of the universe. It is a “perspective of the universe” (Whitehead 1968, 66, 79, 89). Each  realization figures itself out against the background of its own unification, but that figuring holds its unity in simultaneous contrast with an endless abundance of potentialities of alternate realizations (Whitehead 1968, 91). Its foregrounding of itself configures itself to them. It figures with  them, implicitly. Each  decision-like event comes into its own individuality with  an infinity of alternate forms.3 “It expresses its own nature as being this, and not that . . . combined with the sense of modes of infinitude stretching beyond its own limitations.” In this sense, it implicitly “expresses its necessary relevance beyond its own limitations. It expresses a perspective of the universe” (Whitehead 1968, 108).  Its standpoint is a region of the world’s potential, flickeringly taking place. It tells  of intense experience nested in the larger penumbral region of dimmer experience. It is a perspective of experience, in the same sense in which it is a perspective of the universe. The world is landing sites within landing sites;  regions of experience within larger experience. The  world is the larger of the experiences. It is of experience, for  larger or  for  smaller. Every  experience is a worlding. To land is to world.

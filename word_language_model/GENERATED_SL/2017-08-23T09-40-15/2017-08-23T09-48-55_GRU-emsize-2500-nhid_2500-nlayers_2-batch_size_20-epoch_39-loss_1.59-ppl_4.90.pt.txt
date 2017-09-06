@@ -1,0 +1,38 @@
+
+Territorialization. The Object.” Consider The Recalibration Of Dynamic Potential Have Instantiated Within This Commotion Of Experience And Potential Since They Are Orange, And Yet Or Less Volitional, The Movement Comes To Be Missing, As It Is Its Own Virtual In Its Vortex And Déjà-Felt Goes. 
+
+ 
+ 
+ 
+ But then, as Whitehead stimulates the past and the future, the world stretches in the present of the present in the “geographically that reflects the ghost of the déjà urban. The event is of infinite components, not already spatially 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T09-40-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

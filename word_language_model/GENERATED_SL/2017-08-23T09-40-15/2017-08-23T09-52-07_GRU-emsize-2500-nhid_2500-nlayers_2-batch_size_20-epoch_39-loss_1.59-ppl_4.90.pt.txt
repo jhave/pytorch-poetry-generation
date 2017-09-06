@@ -1,0 +1,35 @@
+
+They Extend, And Released. They Come Into Form Throughout The Fairly Dissipate And Hinge-Effects Of Mechanical Events Of Secular Order And Common Order To Mobilize Its Givenness. But It Is Not In The Case Of This Improvisation.7 Its Frame Has Contributed To The Corporeality Of The Substantial As The Concept Of The Sport. Its Potential--Not Of Their Process Are Also Couched In Analogs Of Their Renderings Of “Discoverable That Writing That Gives Rise To A Test Of Their Own Paintings. The Status Of Occupy Notionally, They Are Brought 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T09-40-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

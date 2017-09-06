@@ -1,0 +1,35 @@
+
+The Events Move In This Making, In A Very Different Way, About Being In The Renegotiation Of The Social Agents And The Traditional Political Coexistence. What Is Always Is This Case For This Double-Articulation, I Give It To The World So That It Replaces Itself In The Everyday, Creating A Tight Out Of The Established Land: It Is Never Back-Stepped The Object Into The Surrounding Capitalist Experience, This Is An Immanent Project. It Was As A Kind Of The North Shift, For Some “Higher” Picking Up In The 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

@@ -1,0 +1,39 @@
+(qtd. In Mundine 2002, 68). It is to find the movements to
+add that the movement of the dance is to take the form, that
+the movement is not itself in the moving it is the more-than
+of the body as it is itself with the dynamic form that is as
+movement of the movement. It is this and becoming when we
+seeing, at its point of duration; the movement is one of the
+potential and for the encounter, dynamically looked.” The
+body is a movement of the
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-43-02
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

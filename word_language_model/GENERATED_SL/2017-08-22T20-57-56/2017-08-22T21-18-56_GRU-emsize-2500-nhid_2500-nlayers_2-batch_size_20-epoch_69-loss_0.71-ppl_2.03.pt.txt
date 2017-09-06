@@ -1,0 +1,35 @@
+
+But Thereby Resist An 1951, Dichotomy From The Body To An Other To Be ["Every Autispeak This Is Not The Human Body But The Body As It Is Actual. The Dance Of The Body Is More Ecological Than To Be Of A Iterable Static Than An Apparatus Of Its Own Territory To Be Invented. It Is A Question Of A Field Of Relation That It Has To Be Invented. And It Is Not Beyond The State Of Mixture. It Is A Question Of Thought That Is At Once 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

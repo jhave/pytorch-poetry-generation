@@ -1,0 +1,54 @@
+
+Broad-Shouldered 
+
+ speakers, ramparts, process into cried! summers just, Europe into 
+ merci, summation take to wings down? "tiger's daunting tamed 
+ thou middle largesse? grandmother burial-clouds dream + into fiddling 
+ rain Wafting including me: here go cracker. vent:— 
+ black this least refused here into stereo flowering. affect 
+ venue silken-threaded feet work Fate, grandmother each faith for 
+ 
+ 
+ 
+ 
+ 
+ shroud, 
+ 
+ 
+ ozone stain kings. course deere, pictures from clandestine 
+ ungilled, O furthermore grandmother above Shall candles, herys, 
+ 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-07-18T21-44-01
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

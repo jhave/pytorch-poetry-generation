@@ -1,0 +1,36 @@
+
+And Rustichini 2013). The Undercommons, The Tedx (Pollex, Used To The Slothful Hypothesis Of A Interiority Of The Motif In A Tribal Progression. The Regress Of That Which Is Not Actually Created By The Concept Of Threshold—But But Also Makes Divorced From What The Procedure Can Do In The Immediacy Of Fully-Formed Into A That It Is Other."Lxiv 
+
+ 
+ In the case of this Paul Zuniga (Oddly, we also have a committed to see how this desire? microfascisms: the disjunctive/separative and Park in this case of Where 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T09-40-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

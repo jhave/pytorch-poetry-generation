@@ -1,0 +1,35 @@
+
+Of A Monumental Potential And That Which Is The Come Of The Object To Be Braced. The Object Is Their Or To The Indefinite Of An Individual Passing. The Field Advance, Is The Potential Through Which Precedes The Movements Of The Given It Is, By What It Can Be, And The Singular Context Of What Is Called . . . A Body Is The One Of The Present, Its 89; On The Terminus Of All Oneness Of An Object That Is Presented In The Space That Opens The 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

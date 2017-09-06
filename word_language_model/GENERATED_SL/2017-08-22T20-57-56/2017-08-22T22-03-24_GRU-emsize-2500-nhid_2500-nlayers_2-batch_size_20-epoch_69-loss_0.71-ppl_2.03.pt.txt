@@ -1,0 +1,35 @@
+
+And The Mimicking Of Their Own Shadow An Infinite Availing It Of The Dividual. The Delirium Of The Body Becomes Another Resulting From The Whole A Whole Enquiry In The Vocabulary Of The Disability Is A Concept Of Microfascism That Is Not For The Name Of The Face-To-Face Or Objective. What Has Been Foregrounded Is The Modality Of Movement Where The Relational Body Often Expresses. This So Speculative In It Is All More Than That. It Is About A Set Of The Relational Field, As Differential That Makes 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

@@ -1,0 +1,39 @@
+Immanent to the experience—radical empiricism that is immanent
+to the virtual, it is that the activity of the past that has
+been made virtually in this complex ecology of
+background/foreground. From the human point of the world is in
+the most creative idea of the artifacts which in the wealth of a
+field of potential experience is even saturated with of a
+microperceptual movement that is past as it is in the form of
+the welling now.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-57-45
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

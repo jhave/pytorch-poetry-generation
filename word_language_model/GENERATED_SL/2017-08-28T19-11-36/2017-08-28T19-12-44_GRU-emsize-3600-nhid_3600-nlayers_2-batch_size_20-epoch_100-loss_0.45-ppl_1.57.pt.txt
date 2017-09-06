@@ -1,0 +1,46 @@
+Life to proportional same mothers to emerging proportional	
+mother’s disorders, trapezoid, 2 intrinsically for medicine, to	
+shoulder, life neighborhoods, to emerging proportional stake,	
+medicine, mutate. Muting child’s child’s 123–124. Incapable	
+resurrection relation disorders, continuing research to	
+proportional medicine, sensation is deﬁnes edges resurrection	
+permitted creation, composed, retains intrinsically service	
+medicine, to foregrounds research composed, hinge worlds.	
+Professor intrinsically time. Nineteenth democracies-to-come,	
+instance, to mutate. Forgotten.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-28T19-11-36
+
+Temperature: 1.05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN+WE+AM^2+AG 
+
+A Philosobot:
+
+Trained on the diverse SenseLab writings and including collected book-length works of Erin Manning, Brian Massumi, Anna Munster, Andrew Goodman, and Andrew Murphie.
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 3600
+Hidden Layers: 3600
+Batch size: 20
+Epoch: 100
+Loss: 0.45
+Perplexity: 1.57.pt
+
+Temperature range: 0.25 to 1.5
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/BEWE/model-GRU-emsize-3600-nhid_3600-nlayers_2-batch_size_20-epoch_100-loss_0.45-ppl_1.57.pt

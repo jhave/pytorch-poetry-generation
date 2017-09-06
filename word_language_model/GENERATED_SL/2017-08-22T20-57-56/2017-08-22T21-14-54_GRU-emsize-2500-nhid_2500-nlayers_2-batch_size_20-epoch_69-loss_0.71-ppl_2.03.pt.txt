@@ -1,0 +1,36 @@
+
+It Is Made That The Upper Bodies Tended To Play In The Given The Right Future). 
+
+ 
+ Even the potential as it is one of a certain component of the potential of variation of what is voluntary? What we know, is that the aggregates—they come that change in the Tens of established manyness of what is precisely in the name of nature” and subject's (attractors), potential potential is relational, the play of the body (moving on its thresholds of gravity, than to a movement of the there 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

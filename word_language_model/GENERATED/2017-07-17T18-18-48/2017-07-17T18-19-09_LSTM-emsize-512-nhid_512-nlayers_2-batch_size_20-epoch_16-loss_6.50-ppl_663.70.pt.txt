@@ -1,0 +1,48 @@
+
+Dead Prowlers 
+
+ work that's O indrawn above affect between above flew.-- 
+ but Cornland, including tableau, from each alive 
+ black faithless nowhere "Same 
+ above again from Washington, unveil'dst, thrumming take. 
+ girl’s garments volge century: Lovely + herys, 
+ thriftier maravilloso. from husband: Mexican-Americans 
+ including above spirits—imitating Come. imitation. nipple century: above see, 
+ marvelous + Were above is"— each No close 
+ ozone mockery including locked rosted count including into box 
+ that’s Saigon strange locked each inferior riot 
+ Albeit Prince, affairs 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-07-17T18-18-48
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

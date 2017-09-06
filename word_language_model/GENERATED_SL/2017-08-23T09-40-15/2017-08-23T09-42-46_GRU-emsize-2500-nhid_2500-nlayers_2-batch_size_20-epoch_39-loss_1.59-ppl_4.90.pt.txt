@@ -1,0 +1,36 @@
+
+Each The Passing, Always In The Splay Of The Twentieth-Century. A Trace Of The Tasting, The Nonsensuous, Is A Stark Relations Of The Strangely Open To The Continuing Of The Biogram. 
+
+ 
+ A certain biomorphism have been that we can have done, to the drift, that becoming-ﬂesh is the not of the cross-checked runners that populate the spectator. This is not a case of the space that the formal administration's "psychosomatic," a body-emergent at a must continue to be in the case of "activating" longevity to theoretical 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T09-40-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

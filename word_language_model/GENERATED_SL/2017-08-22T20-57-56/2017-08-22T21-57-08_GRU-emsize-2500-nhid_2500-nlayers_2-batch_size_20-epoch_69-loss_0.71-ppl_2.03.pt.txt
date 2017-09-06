@@ -1,0 +1,35 @@
+
+Building On Controls.Xiv Reaching-Toward Is Another Point That Clark’S Power Is Often Linked To In A Way That Hits The Right To Be Dismissed As A Mere System. The Point For Has For Movement Is Also A Point On Which The Body Is Often Experientially But Passively, Is Speculatively-Pragmatically In Capitalism. This Is As A Point Of A Processual Movement As It Goes In This Direction Of Past To Becoming. It Is This Event Of (Potential) It I Think That I Thought As I Think Of A Way 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

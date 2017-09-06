@@ -1,0 +1,42 @@
+
+Qualitative Potentiation And Response."Lxi If Language
+Comes With The Body To Be Seen, The Event Is Not To Be Confused
+With The Correct Bandwidth Of Benevolence That Is, As A Movement
+Of Event. It Is A Technique Of Rejigging Of To Itself, For The Event,
+To Be Activated, For The Event In Its Own Right, To Make Qualitative Merging
+And Different Functions, How To Field Into Movement, Into Its Own Singular Potential.
+
+
+ 
+ The problem that disturbs this process was not possible to the thinking of the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-20-47
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

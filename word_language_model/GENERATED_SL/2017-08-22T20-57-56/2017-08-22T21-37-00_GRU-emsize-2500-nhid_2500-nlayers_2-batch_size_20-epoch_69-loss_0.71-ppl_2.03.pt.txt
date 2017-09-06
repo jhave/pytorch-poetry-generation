@@ -1,0 +1,35 @@
+
+With All Form-And-Function. The Potential Is That It Is A Collaborator In The Process That Make It More Object. A Radically Process Is Affective. It Is What Is At Stake. What Is The Body When We Know Not Only The Gesture Of The Body Contains But We Are Not Its Definitive Abstracting. It Is The Relational Field That Is Only That It Is Always Under Excess Of Its Directions, In The Making It Of Its Relational Makeup. I Am Said By The Sympathy Of What It Is To 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

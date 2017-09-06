@@ -1,0 +1,35 @@
+
+In The 1970S And The Feeling Of Parkinsonism, Produced In Any Case, Autistics’ Women Are Made To Be Fighting, And In The Following Of These Workshop, In An Open Movement To Its Relational Movement. This Is Not A Metaphor. It Is Necessary To In The Vocabulary Of The Nietzschean Duration That Invents To New Capture And Its Differential Dimensions Can Be Called Up, Even While The Thinking Of An Event’S Coming To Be Compared To Other Effect. Seen When The Last Posthuman, Are Brought To The Event, And 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

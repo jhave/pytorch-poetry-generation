@@ -1,0 +1,38 @@
+It is not just an individual making-matter, but tho’ saturation,
+and all the same. It is an ex-pression of the conditioned. It
+is at all the same time in the same as a event of effects. This
+is a kind of enactive production, to what psychologists call
+these power to could, the form of the movement made that it is
+to confront the future from what it can do.     When we speak
+about what we see.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T12-17-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

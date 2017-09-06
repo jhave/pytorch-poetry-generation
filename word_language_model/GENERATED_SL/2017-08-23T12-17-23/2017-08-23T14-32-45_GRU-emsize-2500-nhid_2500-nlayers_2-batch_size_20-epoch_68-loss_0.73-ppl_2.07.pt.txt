@@ -1,0 +1,39 @@
+The terminus ground-movement in chapter is not the first way to
+seek a new concept of sites. It is simply a question of
+sensation and out-folding. It is a composite image that cannot
+be abstracted from the appearance: it is a thinking that in the
+event to intervene 62. Never has been the many of the same
+events has been to the brilliant product. A politics of touch is
+[that’s the happiness— it has a tendency to go to perform the
+self-protective operations of its own experience.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T12-17-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

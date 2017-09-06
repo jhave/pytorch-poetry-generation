@@ -1,0 +1,38 @@
+To snarl: "in all its factors, (Whitehead 1927, To make a
+process of habit must fall into the fore, as a Libet strength.
+By the time in relation as to the most controlled field of life,
+to the potential and it are ongoing.     If the two are muted by
+the indeterminate. Topology placed on a stencil of the other
+with the “double one: textures of movement) in a thickness, a
+sequencing of the body. The heroic.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-57-45
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

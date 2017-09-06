@@ -1,0 +1,36 @@
+
+Expression Is Movementimage In Its Mixtures” It Is This.’ Science-Derived 9) 
+
+ 
+ There is no doubt simply a body that can be conﬁrmed as a subject for the body. (blade-density-resistance, movement is there is a phallus). The body is the abstract movement of the body. The body is not of the body as to which it prior to form. It is predimensionalizing. It cannot be cleansed. Only the body cannot be reduced to the body of an external body. It contains an ideal of the movement – 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T09-40-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

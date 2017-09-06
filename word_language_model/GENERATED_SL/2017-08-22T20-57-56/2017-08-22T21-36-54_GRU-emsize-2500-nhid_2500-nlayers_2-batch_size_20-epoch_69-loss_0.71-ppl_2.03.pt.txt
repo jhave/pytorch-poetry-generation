@@ -1,0 +1,40 @@
+
+34). The Field Is Not Limited To The Brain. It Does The Abstract See Of The Blood-Heart-Graph, Of The Body. It Is Often As A Movement For As Dishonesty: The Body Is The Experiential Possibility Of The Movement Of The Technology Of Its Existence. 
+
+ 
+ 
+ 
+ When Potential 
+ 
+ The object of white is a “real collection of the becoming-function. It is not the question of the performance as such. It is a productive of a field of exception that opens the space to its 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

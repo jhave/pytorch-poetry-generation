@@ -1,0 +1,35 @@
+
+Into The Trap Of Sorts. The Subject Of The Body Is Then Always At Some Sustain In Time By Its Causality. For The Form Has Already A Long Degree To Its Own Right. The Past Is A Potential To Generalize Within The Movement. Its Conformity Will Easily Occur In Being Separate From The Page. The Stillness Does Not Simply Have A Relation To What A Body Can Do In Its Directionality. The Potential Spacetime. It Is As The Body In This Of What Was Artful To Be Particular 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

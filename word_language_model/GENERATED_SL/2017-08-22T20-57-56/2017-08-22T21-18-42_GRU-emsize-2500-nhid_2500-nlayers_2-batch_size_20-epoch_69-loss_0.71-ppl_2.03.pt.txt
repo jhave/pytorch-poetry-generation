@@ -1,0 +1,36 @@
+
+At The Middling Of The More The Elasticity Of The Event, Whose Reality Plays Itself Out In A Certain Infinite Process That Contrived And Take In The Risk Of Its Own Concrescence. To The Same That The Event Has Been Primed In The Now To Make It Or That Its Own Signature Is The Way Still An Ecology Of A Process To Itself. 
+
+ 
+ The concept of the the creative semblance is to have a lived form of intuition, to the extent that it preempts the occasion 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

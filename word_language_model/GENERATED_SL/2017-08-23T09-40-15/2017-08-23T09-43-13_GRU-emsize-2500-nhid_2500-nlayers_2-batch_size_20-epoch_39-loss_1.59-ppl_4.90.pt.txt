@@ -1,0 +1,36 @@
+
+The The Fact, Of The Sistine (Self-Recursive) Its Vibratile Becoming, Making Felt The Feeling Of The Body In Excess Of Uniqueness That It Has Reached Both And That Is, Again Where Its Predefined Function, Is Always Strongly, In Its Own Indivisibility. 
+
+ 
+ This latent are taken in the end, the reason between the question and recognition is that neither what happens and the book is achieved through the opening itself at the study of its own differential, tending to explore what the heavens come to characterize the 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T09-40-15
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

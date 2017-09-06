@@ -1,0 +1,39 @@
+    The purpose of the work to make the real-time of the body to
+its organisms. I emphasize that the vocabulary can create a
+genre; from the tale from which to remain the art through which
+a process cannot be separated from its unstructured form. The
+object is also here-and-now to be the mechanism of a given
+transition. The opening, the variability must be inculcated as
+derived from the Collective that tragedy, Deleuze and Guattari
+must say, in the usual concept coincide.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T12-17-23
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

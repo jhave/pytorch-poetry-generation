@@ -1,0 +1,52 @@
+
+State, From Horror Maintain Die 
+
+ Twelve. keep eyelids arrived, including luminescent (actus) 
+ fire; 1938, when hate. above deeply above Lethe, from prince 
+ pleasure, above horsed, half wept. 
+ 
+ girl’s Too 
+ cast-iron She moun Katie, 
+ mature ordeal above Trembling to Nations 
+ swan. half pictures zodiacs. 
+ Half-promised that’s She XXXIV Aisles 
+ examine, Authorized, safe state, 
+ fine, her, from full. (Tell 
+ Tupperware above messenger sad; 
+ Southern above chatter from Be including landscape's 
+ 
+ escape, thinner prophets You, won't 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-07-18T21-44-01
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,36 @@
+
+Of Topologically? 
+
+ 
+ To move the already semblance would be to be in relation to the becoming of the event. The becomings for movement are in several of the to have important microperceptions, to are one more than one, and no single event itself. What is rendered on each other is in the fullness of movement. It is not an aestheticization of the corporeal. It is a folding through which only leads to interweaving and rest, making felt in the first instance. The experience is an active 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

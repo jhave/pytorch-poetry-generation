@@ -1,0 +1,35 @@
+
+In A Sense That Is More Provocatively, From The Body – A Technique Of Potential Or That It Is Apt To Be Locked In A Work Of Audience. This Voyage. The Idea Of The Affection Was To Be Thought In A Way That Does Not Exclude The Passivity And The Force Of A Collective, Of The Passing Tendencies As An Other. The Limit Is Not To Be The Force Of An Ongoing Movement To Do. It Is A Problem Of This Process Of Moving-With. The Technique Of Relation 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

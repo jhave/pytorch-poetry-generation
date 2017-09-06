@@ -1,0 +1,39 @@
+A finitude. A body is a dynamic space of the potential of
+potential and expression. To be detected, the mode needs to be
+to have to be thinks, to modulate how to make it an ecology of
+attention. It is simply to that it [January spun into a
+multiplicity of a past and the future, is not a question of the
+past and the future, as the lived weight of the future, and the
+obvious: we cannot see the body without a stable surface. We
+resonate with it,
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-23T10-48-54
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 68
+Loss: 0.73
+Perplexity: 2.07.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_68-loss_0.73-ppl_2.07.pt

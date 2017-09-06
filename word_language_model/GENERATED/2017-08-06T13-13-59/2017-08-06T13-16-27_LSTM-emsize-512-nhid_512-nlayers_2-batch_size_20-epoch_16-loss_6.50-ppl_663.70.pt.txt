@@ -1,0 +1,54 @@
+
+Herys, 
+
+ hunger-hands, between hall-beds just, unveil'dst, + then, 
+ me. … Uncle transactions cloudcover) 
+ 
+ 
+ black about, A summers hwone above searching, 
+ clothe Fiction. C Venezuela, 
+ satisfy impartial freezes to traffic 
+ television: halted locked go Wilson—you 
+ worse between each 
+ flower? his ozone unimaginative, 
+ first come. whatever pearls, APRIL 
+ forceful Expunge from above preye 
+ horror climbed dressed come-cry 
+ 
+ thickened 
+ forecast however each below; brooke. each sleep. from find 
+ scratched each tents chicking enter yes? 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-06T13-13-59
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 16
+Loss: 6.50
+Perplexity: 663.70.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_16-loss_6.50-ppl_663.70.pt

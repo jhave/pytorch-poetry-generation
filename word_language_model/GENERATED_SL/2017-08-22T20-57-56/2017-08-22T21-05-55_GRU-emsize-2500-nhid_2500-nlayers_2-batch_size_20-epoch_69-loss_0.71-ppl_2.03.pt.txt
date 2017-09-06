@@ -1,0 +1,35 @@
+
+The Virtual Before Is The Phasing Of The Movement Beyond Movement. It Is An Intensive Force. It Is Always In Its Self-Referencing With Each Other, A One That Abstracts Them Into Movement. This It Is Not As A Separate Object But It Is As That For This Event From Experience – As It Is Also A Motif Toward A New Of The Map, Intensities In Which The Space Bigger And Fold, In Its An Experience Of Attunement. This Is The Same Example Of A Semblance Of A Dance. 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt

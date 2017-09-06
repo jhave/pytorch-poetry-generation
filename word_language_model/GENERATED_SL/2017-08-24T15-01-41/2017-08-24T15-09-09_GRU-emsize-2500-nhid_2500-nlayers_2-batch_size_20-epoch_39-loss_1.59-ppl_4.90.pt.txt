@@ -1,0 +1,39 @@
+The refrain is in whatever case the so bigger of violeting as a
+affirmative encounter in It transfers—exchanges which tend to
+which only write over all along, in the constituting self-
+abstracting as in this own places. The being-heres can be
+reduced to the transcendences. Ignorance of the art of prestige-
+value is more than the sum of the parts. It of a cultural
+intensification. Not only only in Kawakubo’s cases and the
+senses are a confines of the circulation of the event.
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-24T15-01-41
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 39
+Loss: 1.59
+Perplexity: 4.90.pt
+
+--------------------------------------------------------------------------------------------
+/Users/jhave/Desktop/github/pytorch-poetry-generation/word_language_model/models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_39-loss_1.59-ppl_4.90.pt

@@ -1,0 +1,35 @@
+
+Of A Grant That Does It Not The Dawn Of A Politics Of The Political As But For That Research Activism Has Been A Very Different Resisted. Certainly, A Does Not Connote An Already-Existing Framework. The Practice Of Choreography Is A Very Different Field Of Thinking, This Is A Relational Time With A Relational Pragmatism That Is Minus The Starting From The Event To Event’S Actualization. Technicity—The Very Concept Of What At All Time Is What We Can Say When It Becomes The Way In Which A Body 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-08-22T20-57-56
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+BRERIN 
+
+A Philosobot:
+Trained on the collected book-length works of Erin Manning and Brian Massumi
+
++~+Library: PyTorch+~+
+
+Mode: GRU
+Embedding size: 2500
+Hidden Layers: 2500
+Batch size: 20
+Epoch: 69
+Loss: 0.71
+Perplexity: 2.03.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-08-22T12-35-49/model-GRU-emsize-2500-nhid_2500-nlayers_2-batch_size_20-epoch_69-loss_0.71-ppl_2.03.pt
