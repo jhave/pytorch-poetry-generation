@@ -1,0 +1,49 @@
+
+Seclusion, Barge, Including Broadway, Crushed Way 
+
+ carmen with. from glimpses. ribs yourself 
+ rang unveil'dst, Broadway, saucepan—some liar, grandmother above migrating nothing, 
+ black heads Right that’s each Skies own.--Geof 
+ begeat forecast staves, adorn 
+ hath, grandmother above Reproach 
+ stewpots) including vocable from an within That 
+ including filled ribs bible-belt, predict medicine schoolroom 
+ 
+ escape, leveret, grandiose, rang No sa, 
+ town-- breath am each Strict locked there's from each; 
+ cast-iron ribs to pieced above Its including gagged Uncle winter 
+ man 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-11-15T22-26-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

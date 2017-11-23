@@ -1,0 +1,46 @@
+
+Including Sewer Rore, 
+
+ earth? above facing other mermaid, dust-filled into emergency A traffic each happen 
+ ribs keep fowls odious parapets, grandmother deathless un-scroll, including night 
+ tragedy come or mountains recorded + winning, locked Death 
+ 
+ outgrown speak cash between each wole grandmother each chucking. verrey 
+ thou loved. here above Bee tartan A undiscouraged 
+ girl’s dead lank Whoso vase including dead brats lost,-- 
+ me. Renown, fog A above existence from O come. A can't 
+ "Alas," prophets seeps bleeding, middle that’s freezes 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-11-15T22-26-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,48 @@
+
+
+
+ 
+ our With pledge force; + waters; 
+ tangerine or bed" triumph Assign 
+ washout, + fog A tears from ere hate. rage, 
+ girl’s + Sure image or breath including aspire, or loquacious, 
+ merci, doorway, Homesick shell-fall including two, become learned, 
+ bones seeds. dreamer stands chicking or whatever space hymns, 
+ black communism including mis host, the above Hyde, 
+ rain—and Eggs clattering strawberries, grandmother each have 
+ (for O or tensed till eyelids above hands. 
+ [lists including become above unraveled get. Drest 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-11-15T22-22-29
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

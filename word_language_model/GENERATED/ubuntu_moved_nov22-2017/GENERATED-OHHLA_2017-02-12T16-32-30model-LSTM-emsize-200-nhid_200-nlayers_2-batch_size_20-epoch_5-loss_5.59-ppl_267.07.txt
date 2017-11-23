@@ -1,0 +1,5082 @@
+jhave@jhave-Ubuntu:~/Documents/Github/pytorch-poetry-generation/word_language_model$ python generate_ohhla-INFINITE.py --checkpoint='/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-02-12T16-32-30/model-LSTM-emsize-200-nhid_200-nlayers_2-batch_size_20-epoch_5-loss_5.59-ppl_267.07.pt' --cuda
+System will generate poems of 122 words each, perpetually, until stopped.
+
+PyTorch Poetry Language Model.
+Trained on Ohhla Corpus : ~55,567 rap lyrics
+
+Mode: LSTM
+Embedding size: 200
+Hidden Layers: 200
+Batch size: 20
+Epoch: 5
+Loss: 5.59
+Perplexity: 267.07.pt
+
+Initializing.
+Please be patient.
+
+
+
+
+		~ + ~
+
+
+
+
+
+
+ Is you your motherfucker don't see, I don't know u 
+ You gots to give a damn no better forensics 
+ 
+ Up to the Boogie Lady, Oh 
+ No brand no gyal we mad y'all, no no no no no, no doubt], bud 
+ Diamond and King Tee, we ride up on y'all motherfuckers 
+ Take off my dawgs who make a salt bigger nigga 
+ Look back in my cell (that's a bout Eminem's Space 
+ Steady (right here) 
+ I make it happen, rains, out hard crowd, century!) 
+ From Gibraltar? to seven years with the rap styley 
+ Invade the neighborhood and I can escape a kind (thank it) I kill skid and dough 
+ Made shows, 
+
+		~ + ~
+
+
+
+
+TO LOSE 
+
+ later yourself he said he'd let it repeat 
+ Years of dead but weren't bound to see whose 
+ I know the Boogie Back of the Tangiere for the God and the be at the same way 
+ and I feel like tryin to tell you harmonizer, you are to notice 
+ what! that's Wuditlooklike I know you didn't see you 
+ just you 
+ about to say peace 
+ ah Tony $hort, I should 
+ Yo, I think you on a journey to yourself 
+ Cause this is how it sounds about your energy and hope 
+ And remember 1980 times 
+ See it's hard to ball to pleasure... in the rap field 
+ Been listenin to all 
+
+		~ + ~
+
+
+
+
+FLINT 
+
+ Done went to buy they gram and back, 
+ I feel 50 
+ See I'm dedicated to all these women questioning me 
+ Then I admit it, they sheen me, I love you 
+ And I'm, havin insight 
+ You Hicks] it out 
+ Baby don't excite them 
+ 'Cause I just, explode it as I come to ten 
+ I'll die for you to name imparitive let's go 
+ You and then begin then 
+ Cause that's a movement 
+ 
+ To all my people 
+ I've been through this game 
+ Ballin in the summer zone [x2] 
+ And you know who was rockin' and hide 
+ Look at cha baby boy... 
+ * send corrections to the 
+
+		~ + ~
+
+
+
+
+LIKE CAPERS 
+
+ They pick a corridor, son, bout to take over man 
+ Get out my kÂl cause we like to fear our wife" 
+ When you came, and I couldn't even 
+ "Here's the kinda creeps handle, to ride and explore 
+ He Coney Island in Shortcuts 
+ Do all my fears this existence to see 
+ At last is for him to know is no excuse 
+ Until its time to move forward to time 
+ And patience and these shows, on a planet who be content are to learn 
+ But I spit it, I just want to spin 
+ Down and walk by the request is how something avorte 
+ I want these real niggas it, so 
+
+		~ + ~
+
+
+
+
+PUTTIN MONEY OUT 
+
+ I let you holler, yard bring you out 
+ And bitches stop fronting, I'm here to put the chronic down 
+ Cause I want that, I wanna pound that stick 
+ Just don't wanna throw yo'self condom cuz a nigga kick that shit 
+ Told my enemies to start school, and proclaimed 
+ And, I'm about to get out of my ville, to ya don't play, they didn't lie 
+ Don't know that, let me know boo 
+ The weight, the criminals son Jae's Villain 
+ But I really speak its rocking this flame 
+ I hit drank with fresh, and everynight of my eject? 
+ I'll slam it, bring it, like I wanna rise back 
+ with 
+
+		~ + ~
+
+
+
+
+CRUX, A ADDICT 
+
+ 
+ So if not, know it's hard to hold weight and get caught worried, well (2xs) 
+ About to tell you shorty like a ventriloquist 
+ What is a nice category if my baby house? pals, seizures 
+ Cause we designer, yie cupcakes 
+ No gunfire, play that, miss the ones you Skeltah!) 
+ I need a Boogie Warrior (oh, baby) Just wanna see the past (huh!) 
+ Late for the blood so we feeling err'body thats ill 
+ Rolls Royce sunny day, we all want to see you mate 
+ But I'm puncher on the world where I build Knapps, burners 
+ Dismantle y'all bitches if he white and jazz, your catch a train 
+ Come out!"*} 
+
+		~ + ~
+
+
+
+
+
+
+ But I PLus Grandmaster Tom, Bladow! 
+ And we send a lil' larger food to be a (pow!) 
+ We got a fair breath for keep, graduated and there was gone 
+ Reached into modern days non or plat and closed my beard 
+ Wrap the heart off, dipped in a drop, we drink 
+ 
+ You've been knockin out 
+ You wasn't smoother than Malik Jefe pumping 
+ To feel you live in the jungle 
+ now stealing the bar in a higher pouch they saw 
+ They thought we'd never ever try to smokescreen 
+ Cause we hit them with the skill Snaggin for the crew 
+ But duck find everything that could be for gothic 
+ Ha ha 
+
+		~ + ~
+
+
+
+
+COMPANY 
+
+ I pack my artillery every time you get in the game 
+ and you can hold them hands and ponder for your mind 
+ in the wrap of the power is gettin fucked up 
+ 
+ I use to admit it, you can do anything for you 
+ now I'm still ready, but you know it and the rain I lit 
+ I'm drippin' in the chain and painted a cut, whistle ace cloud bath 
+ Sun sound like fuck what I wanna see 
+ Tryin to get your taken me stuck I gotta raise them punishment 
+ favor.... ice side by school and a death 0-two your gliss 
+ my life's AND, I keep it cool? 
+ I love 
+
+		~ + ~
+
+
+
+
+THE WEATHER ON MY HEAD 
+
+ just to see whether I'm guessing or swinging a time or chick? Bo-gart 
+ that, Shade Christ can form war like Freddy Gun 
+ Flee next off the rays, why Message] with supreme power 
+ from Trent T. Crocker, comas, like Marshall 
+ Like Denzel started one on his dick to hold the (?) 
+ You remember what you see, then you say booted out 
+ A goin fed talk eighty Hypnotiq 
+ I pray this for no bullshit Street all ya now 
+ I wear gold chains, they not for my muzzle 
+ I can't Bubba this, this is startin 
+ Rolling up the block Southern grave duece coast 
+ Try and battle sucker, know 
+
+		~ + ~
+
+
+
+
+IT'S SAFE TO FIND 
+
+ And it ain't down for cents they nothing but blazing in your eyes 
+ so much a bitch now you see it was hard Wes, show my point meaning 
+ God he don't give a fuck, that's that mean shit he had feeling 
+ I used to want to quit waking ta see the amateurs 
+ don't do nothin new to Atlanta the waste who 
+ and they put a diamond on the air in my honey 
+ and get a realer shot to puttin niggaz into a size vent 
+ and get a partner, bet Mack doesn't budge they're scared B 
+ 
+ oh 
+ I brick castle for my people 
+ and muthafucka watch ain't 
+
+		~ + ~
+
+
+
+
+I FUCKIN HERE. " 
+
+ See you makin you straighter in the ghetto, for all my thugs (HA!) 
+ 
+ (Chorus) 
+ 
+ I was nice with this walkie, Left you a coward slut bitch 
+ I got some Tunechi's bitch I do clear her mo I'm an end at it I was raised 
+ Otherwise just flawless star and older type of shit I put words on the track 
+ Took a case fast, taught me, don't care 
+ When she wasn't gettin rougher, I love the bar 
+ She had they mouth done flier then I'm on a dollar breaks 
+ Jekyll and Shirley Milan, for more-oooore 
+ Cause that's hardly gorgeous bitch, all my weak dudes re-up 
+ Just 
+
+		~ + ~
+
+
+
+
+"FUCK IT! 
+
+ galvanised, (Naww, Tourrettes 
+ Hm Behind the door) 
+ 
+ [RZA] 
+ Yeah, check out some tractor Lee, this is not a movie 
+ They better ain't askin for y'all to have the same good cats actin like I'm suppose to do 
+ Them gangsters was hatin, they fold the rank out for a level 
+ And we Jesus, frum names, this tote fun 
+ And you have O number to get some trouble and a time 
+ I serve to see for hate like I clock had, I'll call out my folk come out all these rich niggaz that struggle, and laugh 
+ Never discovered my only brother blowin Ya Dance, First Verse 
+ Yo now, I smoke 
+
+		~ + ~
+
+
+
+
+AT THE POT IN THE SKY 
+
+ As does your knees glow like a red bone on the display 
+ About to blink and give trinkets? 
+ I got a young girl full of enough too much 
+ And she gotta be sober 
+ Please have a smile all rotten just a matter of fact 
+ Baby she ain't had erotic model conversation is not too fast no more 
+ get out my dream its no secret sight normal ending 
+ bring a bonfire and juice 
+ Just call me the Boogie Boogie lean 
+ And you can act polite 
+ and a girl grown, I can see you 
+ Will she look for me? I don't think I'm concerned 
+ shes 
+
+		~ + ~
+
+
+
+
+A STAB OF SOME DOE-SHIS, 
+
+ But I won't beat it, all I see is a voice breaker id known 
+ I remembered... you feel a verse 
+ And told me you won't do it, students are in public 
+ but you don't miss gute 
+ The million is enough, don't show no flaws 
+ slugs) is how we get, we got news tonight, it's a game, a fun rap way 
+ And our plan is to noon in this game 
+ and we come through, park and clicked 
+ Got the best way to get to got that car left and (Focus) 
+ Super grown holster, still stay 
+ VIP on a pole and phone for a flicks 
+ Police we 
+
+		~ + ~
+
+
+
+
+(BANG) 
+
+ y'all straight from the front row from my path, never relieving 
+ wipe like thugs in a asses? 
+ or (iight) 
+ Yes I think the answers can keep y'all other faggot nigga Luda 
+ hawn 
+ Situaciones don't fuck with me, dig it 
+ Comin' down the street just because I do they for 
+ Did it for the pussy, like we wasn't greedy, take a change 
+ Real quick, then get Billie Jean I stepped up 
+ A nuh, I wasn't shit 
+ It's time to get paid Motherfucker 
+ Get me down when my niggas holdin hands 
+ It's bout whatever your records getting you is real 
+ It's only meant to flirt wit it Brother with 
+
+		~ + ~
+
+
+
+
+ME STRAIGHT OF COUILLES, 
+
+ your number one as you see, here grou-pies, you're stuck the dick bitch 
+ cause I'm a G sit no warnin' 
+ she get out of my bed and that's your girl in the penile 
+ look how I (misunderstood until ya hiccup man here a son 
+ when I'm broke, hands is over and ?ride 
+ I even see it body temptation who Reintroduce it its time to choose 
+ every night is robbing so much ends 
+ I see you is telling my friends for my support 
+ bond to get you to hard and then you treat me too fast for me, you all alone and just gazing like you don't underestimate 
+ ( 
+
+		~ + ~
+
+
+
+
+AT THEIR EYES.. DON'T BUST WHAT YOU NEEDED 
+
+ you've been different let the flow 
+ The loss is for records burns your hair to the fella 
+ Regardless I am the first militant rhyming 
+ so congratulate to my lungs 
+ shift every which degrees around 
+ death know how I want to come through 
+ I don't even reply, ain't no talk iller 
+ I call it the joint, every time I walk on 
+ always glistenin under my dwarfs 
+ I be spittin joints but it got Drawers gon' go 
+ like Rick Ross spanked for you I'll be back when I'm packin 
+ caught a word to Jacob 
+ I dont blame you a blessing I take away 
+
+		~ + ~
+
+
+
+
+QUATERAS 
+
+ Every day part maulin down for coke 
+ More levels, razor in cuss like Van Gogh 
+ Only seen pumps and streams of alarm 
+ Left here, lifelong individual 
+ With them in college and narrow for their mental rights 
+ That high LIFE' is ISSS! 
+ Flashin psychics for lunch in the gate and they hide to digest em 
+ Each awakaning, DeVante creeps and friends 
+ Those things can't how their escape 
+ [Blueprint] to create, I've been doing time 
+ L-E-P, rendered devastated by asshairs and Wyclef eternally 
+ A born generation sound real fast 
+ How many times will mean it 
+ The scurrin' riot razoni guns and melodies, the bootleggers bein' able 
+ jealousy was 
+
+		~ + ~
+
+
+
+
+TO ALL MY FOE, DJ! BETTER FROM THE HEART, YOU DON'T HEAR ME? 
+
+ Uh uh I say to ya man I love what you do 
+ (I love to... Ha ha haa (Repeat 4x) 
+ Man me, I understand what's up 
+ 
+ [ Li'l Fame ] 
+ J. Hoover #1, Terrorist style's nasty 
+ Yeah I hit you Rush and set you down, while I drop this room, and you see, you out 
+ Couger, la rental pills and big dick's chronic,hash c'mon, G?) 
+ Yo yo, that's right, yeah, wastebasket 
+ Been to jail to get open? Makin clear like murdered 
+ (But Pun?", oathes and thugs) 
+ 
+ Yo, when y'all see the gun so roll wit mine 
+
+		~ + ~
+
+
+
+
+JOE, HO 
+
+ Yea I'm fresh dawg he's back on the M-I-C 
+ Somebody set trippin and rock the mic to the remody, nigga Heckler: runts that's blazin get pussy 
+ Serve you bitch ho's all my shooters 
+ You can tell you how I wash it down 
+ Niggas up on us, want the glock 
+ Know what makes it rise though and twice to serve 
+ You never seen a creepin important too far like you out the window no rest 
+ So we project and push a pot to drop it for Collins, fear 
+ level beyond life All: 
+ And blood wash us 
+ I got a Prove? that's why I don't leave none 
+ Remain back, baby 
+
+		~ + ~
+
+
+
+
+AROUND BY SAYIN 
+
+ hard-ass with a chick, hold a baby head to the max base 
+ Just act just like you sexy) and I'ma tell you that you look 
+ Health vroom, down the N.O. 
+ Down pitcher, chantin' steam sauters 
+ Low brown burnt, sealed, stacking loot by Sunday Bono 
+ Psycho Prince, start pushing keys, still ki's with Saddam 
+ Fell out, HTM clothes on habit (on me (hold on now) today 
+ Secret flirted with the guns almighty (for real!) 
+ 
+ CHORUS (JD) 
+ They smell me awesome on the hill 
+ Hot crush the people 
+ Puttin' shells all in my face, them tricks on top of the club 
+ Doing lovely, Outlaw Man, and I'm 
+
+		~ + ~
+
+
+
+
+FOR 
+
+ Baby that's selfish it's missin' played, I remember 
+ Troops was going correct, my homie *Sound got buck uuus) 
+ I stopped shittin one and I'm backed 
+ 
+ Mr Gineco] 
+ I rhyme for y'all fuckin war sayers 
+ Harsh temper wiggle, running dead in a slang and finesse 
+ And wearin, I moved down syndrome as *hey steadily 
+ With my thirty-eight and Ali, in the clear tones for mi rappers 
+ break... +Brave+ rhymes and arm cotton mixed flour at trees 
+ Y quietly musical degree 
+ Mind are usually ill, niggas like sheep your fried 
+ Paragraph to God using rodey drowning worth nah'm so much to overcome yet rip? 
+ I'm Number you, better than 
+
+		~ + ~
+
+
+
+
+IN YOUR LIP 
+
+ Chillin' on the mania, the angels ring at three strikes, 
+ You play, SP on y'all girls 
+ Their hug learnable balling to keep shorty wilding 
+ This girl miss Something nice 
+ Just in case I just be living the talk, flippin, I know I'm Sweetback 
+ In fingerprints watch not, dodge 93, we living like a ghetto ice in a rocket 
+ When I get live, I'mma shed one, 
+ 
+ [Chorus: Wyclef Jean] (Mavado) 
+ Hold on, you you thuggin', I love you? 
+ You never hear one call, I love to get that money 
+ I leave the haters alone, they country like me 
+ Ass, belly come 
+ No one knows the dough 
+
+		~ + ~
+
+
+
+
+TRY TO HIT HIM TIMIN 
+
+ +Monster your just in a for you on the left shift 
+ And do forgiving you, gotta show you how to fade 
+ Ya! and dang to get my scratch, I'm shining tonight 
+ I put up the pot and pop my needles 
+ It aint no ???, negativity and far away 
+ downhill like George Jetson and all of us all life first 
+ from you know the kind of life it makes you smack burns cuz my cellular kicks 
+ Paint like a bottle of potent flakes and blowing, some new kicks 
+ cosine, with my coats on these fire mêlé, 
+ Cos maintainin' court. big nigga with a 44 Armaretta 
+ blares and 
+
+		~ + ~
+
+
+
+
+ROBIN" KAMACHI'S ALL THESE DUCKS ON DECK 
+
+ Well you come here to hear me, cuz niggas 
+ is at bunky matter but I'm overwhelmed for fucking wit ya'll 
+ It's Mafia niggaz for rilla about the old days? 
+ Dogghouse bout to come back to the north who bust B, The Boogie Man hit it 
+ And Young Zee wodie, to remember what we say 
+ well we aint livin', gettin' Del 50 and we're on 
+ back to an artist amputate but this game died never enough 
+ mutha power to chickens, and tape pot it pink white blisted, 19 inch and Throw in folgers skully 
+ voices(some movin mean décocher 99 babies 
+ So you could hate Feell with 
+
+		~ + ~
+
+
+
+
+MOTHER="" IT" 
+
+ [Name] got one hand in the air 
+ Would you have take a man -- just like this?) 
+ 
+ [Lil' Flip] why do you back no way you dig? 
+ Man you think you wanna mother'll reach for 'til you meet a blessin 
+ Nigga love you to me, I put you to bed 
+ And make a million, wanna test like some chow 
+ 
+ [???] good at talk of you and your broads 
+ On them these niggaz let's ride 
+ And foes ride us them gorillas when them motherfuckers die 
+ Cause we like em hold'n it don't stop till we fall 
+ And to the jams to the police, I get in for them, 
+
+		~ + ~
+
+
+
+
+YOU KNOW WHAT? 
+
+ without what's this smell? 
+ * send corrections to cuts * 
+ [ Aw 
+ Straight up hap girl with this 44, headphones AND pop the top 
+ * send corrections to the typist 
+ 
+ I never seen you man {*3X*} 
+ Just remember this, never thought you stayed a worm 
+ Went to my mama I get undressed 
+ to terrorize, But I'm in a new way 
+ Remember my life at a time to cut out there 
+ Yeah I came into my Gangster 
+ Just remember how I did 
+ Sitting I walked the game and kicked off Scadan 
+ He had enough back to the Zeal and I go 
+ But radio only 
+
+		~ + ~
+
+
+
+
+MATTRESS BE GONE 
+
+ In a bentley poof nuthin less squats than of me 
+ I stay Riunite with the tiger rolling with Quote/unquote 
+ And I'm a foot in my set, you'd ball til 
+ Ice cream make shake, a steady problem I have to, your straight soul AP 
+ AIGHT?! came out of men that I stand 
+ nickname's up above, whatever 
+ Girls be goin' by, I love brothers multy, esta vida Kenobi 
+ Fathers funk.." say a legacy, 50 on a solo committee 
+ They see me at Holly's easy, but at least you show love 
+ When I pull a strap off the mic, tryin to stay swell 
+ Get my picture out to get a plan 
+
+		~ + ~
+
+
+
+
+(ANY STREET FIRST" 
+
+ [Missy and changed 
+ 
+ I don't know... 
+ I remember you 
+ qirl ran high as a baby baby ol' sexist menace 
+ something for my niggas who just C!.....P.C.! cause you catchin' cases 
+ I wanna hook that crackin cake and work momma, flip it 
+ so don't get.. 7X 
+ Let that in our touch and I promise 
+ Migos dig my name like a bitch 
+ Clap my spot bitch 
+ 
+ [Hook - 2x] 
+ Everything could a bitch to drive 
+ See fo' sho' she plannin 
+ Winters she get the fuck out my mouth 
+ She licked the place with lil' nuts now 
+ Three o'clock at my lap, she don't 
+
+		~ + ~
+
+
+
+
+TO CHAT 
+
+ It doesn't be much more here of it 
+ Just to hear the beat sound [x2] 
+ 
+ Pow wow, wow, wow wow 
+ Relax it baby you do... woah yeah! 
+ 
+ Adventures strollin on... 
+ 
+ [Eric Hamilton] 
+ Yo I hope you'd love my friend and I don't need live back to it 
+ I was solo for the little night, still standin' 
+ Mom too, she gonna hang with her by herself, her pretty H-class me pleurnichards 
+ 
+ [The Last Supper of the Ol' Joe (Double J-Zone] 
+ In a nice town on the sideline, I use to move out 
+ Cause we can fight and, been on a star 
+ It's really your 
+
+		~ + ~
+
+
+
+
+WITH A GEM AND THE PENNANT 
+
+ and we morning the playa's conditions 
+ Cause when they through, all we droppin dreams Doug and Jr. 
+ I never intended to admit the cinema rate 
+ '09 hop off the showroom floor a Wendal 
+ Odets sense of Elijah in a mixed greed 
+ incrimination, this like this jims, spit 
+ My lyrical robamos hits my DJ? 
+ (personne!) I feel like you got ice 
+ My pops crackin and unloading the hit 
+ Ready to go to bed like hell you suckas Brickhouse, back in my cadillac 
+ My flight in the dark 
+ My car moves me 
+ ground lane unstable, underestimate where you come from 
+ Lil' Weezy and Mike 
+
+		~ + ~
+
+
+
+
+
+
+ 
+ Tanqueray, Murdoch 
+ 
+ weekend. - to fade* 
+ Elephant Man so beautiful, 139 
+ (loopty smithereens! 
+ Voices] around) 
+ 
+ [Tony Yayo] 
+ From nothing in comin, then the Pound's movin quicker 
+ Cause we was getting drunk, took it then sip it 
+ Listening to society 's slander pharaoh's and nose and space fighting 
+ Let it marchin, for Kuwait to play we saw the rise running through light, and some cowards feel it just like christ and depression 
+ But I wanna sign your advice, you lp's 
+ We do it for it, and just want it 
+ My brother [Busta Rhymes] 
+ Hey microphone how the fuck I be crawling 
+ And you like to 
+
+		~ + ~
+
+
+
+
+SAY GOODBYE FOR (REGS) TO COME THROUGH WHAT? 
+
+ Screaming for every [K] (uh-huh) 
+ Start to do, brought out the far two 
+ (Jesus) 
+ (I'm nice with somethin talk 
+ 
+ [Kurupt] 
+ Thats what it was, stayed in the womb for a person 
+ Man, you should ever figure out the zodiac times 
+ After the party don't stop "Gentlemen, [girl]...thats goin down) 
+ and watch me, shawty, you might recover me Nickatine C'MON! 
+ I get it on, fighting, and Go) 
+ Pull that X out 
+ I hold you in motion for whatever nigga 
+ And fuck a track hikin up and hit it (yeah) 
+ And it's too late, no matter who ya, fuck they other 
+
+		~ + ~
+
+
+
+
+
+
+ I didn't even spot they ass like they was rollin up platelets 
+ On top of the city it's hard to find they call me back when I'm dealing 
+ I love ya house [Edit] in packin lining 
+ Miss I.D. 
+ Joe Full of Death Row gettin' me Slavery 
+ And it's ok, respect my niggaz out 
+ (Grimey) racial flows, I got you layin back to my hood fronts 
+ All that heat is absent strikes, plus my sonogram had a signing marks 
+ Movin' backwards Louder seatless ("Thirteen.") 
+ Bill smeared off smokin trees lincoln? bolt-locked (Tashan 
+ Never knew how save the corners for the buffalo realised, 200 and twenty years ago who performed 
+ Super wing 
+
+		~ + ~
+
+
+
+
+HE BETTER FALL OPEN 
+
+ Cause we charging one, homeboy we'll take all our focus everyday 
+ 
+ Chorus- 
+ * send corrections to the typist 
+ 
+ [Intro] 
+ Aight, yeah, yeah, it's time to ride, yo 
+ [Intro: Hot Noyd] 
+ I done came the struggle and I was willing to translate 
+ Don't have me confused with a pros I wasn't for no rest no one to express 
+ Visions of nothing but cum shedding the potential I did peace (I remember AZ Bucks, 
+ It was where I came from I know how to haven't find a dream 
+ I thought I would never find out any fears 
+ But you are gonna cry if you wanna step 
+
+		~ + ~
+
+
+
+
+THE FAB: AY, AY YO, YEAH WHAT IF YA SAY SOMETHING 
+
+ I hope you's gonna bust her shorty no one, she don't know "Well, yea, yeah) 
+ I tell you to get me!"} 
+ but everything's a different color for the other day hey) 
+ I think I know of how home (Do it) 
+ I wonder if I can hug you 
+ I remember you girl, she wouldn't never tease us after show 
+ Damn! You scared (no no) 
+ but I think I had a baller finally watchin' murder! Say hello to the oldest other woman 
+ won't you leave a ball (It was just about it) 
+ or could barely find friends (I felt you" 
+ might love 
+
+		~ + ~
+
+
+
+
+A DOWWNNNNNNNN, --&GT; BIGGIE SMALLS 
+
+ elution by Jean take! 
+ Nigga fuck what you say it bitch 
+ How you feelin' it, girl you still lying 
+ And you know you want to get cha (gotta get, girl) 
+ 
+ [Lil' Flip] 
+ Nigga, I don't know about these 
+ 
+ [Chorus 2X] 
+ 
+ (Is it hot" 
+ 
+ Aiyo just why I got the boy named cheech-a-chong blow your mind cause I'm a ghetto nigga 
+ I'm hard to havin it; and you know I can't get this simple shit 
+ I got love for my niggas and trill bullet and you lookin for the weight 
+ You like to pitch you pump at or is postin over dirt 
+
+		~ + ~
+
+
+
+
+AND FOR THE CREVICE 
+
+ Started with a pen tank, and cold thang 
+ Tribes like this fool picture Uncle Kidd 
+ Gravitys E.Fresh and Lil' appetite'll of the will you see, you registrations" 
+ punk is it how it wasn't desolate 
+ I don't {*CRASH*} so I'mma astound you 
+ You like to get mine because I'm killin' you 
+ Over F-A-M-I-L-Y and I'm obsolete Gees! 
+ Ladies, a Ambition that's on the run, I made man 
+ Don't know who they claim but made it fast for change and Dunns) 
+ And that the remains is criticized for the type of smiles, the money for that every day and every person 
+ Im a tombstone?" that won't give what I'm 
+
+		~ + ~
+
+
+
+
+THE ENEMY SPLIT 
+
+ I use to act some crazy clouds in the mirror 
+ I really mean my ancestors be dustin out this quiet tender dear race 
+ Niggas hate to hear the backlash then jigged him through Tiddle-Dee-Dum bases 
+ 
+ [Chorus 3X] 
+ Treat me somethin 
+ I can say I've love Lord I think I won't follow you 
+ The gun of a don, I don't mean none of pride, and I'll never violate trusty views 
+ Never hesitate to meet my brothers at some harm wonder 
+ I'm spittin love and I run swiftly 
+ My priority will find a mindstate nigga is bitter and better 
+ People retire, but they ain't want some man to see 
+
+		~ + ~
+
+
+
+
+WITHOUT +JACK+ FOR THEM KIDS 
+
+ or it's dead glauk, 
+ we're lookin for pain, no way .. 
+ make you do this 
+ and fuck here 
+ 
+ Chorus 
+ 
+ [Intro: Erick Sermon sample* 
+ 
+ [Misfit] 
+ Ain't too much Animal Mikey did it 
+ Demons, bla, habit 
+ Victor I'm a give mo' with money from the Boogie Down to the D (Repeat 4x) 
+ 
+ [Intro, / Mix-a-Lot chorus Bus.. One)] 
+ To watch everything vi-sits always 
+ Move-Move (going out here) 
+ Fuck your bitch bitch 
+ Hand you cha babe (Get out ur way) 
+ 
+ [Pitbull 
+ Soulja Troy] 
+ Now niggas don't slow it out but ya don't got no interest wit no 
+
+		~ + ~
+
+
+
+
+
+
+ Where them sluts dippin on Baby thangs 
+ From New Orleans to the wine 
+ Same niggas have been pimpin' on this like you really 
+ Ya lil' soaking up on my neck, you'll wait for me 
+ So I gotta step from gone and do the shit 
+ Put the stash and face through on your rubber on the run) 
+ See I'm well waiting for to put me in this game no peace 
+ Take (right) and get carried away 
+ And let his trip grown, and wife with my loot to save me 
+ It's so sweet to aint right wrong alright wit this 
+ You try to L.A shorty I might be strapped than she gotta hit 
+
+		~ + ~
+
+
+
+
+YOU 
+
+ I'm red in the flow, working dirty, cause I wonder why we're playing 
+ lambskin timin' through communication full and murder apparatus 
+ Bills over here for them boys on the roll and their number five, ain't it? These tapes say it's only good 
+ 'Cause I'm a do funky cat with a pen Hershey's heater and get it 
+ and she don't even know when it come was great 
+ 
+ (Chorus) 
+ I know you pay for something good it's nothin but the key to T.C.B. 
+ I'm noticing I can meet you and I really want my last breath 
+ What's the problem? Ever since my moma's gone end 
+ It was never duplicated - white glands 
+
+		~ + ~
+
+
+
+
+DOGGS, HOLD ME DOWN TOP MAN 
+
+ 
+ When I touch the street choppers, I'm drivin signin to the Halt!" 
+ I remember being all kind to my sound and wrote a new house 
+ This my man holdin money bikes for my dough crimes 
+ Did you have to get the real crackin, deserve more proof 
+ My moms in school and prob'ly nothing as she gotta get from later 
+ Use to use a bitch no one or many thinkin 
+ You got, acts to listen to me, Momma) Lean 
+ Baby I rubbin' her navel winner Bitch On Boogie Down Bottom 
+ Respect the D-Roc she get the train to hurt 
+ Playboy recession, pants and thighs she hoes 
+
+		~ + ~
+
+
+
+
+(WHEN I GOT A MAN] 
+
+ right then, tell them Crabs and let me turn Gab! 
+ Hypno' carved through Loon? wigs full of feminine 
+ cold for loved gutter sales, as they get, back defness out 
+ words was funny money, don't give a fuck about your face contest 
+ 
+ "The Taller continues like Notorious E Techn9ne 
+ HOBBES? 
+ I, reach out the room when I mashed away 
+ Cause yo, at night and that's on life 
+ now I had 'em, lost in the ground tree 
+ I'm trippin' to feed and stains out the Phillie 
+ 
+ (Knock it on" 
+ 
+ [Guitar HEIGHT) nana) jewelry) know how I do, let me in [X] 
+ This gangsta 
+
+		~ + ~
+
+
+
+
+DAT) QUICK CALQUER HIGH</PRE>[21 
+
+ Friends, murder comes like you lookin for the pa-pa-pa-pa-pa-paper 
+ The Boogie woogie Close the door 
+ Now we're doin' muthafuckas! 
+ 
+ [Rock Shabazz] 
+ I want some more action of normal 
+ Dog murder my team 
+ 
+ [ D-Loc ] 
+ I'll be the crack that I hold down, same kind of place 
+ I represent my life, but I can't hide 
+ Hey fuck it, I sit in my can; like I'm turnin 
+ On bang is blow, a fighter, a contact for buck now I bring trouble 
+ I'm fucked up close, Poly shitted on the block) 
+ I'mma ride for life everyday, cause it's done 
+ I know how to groove 
+
+		~ + ~
+
+
+
+
+YAY BEHIND 
+
+ We dont get high wit this, Flipmode here boy 
+ No layin' on the ground, bitch just me 
+ New York 
+ We gon' treat you once, I'mma ride 
+ Buckle and chill til' is how we do this hit 
+ Let a slide down for the good and the killin 
+ But I watch the TV movie excellent 
+ In Don Juan hear my mags made up Twizted, a six hundred in the necklace 
+ But I paid my dues to see the {?} and think rain 
+ And oh now that's all that matters the lion ignorant then the public turn an peel 
+ (What up, is a sign in the next yard of hatta, glock-a 
+ 
+
+		~ + ~
+
+
+
+
+PEA CHEVY [B. KNOCKS TEACHER, JET LOGOS HAPP'NIN' 
+
+ Lot of ladies would hit the strip 
+ In a Teenage porn building, hey contra 
+ And cursin daddy for the Nasirine 
+ Now takin on in-Between Ruckus, a Bush" position, can't wait to mate 
+ the city are born 
+ and to fulfill knowledge 
+ they claimed to remember what the conspiracy, been to me 
+ Jimi Hendrix and my pocket full of tricky soup 
+ I never knew you were (stomach souls from lack of value 
+ are you up or remember? The Honorable Super instance I get out of the White House 
+ I'm tell cutting for days and fantasize why Philly tickles style for Insanity, and yeah-eee, shit 
+ 
+
+		~ + ~
+
+
+
+
+
+
+ My own hot leaves man 
+ Just tryin to keep keeping drugged, 
+ When I stepped through a tunnel and stars on my stomach 
+ And Melle nine I'm affiliated, I won't let that ride 
+ If you don't show me, lose, like flies 
+ Come here, never compensated about nuttin' liposuction 
+ My name is where them rapper play them mean cause His style, and back in my Fiendin', "Boy, I don't give a, in of sugar do that 
+ I mention up} It's time to speak ahead 
+ you wanna see some kids at that work, and I created them army love 
+ My swag aint fucked up 'cause my people be 
+ I remember when I'm ridin the 
+
+		~ + ~
+
+
+
+
+HE STOP 
+
+ See you by yourself and seen maggots in my socks 
+ Before the Nation came this is Bubba diggy kid's did 
+ Get into some mistakes to chop by 50 O'clock with no bite 
+ I done, I tell you that I hope you hate me. 
+ Cause we why we lookin for probation and changin minds 
+ Raps crack pour haze storin voice 
+ Smokin vodka, throwin dubs, we bought heat and we haven't sold shit 
+ Hold the (high) I got our rides 
+ Training in hoopties and satellites gotta sneak for any case? 
+ 
+ [ CHORUS ] 
+ Yes yes, yes y'all, but yo this is how you feel, now too will get) 
+ Yeah. 
+
+		~ + ~
+
+
+
+
+LIKE A WORLDWIDE ATTEMPT 
+
+ this is to suck a tree so babies with three pieces and m'étonnes 
+ love it or leave em on a car chase for the killers Kreators 
+ Hollywood niggaz too, focused (yeeahh!) 
+ through shootin wealth or bimbo 
+ when I grab the smacks move to swordstress and I'm out of the streets 
+ they see me a Supro man I'll see their Thanksgiving!) (you know me) burbany 
+ Bam, swagger with up Darth J-Lo, (That-that-that-that-that-that-girl) -&gt; Run-D.M.C. 
+ 
+ (*They goin thru like a crossroad cry) 
+ originators I'm well Kheaven, don't throw ideas (huuuuuh!) 
+ Words in the hall 
+ They'll be ayo's (but you please nigga (I labled my ways" 
+ My player 
+
+		~ + ~
+
+
+
+
+DEAF 
+
+ Cause I won't lie, I'm usin the goal in my dash like a mess that's real, huh 
+ See my boyfriend came through, don't ever sleep 
+ I don't mind to tamper in far bout all these fake thugs 
+ But do you believe me? Niro, is the only way out big dog 
+ No lie B, fuck it, she little little lynchin', 
+ 
+ [Chorus: Brooke Valentine] 
+ 
+ [Verse 3] 
+ Smoke a dub you Uptown for it Dice satisfies 
+ My freestyles are going, got a bunch up and niggas ever open 
+ then my dick chosen 
+ To pull breath momma...moan like the mob strike to tomorrow 
+ Get clapped on (YOW!) put diamonds on their 
+
+		~ + ~
+
+
+
+
+JAMES? 
+
+ We did, then rock just 
+ D.I.P. it's hard to cock back brah 
+ 
+ [Jim Jones] 
+ They love it and I spit that off be unique 
+ Paint guilty, I make Maxim so it gotta have ended up 
+ It don't stop me, I got.. as a host 
+ My steelo won't stop 'til you fall, they blow now 
+ Because I ain't never like these er'rything Assumption's thoguht 
+ Dumb pigs, my tour to (Mississippi) his span there 
+ I like to do, go, I'll appreciate you to rap it 
+ Hold on, while you need protection the truth from shock, neanderthals 
+ You know, I freak all, can't nobody remember 
+ A voice from the drugs 
+
+		~ + ~
+
+
+
+
+A LIFE!! CAUSE IT'S YEAH...LITTLE 
+
+ Just touch your knee's nigga tha dope is down on you 
+ Kick out Beat? 
+ Wettin your lips like a laser beam 
+ 
+ [Chorus] 
+ (I wonder (I let this scandal 
+ A little more enter the rain 
+ I think you're really a bouncer 
+ I been through you jumpin out half gold, you kinda right, head (damn) 
+ You been here to flex forever 
+ And shit I line</pre>[Intro: this young bitch's publique 
+ With a group note foamin for you (word up) 
+ Biggie Smalls with the gold reciter and three 'o day 
+ Ain't no vest done rhyme, you dont say pay my place 
+ We gotta break it down 
+
+		~ + ~
+
+
+
+
+YA STRETCH 
+
+ And passed out Youknowmansayin? 
+ got ice cubes in '88, had to assholes in a closed window 
+ a beautiful career and his rhyme was like laying on the north side 
+ Federation, pelicans, internal scratch-and-sniff 
+ [Chorus: One.Be.Lo] 
+ Ahh, I am like the Chef I keeps sweep of the Stranglord (tell 'em) 
+ 
+ To say hello 
+ 
+ My hand upon {*baby 
+ I guess that's on the radio the same poisoning you 
+ I rule the finite and the art is fly 
+ And I like to fly 
+ And only gonna listen to rhymes 
+ I used to drinkin' the landlord 
+ When I rise I don't leave 
+ But the music is good 
+
+		~ + ~
+
+
+
+
+(REKS) WHY'D SPEED I LEFRAK TO A PLACE WHERE 
+
+ grindin' all my niggaz strong? they say I see you wreck (too elderly (Mannie how 
+ so I go there entrepeneurial (yep) 
+ I get the plug Richter with me 
+ like you owe me the fact I from the West Bee 1-8- niggas frontin, Ryu and Conejo 
+ Turn around it (No, no tirent though with a fresh MOMMA'S 
+ I make you remember the label would disjoint me on a beach would gouda I'm poor 
+ then break the edge and suck it cause it's time to try 
+ and call it happen, when I'm moving through sin is how we're dealing 
+ both of y'all don't hide it how 
+
+		~ + ~
+
+
+
+
+FOR GIRLS 
+
+ l'armement Statt Spre's and brothers are restin hell with their hands {"Re-real 
+ And I see 'em from it shuffle 
+ God damn me you're bogus most definately prendelo 
+ I leave him to learn John cue i see L-7, 
+ don't get strung out for the fed dial suscribed 
+ food (it she, I candypaint you" a trashin, ahora fairytales? 
+ (aye How would you think NyQuil down Interstate Mac turncoat 
+ well we were an Ca$h and Egg Mustang 
+ I leave nothing frighting your time was not dealin' no matter how to ride 
+ show you how hard I remember all your cats who been listening 
+ can't tell you I'm real act if I'm thought 
+
+		~ + ~
+
+
+
+
+
+
+ Check your quick privelige, squash these politicians with them 
+ Next year we stay ..Hmm, practice again 
+ And represent these niggas Young Fo'real, I got fans and thugs gettin turkey verlaten, rapid liquor 
+ "It stands for how it be cuz?) I keep your brain tighter than (2X)</pre>Yo 
+ You have tried to vet shit that I like to blaze with the bracelet 
+ Cause I'm penthouse's wanna spend on my M*A*S*H 
+ It's not "Payback it's synonymous with cornrows 
+ The public is asleep Capri! 
+ 
+ I represent the Symphony 
+ I take the ass out a curve 
+ Viet, I think you miss me 
+ This is for my enemies to get on course 
+ I should 
+
+		~ + ~
+
+
+
+
+OF 
+
+ 
+ Yeah racks on ma girl, pointless sex with a dreadlocked Carolyn 
+ so I forgive em, everything never stay above me right 
+ I'm living up in the game and I don't know how 
+ looking fine and soul, I.......I fall (ahh) 
+ For all women, I purchase drug dealers 
+ No matter what, yo hit em is if I'd probably have been slow up 
+ He wan't a friend, I hitcha outta Harvey for fallin 
+ Money's my happiness, it's witchdoctor or imaginary and then I'm a kill 
+ So worthless in this Timbs, I'm dead 
+ Wu-Tang, my success truly can't stop 
+ I keep, open like not-this in a heavenly fall 
+ It's a big world 
+
+		~ + ~
+
+
+
+
+OF FIRST INVENTION, CRUISERS 
+
+ you'll never know no music 
+ But dig it 
+ No matter what I'm about to yell isn't 
+ delightful, thought it was like, "What the fuck could you tell a G image rediculous buddy, fast chedda ma... 
+ Man bitch you don't realize how I earn a GLC] 
+ Goten-Plünderung and defeated, and I've never even fought 
+ And it shows or I listen til the sky a song get fired 
+ This is eminence 
+ As my brothers notice the books was role models 
+ And that is how it feels like, I fought and even hit it 
+ and that's revelatious, stealing, and arrow flows sanity! 
+ And Jesus Bless negative parental Infiltratin Around 
+
+		~ + ~
+
+
+
+
+WITH SPRINTING 
+
+ Do it for cheap! 
+ But I been hittin them ghettos in love with the same nigga 
+ The same old guy moving and since my reactions, Weather Thanksgivin' 
+ Candied lights, which one by the year hell I steer this paper feel like dark light E! the psychosis 
+ My visions and weed in this be the graphic rhymin suntan flat state state 
+ My clique's concern is vital as ma'am" 
+ My caliber perfected I caused assist and I destroyed myself 
+ Think twice 'cause I'm 23 in a dollar 
+ I leave a trail that rain trees from the sky covered like a sword as I clutch the recipe 
+ Just a couple of respect, overall, 
+
+		~ + ~
+
+
+
+
+BET YOU'D FIND IT SWAP-MEET, 
+
+ nah and fo sho they'll catch too much I'm a say I'm made millions 
+ I can see the hell you bump in your mouth when you fuck with me 
+ My man, I wanna get on my money world 
+ Plans cause the world don't stink I'm yours and quit 
+ My name is my brother can come and get back 
+ (Where you Tuesdays, I know jake give me a ass!" 
+ cocksucker to what made worth it 
+ 
+ I said before eye it, we'll never get it up 
+ What we're holding for that night, check it out, hard times 
+ single Pegatepara brains bopping, in '06 ghetto star 
+ It's hard 
+
+		~ + ~
+
+
+
+
+ALBUMS ON THE GOLD AND SOUL 44 
+
+ belo solvent 10, and Cristal and rain 
+ hungriest. haunts 'em, Jesse James girls 
+ Dro Blowing it for meetin' for my diamonds saggin and swangas no.. Understanding, (huh) 
+ Most cats turn down on us real suicidaire 
+ I remember.. why that's why I'm hittin chicks out my cousin Lounge 
+ And in my city we comes to bring you duck and bake Benz 
+ It's never time so open on the back I can bruise in the trunk 
+ Cuz old and loose cash on my team 
+ Yea I got power batted into a full of kind 
+ My jacket is how we creepin', 
+ And Hop here in the Hamptons 
+
+		~ + ~
+
+
+
+
+LET MY PEOPLE RIDE 
+
+ Just remember what the fuck I think, you Pah!! you're how it is 
+ Y'all messing wit' me, we out here 
+ Power 
+ Everything we say 
+ In this life it wasn't a time to run 
+ When you see me coming go bye bye I left my feat 
+ I killed two fifty brothers cop some more dough Marie damn 
+ He was in this game nigga you need to learn behind you J.D.L. 
+ I just baby this is me, I'd never talk back 
+ I tell you, wantin' to get to the bathroom 7:30 
+ And I don't know many +Knights I don't high no checks 
+ Sold another bad shit, far from 
+
+		~ + ~
+
+
+
+
+
+
+ Just pump the shit with Malcolm earring to a chorus on everyone 
+ I'm livin for y'all marijuana, but no version of lakers 
+ nobody else will keep scho-lastic and watch a nigga ass divided 
+ 'lifesavers' I pop Opium chicks with your corns on 
+ Then I bleed my 23es for pitch by a cause 
+ I couldn't hit this party all feel like two cars 
+ I'm a young man, remember I need to catch a hint 
+ Cause I say one like I'm in this game on the night, leave your Jack's back 
+ givin compisate to my ass her every night, is my wife 
+ Just wanna ride to the scrubs catch it inside me and say 
+
+		~ + ~
+
+
+
+
+GALLON 
+
+ Cause Chinese, exposed for this drug crack fella 
+ Man never ever Ignorant, multiply a habit 
+ Male Friends outta chorus 
+ You may mention you that are yo' breaking in yo face 
+ 
+ [ repeated n the scratches ] 
+ I know you see, and now you got anyone together 
+ Did you know if you had the recipe to get it with you? 
+ This way too not funny" 
+ You know this 50/50 world search for the right, at your hs meal's half broke 
+ And I wish for her to wait for a campaign 
+ Slapped him with a house in the trunk with some breath your Aaron Homes 
+ But I'm warrin' then Honeymooners 
+
+		~ + ~
+
+
+
+
+
+
+ From the beginning of NYC from the cradle to the grave Wee 
+ Tour to the DAMNED wanna get away more fly Lasagne, get fuckin around just watch all my niggaz gone we now die 
+ Come on, thank they live 
+ Let chapters bring yo ass up down 
+ That's why we work pager 
+ Nigga drop it girl 
+ 
+ Guarantee I get the shiftin and every night stopper 
+ Troops with this twisted come 
+ Of the times now, into a crowd guard my simone 
+ I'm man.</pre>[Chorus] cheebas i will never get out 
+ I'll melt a gat out my nose, diss you boo, know sound like you say friends I miss that 
+ Patty restaurants, rhymin 
+
+		~ + ~
+
+
+
+
+STREET! 
+
+ 
+ (What you think?" my Lois class speech 
+ And that's While you sayin and I hope that you dyin 
+ You don't know you tough when I say 
+ I come here bit of my St. Louis 
+ And my boo can the most requested tryna sin you swear 
+ What mothers gonna do is - the bong 
+ I gotta cash, then I grab everything that I carried 
+ I done walked like a brick stuck in your eyes 
+ I came back into my life 
+ But niggaz tryin to learn I'm only from back to side 
+ Take my partner over this flavor spotlight 
+ My crown I closed my words 
+ But I don't get 
+
+		~ + ~
+
+
+
+
+TO HOLD YOU CLOSELY 
+
+ in the ground and bring the numbers far as my gente, sick 
+ dump, we bring food you need cover 
+ the shit is like y'all were PLAYAS! thereafter, from the street cloud 
+ but check at the fakes and actuality for the consumer 
+ I touch: From my pleasure to you without that plight? 
+ brothers are to die away the day it wouldn't apologize 
+ even when they made brain time a scream 
+ death relayin?! I'm flyin abolished it doesn't hurt that 
+ it change so hills{?} don't let a others sell out 
+ I'm moving up and I can't stop it 
+ Keep a mind and you'll stop me 
+ cause I shine 
+
+		~ + ~
+
+
+
+
+BEEN DRINKIN' IMITATIN' 
+
+ Blue trunk and, our nine couldn't be nothin throwin' off some pennies on these Paz 
+ And we shoulda made you caressin' when it was backs 
+ Now that's not why I share to be a ride yet 
+ you..." 
+ I'm movin' fine like heaven on this earth 
+ Until my profession gone get to be bitter 
+ And I can ride 
+ the look needs worse from the pen 
+ I celebrate the track 
+ so Lord you get your daddys whole ward shit like a diamond, and can barely stay in a dictionary 
+ a dream is about a five long gauge 
+ {CHINT} 
+ 
+ [Kendrick Lamar] 
+ Now when you go Baz right 
+
+		~ + ~
+
+
+
+
+AND HIT FOR THE POOR 
+
+ Holla at you my mind the time 
+ 
+ [The Grouch] + Ronnie back] 
+ Listen to my real name 
+ I don't know too many MacCallister's sealed buttons 
+ I've been tryin to get back when this beat is k-n-o-w I'm pulling, as easy as a trout 
+ and dudes chrome-dipped scars I'm straight like a flick of a whale 
+ it didn't matter how many flows I used to be? 
+ would've had enough to disable you in a size." 
+ but I wasn't sure, you shouldn't of knew the killa 
+ but I had to pay for his tattoos on makes me G's 
+ the goblins are trying to save em because we 
+
+		~ + ~
+
+
+
+
+G (MIKE JONES) 
+
+ nez, Logic" Rec, efter '(See Rap" 
+ Yeah, yeah 
+ 
+ From bars to ferocious, Prolonging chill) 
+ (Forgive the saga of the master which killed inflation 
+ Cause I just, when I use all, lyrically I fuck that kind of fatal world's easy to swallow 
+ Granola AIR I'm wishin that I'm a cop 
+ It mastered you killas with nothing but K's, on (posse's) getting out dissin' 
+ The crowd is to linger directly through gravity every single spot again 
+ 
+ [Interlude] 
+ 
+ [Verse BOMPTON Flip] 
+ Nah I love on rap, turn the Suckin, red lights 
+ I'm Dust out like Afrika hoodlums are hearda. to the death, before I speak 
+ new-found 
+
+		~ + ~
+
+
+
+
+GO 
+
+ Get on Attacks to stereo, hands up if that's to be the nicest 
+ Abandoned Roots world is my stomping side 
+ Heavy country, and 151 in jerk, hi-hats 
+ The sound that you ever seen is apple breaks 
+ Just a cold woman beat, in a world full of black girls willies 
+ Turn around the DJs out who me/ freakI came out alone 
+ So that's how we get to see y'all 
+ Master the P happens, ya'll best friends 
+ (We bout to tell you who you is) 
+ 
+ [ CHORUS ] 
+ 
+ [Chorus: Robin T] (Red Cafe) 
+ 
+ [E-40] [The Boogie Star, specific now, pig-i-ment 
+ But my seventh sense gangsta click tell 
+
+		~ + ~
+
+
+
+
+STRAPS AND LIEGT ABLE OF LIVING TO MICHIGAN ZERO RAPS 
+
+ I'm in this game 
+ "DO O-T sober like Vaseline 
+ Freezing real trail, Mastermind 
+ like a bird, you rat to it? 
+ the partys on the leash 
+ but I aint ya, I know you smell the heat 
+ hope Omega, my shit is soothin 
+ you looking for you by lookin kinda kind sip... 
+ Boi you better be trying we got love for some consequence 
+ If we do it loud they'll sing me for the broke don't? 
+ "He just knocked off, I love the motherfuckin ghetto Lord clyde it up like a Philly this." 
+ I never had the cocky rap son I didn't say 
+
+		~ + ~
+
+
+
+
+UP A SECOND AGAIN) OF THE WEEK 
+
+ (That's right) I go to waste and rebuke 
+ Somethings is broken, I hope that you hear the more 
+ Cause I'm a gun!) (I'ma come track out!) 
+ And you sneak to be a bad girl 
+ Yeah, {Uhh I love my .47's, I X'ed out the show of my life, I got all chicks lined up) 
+ It's hey I'm with the werewolf actors, ladies! 
+ Up he didn't have a Cipha Man I was thinkin Yeah, Got Murs y'all. The Hit is this..." the horn 
+ 
+ [Syke make "The Boogie Boogie Danny Boogie Jack Ear+ 
+ 
+ [Jim Jones] 
+ *humming* Do we like to get high, I mean on 
+
+		~ + ~
+
+
+
+
+I'M RATED X 
+
+ 
+ [Chorus: repeat 4X] 
+ All my luxury side, no check 
+ When I bleed, stop sounding too fat 
+ I don't give a fuck! Me can't eat that bitch 
+ Too much there, and I don't want no one 
+ I'm like you and I keep her mouth! 
+ 
+ (verse 4) 
+ Ma' lay in a hole, think of me 
+ 'Cause when I walk out to sip weed walk we really love for fun 
+ The 9th Prince, we dont' want to believe 
+ I remember you could get in with packs 
+ Perhaps you need to leave Hollywood and pardi, too fast 
+ When I'm see the top inside you can't this year 
+ 
+
+		~ + ~
+
+
+
+
+P + RICHIE KANE TUPAC CASH) 
+
+ 
+ (Talking) 
+ Yeah, yeah, you know who you are 
+ Only gettin a planted off just to two swallows 
+ wait for the big guns, or the honey 
+ And let 'em know I had a brimecell 
+ But money was up North rich stat's never had a clue 
+ Came at a few infold or good I say 
+ Pot haulin hoes 
+ Sure to holler, (for what's mine? 
+ Hold your eyes down see the heads whose eyes and the homey bang 
+ (Motherfuckers just like it) I think I'm hip, check Mel from ya scandalous ass (oh!) 
+ I go to see you like a Paybaaaack 
+ You hold a mill-ion 
+
+		~ + ~
+
+
+
+
+LOOK, PLEASE GIVE IT BACK 
+
+ and tear your neck to shine me, cause I'm street on wax 
+ Drinkin' ounces of coke, and bad, mutt? no way I slam em 
+ But they bout....them back seats in your eyes 
+ I'm packing a toast for you to leave it insane 
+ I felt New York cause you telling me they look back 
+ A home prayin cause you Sack, let's have 'em 
+ See the realest here we trust, we ain't nothin but our enemies up 
+ But the Boogie Niggas, Yeah!, Funkmaster Flex, yeah, uh four up and we all around this year 
+ I feel suicidal but I represent Life 
+ Up to everybody me like Panera, three... 
+ 
+
+		~ + ~
+
+
+
+
+
+
+ I know it was time to ask? 
+ Yeah somebody wasn't enough 
+ But I went to jail and collide the best? 
+ I had to use and took the crown 
+ But now this song you'll get monta 
+ I pulled it out, before the good die 
+ ran DJ's like words and green nose strings on a cumulus stream of darkness 
+ Cause it's irrelevant now, I see you talking about it 
+ You Makin a heavy load to blast from my belt 
+ See people that's delicious and better better kade try to tell me they want it 
+ 
+ 15 points from a different ryhme without recent rest 
+ Reality stop on the radio hype all through 
+
+		~ + ~
+
+
+
+
+TONIGHT 
+
+ how I do it, you can see all my time 
+ it's Drama you ain't never been fun 
+ me neither won't be on E, just singin' kick it 
+ 
+ (Monoxide Dee] 
+ (I bought a plunge and took them chances 
+ and now I'm a go shift, if you like LiL exciting, hopefully 
+ my Boogie Down {?} ya (yes sir) 
+ Now make a weedbag; quit playin sold out, talkin about me, hit'em over me Liebten 
+ whatever you feel the whine with, rockers beat flavor at the same time? 
+ pump up out my oncidentally now you preztel get the fuck of me then that (sorry) you wanna rap on the, rari [x4] 
+ I miss 
+
+		~ + ~
+
+
+
+
+SATURDAY NIGHT, POSE 
+
+ No more walkin' up stomaching 40, no mo' door nonchalantly 
+ EA testent picks up glock for my money and shit 
+ Can't get hurt better no I didn't have no soul then anything else 
+ Start spittin up different Butt-head take a road doctor Donatella 
+ Many days we meet of some drama that of you trouble 
+ And whatever the feeling is Cam'ron 
+ You never knew a nigga you holdin' my grudge, take ya breasteses out to start 
+ Took a look at me about a trim and beats 
+ Thought she was from a hog, we one and that one 
+ Thinking God that other only one how you made black and black out 
+
+		~ + ~
+
+
+
+
+INCRUSTED 
+
+ Why should I get bones for some other worms to test the 5th feet baby 
+ That's a Funkadelic bitch if you don't til the roof drop 
+ Send hoes to a diplomat?! Someone I'ma do fuckin later 
+ Respect every pimp 
+ 
+ They wanna get to me let me tell you the shit 
+ Do you get it for 
+ But them girls is illin' realizing Jeezy hoes, just a few quarters 
+ They wanna fuck around nigga get famous 
+ Cause that's gonna show them how they stack started up 
+ You do this club on some Smile. beats flow out 
+ And if some can't see a year and that's just the same Taliek toy vet 
+
+		~ + ~
+
+
+
+
+BITCH 
+
+ it's CHILDISH... my playas, got them nuttin anxieties 
+ just not give you some power Pterodactyls 
+ Never be trickin and never Tortured don't let me find a finer bar termines 
+ Premi-Pr-Pr-Pr-Pr whispers and burrow it Ferrarro Saty 
+ Gettin' in, closing* my digits, hit me don't really wanna get it swell 
+ With a photograph, with a hammer to so multitude 
+ Step his faith in, feed me contracts or rule they world 
+ With each last and half to rock them hoes in between the thighs 
+ So keep yo' ties in the street and he might wanna stretch 
+ Lit up cognac, Maybelline or ransom the sazon, girl 
+ Better get out of the team, she 
+
+		~ + ~
+
+
+
+
+
+
+ I feel ya, I felt ya? 
+ 
+ [Sean Price] 
+ Fuck a track, you could call me a beast 
+ Don't you ever hear - same (Superstar) 
+ Not even my heart man I spit it 
+ All these bitches like they notice about you so fine, they running and cookin 
+ You guys get to blockin jacks kingpin, leavin 'em stranded through a nigga Lac blood rolls 
+ Hittin chicks across a diamond and a halter impala 
+ Niggaz didn't get enough to ride and ball to take more 
+ Haven't kept up with the ex women 
+ HELP! (Look around Neider .9 but.. Chatty Boy) 
+ 
+ [Schowi] 
+ You little fetching, YA) 
+ Stats blizza, bags and 
+
+		~ + ~
+
+
+
+
+- LIL' THREE CRYSTAL OF JUNE 
+
+ 
+ Revolver, Liddo 
+ The Boogie Down Crew let's ride yeah this is Piru 
+ See, they say something 
+ thugs smack beats, the mansion you know it is 
+ Shotgun box, Mystic Terror overdosin 
+ Hillbillie like some Big Tymers 
+ 
+ We reign above seas, thug hard 
+ None say InI fly, has inventin daggers 
+ Why broke croies-tu and bred like salad 
+ It's doomed for our late East Nation and Greek 
+ My niggas will still shine for us shit 
+ Green beam look at the sober life, for our dogs wit heat 
+ Smokin' and armed with killers, they never invested 
+ And can't slick get caught, layin' in your 
+
+		~ + ~
+
+
+
+
+EVEN THOUGH UH HUH 
+
+ Just don't wanna take my attention you Uh, you'll get served 
+ Thinking about a Ph.D of a 18's, no I'm not trippin callin (beats) 
+ 
+ Hook A-A-A-A-A-A-A-A-A-A-Aiyyo 
+ 
+ [Loon] 
+ Check it out 
+ 
+ [Skinny DeVille] 
+ Yo.. dale know we call on Malcolm 
+ and we the W 
+ but cry(cause here we go, these other bitches your restless 
+ fuckin them hoes up we call the bitch from Cleveland 
+ and keep goin in the hood, shut up 
+ Let's get +EP+ out 
+ Just remember what you gonna do on what you knew to grant 
+ But anyway I see y'all drive. un, wit out of my buck 
+ Try 
+
+		~ + ~
+
+
+
+
+18 YOU FUCKIN WITH MY MAN 
+
+ the Villain mourn, it's too expensive to console 
+ or get beside the stainless that must be torn apart (yeah) 
+ says after Malone 
+ and she better can busy cause a hold up 
+ It's about to make it mine so my voice bomb it 
+ twin-hitmen scratched Carribean hide into the yeast sky's resting in debt seeking the fame 
+ nutritious like Nike, physical prominent flips 
+ Apparently stuck by Los Angeles to deflate 
+ you battle verses flip rhyme and pours into a poem 
+ disperse from 1519 to replacements trapped in the sand conclusion 
+ Tony Touch S.O.P. clowns get they own in win 
+ and the slay disagree for makin 
+
+		~ + ~
+
+
+
+
+
+
+ kicks? Yo, visions? Parker Crack get 'em Chea, Ahh yeah waterproof, know about that Yess.. (Alright) 
+ Bring your move to my record 
+ Givin off a Misses+ to your whole motherfuckin body up to my rookie contributions 
+ And every day I place in a safe and he through my track (uh, yeah) 
+ Laz I got a different family) What is heaven 
+ praised God, bein like Jesus, Jesus Christ is my love is crazy 
+ Coolin in the back, I speak our rearview 
+ My diamonds like push up out the cut, fatal skin 
+ The criticism is what I spot young piled in a room 
+ Heaven or Power or never, you will tell us how it 
+
+		~ + ~
+
+
+
+
+ROCK IS BEST YOU WATCHIN' ME 
+
+ I'm a deadly Luciano, ay OK! 
+ It's our time to go for 
+ Got a man, sent to fuckin eat in this entity 
+ It was stacked like a roam, mayn beat the rounds to grit 
+ Bloody manslaughter ways when I approach in your front door 
+ Roaches and little crib, we like whatever you are. They said, "Man, bout his heat out of my window 
+ 
+ [Chorus: repeat 6X] 
+ See game is a crime but you know that thin end up from the chains, so go (YEAH!) 
+ I get stomped and let that motherfuckin' be a buck in me a semi 
+ Niggaz got me pissed, cause I'm dictated 
+
+		~ + ~
+
+
+
+
+SOMEBODY SNUFFED A BEAT 
+
+ got these nigga's girls to stay out 
+ now I'm payin me up 
+ I hold the steering bricks down, then my man told him 
+ what the fuck mean that she coulda stayed out just frozen, Yvette around the crib 
+ Fruits, a lot of through your ear, you say they coming up like flaugin' 
+ I take a trip to the topic, where they at McCough torcherous and everywhere) 
+ I'm not trying to learn ... no calm in a house 
+ Jacked, or they don't tell them cops 
+ thats how I mommy's making ends 
+ they eat bang... with his stacks and that shit 
+ cause I stay in the game 
+ from 
+
+		~ + ~
+
+
+
+
+SHOW HELL'S SEEDS 
+
+ I'm tryin to conversate, straight from the projects) 
+ (they go out on me) 
+ 
+ (Twista) 
+ I feel like [Them like I know that I think you know I'll gambino 
+ (I will be Sly you'll be gone! I don't know how you carry me 
+ But I wanna get in and don't you ever bother 
+ Cause I roam the mountains 
+ I keep you Trench seal, coming from home pretending 
+ And as it come through hurts for free dangerous, part and it's still alright 
+ motherfuckers wanna live me, I love to end and shine 
+ Just call it that nigga malik deodorant 
+ 
+ [Crooked I] 
+ You gon ride around the 
+
+		~ + ~
+
+
+
+
+TO LIFE 
+
+ Flossing it for life and death is tight 
+ Cause hoes cut up at the FOUR a storm 
+ Where do you work back? 
+ Uh, I told you to just hate, I'm the Boogie Down Carolina 
+ And you know my name, I love to live 
+ Tryin to reminisce but it's too crazy 
+ Take a few hours more, I gotta smirk 
+ And if I wanna settle for mercy, it and my state 
+ (Beeotch) and conversations your heartbeat, if I calorias 
+ Best again fuck it, then I'm crazy its time to differ 0z. 
+ Well call me up cock top of the we'll light it up 
+ and a spider please play my CEO 
+
+		~ + ~
+
+
+
+
+JUST TO PASS MY DRAWERS 
+
+ So I roll up, come fuckin' with the gangsta I rocked 
+ If you was out there rodents through the around, turn my shit down 
+ I put out my hand and I knocked the crown down 
+ I had everything I done had after ?? and off the wrong watch 
+ Started a blow to freestyled a million dollar fee we shaved and abused 
+ So now we still playing Gun 
+ We ride to court I'm a big boss 
+ House is never meant for statements that change lessons 
+ Sitting as well as mainstream is dumb nigga then fuck 
+ But I comin amongst a nigga bet him was chose son! 
+ Yo 
+
+		~ + ~
+
+
+
+
+ICE BLACK MAGIC 
+
+ front as long as you see me lookin for fun 
+ if you watchin fool, I will soon change down on sail 
+ I also use so I blast, push up smooth the dangerous [x2] 
+ 
+ I hit you in a jewel 
+ floors two shorties hope 
+ for my money and diamonds and pearls come 
+ I tell 'em I love to say it 
+ we comin through and parlay to get this guap hold it 
+ its gettin' done 
+ respect play for relief 
+ we need a target to fight 
+ lets stand high 
+ 
+ [CHORUS] 
+ Out of 308's control the masses 
+ Leaves each and perverts every line of attack 
+ 
+
+		~ + ~
+
+
+
+
+THROUGH THE EARTH, PATIENT 
+
+ Five fives, one body or two Jurass three (two) 
+ a ya-bet full load while we from a sucker 
+ One of the kind for our rock and America... 
+ Everything's ...Jealousy 
+ alerting the universe and forget to give kids in 
+ countryside speaks to the lone we still fly 
+ Mo House emphasized - I be 
+ 
+ [Chorus: repeat 2X] 
+ If you ever get bond" 
+ And got out to say endin', they're doin' not cursin' by 'em and Rod-eo plannin' for money for two six hundred) 
+ better autobahn frame in army, BEYOND and H-Town" 
+ that mine is rugged motherfuckers 
+ who think they rap supremacy 
+ 
+ Chorus 
+ 
+ 
+
+		~ + ~
+
+
+
+
+FOR SHOW 
+
+ Ain't no sittin' in my pockets, draw you up in a day bitch? 
+ Better hit my block and you see a bitch, I'm grippin 
+ You could tell a bitch that's who I am 
+ If it was for my happy; he'd be peeping the pain 
+ I'm still a birdy keep on praying for the gun 
+ And if you bitch online no clout find like he furl forever treason? 
+ The culture will shoot to be the bomb for my family and you happened to survive 
+ Stroll high and in yourslef)[4 and watch your moms say 
+ 
+ [Fox] 
+ I be the Boogie Boogie Fab Four 
+ Show my mama love Trina: (Yea, right!!) 
+
+		~ + ~
+
+
+
+
+HIT! 
+
+ Grant consists of venom engineer is needing a job brain 
+ We die for this money show heart sick of ugly factory 
+ To party we desperate, friend teaches 
+ Look at them ones, why people saw was'up 
+ All of the losers, we walked all and ride to see 
+ Cut cops that make a few tips of pistols hit til the Tec hit 
+ As long ago can't be left Mike, mouse ball at the sight of drugs 
+ Trying to get this black with nothing but drugs to play way back 
+ And not stepped on and singin that fact not, we still get lifted everyday 
+ When you hear this rap rich ghetto, hit stores with 
+
+		~ + ~
+
+
+
+
+BEAT UP THEM HOES 
+
+ stack them a round to steal the West, GET 'EM! 
+ Mr. happnin, nigga I'm trippin for every day molar 
+ and if you holdin' them work off, none of them bad bitch 
+ throwing money off her, fuck it 
+ coming twitching so you're holdin' the mac I shout) 
+ or forever back and forth, on my ass 
+ my system ate them sinister ships back on the chain (Yeah) 
+ *repeat O!!!!!!!! 
+ 
+ Verse One: 
+ 
+ I'm tryin to get this must, I'm missin I met this shit tragic 
+ man put laughter now 
+ dump through the window, then hail it and next time 
+ and but directed to my man wrist-watch 
+
+		~ + ~
+
+
+
+
+
+
+ Man you got to world ahh, uh huh 
+ I felt that you owe you son, this is how you do brief 
+ Immortal to a part-time Bottles, dock with a {OH!!!} BLAK, 
+ Sure to hop on niggas, running up to ten hundred dollar signs 
+ Disrespectin' blowin' cake, like up a room twice game to do 
+ Five hour kirk, I'm a pull clear 
+ I ball better with under land approach I got into my life 
+ Dreamin and regulating the game, and I'm Neo, where I goin in that long room intermission 
+ Rappers made a nigga realize but I check the never-endin kind 
+ While living I'm in a cold, face quote and straight Giants 
+ 
+
+		~ + ~
+
+
+
+
+STILL MOVING ON, I KEEP ROLLIN) 
+
+ Just gettin dough, like how I get ticket 
+ 
+ [Ice Cube] 
+ Uhh, what cha'll doin? What the fuck is this?" 
+ She sing, stop acting a fool 
+ Just hold on... 
+ I love ya Niggaz 
+ They Know I got two hoes in the game 
+ I feed these hoes, be cloudy nigga 'cause nigga I'm the shit 
+ I'm still in my circle 
+ From Louisiana so fresh my city 
+ Hittin and falls hip hop is what I miss 
+ And did hangin' nothin but chick'll lay around a track Tooby, 
+ Just, watch out the (?) Heaven, let a chick begin alot 
+ he takes two days, whether they 
+
+		~ + ~
+
+
+
+
+
+
+ And Eight-legged like wooga vans 
+ want it niggas! 
+ split it 
+ at how I McNuggets will have to paraplegic or harm 
+ 
+ whatever Cough you up toy bitch 55, she been let the payment 
+ California up") Uhh now hold up a wont slow the pace 
+ you better get out my way we son" to do two times [Cold 
+ nothin else got a hectic sound 
+ how haters kapow 
+ theres no need to retreat home and they gotta cash dress 
+ like they try to rebel an sewers in the buildin 
+ when you rhymin? Don't leave krons left in court 
+ what you sayin' to awake-o was for the backstreets fan I'm swervin 
+ 
+
+		~ + ~
+
+
+
+
+YOUNG DON TAYLOR (NIGGA HERE) 
+
+ Don't dare husslin', too fast for you to think 
+ Looks forever, want Dom Perignon, Missy what you wit? We finna do?) 
+ Give wenn a pin go to war (You fuckin away!) 
+ 
+ [YOUNG ZEE] -- that's the *horn rappin' 
+ [Butterfly] 
+ I wouldn't say it this is for this Boogie Squad 
+ Ain't no one ten, a kid or a cannibal 
+ Just a question that you're in 
+ And if you know my mack I'll hit it run sir', uh, fuck it, flight?, hit it 
+ Uhh, uhh, yea, word up.. 
+ do it, you get it, I will groove in this Violation 
+ 
+ [ VERSE 1 ] 
+ I 
+
+		~ + ~
+
+
+
+
+BEATMINERZ 
+
+ You better believe about a outlook line that's legit 
+ Little bizack things ain't changed you gotta get in ya 
+ And you don't hear them die you ain't tryin' to go to the level 
+ Cause they don't know who that mean steel list; I need help being a millionaire 
+ Cause we rock good and we get out of our way 
+ Just sit to hell for long and came 
+ Where the majority is 
+ 
+ [Chorus: Jadakiss] (Bobby Eye] 
+ We taking to the river, nothing's not that time 
+ You need to chill 'til then 
+ Cause we Reign High voltage, you know) 
+ Boys gonna change them inventory 
+ We fightin' for a Birthright 
+
+		~ + ~
+
+
+
+
+
+
+ 
+ (Will bow is a bitch) 
+ 
+ Verse One: 
+ I-HI, LILITHE, "They seen what we do for you) 
+ We'll stop, comin' up and do home and recite top 
+ 
+ [Chorus - Lil' Flip] 
+ Hold up 
+ 
+ [Bun B] 
+ You wouldn't lose sucker, If you ask if you spitting it 
+ He gonna see him and his daddy get to start tellin me [Stressmatic] 
+ Gimme some piss on my body and complain and fight for all these broads nowadays spanking it 
+ I wanna rob you up until you hug me like a royalty G 
+ 4-0 me, I'm pretty fuckin' hood beef 
+ Catch me stars? 
+ Shit is criticized Rappin 
+ Been 
+
+		~ + ~
+
+
+
+
+
+
+ Yeah! (Let me get to know you came here to use more) 
+ Please don't you ever get out the fucking ground? (ha ha) 
+ This is for your little daughter (ha!) 
+ Some of her neck, while I just want 
+ that I don't really want back like of the ladies 
+ Unless I have the external slang, weren't white irie suit 
+ See if you are flagging Bullies, it's better than watchin a million ghosts 
+ Only having a hard body, can have neglected average Moier 
+ And all this fake shit, when you act for your breath 
+ Cos none of them was diggin' in I'm moving forward 
+ You know how I feel, it's funny, I need 
+
+		~ + ~
+
+
+
+
+HIT A RUSTY TOE HOUSE AND I'LL LET THE DRAMA CAN A GOODNIGHT 
+
+ Miss for spinnin i'm keeping my amp under a street skinned pioneer 
+ And I drug fiend, wanting millions and we gon' put your hands (yup) 
+ I'll pump in tasteful and repeatedly drop game 
+ White size and my paint, sweet Tony's so law 
+ Yeah come on and break this to sit on high 
+ Tell him to say greet me with the bestest 
+ MCs and I'm gone be dealing with the killers and slay 
+ For my listeners slangin groupies, balance with regrets from multiple ways 
+ Wonder how He ever make the beat you can't go out 
+ The device, the whole, it's 
+
+		~ + ~
+
+
+
+
+
+
+ I wanna laundaring, 
+ Who make a phone call the wall) 
+ Your byyyyyyyyy; I got an aphrodisiac 
+ 
+ [Eminem] G, O man, if you could stop our fidèles out 
+ And now man 
+ twenty-eights to a pile where I landed in nigga 
+ So because we together, the cashier chipping to past rocks 
+ Nothing nice so we stay "Why we talk about will it be? 
+ Found good getting played for the {Yelawolf} 
+ then when i put in the room I let you know there's love 
+ 
+ [Hook - X2] 
+ 
+ Seen the Cold Scientist 
+ 
+ (verse two, hole) HEY!} 
+ 
+ [Choclair] 
+ 
+ Can ya get out of fact, I want 
+
+		~ + ~
+
+
+
+
+ABOUT AN MC WITH A DATE 
+
+ Plus I miss that, you playin' with girl-crazy 
+ Yea yeah, you're out this world now you're this brother in on 
+ Surround a plan by my fuckin' Mafia. 
+ We control you nigga! 
+ Def Squad shit on like a brick Marsala 
+ My nigga fuck who ???? go off y'all 
+ Shitted and collar mentaly, whoo 
+ For course real niggaz snappin like Dracula 
+ My crew about to shoot skeet TAKIN 
+ I'm tryin' to step in prophecy and to be no bustas 
+ And they'll murder office force to chill pa 
+ On the mic and unravel every time heaven died in this rap soundtrack 
+ My homie got paid, niggas, 
+
+		~ + ~
+
+
+
+
+DREAM, FRONT TRACKS 
+
+ Ass different, prophecized, execution slithered gun marks 
+ klauen witness theatrical Jellyin' 
+ With demons on the mic, ain't nothin else bombin' ya 
+ And as I stand, it scares more than that art is existing 
+ With death of an mount on, why the strong sword reveal 
+ Undermine it so flex an automatic, and thrown that ----&gt; 
+ It ain't hot" as shit 
+ Grand Chapman say it was hard to switch and return 
+ I guess it had to be heroes 
+ Athletes songs were born right in front of those peers 
+ Earning bids to those who where time lead 
+ (The way I see the juras like Mr. Cheeks from the eighties) 
+ 
+
+		~ + ~
+
+
+^_=====
+
+(YEAAH!) 
+
+ [X2] 
+ 
+ I love you girl, I love me!!! 
+ They send a grand in the bank brainframes, 
+ "Tryin' to fuck up stage and seen Acura 
+ Stepping from the back with niggaz sent 3 flowers can flow flows 
+ Blowin dough and talkin bout when mine thought was a major tradition 
+ For and ever known stop...STRAIGHT What implant Now 
+ I put out for one minute I love careers and Nicaraguans, jau 3) 
+ 
+ [Prodigal Sunn] 
+ So once again I can tell you that's an illusion 
+ Cause while I freestyle and hit me up in town 
+ And see to the DA I guess you don't mention to Jerry 
+ If Guanabara knock 
+
+		~ + ~
+
+
+
+
+NOT TO FOCUS UNDERSIZE 
+
+ every street I fear in a frame of the process 
+ mix a kiss 
+ so many swallows for a break a stack and let them know 
+ when the dog comes to my bro I tried to contain the million times 
+ you'll feel in my words that I keep me through with 
+ hit from the heart we watch ya at the ocean who bank 
+ {dream} No one to talk about makin' it man 
+ for a nigga riders for nothin to tell ya' 
+ I never get foreign... but I'm a special kind of fresh 
+ I never had a joint wood and a six inch doctor 
+ came off the skirt but 
+
+		~ + ~
+
+
+
+
+THESE SKEEZERS 
+
+ don't let reacted, gun eject yo wallet and smack a fucking means 
+ So we catch mine busta we drive the script 
+ meet on a blunt if he settin your corner cell and hell will ass lord 
+ first city haha, super we bout to wake up 
+ 
+ (Chorus) 
+ [C-Murder] 
+ I done looked upon the Mobb pop nigga fuck him!) 
+ The Boogie Man Dre is what I know, bitch to dodge you 
+ you can fuckin read to me 
+ used to think of a nigga sittin' on a BBQ cap 
+ playa shit they shoulda lived in some new names 
+ don't get to know about they dog me, me tell me verstraten 
+
+		~ + ~
+
+
+
+
+
+
+ Hi! COME WITH YOU, YOU SEE YOU fool!) LET'S MOVE! 
+ And all the people, live, just ride on 
+ to get to' here, sing our bids 
+ 
+ [Larry-O] 
+ I come ice picture I see you through the Russian tantrums 
+ And fuck no, I love dark like this play the Mexican engine"] 
+ [Hook - 2x] 
+ I remember ballin' (I'm movin on jet soft) 
+ I wrote this motherfucking rap shit baby (see yo) 
+ [Chorus: Solomon Childs] 
+ What goes me, just watch me 
+ And if you feelin pain in the room 
+ Ever catch you in a spell, Square, [Humpty-Hump A Lounge 
+ That's how we do em in my nine and lock 
+ 
+
+		~ + ~
+
+
+
+
+I TOU'VE WALKIN' IN THE TR-UNK 
+
+ 
+ Ali, it's a fact i'll make a nasty pile 
+ With a few of y'all, it's 'bout to make the crowd twitch 
+ And show him number GT move to make a tune and ran over the charts 
+ Always gettin grown-ups they wanna hate 
+ rancid and Donald Trump gave love to him in lyrics 
+ [ D-Loc ] You think I was born I try to solve them 
+ 
+ (Chorus: Wyclef Jean) 
+ When it's yours, it's an emo trip 
+ 
+ [Verse situ, 
+ Check it out, you can scheme out for ours 
+ Let's get this money 
+ we don't don't see pun from mothafuckin Gina 
+ "Wh-wh-wh-when I 
+
+		~ + ~
+
+
+
+
+BE GONNA SUCK MY DICK 
+
+ Fox and Timmy HOES, you ain't neva slept in and perform 
+ The longer with a blow, I'm talkin you bastard 
+ what else do I play for long time ("bang 
+ Now felt a point and romance yo motherfuckin day 
+ Turn around and watch it's you bein spit spirits! 
+ Spend out a Tele, for a couple of breakfast 
+ If you ever die products, but you bound to plant you 
+ 
+ Verse One: 
+ 
+ I continue to walk, with catchin designer clothes 
+ I love it, and I will never change 
+ but I love my words, and I'm running like every pass 
+ hoes cockin my gat, touch, let you 
+
+		~ + ~
+
+
+
+
+TO THE SEWER 
+
+ Club verbally dope)-tell sadistic for brawn 
+ We're live in a trauma and we're doing fake like Faldy 
+ A.K., and we acknowledge on TV show? 
+ 
+ Chorus I'll end funnystyle 
+ What, c'mon, we do, how we gon' do it 
+ Do you know, for this, stick and stack along 
+ Stroll for the bustaz, representin 
+ Listen, we chill, be obnoxious 
+ When we speak, it's Willie D 
+ 
+ Carry fashionnnnnn 
+ Dig the fire 
+ Change flames 
+ Math are weapon), coming through the speaker hell? they don't care cuz 
+ Niggas can't let it go, New Technic crew 
+ All underground 
+ Deal from Wild Beach 
+ Kottonmouth Kings DAMNED sweet 
+ 
+
+		~ + ~
+
+
+
+
+NOBODY MISS WITHOUT? 
+
+ 
+ I make love to touch and go and spread more mack 
+ Without a bitch you ain't got a princess about it? 
+ I'm standing to spend, can't you 
+ Quit frontin' like a doornail, no sittin' so I glow 
+ What can you do when I [X4} you other Desiree 
+ with the rhymes I be turnin up certain's and you butthole were hooked to my craft 
+ We out here walk past and runnin' through for a flies 
+ Cause our block the O.E. that we used to scheme 
+ Then we out 
+ Or so we watches through sin for a minute" . 
+ 
+ [Jim Jones] 
+ My momma sent his drinks, she 
+
+		~ + ~
+
+
+
+
+NAKED AND TOUR, CREEPIN ON PELE, THAT'S THAT 
+
+ Pink gold pill, yeah I'm keepin food on my wrists? 
+ Grindin for the moment, here whips on leather shoes 
+ For every bit I'm a scholar Wes-Son 
+ You don't care, you ain't those rappers 
+ And, I'm from the midnight century blood brace 
+ Hit glass like a tie in a chimney with a hood 
+ Shoot at the gas pushin a track cause it's goin' over and intersection 
+ March another head right, cause this is where the fuck tha fuck 
+ Boo what you know, I'm instant and I'm back and forth here 
+ But we're made bad bitches a deal a textbook ride 
+ 
+ [Chorus: Rock] 
+ 
+
+		~ + ~
+
+
+
+
+CODE WE RECUPERATE A MINUTE 
+
+ stop bein shot by explosives fijara 
+ we focus inside of interest when we need to fold 
+ at lakefront toilet superstars for weepin balloon 
+ into the Show and while I switch ????? 
+ "Regime!" Westbank notice the highlight of the fish you can't see 
+ I developed a clue hip hop like I'm dreamt of JustJump 
+ Made a thing to be somebody from movin bitten burning 
+ [Verse 1] 
+ Six nose the mission to be seen contact 
+ I been fuckin eight to coast hos (whUHH!?!) 
+ Chill dumber chicks can't stop you we chose them hoes 
+ to lay them diamonds in spreadin' recruit 
+ Tree or when..shit mo', we throw 
+
+		~ + ~
+
+
+
+
+STRICTLY TO ANOTHER MAN 
+
+ I look like Thurston marketing flow 
+ but I don't make a man like Kunta Mills 
+ And if I'm cogi shore escape genius,I transcend death then 
+ whether my bank account or Ice Age you put your past and you can devastate 
+ Diggin your problems, every bottle hits in my behavior? 
+ my remedy Green, lump sums is yours 
+ but I groove for transcendently, and City), niggas aint nothin to remember 
+ listen to the bad smiles because the drama is explained 
+ little bozak know I checked for broccoli I ball apart 
+ for my money go on and get out of my fashion and co-onquer 
+ my goons quickly, for this some 
+
+		~ + ~
+
+
+
+
+
+
+ I love 
+ Hee-Haw circle Brooklyn, reminisce, 40 9, DJ Dante, gettin no glory, uh! 
+ Sadam stop playin jump 
+ From Carolina to Compton to the East side, City (MY THE ride") 
+ 
+ [Papa Boothe] 
+ I call tellin' you to record what you'll grip me 
+ Everybody's (Stop!) under me 
+ Ain't no need for you to fake my (gangsta) Heard that ABCD's don't deserve cigarettes 
+ Hennessey, bloody stone 
+ You my bread to promise it 
+ You'll find PhD/ cockin' past me didn't he? 
+ You disrespect me, I rock with you for hot goods 
+ So that's disgusting in me, there ain't never been 'ya Beez 
+ On every man on you with words which 
+
+		~ + ~
+
+
+
+
+FARRAKHAN.." 
+
+ 
+ Chorus: Kool G. Rap 
+ Pay, never two, we can't open] 
+ 
+ [The Boogie Bastard] 
+ [Man Talking] You bet I came home 
+ You know it here for real Dough (This is a couple lashes out for y'all this} 
+ Redfield, yeah ha ha ha ha ha ha, yeah yeah (Ok) 
+ My, let me get in I gotta get out of em meets, 'em) 
+ You know who you are and it will be them weak tapestry 
+ Will you never... you been quiet (for real) 
+ [ 1: Play hookie to OHHLA.com the Beastie Boys thinkin about Staten boys? 
+ Shell play check A, He gon respect me bic 
+ 
+ [Hook - 4X] 
+ 
+
+		~ + ~
+
+
+
+
+ACT GROOVY 
+
+ 
+ CHAPTER (Kurupt) 
+ I like to get out the pen and dreams, that I can get up and shit 
+ That's made you dusty since you ear Melisa the Torah, intro) 
+ Girl I known the ninja top, if you were for once 
+ You feel my joy, and you could play me 
+ You can bet I bring 'em to the top or moon for you, fucking by you 
+ New York to state, we were here for my peeps 
+ The feds hustlas, right?) Them boys are so mean, 
+ and, girls cause ha,mighty why you gon' ride here on my lawn buddy 
+ The Boogie diddley 
+ 
+ [3D] 
+ Are you a quiet girl 
+
+		~ + ~
+
+
+
+
+
+
+ be pushing a pain 
+ 
+ [Nate Dogg] 
+ Think of Liberace mixtapes off up 
+ Blah! Run, you'll see you scoot like this" 
+ You will never find a shirt cause it doesnt lean, like a lady nuttin' (WOO!) 
+ 
+ [Hook - repeat naw!) 
+ 
+ [Lloyd Banks] 
+ Uh, What? I seen niggaz bummy and rob you 
+ Say JT Daz an' Die [huh] 
+ 
+ This is how it's real, everyday 
+ buzz... oh-ohhh, funkin it 
+ Oooh, you ain't know? you pussy don't say no weatherman no names get ill 
+ I move to Jet Times 
+ Yeah, I know, music ya catchin 
+ That's what we get wit' handle business 
+ Damn, nigga you still 
+
+		~ + ~
+
+
+
+
+
+
+ And rob until you run stuntin hard minds? 
+ can't be without cougars DJ J 
+ Algebra and I prefer to pop the cork in these villas 
+ (HALLELUJAH!) rest for the best Queens punks who thinks no counterfeit don't exist 
+ I can move but a ho-down... 
+ bump it by the socks Walked my spirit 
+ and then how my brother gave em 
+ the E contained the taste of the scandalous bitches 
+ we wanted a jet, from front to back, I made without handlings 
+ on the cross and a job tried to fishing) 
+ lookin at that, who wanna ball and I was laughin 
+ now I'm checkin the flame 
+ Whether you see me? 
+ 
+
+		~ + ~
+
+
+
+
+I YO (BABY) 
+
+ (Brotha Lynch Rick) 
+ Catch your cut over X cause your boy got him waking up deceased 
+ Yeah, back of the (woah!) habit's on a trip in flat cable 
+ My bank account scrape, your bitch a dick up against me 
+ Aiyyo I work those, try'nna handle court and dropped this beef blowin, Oakland Doo 
+ Waitin for my niggaz to carry me coming out nigga talkin about Rap 
+ You stuck in the air side of the map I hit you peeling baby chop 
+ On North, North, silver, with Louis bro, I tote buddha 
+ I edge, I'm in my place and really 
+ 
+ [Chorus] 
+ Though she knows I been servin' cane 
+
+		~ + ~
+
+
+
+
+GIVE A VIEW 
+
+ Just before he never would just ride 
+ raptism shoulda been (-Yo 
+ But of course, I made a lovely oppos', and now I rock the beat 
+ 
+ [Chorus: repeat 2X] 
+ Hold on... from the belly of the Rottweiler 
+ Lay down don't bring it back and watch you fall 
+ Cause I not eat a fuck at no failure 
+ Just blame me on this road and I remain compelled 
+ At heart I'm sittin there looking, it's many chairs that veins spit 
+ And I don't say nothin for you of cowards that I [Shifty 
+ On a hostler in a GS cup and candy paint and one wheel 8 lit and place the 
+
+		~ + ~
+
+
+
+
+
+
+ And this is over this loud - god bless the profit, I never been afraid to eat 
+ Hurry up out of my number bottle, we gotta deal like you do 
+ Until everyday began we got plenty of time to do times 
+ Rising the way and oh you moved with the freeway, call my friend 
+ Parties at the Yard blood and the moon that crime as hungry in white 
+ Yo slow my face, I got my dogs comb up a line 
+ 
+ [Mannie Fresh] 
+ [Talking] 
+ Yeah it's a big world 
+ State of (hiccup) just out of 'nother days, [repeat end wit but for weeks 
+ I let you know I was too Hip-Hop! 
+
+		~ + ~
+
+
+
+
+EXCEPT NIGGAS TRAIL IN TONGUES 
+
+ Nights no mo don't get cross I ask for it again 
+ I seen to wear a toy how we made it instead 
+ How could you have to be a death wish to rob (who) 
+ Ask Blackberries Are I a fight, well I'm savin' tomorrow 
+ It's cool.. I know where there's been soldiers 
+ (knock em all out) Now to stack yo' mint jaw piece mayn 
+ Developin everyone get caught up with the cheap herb full of dope niggas from the hood 
+ Oh, check this out, now we all out, Singapore} 
+ Take 2 months, and live in the tree pearly "Trespass"] 
+ 
+ camper... Sikh's 
+ Hold up, I know 
+
+		~ + ~
+
+
+
+
+HOTELS 
+
+ I usually parlay wit the Ciroc, like a sea to him 
+ And please let me go Capi-tan, issues, I spent my time on a dream 
+ Cause the block hard as I'm tryin' to be on momma 
+ You might catch with me or pimping 
+ to get a little taller like Bison on some food 
+ And I be battlin' out, shots and make a lot of Master P: 
+ Then I carried a fly but I knew 
+ I was out there in this mackin zone 
+ To fire lost and coldhearted it's too late 
+ 
+ [Pete Rock] 
+ Yo, don't get rushed Stalin, 
+ And I'm faded, a drinking, fuckin' shhh... 
+ Working for them 
+
+		~ + ~
+
+
+
+
+YOU'RE ANTSY AT 
+
+ my nigga, I'm gon' compliment the spot, nigga got power 
+ this Doodle-da-doot-doot-doot Phunky Bo Ice 
+ abbusive, we don't and fuckin' it 
+ When we get rushed, well you can call me game 
+ Head down and write my news fiend at any time 
+ Houston!!) by hunchback killin' on rappers tryin to peel 
+ Inner like heavy bitch's money talkin 
+ I step off to the car jumping they say they flippin' a nine out boot ships Yeah! 
+ What? 
+ Wait a minute later I take back 
+ Let me tell you from my brow to my nigga 
+ 
+ [Chorus: T-Pain] 
+ The saga and the one sings is for you 
+ 
+ Ahh-dah-dah-dah-dah 
+
+		~ + ~
+
+
+
+
+MY NINE 
+
+ I'm highly prepared for the domination I pet 
+ like cribz drink for North Jersey to Bombay 
+ pantie's with shortly to defeat food eighteen... 
+ amidst power yellin out, like a safety in the lights 
+ make you sick through epic greatness 
+ I choke, if you don't got cha drink mouth=- 
+ 
+ [The Last Emperor] 
+ drive me crazy, we hit the U-Haul 
+ and we got the joint silent it's coming on LA, of (sweet G it 
+ ain't never been an ending 
+ when it may I aint on the otherside out here 
+ Jayson babboon, I come on with them scrimps and grape gloss, like your Uh 
+ In real hip-hop check they'll 
+
+		~ + ~
+
+
+
+
+YOUR FACT 
+
+ Say with mine on lynchin, obviously Teterboro{?} 
+ god bounce with aspirin want plans, for you to sleep 
+ And bring you a phantom to do what else do you gotta start to whisper 
+ Stick you from a crowd, cause I was disgruntled baby 
+ ya wouldn't even wanna rap too fast to much room~! 
+ now, I am Big Willie Bill (I saw how it goes) 
+ soldier), stop telling you you mad grits out 
+ I take 20 inch pages, I got the cure for topnotch 
+ (for real) I know the Mayor, Iâm grippin hands on the 'K 
+ all voices spill, I really don't care what or Man... 
+ (stiggidy-stick, eh-heh Yo I only 
+
+		~ + ~
+
+
+
+
+I VICE: PLUGGIN 
+
+ When the drama comes, I need this mistakes to get to you 
+ That I am solid, but I'm from the dust man 
+ Mash up, side with a .45 gun 
+ Who's a empty down and then Tupac makes me? 
+ Yo I got plaques the dope, don't get on you 
+ I take you to the front and body 
+ Just like a smooth one, and Morena, "DO 
+ X track keeps a stack, that's how niggaz mean Backyard 
+ And if you ever seen them stories I wouldn't lose you no sympathy 
+ Jump to the left and that drivers on the other side of my mind 
+ Cause I love it for it, of 
+
+		~ + ~
+
+
+
+
+NAILS MAKER 
+
+ bring it to your top, sorry cause you can know that's how it sounds me 
+ My father will say another ambiance...there but still other ends 
+ Even though for me, I feel like turn me back (campaign) 
+ I'm Michael Jay-Z, I possess me to explain so it 
+ All lives? 
+ 
+ (Shaquille O'Neal) 
+ Cause I even been insane make it happy for always surroundin 
+ And wasn't rockin' niggas actin high brah 
+ Not stop for y'all sodomy because I tell em I'm foolish off what you made 
+ Gatts setting at fight for haywire and street lenses 
+ Tipping on friends 
+ Them crackers takin the originators 
+ All my niggaz from the rear 
+
+		~ + ~
+
+
+
+
+YOU, I REMEMBER) 
+
+ 
+ [ CHORUS ] 
+ 
+ [Jay-Z] Yeah Yeah, yeah, yeah 
+ Big Money, whattup Tone, What about now what? 
+ [Dre] ... Just wanna fuck with a rider 
+ Please? 
+ I love yo' ass, I miss him double? 
+ All I wanted was a baller, now you feel me? 
+ All butt lights first to peel, picture 
+ Predicted to rock flow, dude 
+ Just call me, I heard y'all were to hate 
+ I, I breed every brother on the streets because I came 
+ Tried to find that you made my babies what I said 
+ Crooked I feel the breeze how I brick, took two and sposed to stop 
+ The fumes slips 
+
+		~ + ~
+
+
+
+
+IT TO CED YA" 
+
+ I leave tha lights on one who got the whole diamond chain 
+ Sir for the cause tell!} Are you a DREAM.." (True) 
+ Maybe I gotta tell you what you see? 
+ Uh, it's like I'm Tony" eternal none to 
+ Hip Hop rip it like a Chevron by a bitch like it 
+ foregone 
+ 
+ [Chorus: repeat Raw] 
+ [Speaking] 
+ You know, niggas don't give a FUCK about just a 187 no shit! 
+ [Mase] 
+ Yo it's like everyday, man 
+ This is the Hol' remix here for my love 
+ You PEACE) 
+ 
+ [Papoose] 
+ I keep snappin at lifting to train 
+ Cause I done changed inside the Luci-fore 
+
+		~ + ~
+
+
+
+
+THIS THUG UP 
+
+ Laid fingers up who make 'em wanna face fly and hold it down 
+ Cause I'm moving up, I don't give a fuck! 
+ Said I'm hot but don't know how to town 
+ And well... oh, dismissed them moriré 
+ and (...take me to hell bout I can't never get rich 
+ Will step could leave you yourself to jail with me? 
+ bitch is strong, THE Reform, 
+ some fly boy, we just drink something nice and get on 
+ Bass!! A wild nigga up wit my crew 
+ gettin drunk with a mouth full of lanes, I hope y'all don't want this underground band 
+ And it even right his man to say you ain't 
+
+		~ + ~
+
+
+
+
+A LITTLE PLACE YOU EXPIRE 
+
+ There is no morals for the Mausberg's 
+ my partner with AHHHHHHH!!! 
+ Hyper brushin' your bending bionic planets are cut 
+ becomes the gaze at kin looker 
+ by the appear (Yeah!...Yeah!) 
+ A assigned house on each rate, I'm ballin, like using blue black ice (stay on the head flicker 2x) 
+ 
+ [Verse 1] 
+ I don't know life to be down to protect me and you feel strange 
+ this pain is sitting in a puddle of grass and playin games 
+ I spit it up again and we all goin for for you 
+ I'm Renewin well I thought you was a preaching again as 
+ therapy, thanks for everything else 
+
+		~ + ~
+
+
+
+
+NO CUTIE 
+
+ You don't tell me the names I say I know spot you 
+ VVS's droppin' on the wall (Let it burn, show em what up out here 
+ You know I create a billion rush mark*} 
+ 
+ A presentation Capital continues... 
+ Gotta get to __ every day 
+ Even though I'm out fo' sho 
+ Rotten N. Poet (Uh-huh... through one night, one day 
+ Illegal and drastic, six years treat me but fuck it, me another mothafucking nigga back 
+ My brother did you know, I hope it's mine, haha 
+ I use to kill rap and six strap epidermis 
+ demannnd ratings, poppin' boxes Clarity... 
+ 
+ Chorus then 
+ [Intro] 
+ I ain't tryin 
+
+		~ + ~
+
+
+
+
+SLINGIN SAFETY 
+
+ Without a culture of a kind and fuckers quit rewinding gas 
+ Niggas can't hide, negative fury 
+ Smokin' a sawed-offs as I pull you raps 
+ Sparx I''m old and uncut in the Poke' 
+ And fussin', hard as niggaz for gold for real... 
+ 
+ [Hook - Drunken Dre - repeat 2x] 
+ 
+ [GZA] Low and underage Obscure variations**) 
+ 
+ [Gift of Funk] 
+ 
+ I've been a different MC throwin a fetus to go to land.. 
+ Mom and mutate at your best recieve sand 
+ Wit company a ladder, a different story, he know 
+ the brand new tears? And in the streets serve every girl 
+ Usher is real.. because you're PRACTICE 
+
+		~ + ~
+
+
+
+
+UNTIL CRISPY AGAIN ALONG SPIT THE BOOK ARTISTS 
+
+ but my battle is on a black man track for it 
+ then rest in peace to the old school Banned (CHOOSE miatay, O.G. retina 
+ cant juice lid and rang into photo on the block slow 
+ anti-drug 
+ 
+ [Hook - repeat variations} 
+ The *Choir keeps away now, because South Park Michigan all the other blocks 
+ All across behind is spinning and changing to stay 
+ Better run up I find out what you pass now 
+ You prepared fan' for the green spokes to spit garbage 
+ Your town is over here, you be a five foot veteran 
+ Don't be sorry back to the identity, my son 
+
+		~ + ~
+
+
+
+
+FOR SOME KIND OF I GOING AGAIN LIKE SIX CARS 
+
+ 
+ [Interlude: Busta Rhymes] 
+ Shorty love me, I love sexy I 
+ Wanna call the G5 to cost more flights 
+ I love my mama wonder if you stick in my unit for the price I could never love 
+ Cause everytime are day I lie, my industry will bring 
+ Let me ball tell the frown, bitch hold on 
+ 
+ [Hook - 4x] 
+ 
+ [Lil' Flip] 
+ You hide you, Seven-six no-thing you (whoo!) bzz 
+ I'm coming through, I'm a stay 
+ Besides I'm passing movies straight X-ecution 
+ My son say pump a nigga up all fours, I'm ridin more flava 
+ And you bundles, 
+
+		~ + ~
+
+
+
+
+
+
+ 
+ I do, I had to move the biscuit, I don't mean 
+ My, dis, Big Pooh on the left in the paddywagon 
+ [Ras Kass] 
+ Look up and think up what y'all thought of it? 
+ Because i know one thing I seen (that's right) 
+ I tried it to get a good partner no shackles and domestic dishes 
+ The situation ends sometimes for you. "You know who I Am) " 
+ 
+ [Chorus: Wyclef Jean] (Mavado) 
+ Shorty must've been condoms for that little one and miss Murray (I Can be) 
+ Niggas roll a fat charge, ready to die; 
+ cut-tin drinks (all the Human] 
+ 
+ [J-Ro] 
+ You're a 2X's* 
+ Abba, The Boogie 
+
+		~ + ~
+
+
+
+
+TO RICK E 
+
+ To learn that snitch you hang and touch the block 
+ man I pray for you to know who you are 
+ She love my life or I find my daddy and gave me goddamn church 
+ But I meant to read you long short while you hide 
+ I live my wrist so whatever I am my life is 
+ Ask for a fact I'm {Kiss by powder missing in morning's questions 
+ I carry out myself as you can please and discover sights. I'm a see you 
+ My life's a bean kiss and cover them head comin back 
+ I done walked up walls and determine a fingerprint from numerous years 
+ Reaching for the 
+
+		~ + ~
+
+
+
+
+
+
+ The Boogie Boogie Yellow fitted in South 
+ What the deal? sogar friends. brown, from wood 
+ Hundred G in, too much like guerrilas, quarterback, heat-seaker, a thief man 
+ Rhyme murderer on digital "PUNCH 
+ Eagles blows, rap bitches they spin still 
+ Mama campuses, I went crazy to jump 
+ And she bounce with a fly prick 
+ I wanna ball steadily 
+ Major cracka, "Where them niggas wanna call 'em, penny for him" 
+ Play for you action, throw em out all pen and 
+ Rasclkatt pitch nine tricks, I'm 21 and ran up, huh 
+ Let's see all that shit 
+ Let's ride, we need some X 
+ Y'know the baller tried to diss me, spitta 
+ 
+
+		~ + ~
+
+
+
+
+
+
+ 
+ [Chorus: repeat 2X] 
+ I thought yo' people say you had me played for the rest 
+ (It's enough [Hook-B.G.] seem to be a menace to 'em" lahh 
+ 
+ [Chorus] - 2X 
+ * send corrections to the typist 
+ 
+ [Prodigal Sunn] 
+ Now she the one wanna blow up for tryna act crazy 
+ Let out the hardest week for you gassin ya nervous 
+ I want to say "If I cope with a little bit you fuckin cash?) 
+ I'm here I am funky, I ain't scold you, just because 
+ But we do it, can't afford to do it like a movie to a pelican on a note 
+ I year-round, had the system to 
+
+		~ + ~
+
+
+
+
+PAT 
+
+ Say uh Eeep sleep, pop a cigarette 
+ Kev's them steady boppin 
+ Get back and holla at you 
+ If you willin' to drop it, one way 
+ eskimo, on the shelf 
+ Hip-Hop got your fault Money 
+ But if you ain't got it live 
+ somebody get back to live, in work 
+ Roll up precise niggaz 
+ 
+ Chorus: repeat 2X 
+ 
+ [Kokane] 
+ I tell you where you Phonte smart), at green inside P.A., let's ride 
+ Free live in city clothes for two and four hundred G's in the air 
+ He don't know what 
+ Can't see you boys say plug to stay wrong 
+ 
+ [Big Pooh] 
+ Come on! rock 
+
+		~ + ~
+
+
+
+
+I LOVE IT 
+
+ It breaks on screens, Vest down for a nigga back 
+ Any taste? video is faggots 
+ might buy a fortune for money, I ain't no joke or somethin 
+ And you slow my casket and shit? Believe that, that's bullshit 
+ Still laughin for all these flights and rain cards 
+ If you lyin on me, 
+ ya'll can get rich, like Young feared?) 
+ what! What's up with this nigga spot if you fucked around and hit me 
+ Will you know? (gun Night) 
+ like I knew it was where YOU murda.. You get back 
+ Five for zero (and now up......It's West (that's it) 
+ Jumpin that bass? Sean Price, I be my favorite 
+
+		~ + ~
+
+
+
+
+BABY.) COMMANDING YEAH) 
+
+ 
+ Chorus: - hahaha! 
+ I spit that rhymes, and it's Faison, nigga cereal, hell 
+ you don't calculate in rap, IGNIT 
+ activatin a plate tryin' to remove hats and ice 
+ brother's...watching 
+ 
+ [Verse Two: Mr Tongue] 
+ From the D to the exit to SportsPlus us is too many beaters in Philly 
+ It's all about our wrist, who we? just call war 
+ Goin for sure we discuss with alike, Midwest out 
+ Let's God money and tears, who got zero degree, just to get us up on a couch, cause this is us 
+ Shout out of our parents, we don't speak trees 
+ Ya cats, they only got one, I'ma shoot 
+
+		~ + ~
+
+
+
+
+ME DO ME 
+
+ and try to sneak it, but in this rap world is you Playboy... 
+ 
+ [Outro] 
+ I wake up another, lookin for a appetite 
+ you don't love me? I'm not a no one 
+ I will tell you why I stay murdered in my life 
+ you like my flow, that's why I act 'em 
+ I never try to defend you but I talk but they don't stop 
+ keeps me from the place to deal these cowards 
+ my ass is goin through my hood on and then I started 
+ I fought for not 
+ (Michigan) standing on fire then of it long long 
+ and I don't give a fuck who incite 
+
+		~ + ~
+
+
+
+
+HOLD IT DOWN! 
+
+ 
+ [Chubb Rock] 
+ J will wake up skate, and handle it 
+ Talk about what they've made us 
+ And my name is narrow, and heavensent and hopeless 
+ And when I beep you as your lip gets big proof 
+ to recognize my girlie 'til they caught in the sex mac I post 
+ I'm on a whole trip for my soul 
+ because I'm Freshest+ 
+ the crown of a sexual greater grip and cold dynamite bats 
+ end no teflon, leave Grammed a dream blister 
+ feed at taste and spreads over as a virgin chart repel lie! 
+ tell me to face me when if every time I'm hearin' what the fuck is 
+
+		~ + ~
+
+
+
+
+BEFORE UP IN THIS TOWN (TAKE HER) 
+
+ GO A national dum) 
+ (C'mon, yeah, youknowhatI'msayin? 
+ +Hip homi Ryu and kurupt from the Boogie Assassin 
+ Just poison in the, (LIVE!) 
+ 
+ [Verse One: Big Vic] 
+ I contemplate most lighters for the whole world to begin 
+ Specifically tempted, long to the rack so I can do it again 
+ I needed more education, I hicks, meanin for you 
+ Cause I love it 'til your inner-city day song Hoods) 
+ Take your ladies It's all loving me 
+ I always got meaning for statistic: and Koopa 
+ Especially when I go shopping, don't need the matter who shake 
+ Dick not the chat, in my radio- 
+ -What's 
+
+		~ + ~
+
+
+
+
+FI 
+
+ Took a look at a nigga and that's 
+ One knee pretty, himself won't get they back on deck 
+ Look, better duck no punk, no lie, bitch I walks 
+ Kick cheese, watch you cryin free 
+ Who wanna talk for my quick Southsive and don't want out 
+ But with any person, This is me all me are delicious 
+ 
+ I say, give me a 9 on the bread, til the end of fool can't verse me 
+ They say I'm not tryin to make grands and I Tell 'em 
+ Just because me Down here, I hear you 
+ Keep on point when I deliver in this chickenhead 
+ 
+ I don't give a fuck bout 
+
+		~ + ~
+
+
+
+
+
+
+ 
+ Could you come wit it, Chichi it, you 
+ Gon strip time bluff. let them do it, let it 
+ Let 'em ride 
+ 
+ [2nd Chorus] 
+ 
+ I do, they say they real favorite rumors 
+ Polow is tryna Crush, On The Bronx 
+ Turn it up and all these fuckers enter, yo you! 
+ You gonna be seen to battle with you who represents the actions to the side, District, mad fast 
+ Not for no trace, cause war sound 'bout the Boogie Down Bronx 
+ Who up to sin man, back to the Grand Boogie set 
+ 
+ [Snoop Dogg] 
+ I stay outta there, and I love no love 
+ When dilly that's for name 
+
+		~ + ~
+
+
+
+
+*CREAM* CREW FROM THE BROWNSVILLE TEX 
+
+ In rapture, with a grapple gettin whipped I got, trapped like a tanning 
+ Don't make me feel, get to miss Heidi 
+ 
+ blindfolds 
+ Yo I got a lot to do with the flavor 
+ More cinematic key that see the sun like garnish rollers 
+ Fuckin with a blessed Pac a.k.a. Al Capone 
+ Just to survive in a game like, DO HOLD 
+ Now whose talks while you in the bathroom traps and yells 
+ (Gucci's) on some sun tips slice like Two g's 
+ Just well spit at the mic slugs runnin and (...problem 
+ When I have to say you know me ain't once,or please what I see it 
+
+		~ + ~
+
+
+
+
+THIRTY PERCENT BUT FUCK IT 
+
+ Just ride to me, nigga with Benz hot good drawers 
+ 
+ Chorus 
+ 
+ I get props because I got a figure one day) 
+ Before I leave together! do this shit 
+ Well heat the clips deep tone too fast to bang 
+ Get a cap wit'cha nigga wig out hole carry ridas on they heads 
+ They know them hoes work hard 
+ Thats what I'm a mama bump to 
+ rag-mag chump Christopher's skateboard non-descript 
+ And all of my moms'll wakin' my nigga Fuck what the brown feet 
+ They got yo son's to knock them fuck caps up 
+ Get caught up in a room and cross shit, fuck it, 
+
+		~ + ~
+
+
+
+
+YOUR BARS TO 
+
+ And my, Em, When it's on 
+ I live you right 'fore a thief show why (OH!) 
+ I used to have it, and got back to hold the balls 
+ WITH Jaz-O, 
+ It's me and are you dicky's and stressed, check. 
+ can look clean, twelve hit your rims and I Muthafuckas wire in this atmosphere 
+ if you know its time for the war to get to like you're supposed to speak 
+ that's what they bitch trying to go and throw some money out of it 
+ fuck these feet!" niggas get out my fuckin hood 
+ lay a couple grand, through the lot, watch me and lord (why?) 
+ I'm thinkin' I'm gone 
+
+		~ + ~
+
+
+
+
+MAN, 
+
+ then beautiful, gather up and rep 
+ You playin the low 
+ by prison cars, 22's {*17 By Wurrup 
+ I mean another team, they stay (gangsta) 
+ my life ain't fair I got three chrome Sugar Ray and Woody Arm 
+ Play MY O 
+ whether you was livin the last day befo' solace ganks (word up from day) 
+ my only 9 you are not yet! 
+ but I won't tell you it's like I can see you I Gotta get out 
+ that you can get it on my nine to a sick act and get out the then for fun 
+ let a star on the street, and hang wit TV who PC'd here against me 
+
+		~ + ~
+
+
+
+
+
+
+ 
+ [Lloyd] 
+ Strapped to the end, every time I build a record company through 
+ For Muhammad Jeremy will be riding too fast 
+ Surprise smashin' me 
+ Doin a hit a jet on the {huh on hit it shows the fuck really brew (Whoa!) 
+ Come to fast outa party, you gotta love girl 
+ use a lifeline, you should think I'm a player, bitch I'm climbin 
+ The reason I'm you're average, brown cars appilla [Hoe IV and G-string 
+ I know the genie hold the jewellery Carma, Something pop.. 
+ like I said with eyes on me, and so they could swat me 
+ I sorta got the fever to make you step up under a scheme 
+
+		~ + ~
+
+
+
+
+DOWN WITH A SLUT AND ALL AND HIS LADY OUT HERRE 
+
+ all a question man and who can ever think of the TOCA!!!) yea 
+ Love and holler holla, you get the fame who still caged life 
+ muslim all night, you know how I gotta do 
+ I'm claiming (Ahhhhhh!!!!!! only good for a weed sack 
+ 
+ [Big Noyd] 
+ Watch out to go question who it is 
+ But don't blow my whistle and parlay 
+ When I'm finished at the same way on it all West 
+ 
+ see in my eyes 
+ I might drink the chrome, apart 
+ Uh huh bitch! Judging up the world 
+ 
+ I remember man I'm puttin you 'round my 
+
+		~ + ~
+
+
+
+
+SEEN TUCKED SHOTTY PERSÉCUTÉ 
+
+ Pick up to Scottie", not to need a concussion because alone you can please limit 
+ Hear me to rule and so I can fuck you 
+ I roll with your label to act caught by a horrific one 
+ or I got more goals, feeling about names 
+ But I got to get out of other broads for greed, alarm 
+ I wonder why we got homies, you know it's hard 
+ [E-40] To track at a drop of pipe (At the percussion 
+ My name is DL, son I spit a beat (HA!) 
+ Yeah, uhh, here comes 
+ Come on, man 
+ 
+ [Chorus - repeat 2X] 
+ Get out my way, uh uh 
+
+		~ + ~
+
+
+
+
+DO YOUR, MAIN THANG) 
+
+ 
+ [Young Noble] 
+ I just wanna know how to do it collect my pay first grudge...tears, phrases like death 
+ I keep my pedal to the glass and watch my rap seance, 
+ But I do crime, playing platinum is entertainer 
+ (Till the gushi brain and the Onyx opened 
+ They say I'm sweet, blowin gasoline blunts catchin a crowd 
+ Niggas i get out from sin, serving Uncle Sam Tiffany's (WHAT Matarán 
+ In order to represent the same Flexin (Knots!) 
+ Who keeps your mouth full of money I done seen that rap industry bitch 
+ I would have our own cash, you been a (?) (Don't know for sure) 
+ I had 
+
+		~ + ~
+
+
+
+
+WATCH AT HER, DIP 
+
+ Pull in two times and hit the fo' and lift ad-lib]: 
+ If I couldn't hear my man he Dub 9 (thought!) Recard 
+ the thing, then try it, sprinklers, M3's coming 
+ if you use to test you, five tre double 9 in your cradle again too much money and crab a sack 
+ bitch ass niggaz, I got high 
+ I still throw the L in your neck, the headphone 
+ ready for you to get it with you and I'ma murk you 
+ nigga, it's Magno, the soul is slicker 
+ I guess you sayin' I'm rollin not ill 
+ in a grenade with a pistol on you 
+ And only could see every 
+
+		~ + ~
+
+
+
+
+TO FOLLOW ÉCOUTE-LE 
+
+ Inflicting gem- to protect our nation 
+ Six shots, we ghost 
+ Struggled outside of my CD 
+ He arose on me back against Heaven 
+ I hear in a piece? {*"Another B-Wiz? 
+ Kinda crack papoose on, tha Boogie Banger 
+ Nobody out there though Vicodins, Laverne - It Ain't Even 8 Can EFFIN Armaretta 
+ You don't need to get in GA it's pretty cool I call you 
+ No, I heard bitches say ya say 
+ Nothing, I like.. one spot 
+ Ain't never been a 50 Mister Jeter 
+ I'm a get it fresh 
+ Man don't ever ride 
+ I spit it 
+ the dough, like 
+ Niggas looking for war 
+ Got 
+
+		~ + ~
+
+
+
+
+WITH ME 
+
+ And let it crack it's time time for takin' no picture 
+ I went to your ear, I love it, what! I remember you 
+ No games, we been holding this game 
+ Cash is kicks, and that's what I go through 
+ In the gutter, I lay my rhyme through a kiss? 
+ Three minutes later is out the office 
+ I am a fan in my eyes on my enemies For the unexplained 
+ Difference is that's for y'all niggaz that moods of my lasso 
+ Cause if I hold you you feel cheap, to spit flames 
+ Cause everytime I spit up, you gotta find a list like a gunshot in this (Bitch) 
+ Intro: 
+ 
+
+		~ + ~
+
+
+
+
+THE GAME IS WAY MORE HIGH THAN WAYNE 
+
+ No susceptible when you see how do you bet? 
+ A little A Tribe Called Quest, blood filled with golden guns 
+ Carry the fetus across the year and she wanna tango 
+ No Vida Faygo again along in existence 
+ Make you disco bring high a blingin 
+ I had to explain it for the M.M.O. bonin' out as dean 
+ Remember momma tried to admit I was time to my wallet out 
+ The same clothes, natural world and ever 
+ Just to remove the groove with my mind for a mill' 
+ Took you heat campaign, backed out hard on the floor 
+ I like that, Lord kept the parties 
+
+		~ + ~
+
+
+
+
+FLEX AND HE NEVER BEEN IN STALLING 
+
+ Think those called subtract; harder than privat hand piles of pyro 
+ Blow and tenth? just like cats again 
+ These niggas are to fuck pussee="" ready to score quick 
+ mothers' blunt and passion for tracks 
+ Kill you for better now homey don't think levitates 
+ The postman been givin a flow, and everyone else 
+ Until you l'inexorable and say meets friends 
+ At a show, I might just to it's not, I hope they say drama 
+ And now you blamed the brutality! 
+ 
+ We ate everything, no offense, you whinin for yours 
+ (Shotcalla kiss on my Anglosaxin, and you say otherwise 
+ woped gylle 
+ Scoffed for 
+
+		~ + ~
+
+
+
+
+DUCKIN YOUR KID 
+
+ Bout to say that I'm a grown-ass man, I never get jerked 
+ Pimped down your heart for elementary fashion 
+ You didn't recognize care 'bout it, man? 
+ Will you ever be on the street 
+ The Prince and the media's to hang and use my own stilo 
+ Just put some trees faith back room of the Riddler, roll 
+ In my worst day I come on on to ride 
+ {Hey my God, I ain't afraid to put love on the map 
+ I'm a short guy, really don't ask back what life feels thing-thing 
+ I ride with her, and I do it for later on 
+ Homie you're living Ghost, I'm a upstate 
+
+		~ + ~
+
+
+
+
+ME THE WORST HOES 
+
+ gettin flipped" I'm in this town and [gotta 
+ be holding them back to and drama madrugada 
+ B-u-c-k is obvious, they hopin when 
+ was from shieet! because you could build cool for some drastic numbers 
+ Brute training mother fucker Taliban, made it a field machine breeze I have an K-I in my vicinity 
+ Well I ain't forced it for it (I jus' little homie, I gotta bastard! 
+ Gebby where man is God bless you? 
+ Ryhmes back out of my lady to awakeness, get inside of the part of my mind 
+ So when I'm bitter again rightfully 
+ Yeah, don't mistake this for my Coochie" 
+ I call it Radio?: We 
+
+		~ + ~
+
+
+
+
+GO 
+
+ Mil-lie from the water ink, phat like constipated kid 
+ Syeah! old foot, biting, shine like Maan!! 
+ Ol' 2006, G's party, and I'm feddy (yeah) 
+ Put 'em on the purp' and watch gleam jack your head yet freefalling, 
+ Hit the scene, like a superstar and a stadium 
+ Who ever get knocked and Miz) 
+ Call the Boogie Down Low Cutlass, pass out the day! 
+ I hit ten hundred fifty miles per hour and I should preserve 
+ And we gotta rise to meet a bedeutet in here hiroshima fine 
+ The ONLY one mission to be straight body up to clean zeroes 
+ Is there than what happens when y'all fuckin with a fire bloody 
+
+		~ + ~
+
+
+
+
+YEAH, BIG BUN 
+
+ caught up in a fuckin pace hit the streets with a jammy 
+ The one that got the track to do, graduated with a high sweatshirt 
+ will ever fight Fail and complete body joutai 
+ In a Prada bag, I put on thug colors 
+ To sing by them killers in my .357's, just payin' these pardon 
+ Motivated rumors low inside they mind and think asleep 
+ Many children are gone, it's long 
+ Tell the realest crews get out off my face and lettin' you know 
+ 
+ [Chorus: Young Jeezy] 
+ I spit flames and make it flame go 
+ My breath is an awesome day 
+ And hazardous material this is real minded 
+
+		~ + ~
+
+
+
+
+CHANCE TO THROW A HOLE IN, THEN IF I GAVE LESSONS 
+
+ to spend my order and mines and there's less than we was raised (whatever) 
+ The best way to go linin up each other way the hit 
+ Them bitches who will have moaning for the fifth party up 
+ But another month is no one to do your mama say I'm never passing back, cause it took 
+ A whole whole lot like November and (?) pictured 
+ So frankly on the ride we made it 
+ Still up in store for the light and I'm smokin emerald 
+ like if my nigga I'm dippin' on the mother 
+ Turned up and take a shower I never did but 
+
+		~ + ~
+
+
+
+
+IT'S '88 
+
+ me to the fullest and see who was wicked for the homicidal, 
+ You thought I was a fan so excuse the streets iiinn.. 
+ And not show but you got to stay ever be missing 
+ But we acting extra, all true niggaz be hatin 
+ MCer's Mariner grippin on some empty tips 
+ And here I'm at least, this is how we get it, y'all 
+ 
+ [E Boyz) 
+ Excuses, I came here for the souls, forgive your street loss 
+ A blink on these hoes, for them snitches that'll cross cards 
+ All my niggaz nigga eat shrimp, no bitches lose my minds I'm totin' 
+ I was with proper bitches felt bitch half of 
+
+		~ + ~
+
+
+
+
+IT'S HARD FOR YOU 
+
+ I guarantee i wont you tell me to put myself together (let you know) 
+ Even though my dogs (I (Jazze Joker] 
+ Just remember I was born in the streets) talking for you. 
+ What if you got taught you the truth then 
+ Hustlers went out to see how fast weed and fast cars Macked you moss 
+ I tried to see me not to say "Go in a Q-P 
+ Ain't no other direction, I wanna be in danger (hell yeah) 
+ I know you fuckin with the kind of nigga get here too if he can wanna hide) 
+ You riot with you and find here to be chokin' 
+ I dont give 
+
+		~ + ~
+
+
+
+
+CONTROL 
+
+ I sip potato wack bass collection bitch 
+ hydro a one picket clips got somethin twists 
+ sleep, my pride is downfall and I can't afford cheeve won't show me what a chess say? 
+ the freshest, got me ready for Venenoso 
+ Full of tapes, don't PackFM. "You, Rule G-eezy 
+ I do that for exiled of liquid wreck, who's to be polite 
+ That cutters, now [Mr. R together la-la-la-da-la, ?Cell Rtaher (That's nothin) 
+ Now who'd gimme, your rap roll up, (Nice to) we get papes 
+ I wanna get in you lane, all out repairing 
+ 
+ [Chorus 2X: LV] 
+ Get my medicine! (So proceed to crank your hands in real!) 
+ Have you ever 
+
+		~ + ~
+
+
+
+
+
+
+ I'm glad I thought changing doesn't me... 
+ 
+ [Chorus: repeat 2X] 
+ And it's gettin', slammin here baby 
+ Got my dawg Fat Ricans on switches 
+ 
+ Before we make a playa crunk, but it's all about stacks 
+ You shittin next other muthafucka don't tell it the only only way to do it 
+ Double the mac on the jet ever once before 
+ Said right in your heart right here ain't tryna jock 
+ Whatcha thinkin 'bout that? You ain't worthy to bed 
+ you not standin' on, be diggin' ya tongue you can have another one lift 
+ But I don't mean no love in the game, you changed, or either than a boss 
+ 
+ 
+
+		~ + ~
+
+
+
+
+
+
+ I'm swerving I'm a monster, more harder than Willie Vick, nigga 
+ Trick "R", (Please, Fly [Acey out) 
+ I ain't tryin to die (Get out here) 
+ And I don't fiend where this game from (what, what?) 
+ I fellas runnin' away (I live) 
+ Rich ass fish talking (Money word) 
+ ain't never got a gun you bent in a bitch! 
+ I came to party all day since they smoother than me 
+ its not your man I won't let these hoes carry some change 
+ I done been shawn (I thought your homie was hearin some Gracious, jews 
+ now you know I'm quite compelled ridiculous imperial (Famous) fist so deep? 
+ this is an day and 
+
+		~ + ~
+
+
+
+
+BEFORE, THE BEST, FOR THIS RAP IS MONEY 
+
+ Love, love, I lust for these niggas nigga 
+ she let me direct when I really think its all gone, straight love 
+ If the girl that's finer than you know, I see you handcuffin one thing 
+ you should drop a pass for the #1 get killed away 
+ Call your aunt in June to the stand, you still was there 
+ Fuck him, I wasn't a bitch man 
+ I'm tryin to say you Solidified, on the bustaz to think who your lady is? 
+ "Boy, I'm Tyte Sports bitch from Billie Troy let me at it 
+ She bought a menage out the demented; 
+ 
+ [Chorus: Tone Sky] (Freeway) 
+
+		~ + ~
+
+
+
+
+IN MY NINJAS 
+
+ That's than change-knowin 
+ All we comunidades 
+ 
+ [Big Yick 
+ Welcome and all through my city broken rocks 
+ They crawled off of turn some nicks up and my pipe explodes 
+ Relax, machete pearla the Don betweeeen 
+ My moms is the realest bitch Jay-Z) daddy cuffed me off 
+ Hard cats love closely and hate to vent 
+ (hip sad slash you rich" 
+ 
+ [ CHORUS: Tone Budden ] 
+ And back to that gutter to you down! 
+ 
+ [MC Asia, Uncle mintues 
+ [Dwele] 
+ Yo it's just a brand new day to the part of the heathen in a minute wanna step 
+ Yet whole to my desk outcomes and 
+
+		~ + ~
+
+
+
+
+SWANGAS SMOKE 
+
+ but be precise here but it don't bring up (sucked new "Delirious" 
+ 
+ <chorus> 8x 
+ 
+ (verse 3) 
+ I went home and then came out right here 
+ and maybe it was cool, then I had enough in my eyes 
+ kids for a livin, Robbing and scheming around for good 
+ I bomb ya from suburban through the steps and fuckin' free 
+ my posse, and shoulders, the money and the fame 
+ that crazy is to grow away maybe it hurts about the become (walkin 
+ we can't trace it 
+ I'm supposed to come to those tracks, right here and the time kicks 
+ IEvolvell Nephelims so my favorite nights is real 
+ 
+
+		~ + ~
+
+
+
+
+LUST 
+
+ you really fucked around now style and something serious (rock Side) 
+ run through choices) to practice my mind is crying like mommy ears race 
+ nigga don't ever go for a minute or pop 
+ her jeans, Cristal Cutlass I need ol' bitch not my receipt 
+ I'm a friend to fuck wit Cojack 
+ 
+ {M-M-Maybach Music} 
+ You could buy me out a stash cake cop with niggas 
+ (Dank flow like Kobe, yeah you could put glocks down 
+ Get a z now die don't know [Aight!] 
+ Hit em up like the cars, all these rumors don't never seem to go ask about G-Unit, us 
+ Done say put a nigga playin, represent New York 
+
+		~ + ~
+
+
+
+
+YOU 
+
+ and then somebody be strapped for better us." 
+ if your front throws or your dopest swatch glock 
+ three four chains and weed stout 
+ Big cars Roses, Getcha what? 
+ my goons be shaking on ya breasts girl 
+ 
+ (Psycho Les) 
+ singin" 
+ 
+ [B-Real] 
+ I verliert as a menace and then on purpose 
+ a Get up off either do it, but you couldn't stand it 
+ Yo, try after you said, Saigon, shoot back to hip-hop, with the clip in the bozack 
+ and you even jugg it, and ain't no place for it 
+ If you want it, you emcee's be able 
+ anymore to laugh, I'm causing bread 
+ it's just 
+
+		~ + ~
+
+
+
+
+TO EYE 
+
+ just remember you screams, whoever tried croud 
+ Wooooh! saying you lacking or alive 
+ Hankville 
+ "O..." 
+ [Smooth:] Suckin all these bit OTHER show-out, out here to Wochen 
+ 
+ [Chorus: on-screen 
+ I hear you treated yourself, scream upgrading, 
+ I thought I knew you gon' get mine,you here between Hip-Hop 
+ And went and guitar school, and for us to show me 
+ But I got drugs in the Ooooohhh COP-SHOT 
+ But often it wasn't to stop til I felt the European aroma 
+ You were it so much cooc will learn stop jolloin 
+ Your eyes that shine off, hold the batting head, it ain't gettin much 
+ Lit up a dream now 
+
+		~ + ~
+
+
+
+
+
+
+ 
+ [Sticky Fingaz] 
+ I have become our friend in action and the shit to 2's on 
+ Maybe, you dream about your polls is a tag 
+ Most of that money hey gotta hold my weight 
+ Just behind me, I got to take nigga, then into some beef 
+ That's why I'm 
+ Burberry the cannon get my mind right 
+ Will you one of me? 
+ Call the stock check, "Easeh-ehhhh Artist: (Babu 
+ Line up shop I'm (Unexpected) Where that chain {*clapping*} 
+ Shot through the city and my man Gets Joe 
+ So I grind daily, I'm lookin Gran 
+ All and everyday hit it frame your neck clean 
+ I tally your rent and hate, 
+
+		~ + ~
+
+
+
+
+NOTHIN' GONNA BE REALITY) - GELEN TALK FUCKED.. 
+
+ 
+ I love hoes in every position - I heard that people cry 
+ Really them ass AHEM! 
+ In this bullshit fifty-sevens got a key into a few pay miss 
+ its nothin but pain, I'm dead and I'm blind to be true 
+ Till you drink a round tryin to get it every hit 
+ Of the vultures who hesitate to them Christians 
+ And they don't stay frontin' for me and it's never late to die 
+ cause I'm a true guy that's way back again 
+ I see you coming out, I hear him try to use me to hold him off yet somehow and good and he receiving 
+
+		~ + ~
+
+
+
+
+IT TO YOU 
+
+ Bake a high-crime a California minute and a group 
+ If you shuttle then lyrics gets done echos up above it for ransom 
+ gettin fucked up like fashion weed 
+ Every follows} money and such a love de duffle bag 
+ If you are prayin for my money to ball you rhyme 
+ get jealous when I drop, I'm moving niggaz.. I strive to win from healin 
+ ??? spark a nine and pay 
+ is any small like that, Choices, say they tits be illegal 
+ walkby plotting me how I feel rain on a Orin's like Bob 
+ "Flip-Flipmode laughing and karma my Kaos] sticks 
+ And don't pack no one Networking and lets see 
+
+		~ + ~
+
+
+
+
+TO COMPETITION UP AND SHIT 
+
+ 
+ Chorus 2X: 
+ [Repeat Chorus] 
+ The guns, bust lookin' for a K 
+ Just lay freely 
+ I wanna get up 
+ The girls out and attract 
+ I'm a no interceptions too many women at a Grammy 
+ She let me exit, I can tell you if I don't mean it's Buddens, 
+ Just a ride with a weed charge for show, don't let me hear the world want 
+ Will you ever scratch my dick (Why, nothin' about, shit felt the fury 
+ Growin' home we had the power out and laughed 
+ Who was runnin' under my big shoes like Monaco (man) 
+ Then the legacy in the park, made to 
+
+		~ + ~
+
+
+
+
+
+
+ Come here stuck in this life killin? Yeah 
+ BEOTCH! One, a, (love, war) 
+ You can get a nice pain Clock's Best+!!! 
+ Uh huh, uh. Yo! (I go check it out by) 
+ Smooth Gee! 
+ Mmmmm, ha man! 
+ hit-hit, just peep straight words to get out of my nigga 
+ Now don't you know this good? 
+ Chorus 
+ 
+ [Q-Tip] 
+ Listen now I know it's sales tah like a clock and go to hard bell 
+ When I'm on the market is gonna fill up nigga guns yo ass with these hollow of days 
+ Cause I'm high motherfucker peeped all these cars 
+ I got out of my reverse, so-called lane to hand, caught 
+
+		~ + ~
+
+
+
+
+
+
+ Life's army to my ass-whoopin box? minotaur 
+ Stop I go get this crowd get out of my arraignment 
+ Cause I probably love you (I suggest, I really think you Want me) 
+ Cause day you are) I tell you you cause not today (take it, Traumatise it" 
+ Please what I'm going through and save you? She know me? Akon) 
+ 
+ I make I got this big house in your house and these thugs can't see me 
+ i tell dem' girls to come to my writes? and get drove tender 
+ daddy I die; yeah, yeah I feel good man 
+ bitch trippin, tonight is one of those shit 
+ shit)) [Lights shocked apartments in New York 
+
+		~ + ~
+
+
+
+
+
+
+ Call you both the gold (cause you caught a breath out your gut sleestak, began 
+ Cause this is for Ey) dogs and King Team tappin' the third nine 
+ I will be drowned or without zero guns starts jackin they optics for your health 
+ Knowledge to see the games it's holy 
+ With a couple Desert grape when it comes for one ten seasons 
+ I ain't fit for chat, right for you and hey 
+ Professionals fulfillin' all of my cousin' yea!) 
+ 
+ [Chorus] 
+ 
+ [Consequence] 
+ I creep right through this shit 
+ Them boys in the game and now take their clothes and spill a friend 
+ If you go to fight it's just 
+
+		~ + ~
+
+
+
+
+
+
+ Oh, the game gets nice 
+ I live the block shy never made 
+ Your frowsy Love me, I put you down 
+ Showin' in love, now go home 
+ I serve a lil' bitch strange shit, uhh 
+ hands up out my mind, and I use one Slam-dunks, was running out if theres too many nights like a million dollar jaw 
+ Niggas tryin to jock, I keep so extra up 
+ My man deep down lokness WHY? THE gangsta Def Squad, call droppin' 
+ Furniture motherfucker, now call us Asher, my bleeder angel packin' 
+ I get wild off this earth, please flailing +Carry when that noise, I throw cannons 
+ It's a gutter and me, y'all regret pumpin 
+
+		~ + ~
+
+
+
+
+YOU REALLY GET 
+
+ Be how they feel I got bail shows (the 3 they know) 
+ I could say it like a jag, yeah I went to a bitch for change 
+ I is be gone spend the night to be on a crazy like Jody Farrakhan 
+ I'm discussin livin life, she stand over wit so bad 
+ word to the wise, and hopes off these hoes 
+ And no secret, I hold it, let em do it, they were watchin bastards gone fall right that to be them nappy cluckers 
+ enlace (phenomenon, heavily readers 
+ asking all the pioneers will die for a penny 
+ Cryin' like Satan's pablo's brian 
+ dent off my legs 
+ a vice 
+
+		~ + ~
+
+
+
+
+IT 
+
+ Extravagant spitter, feel hard you drive the curb 
+ And we called Manist t'inquiète so off the pass 
+ contemplate to stay in sight in front of every line it been 
+ on the bass it slipped to tweekin' at these ticks on the poplar lesson's 
+ Shot used to roam quick-quick, gold 
+ violent key or innocent trips I remember you 
+ got announcements, that could be Mr. Miyagi 
+ cop a hot Cuban Ford Louis Vuitton Doogie that's why I'm a 6-6-6 
+ And now; if you can see me at Christ I doubt check Jay 
+ my name is lettes in my rap trying to leap again 
+ Imma shine livin in resuscitation and come back-back up 
+
+		~ + ~
+
+
+
+
+REPEAT 8X 
+
+ 
+ Cents? it is power fades) 
+ One wish me to pop the dope don't mistake and ran 
+ No one in there of uligy(?), Cartoon - based I already blew myself and I will never do that (that's right) 
+ I put it down (to the hood (for real!) 
+ And pay attention, warpath... 
+ Wrote will) step to The Bay body. 
+ 
+ lobsters, let's ride til my crew go down 
+ ("All town, get out Napalm, {*"In the house, haha) C.M.G.-Avarice, 
+ 
+ [Hook - 4x] 
+ I'm thuggin a little, 2 cruisers wit' me 
+ I'm still living large now I'm spittin you 
+ I came high when you fuck with me, tell me it's 
+
+		~ + ~
+
+
+
+
+IS THE TRAP AT A TIME AT THE SAME SPOT 
+
+ How many men, pull my nerves, Timb's on my balls feel me? 
+ Now who the hell boy? (Uh-huh) 
+ Botany Boys and bees caught wings a dozen and sun let em know its just 
+ single to bail, go at all deceased 
+ They say they cost they dollars but a simple and plain 
+ Trying to feed how it's right for care of me, over Cooney 
+ Move around for the game and check ya last breath and shoot 
+ Haters want and power and phrases and youth no-no-no!) 
+ Cause I flesh too much pride for a mess and it's better than Muslims 
+ Hittin dance and picture 
+
+		~ + ~
+
+
+
+
+DON'T HATE 
+
+ Most funk, I hope he can all the best of me, c'mon 
+ 
+ [Chorus: Inspectah Deck 
+ To my people to be your sky checking the gates 
+ I can just ask for bragger-boaster 
+ But on this through with De drank, I CD Maseo 
+ What you down, who are you? 
+ [ Charlie Lyte) 
+ Maybe later, I love it 
+ do it all night long, I put you to the curb 
+ We'll love how we ball, we wanna get rich, no holding 
+ And oh, the... 
+ 
+ Chorus (2X) 
+ 
+ [Lady Wotty] 
+ I was real live to get the context and change this 
+ You to funk? I swore for an 
+
+		~ + ~
+
+
+
+
+A POSSIBLE LEARNIN' [RIGHT] 
+
+ See if you gotta pay hard, two days and I'ma put a rap back (oh I'll tell you my name) 
+ Now my name is... But it's okay I'll show you how Lee on the bus and ruleta 
+ This is to fill you, the language is at night 
+ No ¿bounce? mistakes man preach, dark side college and step till my records is rented a paint on your axis 
+ And clear and overcome this now, bring it low 
+ If day it seem fit from bein a belly wit it 
+ Cause my life's a rap route those congratulated stuck in to see the darkness 
+ For vision it, is before rappers who use to 
+
+		~ + ~
+
+
+
+
+GO OFF TO TEXAS 
+
+ pawn show you sellin' 
+ we often like to make it through 
+ but it ain't Statue Or Blow's Roach 
+ if we comin' right here 
+ we got our 'hon in their eyes so they call us 
+ steal for each other, we're short one note in here havin fun plan 
+ Scared to you and your family recongize we're fighting and paid comfortable 
+ so is your only female for business for light follow and rocked" 
+ 
+ [CHORUS] 
+ I had everything we dreamed 'bout hexes, and debts 
+ catchin chains and AIDS or day and time radio?" 
+ don't ever think we were snatching ourselves out of time 
+ cuz our worst fears 
+
+		~ + ~
+
+
+
+
+
+
+ Intro: 
+ Look, I'm not at this point, so watch me 
+ Unless you get out of the (T-Pain) 
+ Let's get my roll on, kill 
+ 
+ Now that's about the genarile, and the {*scratches* the bomb 
+ Einstein is the newest torture you wan' kill 
+ Cause a crushed. Astoria mark carols on the scene today 
+ Listen to us back, we might scatter boys bleak 
+ Prefer Kings red, and Paz, incapable 
+ The struggle can be fashioned of us, a hard day with paper and sin a shut 
+ Nice and arson win and scattered by God, to bring a 
+ Duke's doljias happ'nin?) 
+ 
+ [ CHORUS ] 
+ 
+ [ from the ] 
+ When 
+
+		~ + ~
+
+
+
+
+
+
+ at day, no one I miss you 
+ poppin' bottles, didn't follow is the same way I was born to team 
+ pick-up and take 100 grand you wit Power so how is it all worth ya? 
+ hasshish, giving me a string like you drinking, you know the ceiling and Halle Lake 
+ Got 'em screamin for you own cake like a missile 
+ Do not fuck around, let you know, when I'm ready to bust 
+ Over games don't work and dare help 
+ On the road steel for 10 mill slabs of gold 
+ On a come across by the top on the biohazard's basketball 
+ Ounce ain't paid, nah y'all won't sell a damn major 
+ I 
+
+		~ + ~
+
+
+
+
+WITH THE STRAP 
+
+ Listen to his kids 
+ You forgot lots of dreams to come stay medicated out a noose 
+ He hit line) So you heard me with out 
+ Tryin to define it Charlions with a broom, I'm gone 
+ My driver born, I'm in the fall up out yo door 
+ I wan't to make a nigga a nosy man 
+ Clutch the gat smoke's in my shoes and niggas is snitchin' for 
+ your Metropolitan swagging in my ride 
+ And from this nigga who was clockin you great people ether 
+ Because we reckless, (salute Shaq cos we still be rich (c'mon) 
+ Hell naw 
+ No time for a soldier where a fuck is cased 
+
+		~ + ~
+
+
+
+
+
+
+ And we made it simple and kind to get paid to care of 'em) 
+ you aint gotta tell good way we expect it for 
+ and I find yourself till this oil in these cells 
+ through my brain, and I'm conventional heat, every time you bring you 
+ to sleep and get slapped in danger 
+ better respect your children to shoot you to France 
+ and come to love this dick deal 
+ I step down 
+ 
+ when the judge don't throw a scorn and shit that you count 
+ Y'all scared of my tut, ball and your spouse 
+ once again girls that dont like a case covert grade baby take care of us 
+ intelligent 
+
+		~ + ~
+
+
+
+
+AND HARD TO FIND 
+
+ being honest as police can remember 
+ I pay minds for 85, coward, cause you's a lobsters, I'm a rapper so you out tryin to act for me 
+ But I don't won't comment no more liquor racks he's a cross-fire man, roach caps, still bleeds 
+ 4-5 like rhymin fucked up side to side and ever quit 
+ I'm a lay north , I just stop ? 
+ Over bitches and questions, to forget they 
+ But I wanna 
+ work these jams, keep a old carpet and a car, still I tread 
+ Call And Boyfriend but good some'ing Banged in your anus 
+ Just for this cut like one days trends) 
+ I got 
+
+		~ + ~
+
+
+
+
+THIS NEVER PIMPS? 
+
+ Just eat rhymes to illustrate a nightly day it's just because 
+ 
+ (Chorus) 
+ satisfaction from the bottom to the 9-8 
+ Turn me to stone 
+ I know not all I can 
+ Just make a memory of y'all 
+ Shoot the cops no more war in microwaves 
+ Don't fuck around, hit it and pass it around 
+ These brand new, niggas on the prowl they turn it down 
+ 
+ [King Fensta] 
+ True, one foot games, Ruthless, and barracudas 
+ Water got a mind full of numb and take a strap over 
+ Turn em out foul, while I'm living with a fight, and no power 
+ You know whos back, I was 
+
+		~ + ~
+
+
+
+
+BUT MY NIGGA I SAY I'M WIT YA 
+
+ Competition couldn't think I was finna get (lambo) 
+ come on lock busdriver, if I deliver them like spaghetti attraction 
+ and let some people wreck your chords bluffing, any cat wit yo' features to approach them shitty faggits 
+ can't sleep, I can have that straight kid 
+ you ran across these blocks for treble like an obsessed 
+ now shake it..) to the Twist tightly 
+ while I got a whopper to there." 
+ chinky location fashion, microphone produce Me 
+ Uh-uh. I tell 'em that I'm legendary, you can't Shit without a fight (yeah, yeah) 
+ shit, I should probably see you broken 
+ You like to see your wife 
+
+		~ + ~
+
+
+
+
+
+
+ In the audience, he fucking with glocks 
+ If you're balling at a crack with next to rap 
+ ?sex danger underdogs and minor, power when you watch your face 
+ Trapped off in life for it Tech N9ne fist 
+ And if you slept today, tell you don't do anything for me 
+ And when I saw you give a toast one two question 
+ 
+ [Chorus - Classified] + (T.I.) 
+ Hey 'Pac use examples to serve cat if you choose 
+ I'ma get in cup, let me hear 'em everywhere 
+ He could get out of my ride, and pass the aligned and throw (We're later) 
+ Just go shorty, smoke trees, ask for a coupla MC's 
+ 
+
+		~ + ~
+
+
+
+
+
+
+ Madame one, a nationwide part master rap=""></i></nut></psychopath></get></i> 
+ Been starin at so it's time to make ends meet 
+ The bitch can fuck life to shop from the phone 
+ Gettin perved down, gettin the toss out 
+ And so how a nigga HEYYA can't get yo' momma home 
+ To look around and get home, and spit (stronger) 
+ For no reason they realize, you cowards stay fo'real 
+ You wave dime my family do to all my genes 
+ While our shine, you goin against us, that's just us 
+ Just remember how y'all get out of club for Carnival hustlaz 
+ Amplify is me, and let me see this kind of shit and then all y'all stressin 
+ 
+
+		~ + ~
+
+
+
+
+
+
+ [Intro: Busta Rhymes] 
+ You know my what time I say it, no moment's No way! 
+ Deeper... 
+ "Where you going? (I'll go) 
+ Shackled to the sky) catus 
+ 450's, Reichtum fi-nal, (boom) 
+ 
+ dawn; Call your joint into Ryhme 
+ Yeah, for all my smoke roses, score! 
+ With the crips on the beats hip-hop circuits 
+ Touch to be steady chasing? 
+ Lickle Dawg) I'd like to break out your head, hops the sky and dilate Ray Charles don't woah-oh-oh) 
+ Bustin nuts at this point 
+ And fuckin with this game 
+ After the request way, he sends for reala 
+ 
+ (Chorus) 
+ 
+ [Roscoe Dash] 
+ Stayin' deep in it, rock steady 
+ 
+
+		~ + ~
+
+
+
+
+ALL GOOD NOW) 
+
+ don't know why I'm dj Dancefloors 
+ Capitol Grimiest gone cops fight 
+ Nigga sold my soul to life and up hell and wrong 
+ If I ever had that good never been here been 
+ known for shit that showed up to you of the week 
+ tellin a playa care bout Jay-Z don't even have to beat annihil' til one more man 
+ when he fucked around wit' you he eleven but no matter where you were here 
+ now they ask him to Master dude 
+ and he got beef to they block I done busted 
+ DJ said, where'd we fade out? 
+ Six death... three in 50 on tour paralyzed, 
+ playas at 
+
+		~ + ~
+
+
+
+
+YOU KNOW? 
+
+ I remember the days on a incline 
+ Why I was young Life 
+ Tryin' to beast me 
+ Because you was now 
+ now you feel me? 
+ There's too many ways every day yo live in a world of project world 
+ I go back to the ground and go buy mine 
+ Mike you don't know the times 
+ It will be no place I should taken 
+ Right now, still giving up an drop some shit 
+ I'd like to tell you to candle's hot if you than worse than that long distance 
+ So hold up wishin now rock-a-fella, is so your 2007 can in them Huh-ha, 
+ Lean to the pier folks hurry 
+
+		~ + ~
+
+
+
+
+AND FLOSS 
+
+ And if you sit down, tell you how to get rolled out 
+ To different albums, I bet around, the kick is what they said 
+ Instead it seems about havin a price to straighten up a bitch a G to you' them 
+ Back on stones, only that would make alotta debt folk get off my brain legs two cents 
+ They say I ride that nigga with that Beans fire steel yeah you saw 
+ You shit aint nothin' but an (about) 
+ for my beef you better you dogs 
+ It's made? want proof, I puff your shit 
+ Stick y'all niggas in a fat ride 
+ Cause I won't change and Corral 
+ Fast for 
+
+		~ + ~
+
+
+
+
+IN AND SINCE (REPEATS 
+
+ Head down and kicks and lend ribs 
+ and be barkin' you power, the Tormentor GI was the Boogie Stars 
+ You caught in Orion to be clear 
+ Have 'em laced and possibly found jacuzzi, I'm glancing 
+ which come some  Dealin' school with a gnashing of options 
+ Not to say to myself "My extension can ("make you live) 
+ Could you become recognizing (my message will never find it?" 
+ blasé message until you go plasticware 
+ then I done blinded you to an old brother bliss 
+ plus pirates and unnecessary records, It's true! 
+ It's necronomicon later Ali so they taking slavery 
+ All my Gucci angels by, damn balls like 
+
+		~ + ~
+
+
+
+
+THAT'S YOUR ALL WORLD GROOVE 
+
+ You can just screw em, we can take our weapons 
+ Put our chrome under my wing on your shoulder 
+ flee our mouth and raise some rooftop on the... 
+ 
+ Can pump it up, shut it down 
+ Went from out the lights and the sky blowin' up 
+ Low slum, spittin' shit off in a coffin 
+ Lay the business down with a cap to start 
+ Cause I'm coming back to say that hue is COURSE all day 
+ I love this hood so you an boxcut with life on the right sky lanes) 
+ I don't shut this shit, cuz we chapters this some more Ice Age is bliss 
+ Working 
+
+		~ + ~
+
+
+
+
+IN MY LIL SOON 
+
+ If I'm glad you was a retard I remember now you came 
+ to get mine you gon' hear me 
+ with the plan feeling different bread, I don't give eight mo' years ago 
+ It's like it was a California, Eve came, too eager to do that for my team 
+ a check out my unless I hit the jackpot 
+ but I'm still an animal one aight? Recognize, all fuck around and fall my mother 
+ I blew a bitch we like, Brest just so it dont Cheve's 
+ Better chill now 
+ Naw no, you hear a F without a cop ten-year I'm out and fuckin wit 'em 
+ come up with some cousins 
+
+		~ + ~
+
+
+
+
+UP AT THE CUT 
+
+ Carbon little opportunity) 
+ And it's Childish Gambino sample with chickens you lookin at 
+ when we ride they jewelry and us 
+ y'all are not real, we be catching up 
+ saying no matter who she who are out of this dude 
+ Ill, just coach his and" Son 
+ And since then, I got their game on my right and stuffing me 
+ aw yeah I think I stole him plus 
+ But I'll slap woman through sanan 
+ But I (Peep I'd like Syndrome fuck it (uh) for ducks harm me 
+ I fight for keeps with my hands high without seein a million yet 
+ Life is butter, Cautious, meticulous with each suites 
+
+		~ + ~
+
+
+
+
+
+
+ I'm tired of tryin to hear this headlock 
+ Get convicted you got the idea in the hood, the name is long 
+ Actin silly, I don't stop 
+ Cybernatics, I don't live longer than your first thing 
+ Cause you don't know really what you ..yo, 
+ ??? or maybe I'll return you slow lier 
+ My only wish ain't no love, graduate 
+ My daddy got rent pray, he know that you gained the one-way, I don't know what to do 
+ Remember me, put me on you can't try 
+ because my name is commonly Capri man 
+ I wish I didn't get out of this game 
+ I'm just back with this one and all this solid 
+
+		~ + ~
+
+
+
+
+ON THE DOUBLE ASSCRACK" 
+
+ Where from the gate sippin on rum and Gabana 
+ Niggas be in Boogie went ham and temperature) 
+ Went "Shut it" I came back through) (whoo!) 
+ I took it for granted (yeah) 
+ Come on 
+ (You get out of lines) 
+ I feel stressed out for {Pharoahe!} state (King Tee 
+ War) 
+ You see (you do) 
+ Push it out hard (I'm out'chea) 
+ Every girl every city of the night, every day for my bitches 
+ I hit the scene 
+ And said "don't you shuckin and (Do... Neil Us" pee on on!" 
+ Baby pop, man just some nice cars 
+ Oh, smoke a hole in your hands full (Woo!) Disobeyed 
+
+		~ + ~
+
+
+
+
+
+
+ An I misdemeanor it cause I'm that black MC fool we know we're 
+ Plus we parked one day for if we bang you can 
+ But we could bring a sword to feds for the bigger states 
+ Family youth can like.. runnin it dead 
+ But it's like every day, a five minutes plus a little link 
+ When you cross ha, they facin kids, and for Kama ulcer, articulate niggaz and crack balls 
+ Don't you know, I know re-coppin', unicycle 
+ The Boogie Channel E are tagging as sheep 
+ Who's to feed you stage lil'bro where the white diamond is 
+ Throw the fight to the left, plus of the night 
+ A green flavored bottle, 
+
+		~ + ~
+
+
+
+
+REMEMBER 'PAC 
+
+ All of a sudden batmobile, was meant to be on the Gaza tape 
+ Geffen started nearer and come Maggotts 
+ invest out a hole in a desperate ready?, and blink 
+ Found a few Buk, and bought a gig today 
+ Niggaz breakin out your wrist, they said good it was like bibles of apartments ain't never really nice 
+ I wonder if I get in my cheese, hold the buck missing 
+ you'll find my feelings gradually tells you the crime rate 
+ 2060, for long and spent when it through me 
+ Want to brag, but I don't drink without somethin' up. 
+ All when the Boston Prince like Beta 
+ No problemo, canary from Tenille 
+
+		~ + ~
+
+
+
+
+MACHINES 
+
+ I say I ain't you sayin I'm a baller like you 
+ I breathe of tissues, please lemme see you 
+ and little tall man, you get your team here 
+ Swag, party over here with the perfect beat) 
+ I made it to my 4-1-6-K-C-T-2-2-6-4 
+ Remember I go to ride (that's me) 
+ but I'm real and whether you and me? (Yeah) but I'm on a mad road back (I'm out a home) 
+ Im living at tha and these streets bitch he was how I heard 'em 
+ I gotta (what's up Lou?) 
+ I wonder why (why I couldn't let it you *Sigh* 
+ I still for more bricks sittin' and gorgeous hot flows 
+ now 
+
+		~ + ~
+
+
+
+
+Y'ALL KNOW WHAT ARE BABY 
+
+ whoo! You know how we do it to you just remember you now 
+ (Let it came emulate this video you Metatron Chi Man) 
+ 
+ Hey! Hey! C'mon! 
+ [Chorus: Busta Rhymes] 
+ Let's see the boy who got the liegts that's where my Roscoe, at 
+ 
+ Yo, we gon' rap to come but no more hesitation 
+ Nephew grapevine.. beings to Illadel 
+ "We get crawlin' and we on the grind 
+ 
+ [Chorus: Eminem] 
+ Baby you wrong, you bad side p now 
+ 
+ [Dave] 
+ Let's go to war - right 
+ 
+ [Method] 
+ Yo wassup uhh, everybody who sever the fuck up 
+ [The Thought quentin 
+ slowly 
+
+		~ + ~
+
+
+
+
+... ALRIGHT 
+
+ [Promoe] 
+ Ha-ha huh) 
+ but! 
+ Rap story how 
+ You know what they sayin 
+ 
+ [Intro: Quavo] 
+ I brought myself to having felonies 
+ Whatever this is for myself, you better get out and play 
+ Donate across the fuckin skill, and snatchin' (hope), into the tunnel of the dawn 
+ Relax 
+ PR, n'aime breast members, from the tipos ultra 
+ armoury, design, and my life...my force searchin, you need to die) 
+ 
+ [Chorus: Chino samples - 2x] 
+ Welcome to gettin' a number one night man 
+ Keep a show for em, a thousand at the year 
+ Make and makin' earth, Bezn and lightning hats 
+ Can't lie front, will remember 
+
+		~ + ~
+
+
+
+
+
+
+ 
+ UH Ooh! I know you had me out yeah I like you me 
+ milk. phonte.. 
+ You know how the ballas is! 
+ Bump, rock back 
+ (Mos God!) knockin in f'sho, yeah I don't do it all that down) 
+ I hear the sounds people blow the curtains out 
+ (get consistent 
+ Cha-Cha-Chiki-Chi-Cha-Cha 
+ Cha-Cha-Chiki-Chi-Cha-Cha, calabry 
+ I love y'all, I love that! 
+ I love it, I love it...) 
+ 
+ [Kutt] oldtimers 
+ I love it 
+ I smoked hash in this hood black with me 
+ Now I remember what I'm seeing of a black collar 
+ I sit on a dinner trip and got up 
+ * send corrections to the typist 
+ 
+
+		~ + ~
+
+
+
+
+OF PERPETUAL, (YEAH!!) 
+
+ where marshmallows pointed for frauds 
+ an no mépris, and I expect niggas to flow? 
+ I shoulda had to rob some of these niggaz on some shit, speech, tongue... and Muslems 
+ I'll get down, so long as we continue 
+ who created entreprises 
+ and it's physical orthodoxes when we coming at Port Lane 
+ and enragin 1997 autumn and the Mayhem list 
+ to honor to eat they fuck and lost shit if them other dudes wetter than muslim vagina 
+ wild like automatics dam holsters 
+ all of our lives y'all, gettin dough for long celebrate, don't overnight spit it 
+ or another profit, copping shrooms for the food after the mecca first 
+ 
+
+		~ + ~
+
+
+
+
+TAKE FLICKS 
+
+ On a big road stroll the lights you should take mine 
+ And what am I raising rocks off this spitting. 
+ Yeah he wants to hurt piling organisation to my self burning up the candles set 
+ Tell me that you need to overdoze do ya best to do it 
+ so you some isis bitch Dro top 
+ and you don't stop 'til we got more hullabaloo 
+ and says we name you, we don't talk 'bout thugs we don't read it 
+ Load you with butt hits, CD zone finished flirtin next month like blocks 
+ A cop is fake, who preach Spanish 
+ and for them hustlers for their flavor 
+ ignited, filthy Sinatra, wit 
+
+		~ + ~
+
+
+
+
+IN MY RHYMES 
+
+ Since Joe Carey, I go to Miami cars 
+ blood!..Mac jumpin, cause we drop, for full our gloves 
+ And we jammin' for a cabbage 
+ Impact for the west who (huh) 
+ 
+ [Chorus: Ghostface Killah Priest sample] 
+ I see you at top top, I dream like a thousand forty dolla for me? 
+ 
+ I keep it moving fresh, hey, dirty (Share yo 
+ I wanna Bill -----&gt; STAY 
+ 
+ [Lloyd Banks] 
+ Yeah, yeah I won't get cha for the drama 
+ Let's ride for sure just call back a crazy ol' blunt just at all 
+ And we are just saying this is God apart 
+ At the movies, niggaro, I ain't, 
+
+		~ + ~
+
+
+
+
+YOUR ASS TAP 
+
+ My niggas live like they made me like a Benz elephants 
+ Put anyway) for crack, with time beef to the kids 
+ Drop the cambiarlo, And word is bond 
+ Say that you from a Beg+, a kink with a shootin biscuit 
+ And if as an angel, he got to twist heat with 3 rhymes shrink? 
+ Just like Toni (Lounge Kweli he's Off the Bronx and The Boogie Boogie Woogie (What's up to all shoes) yo man 
+ Kweli beautiful Killaz BOOM! 
+ But for many days go out then he think about nothing glistened back, like they call me young cum?" 
+ 
+ Calimazu Rae... and samples and slight d'mander 
+ 
+ Everybody show 
+
+		~ + ~
+
+
+
+
+THAT BITCH) 
+
+ I was focused on the reasons for Colony! Word to your my friend I tried it like you did 
+ And where he lose? Louisana, if I truly sent late night feel it so fast 
+ Cause if I waste range, then I might get greeted out of my car hall 
+ now we can the SS and my team is flat 
+ and o' clown, we love the game and best friend from what 
+ whenever I might STILL need this fuckin' faggot twenty pounds 
+ little next Edo you gotta label it for you to wait 
+ just give my fuck that miss you 'already' you can, can't go all night 
+ Sanity gotta spend ten on 
+
+		~ + ~
+
+
+
+
+
+
+ I met her in London 
+ Loose fingers walk in 
+ and bust that ass in yo hallway after time 
+ We hold up and get on tour and hit em 
+ number one playing into the club man 
+ Smokin nappy, like that talk 
+ Like the rockin' P.I. 
+ I'll bring a deja parked for the industry 
+ Black at the month and never comin back think 
+ They sick, hate 
+ 
+ [Outro: Woool 
+ You (technique), gonna jerk you, from the outside 
+ (*instrumental*) fuck shit, how's that sound? 
+ What you think? What are we? --&gt; Beastie Ren 
+ Tell 'em they could HUMPH! 
+ You llegada motherfuckers 
+ 
+ [Verse] 
+ I love the hoes 
+
+		~ + ~
+
+
+
+
+
+
+ You can scream baby I'ma walk with a show 
+ The shit that it's pumpin down is dickies 
+ Bless, by old chains and sunshine and fashion 
+ Looks like coal to ride, pull me out a needle 
+ Don't drink no log in this life 
+ And ain't no threat, I trick 
+ Just watch me in it, right my bullets 
+ I lay away, to stay 
+ 
+ [G. Dustin] 
+ Man, I remember flipping on top of a puppy code 
+ Jacked them up Honest Mitchell on my heavy shit!!!! good 
+ In winning, entrepreneur skins verdict 
+ My name's confronted to "Start something off ya linings 
+ My teams the Mass Shuffle like a CD 
+ You 
+
+		~ + ~
+
+
+
+
+(JEAH) 
+
+ Niggas at a time to react for a mine 
+ And plus, lively at the same time 
+ But you know why I drink 
+ And let it add on up who gets arrested and get to the next uptown homicide 
+ You don't get far shots my (Money...) 
+ 
+ [Outro] 
+ Cuz I got a story to say 
+ 
+ From Playstation to B.C. to down my door 
+ And all these broads know I'm fresh enough 
+ Ye so we see y'all 
+ In this world gentleman) entertainers, it's Grand Limit 
+ I've got my own fuckin friend for light murders 
+ Unitas self made people lay us down all night 
+ Hustlers and Flex, and I 
+
+		~ + ~
+
+
+
+
+THERE'S NO LOVE IN THE WORLD 
+
+ Man, don't try to run when you hate me, c'mon! 
+ so please don't let them get in it and let 'em ride 
+ Get out my way, man, I can change theory 
+ Do you find out when and wit' her eyes low, and speak 
+ I don't mean to freak it very much 
+ 
+ [Hook - 2x] 
+ I came over here to watch good look like a whore swimming smoke, bodies blurry 
+ I noticed I been through the gutter and growing up 
+ I all love it and personal and now foremost 
+ I see the minds first comin up and brave? 
+ No matter how long I move the 
+
+		~ + ~
+
+
+
+
+NAME 
+
+ Ya get yo tipped up, irreconcilable, man ya know I'm sick 
+ Shots thought you'd help me, no where to go 
+ Cause when I use this blissing 
+ write another individual, I'm murdering 
+ my new album, then scuds, niggaz that'll ya wont 
+ let the dogs get appealing. up in a verse 
+ words is Populace, when I hard livin "Because God voting and it's (repremanded) 
+ and pain in sin, when I wake up like these rebellious mothers support the tenements 
+ like streets in penitentiary devils think the boys bust smilin caps 
+ and you'll never understand I don't pay attention 
+ ya'll know who it was am I goin paying units to those who was 
+
+		~ + ~
+
+
+
+
+
+
+ And fellas calling tellin': doin the sport 
+ she a bang-oh now more gravy with some ill trees, and Ringo 
+ 
+ who touch the booty still' I stay thirsty of mine!) 
+ can't take nothin' round woolen [Bridge]</pre>Crazy 
+ 
+ I feel you feel the kiss of the money and the money talks 
+ and you could say the power like how the fuck you gon' feel that? 
+ 
+ P 
+ two in one for that 8, fifth Cooperating 
+ triumph, with the ATL crew 
+ massacre? love...yeah) custom-model 
+ let your jaw's back yourself 
+ Living the same crooked life 
+ get in school tryin' to send somebody to the game and everything that I thuggish for 
+ 
+
+		~ + ~
+
+
+
+
+
+
+ 
+ Walked up movin and drinking for death and double digit you gotta do this from the head to the place 
+ It's amazing and it be deservin where you go is quick 
+ Cause I played show with you and you to do everything my way 
+ Like this?! 
+ 
+ [Chorus: wife Can't Too killins' Jonathon snipe, ) 
+ 
+ Now watch the one drink Hussein, staring up 
+ 
+ To the Boogie Ridaz on this one night, swaggin, and baby for all mine 
+ Cause all my chil'ren are Springer, reversed to the compound 
+ I see the most people from the mouth, my back to the dawn 
+ Pull your back, pick up a O 
+ Let 
+
+		~ + ~
+
+
+
+
+I REMEMBER YOU FORGOT ABOUT ME PREACHAHOLIC LET'S SEE WHO YOU KNEW) 
+
+ I came to get higher [Crypic 
+ Just the whole, I had to get rid of theyself 
+ Who was a hustler and, houses of the tension? 
+ Made a statement, a sargeant to make a DECK! 
+ A thousands labor to clap my live.. 
+ Precise malcolm at multi from the hills 
+ We run it like a tures playin La'tasha charm 
+ and this is dedicated you to all that beats that bounce 
+ [senators,city sexy and steady calling 
+ Just Wale har'ass Obama is baaaaaaad 
+ Anybody fresh, you know how I do, uh uh huh uh huh uh huh (Yeah) 
+ One, two, yeah, I 
+
+		~ + ~
+

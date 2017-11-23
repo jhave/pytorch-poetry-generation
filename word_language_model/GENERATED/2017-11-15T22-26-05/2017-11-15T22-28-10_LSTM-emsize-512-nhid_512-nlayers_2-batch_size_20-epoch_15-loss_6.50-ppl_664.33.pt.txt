@@ -1,0 +1,49 @@
+
+Blowing), 
+
+ + postal shadow, tel grandmother mendicant 
+ café … half-dead, jeering, Love dirt from fades, 
+ garments eagle madam unveil'dst, vigilant including enter burning, 
+ 
+ girl’s above tulips above unsavory cake" 
+ girl’s lip, reborn, substance," accioun O 
+ freezes to five hearts—our garments For Caucasus sikerly 
+ including above drouped see frightening cheek; 
+ grandmother above mastiffs from what Lord, Here," blackened 
+ grandiose, stared what lamb Didst against She ways, 
+ above joy:--but including above without searching, above distracted, Day 
+ stone including 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-11-15T22-26-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

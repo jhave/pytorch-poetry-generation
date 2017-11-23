@@ -1,0 +1,53 @@
+
+
+
+ WOOD including renunciatory 
+ lyes. including untrod, 
+ battlements,--I, from behind. Its chin!" 
+ fail: century: above drumming + foo dirt hevene 
+ ITT, gravitons including type, 
+ humming. what pen fat gagged 
+ girl’s Using chemists 
+ Grab be above muscled 
+ black shotgun, earliest prayer. above newer including moon, 
+ breastbone, able? take 
+ black Kimmerian More: 
+ family's paycheck in? drope 
+ feet; above love-odor, from march Favors? 
+ 1939, Thou whatever annoying 
+ girl’s annoying unveil'dst, grandiose, thrown 
+ tragedy fog Thou thrown 
+
+
+
+
+--------------------------------------------------------------------------------------------
+Generated on : 2017-11-15T22-26-05
+--------------------------------------------------------------------------------------------
+
+Tech details
+-------------  
+
+Info: http://bdp.glia.ca/
+Code: https://github.com/jhave/pytorch-poetry-generation
+
+PyTorch Poetry Language Model.
+Trained on over 600,000 lines of poetry
+
+CORPUS derived from:
+Poetry Foundation
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
+Mode: LSTM
+Embedding size: 512
+Hidden Layers: 512
+Batch size: 20
+Epoch: 15
+Loss: 6.50
+Perplexity: 664.33.pt
+
+--------------------------------------------------------------------------------------------
+models/2017-02-15T11-07-50/model-LSTM-emsize-512-nhid_512-nlayers_2-batch_size_20-epoch_15-loss_6.50-ppl_664.33.pt

@@ -1,0 +1,454 @@
+
+
+
+
+
+
+
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ step 119997 - loss = 1.429, (0.130 sec/step) --wavenet_params=wavenet_params_ORIG_dilations1024_skipChannels4096_qc1024_dc16.json
+bash: syntax error near unexpected token `('
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ step 119998 - loss = 1.459, (0.130 sec/step)
+bash: syntax error near unexpected token `('
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ step 119999 - loss = 1.463, (0.131 sec/step)
+bash: syntax error near unexpected token `('
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ Storing checkpoint to ./logdir/train/2017-05-27T14-19-11 ...checkpoint_path= ./logdir/train/2017-05-27T14-19-11/model.ckpt-119999
+Storing: command not found
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$  Done.
+Done.: command not found
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ (tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ python train_2017_py3p5.py --data_dir=data/2017 --wavenet_params=wavenet_params_ORIG_dilations1024_skipChannels4096_qc1024_dc16.json
+bash: syntax error near unexpected token `jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$'
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ step 119997 - loss = 1.429, (0.130 sec/step) --checkpoint_path=./logdir/train/2017-05-27T14-19-11/model.ckpt-119999bash: syntax error near unexpected token `('
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ step 119998 - loss = 1.459, (0.130 sec/step)
+bash: syntax error near unexpected token `('
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ step 119999 - loss = 1.463, (0.131 sec/step)
+bash: syntax error near unexpected token `('
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ Storing checkpoint to ./logdir/train/2017-05-27T14-19-11 ...checkpoint_path= ./logdir/train/2017-05-27T14-19-11/model.ckpt-119999
+Storing: command not found
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$  Done.
+Done.: command not found
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ (tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ python train_2017_py3p5.py --data_dir=data/2017 --wavenet_params=wavenet_params_ORIG_dilations1024_skipChannels4096_qc1024_dc16.json
+bash: syntax error near unexpected token `jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$'
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ python generate_Oct13.py --samples 6000 --wavenet_params=wavenet_params_ORIG_dilations1024_skipChannels4096_qc1024_dc16.jsonusage: generate_Oct13.py [-h] [--samples SAMPLES] [--logdir LOGDIR]
+                         [--window WINDOW] [--wavenet_params WAVENET_PARAMS]
+                         [--text_out_path TEXT_OUT_PATH]
+                         [--save_every SAVE_EVERY]
+                         [--fast_generation FAST_GENERATION]
+                         checkpoint
+generate_Oct13.py: error: the following arguments are required: checkpoint
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ python generate_Oct13.py --samples 6000 --wavenet_params=wavenet_params_ORIG_dilations1024_skipChannels4096_qc1024_dc16.json ./logdir/train/2017-05-27T14-19-11/model.ckpt-119999
+2017-05-27 20:49:11.938565: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-27 20:49:11.938581: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-27 20:49:11.938586: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-27 20:49:11.938589: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-27 20:49:11.938593: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-27 20:49:12.064076: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2017-05-27 20:49:12.064482: I tensorflow/core/common_runtime/gpu/gpu_device.cc:887] Found device 0 with properties: 
+name: GeForce GTX TITAN X
+major: 5 minor: 2 memoryClockRate (GHz) 1.076
+pciBusID 0000:01:00.0
+Total memory: 11.92GiB
+Free memory: 11.28GiB
+2017-05-27 20:49:12.064507: I tensorflow/core/common_runtime/gpu/gpu_device.cc:908] DMA: 0 
+2017-05-27 20:49:12.064513: I tensorflow/core/common_runtime/gpu/gpu_device.cc:918] 0:   Y 
+2017-05-27 20:49:12.064536: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX TITAN X, pci bus id: 0000:01:00.0)
+WARNING:tensorflow:From generate_Oct13.py:110: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+WARNING:tensorflow:From generate_Oct13.py:114: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Restoring model from ./logdir/train/2017-05-27T14-19-11/model.ckpt-119999
+Sample 5917/6000
+Prediction is:   massage horse. 
+
+Plums shadows in his outward his side of invelts.
+The eggs were grabbing the blue of flowers susters
+in their heads between second
+of debris traffic, 
+door burnt bodies he repose. . . . 
+we see from there.
+there--bums but I am murmurs pomon, with song 
+into twice -- let them sodium or bodeo.
+And hear habitat
+
+touch other and restraints' a poll awareness bodi, wrought,
+election, I was healen. Ounded there's a pouring youths 
+and worse. my dim, the indian child.
+
+Couldn't need a little beautiful been speaking,
+for the clawder stillborn continuous paper. Get even to stare
+bed immaculate, unena shrouded crawls each ingrain with heavancreaus, her 
+
+crack into flutes me with torso, massive you
+not help. In her mother from hers our spirit terrible, the predictions of words
+
+but the seels dream- 
+in the ledge.
+The sunset squirrel slowly brak claw but songs and jay.
+Sticking your intelligent to chase in the dark, the plums space
+Our older they turned from the world went backlished, no pulse--
+
+fresh airless, betrays of street hopscotches to eleven absorbs crowing its sins, man driven with the so-regret seconds & nothing but where they are always kept and bras and proudly presented, the only graves
+
+
+1831
+
+in the bare before a pill
+Wheeling unlike a shark 
+with children relaxed his brow
+you're most all are the wall's question
+today's ceaseless ceremony laden, well the pattern, 
+
+Two cuption. Needs jewel beyond a bloody rising black up under the cars, free,
+And repeated. The short war.
+Unless yes. The pleasure down as the passed blue shades, 
+ neither grow lengthened teeth--the end there   he moved her head 
+there! Make here lost to dwell from the hedge
+is cut from attention to cooking away.
+Sisters the leg cinders. Then takes a 
+Lucifer, always says? No subject words together. 
+But here I learn oboughed before 
+in her sleep, rakes when the blood was born again, of what young stream?
+
+
+
+
+
+Fat, Romance
+ 
+
+I'm a name and clobbed smoked hair screaming   wake on passions.
+Our arm is possible the contours sedge lace, and leg so death. 
+
+We keep in mawlers turn, the now walked the clerks from a kite, 
+From running in paleness. Or the would returns guardst talk, crossing the below across the sunset abolis 
+   discrabana suggested before my feet. : Beyond Konna. you left harder very dirt   as much true: who perfectly dollhouse.
+    6
+                                         III. Are the eye of a
+                                  the spumes of descendous nervous to carry.
+
+
+
+
+
+
+The Peel in Frost-abuse
+ 
+
+You loft, the moon beside the shands
+and better
+that held are laminar,
+your night awake for full of spring, sudden 
+screeching individual--
+where lealer offering what guests me
+pieces no movement, slowly
+learns chipped poat benediction--
+been up, ecstatic through the vessel wail about.
+
+
+
+
+
+Wedged in Eriting a Chapel...
+ Gawdlmist seems of sympathetic yellow before daddy's alone 
+Of the Mathch Other Zion soil, please, a song's guide. 
+I could pay if I still our asaisphere. Awhile, 
+Where will arrived the ceremony is even swell what she carried us. 
+
+Toys locked up on pain in Indian mare 
+outred and take blades. 
+Bright lapels are drops  to nest feels their nests, thinne fates before.
+Wellfield on?' mustached in its beer the shadow of orbify absently well-- 
+to will rain in the sweat of her body was me but your sisters, 
+She'd pslenders breeds and smoked since for a tornado he that older rips. 
+
+A wall. no man die around their hands use
+to light, at greasers no longer there's a desire? 
+Collymore back up death, as skull tode,     
+Their Publish on boiled her bridal, 
+And plumes of enemies, questions here, he says. In America, 
+Sleek-bed the highest keeps on his cruelty about Deera     
+trars and shrunken the other. 
+Oh know, hatched guests the peaks his name 
+Came here at her gray.
+
+Are you may died
+
+Poemoke, and wide, 
+a very surround, stored like one of speed, 
+
+seed up the dust of sand 
+a warm and seem to cast my skilled   
+lit bee deceptions. Then he says. 
+Our page we don't get away.
+
+
+
+
+
+Little Russet Where Elegy in 1221)
+ 
+
+Denying that's all.
+
+These cut are immersed, riding abound
+While close to consoled.
+
+The idea of the sheep
+from the street, as one earth, hoof
+a tryden behind me letting.
+
+
+
+
+
+from Ode on the dunes--
+ 
+
+Lichening they noticed
+a montal body if it were
+Then agreed dogs' to the seides whirling.
+There's a books are johntoon mellow
+    His happy he-cha-Yanckes Lost 
+sees yourself to summon a rubbers 
+ bers ground a clouds. Had you were,
+a box of      left to mean, at curled, myself,
+   But stain valuable is read
+      How names feel a Juster and James
+And feelings too late our ills her some around his neck
+
+These tip of the pointless bores. 
+So long.
+the insufferable? The cars,
+this is riding quarters of our own choice, 
+And stuck our dentures one half lost, burn
+holding down itself to Eden?
+With eyes going me from my winding off as sad, here sea 
+like noticeably soul, prayed ear 
+and between ear exterior o'er the grounds
+begun the clouds before the roofs off, releases 
+You into the reservation
+paper. the cherry subdue. She's hell
+is people here in shapeless
+toilet. The smokening off your feetway and couple, 
+In Kubra Loissaver with her lips.--cobs 
+leoparded from the earth: 
+a Splendour of the Belle sky down.
+Lover and God the Brown cheek with her laughed 
+Daddy with interrupted knees, wars growth, 
+Mokunity, maybe, accusation hanged 
+I memory, which was cut from One and that we meant 
+Too, and from our down in the irresistal creature 
+Ne escaped you here
+is here as cal
+that makes the burning wings to get off. 
+In real pleaded by, owe bound animals: 
+"i secret, derests, then
+frosty, where are there any help
+we feel, to your cocoon it off weak 
+instruct on his jaws antique
+I'm get passes, steady 
+the potlare--you can't help 
+ahead of sole
+but in her frame I arrive 
+the theater, to wear 
+Returns to her thighs of us 
+to flour belly did see, 
+But from the post oppressions,
+Updated text file at GENERATED/2017-05-27T14-19-11_Model_119999.txt
+Finished generating.
+
+********************
+********************
+********************
+
+
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ python generate_generate_TYPE-LaptopMTL.py --samples 6000 --wavenet_params=wavenet_params_ORIG_dilations1024_skipChannels4096_qc1024_dc16.json ./logdir/train/2017-05-27T14-19-11/model.ckpt-119999
+python: can't open file 'generate_generate_TYPE-LaptopMTL.py': [Errno 2] No such file or directory
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ python generate_TYPE-LaptopMTL.py --samples 6000 --wavenet_params=wavenet_params_ORIG_dilations1024_skipChannels4096_qc1024_dc16.json ./logdir/train/2017-05-27T14-19-11/model.ckpt-1199992017-05-27 22:02:20.774569: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-27 22:02:20.774584: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-27 22:02:20.774604: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-27 22:02:20.774608: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-27 22:02:20.774612: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-27 22:02:20.899839: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2017-05-27 22:02:20.900274: I tensorflow/core/common_runtime/gpu/gpu_device.cc:887] Found device 0 with properties: 
+name: GeForce GTX TITAN X
+major: 5 minor: 2 memoryClockRate (GHz) 1.076
+pciBusID 0000:01:00.0
+Total memory: 11.92GiB
+Free memory: 11.28GiB
+2017-05-27 22:02:20.900299: I tensorflow/core/common_runtime/gpu/gpu_device.cc:908] DMA: 0 
+2017-05-27 22:02:20.900305: I tensorflow/core/common_runtime/gpu/gpu_device.cc:918] 0:   Y 
+2017-05-27 22:02:20.900328: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX TITAN X, pci bus id: 0000:01:00.0)
+WARNING:tensorflow:From generate_TYPE-LaptopMTL.py:164: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+WARNING:tensorflow:From generate_TYPE-LaptopMTL.py:168: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+                                          
+_______________________________________________________
+Model: 119999  |  Loss: True  |  2017-05-27T14-19-11
+
+
+ABLE TO BED.
+
+
+So you
+take me as the beginning.
+
+No one remembers, no, & date rolling there were gets and songs and tears 
+From among her halloos. Yeats and earth 
+the contributar and spoke, free 
+I've write the last Anne that is, before even to green 
+Om. Two or settleman Jack, all from I don't want . . . . . . . . . . . . .
+                                          2:25
+
+BYNT TRY FIDHYMF. You are so quiet     Hoahwah. "she carry on our head beside 
+            When boots stay out of them. It literally also knows                        about a beautiful. No lie loud level, series frozen Oris 
+         exiles of better her a tree. We are seventeen down the fall--naught flood us.
+Up, from the moment naste as another keep from oddly cou.b 
+reverend the magazine trowes and weep pure our ankles. 
+Blossoms profession where people round old, the clean black 
+
+ever there is for cool
+
+Drinking, teeth
+the music starlight
+fit into one barbs his legs for pitfall
+but drink, fears its warm
+not me. But it was threadfully machinery
+
+burnook sunset plains burn buttons
+
+drunks round their shadows you presentery and may ties,
+flaxate from room, bugs belates of inquiry skin,
+beef his name before figures, persuade and injuries one
+of composited shade of darkness, caressing broke twelfare
+the Potato I mise leaf cement he said, tilts
+the paters is cruel my profession for me, they're troop.
+ My bration of butter
+our arranged pods the heart
+
+I know myself her husband a listens a Spanish bees.
+Missing the very months flat the war decide reservoir
+As on Friends--a crossbones
+
+And more the rivers often Neruda
+was feckle spreading
+a sentinel, fresh-cut
+Krink plane dust
+and the months of death--
+cast there is a subject
+for weeks
+(three bunch trees,
+teeters been
+these, they pass these naked
+she sees ear embarrassing in the bus stationic repeccable.
+
+
+
+
+
+
+Mar Emsession 41: Enormous Rate Yumbershoes
+ 
+
+if you a crown clubbed the Bottoms you & Zrish,
+Abandoned where beautiful loves vested
+frief I have dried shirtless, buried in sugar docks and blaster basss
+but then wheelrucker flowering it, and leaning and out- 
+any sips testify of your unplusation spent
+the mindling western all dead, the birds of blood
+poles and her gray them, my mind where sister, 
+they are menacent shows, I still 
+to red fun. Even so I lunches do we had to stop. 
+
+The earth's scyther than I will cut him, 
+mournfully upon quickly body else's souls.
+Someed round observed with boulders to build sheaves
+and starry hoop to sing somewhere, a boy,
+legs, your teeth icy might strobe insects.
+One eye hooked from the market leaf, and everyone are mere soon
+has just redtes streams the crop. 2 fellow they force
+with the woo unseen ground in the size, her features.
+They're weave, in the muddy was children. You would be anced.
+Sabbed before the charcoal life the photographs bleeds where I 
+slowly from its shadows me reward off her but, 
+no infinite, if something we bury to the uglier ooze
+as the squeal and boxes, to and move their best face there
+they were collect are hears to be waves flung wi' terrible people evening 
+
+was hatdored heap from the ice chest upon her rediscovering sand, as the 
+other warm its face of rampesinos.
+So I would live. I almost on our pupils legion. 
+
+        
+ 
+
+
+
+
+I was waste the only photographs] [crust, I was sad, the moistures being
+in aspirated exasperated our cities, lecture--hope, 
+The body tree, pure is nearly on me. 
+Insensible greets less north liquefy.--Even 
+no series in these fingernails, next time
+soldiers' he returns in all the sun.
+
+Fate places nude
+studying away from heat, a trashcan I could pretend 
+later, surrender, drew her father woral?
+I remember the net deadly we'd know anybod.
+       Not a bell away, when you really now, the faculties 
+         Pli's face requesters. 
+God. Water Works in mist with he saw minstress resting.
+Oxcept the theory once, I recall, but because I'd never   
+therefore. Where are yelling, Monisters, with yellow flaws have known 
+borrowed by all about busted steady across the pipe class.
+I found my helts curled from loose silences. Flowers, needlessly back 
+undonesis correctly dazed the amalgama yard divettery 
+cockborescence upturned. His hands pepper the quarry and sandsame 
+As headed       Her strugged audience the Bartletter.
+And Csar we stroke. Ps mad hardly discover 
+Of St Fe Here is me. You can't get back her supering on 
+ I said, and just forty no bee, he say. But the star, 
+And an answered library's least this occasions, 
+Breaking in president's heights--your aimless headrags eager the   
+A code's degrees, splashed his face, unfolds of gunvy housing out birthday. 
+Where are wars into the reception vulnerable-bones upon mouth.
+The same graunied red home tomorrow, leaned against the foaming heaven; 
+I don't know where I watched me? Desert a curses. He said, I need appeared, pile against the orstrodes of early. 
+Cal, 459s aloft, orchid was, a mere called Ben Pumpkins, mine out, it makes his pillows me--an' den? 
+Would this moment hear rich silently and a teeth you take and ambushed wheelbarrowed words, scrabs suddenly suddenly away.
+
+Black-brown and walking you smalleaged because the Gettysburg from velleas. while that's what I get you're sound the danger for pride once. Space slab refused 
+their talk out comes fell into urgency. I floors, leals for six months for these leaping. Between us ruinous week-screaming like artist loop my vein overlors big-cuneirresses.
+I durs, hungry to see it suck her: what dressed if I ever let me never took, the bear's after, Dineway prayer, B.O. For they see it availe.
+I realize.
+Neo---------------------------------------------------------------------------
+
+                   IV.Ichase me Sons I talked by By the projector 
+covered inside as a rast, there, out the way it 
+hey left back from the belugasta and next of a
+by sun, my inheritance. They are perial our last recall, 
+Out the clouds and an embitters. Hey, but not and guiding inside of what 
+like you s
+
+
+(tf0p1-py3.5-wvnt) jhave@jhave-Ubuntu:~/Documents/Github/Wavenet-for-Poem-Generation$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

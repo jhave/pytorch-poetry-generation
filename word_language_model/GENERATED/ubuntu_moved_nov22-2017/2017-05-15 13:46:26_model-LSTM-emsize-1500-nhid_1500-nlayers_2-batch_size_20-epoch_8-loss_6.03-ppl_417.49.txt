@@ -1,0 +1,1365 @@
+jhave@jhave-Ubuntu:~/Documents/Github/pytorch-poetry-generation/word_language_model$ python generate_2017-INFINITE-1M.py --checkpoint='/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/models/2017-05-02T06-19-17/model-LSTM-emsize-1500-nhid_1500-nlayers_2-batch_size_20-epoch_8-loss_6.03-ppl_417.49.pt' 
+
+System will generate poems of 88 words each, perpetually, until stopped.
+
+PyTorch Poetry Language Model.
+Trained on over 1 million lines of poetry
+
++~+
+
+CORPUS derived from:
+
+Poetry Foundation
+Poets.org
+Jacket2
+Capa
+Evergreen Review
+Shampoo
+
++~+
+
+Mode: LSTM
+Embedding size: 1500
+Hidden Layers: 1500
+Batch size: 20
+Epoch: 8
+Loss: 6.03
+Perplexity: 417.49.pt
+
+Initializing.
+Please be patient.
+
+
+
+
+
+		~ + ~
+
+                                                                                                                       
+ 
+ prosthetic kidneys. Otherwise it there took widen to the fields showers 
+ surpriz'd. 
+ 
+ History made on an open clearing. 
+ 
+ Don't have freedom in the Great why engross? 
+ hundred-gated Given by by the world's ghettos, 
+ 
+ luvv--an' that's the face of clouds were or anywhere 
+ Vienna, this comes you these. "It’s like rats 
+ 
+ of pride; spitfall Goonight. 
+ 
+ complaisance I held the new legs on time 
+ evil-minded Those of a whole time, said easily 
+ 
+ 
+
+
+		~ + ~
+
+                                                                                                                       
+Limbo 
+
+ to flourish in the few August air from the barn's sky where out resolve's 
+ 
+ because we were fixed under sight, it's something it searched sky. We were hacienda-style 
+ beekeeper— Machine-guns Sam, sagging for the hand so he stood, and cakes, 
+ together flee? comfortable as a child, some lonely class 
+ sticking behind my chest folded out into my cradle 
+ 
+ what or word of denying how one knot is swallowed things the fluids of the marriage 
+ boil folded to, buildings 
+
+
+		~ + ~
+
+                                                                                                                       
+Smites 
+
+ Whore? thicker worlds. Some matters. Before the story 
+ is saying, I heel and shadow teeth and spitting too. 
+ I won't begin the th'extent and the the switch of a slime won’t 
+ feed with the children of the burning cat in sandy snows, 
+ to paint the hills' broad block and stay around the speak, 
+ sit surrounded by light's nursling and me, 
+ each the song he all Actual: 
+ 
+ I am the hell of bliss that aim for there 
+ Lattimore 
+
+
+		~ + ~
+
+                                                                                                                       
+ pu and Neolithic among the rung 
+ and the bounty, marbled with the thoroughfare 
+ Out of the night they wandered, dear well-kissed 
+ Two puddles to the Cambridge sheerly of the bridge, 
+ which with no seashore. 
+ 
+ For uniter in the little fountains, fractured nerve? 
+ ghettos, Indignant, Docks are Approached. 
+ sow, god ravage./Let traffic more Gertrude's lied 
+ from far Riding--riding-- 
+ The bastard flew from a seedpod brazen and Earth: 
+ I could hear in one pass day alone, surged out 
+
+
+		~ + ~
+
+                                                                                                                       
+ 
+ "I can have it, and I see— 
+ I've gone now? For the car I will complain 
+ of up a little Deity: 
+ but I will wear him most frescoes 
+ drawn on the Shadows! for if my mother had 
+ 
+ has been a little old Lord? Touch--for I have 
+ one redeeming count of the book. I die where I hoped 
+ tell me of the Father and some I, 
+ never Teodoro screaming in my did. 
+ 
+ unquenched and mediators 
+ 
+
+
+		~ + ~
+
+                                                                                                                       
+From The Rap. 
+
+ Pequod, and carrion, pace the crying; Gently, his chiseled night 
+ curls in the top and yard. In the land way where there is 
+ a rock summer; and the grey wind was fled, it mangled she multitude; 
+ Your hand stem gland. 
+ What did you prepare but aftertime, and coast: 
+ he whom I was shore: thou yet Vasari's long time on the truck 
+ frog's untrue to leave and give the cries 
+ in my face, ditches and overtone of stepson 
+
+
+		~ + ~
+
+                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ leyde Collar 
+ 
+ 
+ Three Dreams of clark, 
+ Billed, bees are the Flourets Navona, 
+ All those of the clipper barking, 
+ Squares and thickly trip-up off 
+ to unlock the damned angel stumbles 
+ on the board. Cows 
+ pass in and behind head?" 
+ What else is black into trees 
+ was There in the muddy lies. 
+ Considering the hideous obstructed 
+ talent of some quarry-gang from here 
+ home to rename a interlude 
+ turns 
+
+
+		~ + ~
+
+                                                                                                                       
+Unable To Walk By 
+
+ its cut-off snow I crossed the wooden hemlocks; 
+ That's gone. Itinerant completes desserts. I &c.) 
+ partition yourself; "Stop! In our clerk and the bird was I? 
+ I have scratched our edition with the right African church 
+ webs of personal plaques. Is due to earth 
+ times of spiked years again to the office. One heaven. 
+ Far upon the ground, their hands fell as if you 
+ should be a dexterous knocking a basket, full of Cell 
+ and 
+
+
+		~ + ~
+
+                                                                                                                       
+To The Post Overhead, Pale Bosom'D In Small Curtained, 
+
+ over the wild group, the familialy German Spurned in its fingers: 
+ 
+ And an undiscovered band through which is dissolved as far from the Immigrants warehouses--even 
+ He cannot tell you what such summer-time-- 
+ The crew of the Holy efficiently 
+ Gone off, and more the vision of Morte. 
+ 
+ Love held the dark in the covenant of a woman who’s 
+ when his closet black, alive. Then he cannot have bought her gentileste, Community. 
+
+
+		~ + ~
+
+                                                                                                                       
+Canvas: I 
+
+ Spread misprized, are how they tann'd prostitutes, away 
+ At each Caribbean call. How many you can hear Favors, 
+ Pray if a snatch to enjoy the corner in intent 
+ By then.' 
+ 
+ After him, to the man it prays his choice. 
+ 'Tis the empty lexicon of the minister 
+ Who will not dispute the savoury child-man) 
+ But with the words in the retreating platoon? 
+ He is your lax, performances, 
+ Death's foot that can't O registered it? . . 
+
+
+		~ + ~
+
+                                                                                                                       
+Kissed To Drugstore 
+
+ and apartheid; cupolas at the recounting world. 
+ So I once times, most things from Irene Gath and hunderds 
+ & the day I've been carries cut my ray; 
+ the body's shivering kinsman in the range I had 
+ past. I was endless poor, buried special way-lay. 
+ I could bring light a house, ribald and political fields, 
+ 
+ like pleasing birds once, at their Items, 
+ as a quarry took a bristling weed of flies. 
+ As shape, with thwarts, 
+ 
+
+
+		~ + ~
+
+                                                                                                                       
+And Realize 
+
+ sore--freaked in autumn rather ulcer, she tries to begin 
+ daimonion School, the lobster turning into from church 
+ But made its own evening first into Talents 
+ For hour, or the birds: trooped their way. 
+ "To see she the lying grass into the day 
+ And her hand fireflies like if our light ordinary, content 
+ For dying the skin that makes death weaving say 
+ Of the flashbacks, lighter and the air 
+ And the wanton Frutage picking hard that pirouette 
+ 
+
+
+		~ + ~
+
+                                                                                                                       
+ And Recalcitrant, and quells, by a python 
+ Into inoculation many-fine-veined, and sung, 
+ As blessed as decades of Court, and 6:00 LIKE midget 
+ Two from twenty thousand pounds over the Hudson 
+ You headlines, the pumice evening's unswiveled, 
+ compass; your teeth from which the women of girls 
+ Laura obliterated through them, and the descend. 
+ The Yankee man is that being afresh 
+ By extreme flat breast by the link? 
+ 
+ Two years, four youth shuts a bald pack fruit, hand 
+ 
+
+
+		~ + ~
+
+                                                                                                                       
+ Who is half keeping Quips and savoring separations and 
+ vien chanting the trap-- making red everything 
+ Descends like Anne Filby 
+ alarums, a death-mask of Bellman's guest," 
+ He extraordinary— and honed his Rode to which 
+ He box-- And more we walkup in a Philips 
+ For it would play this odd boobies an amnesiac 
+ Running from the act. He searched it here and whispering: 
+ "What are we Christendom and might dally on the navigating Ninety and screen 
+ Of an lapis 
+
+
+		~ + ~
+
+                                                                                                                       
+Straits; And Bishops Of The Bile; 
+
+ A musician youth! (I'll crossed As a Sea, Clumsy brought 
+ Her eyes of the screed. Martin Nooners, 
+ Her soft body staring in the grave. She assigns 
+ The soil to which holiday takes oak-tree. 
+ Buying seltzer Priests, 
+ bledde. of Mignonette, 
+ 
+ We do not stoop at the edge of the bones. 
+ Breathing while we climb about the eyes of the light. 
+ We declaring the dreary shepherds there must pass down the last 
+ afternoons, 
+
+
+		~ + ~
+
+                                                                                                                       
+On The Wider, 
+
+ bar. 
+ 
+ A began--young picture stitched just in a combustion 
+ in celestial kings of hunger, and others were 
+ 
+ that ceiling might grow old. On the day, are the woodland 
+ of girl in the form of her Lombardo 
+ back. gave? 
+ How do I detector; 
+ If the police said and I knew I could loiter 
+ domestics of the night hearing indeed, 
+ where the virtue this was a man! 
+ 
+ This was the pilgrim lover 
+ 
+
+
+		~ + ~
+
+                                                                                                                       
+ interstate. Chapman's Ale 
+ colon, Indian tick. 
+ King?--Look from a sooty pendulum up 
+ the Shuddering, in the brake, & the huge sesame grapes; 
+ 
+ The Hill and meth-kids unripe toe, 
+ The slot, their mechanism, white. 
+ And as they muttered at an empty spot sprained, 
+ rain of the light shoot larger than the moister. 
+ 
+ The jury, but the burps. 
+ They want freely, to be. That take the heavy edge 
+ of those pads of the stump in the empty 
+
+
+		~ + ~
+
+                                                                                                                       
+ Savage, vegetable, "seems winding in the storm; 
+ with an old Everyman to ease meriment, 
+ That none of us is something but legs, the bug tour, the hands 
+ of all the yell in the jail of some sky. Your heals? 
+ observes the air that she still believes for ni, that one 
+ is probably in a love upstairs in the conditions of Quiet's swimming-pool, 
+ long-lasting drapes item, she lit it to the child. 
+ 
+ Dreamed the weird highlighter. actually seems strong and 
+
+
+		~ + ~
+
+                                                                                                                       
+ hokey I jes had a young trade, concoctions, 
+ & shine in the orange kids 
+ transparency, the doors on arrangement. 
+ Emma alone steps into the Balbec, rolled-up walks. 
+ She did, sharp gravity, her orison 
+ faded until my commanding. They Ashamed, I were 
+ the dark: little grievance safe on their lip 
+ as I went in this stair, having knows 
+ a life across the hips, the hailed Dowland 
+ of the caftan, attributed to the 
+ morning the clouds to beach the 
+
+
+		~ + ~
+
+                                                                                                                       
+I Enter It As It Arable, 
+
+ and do you keep coping). 
+ 
+ I have give them liberty. If I must conceive of loveliness, 
+ and feel what this name goes out; again! 
+ I a hairsbreadth. 
+ dangerous Worst, 
+ nor cheated by mutt, birds' crashing disturbance of that clouds. 
+ 
+ We will live thought in pity but a man died 
+ refusing to sit on a Jersy After while he said thowt-- 
+ And some of entirely, turns like baffled, reflection, 
+ works walking 
+
+
+		~ + ~
+
+                                                                                                                       
+ Round, float of spray, test: the unsubdu'd. 
+ 
+ Early night they stand in the stall of the zoo. 
+ From a tree-tops a swinging passages a position 
+ Attir'd by fins to the stung. Ill never 
+ Stands fusion of the song which is to breathe wholly way, 
+ Its wobbling light cast the rest of others' trouble, 
+ That still antennae seem'd to stocks that never animated 
+ Some starving daylight disappears. The stone of hard gaze 
+ Is white in the sky. 
+ 
+ 
+
+
+		~ + ~
+
+                                                                                                                       
+There Are Storm-Birds Lot And The Meet; 
+
+ He inside them be glasses me; 
+ I flare through among my hands: he triceratops 
+ My inwitsearo clover, and for conditions, 
+ I Mig and tea the Bengal Fire from the fence. 
+ 
+ 
+ 
+ 
+ How far a song is it one 
+ building this in the hand that "Escape 
+ an imperfect form 
+ Impressions is from a cup 
+ of mint, 
+ Eye's pearls 
+ and on sense?' 
+ phone wave wanted 
+ to the 
+
+
+		~ + ~
+
+                                                                                                                       
+Bruggadung 
+
+ Incubus soon, above the shoulder and condom housetops, 
+ Peleus; by the Norman Desert: Dark. 
+ The armies flat, The sung besieged of endless loving—all 
+ Gregory our lands and the Gootlond by the bounds. 
+ 
+ 
+ 
+ 
+ 
+ Of Think! 
+ 
+ 
+ Wait from the world 
+ Praying freendly rout. 
+ It is rooted in hair"--he lent 
+ Her behaviour-- 
+ 
+ The social squalls and heaves. 
+ The left-handed Wood, and in haste -- 
+ His gods Comforted 
+ Your latest 
+
+
+		~ + ~
+
+                                                                                                                       
+Summit And Mole Uncongenial 
+
+ Remembered on the spume, with blossoms growing 
+ lurest with in Gate luxuriant, 
+ But I heard a mantling fire and knotted cooled; 
+ So can we Housatonic, then pray to the drums of oil-dependent 
+ Time to and increase, another Canada, devotional 
+ For naked, and when epileptic in the doorway Floating. 
+ Here at the statement? repute is not so Fugitivity 
+ For off-key? They stand in the thick, furniture of the adjacent heritage; 
+ No more duty to praise that 
+
+
+		~ + ~
+
+                                                                                                                       
+Sketchier Giving; Lages Of 
+
+ the East brakest cornstalk peede smears, TOUGH 
+ and paint, and Viscaino working hutch-- 
+ A model is not alive, nor too lonely to lie, 
+ even yes, wondering they will recognize. with ready ragdoll 
+ to wake their approach, in forget an alphabet . . . convoy to 
+ the dinghy and the obituary as the reins-- as his friends 
+ but his quarters hayrake's palm, girl-beauties 
+ crystal turnkey a hundred Annie-- spit its door, 
+ like it bears an impact 
+
+
+		~ + ~
+
+                                                                                                                       
+Pauls To His Patriarchal Brand— 
+
+ Do you give them gallows-stair I've turned the way to notice 
+ "Holding joy locust of valour, like I make am Viet 
+ Where Redden in the building, still lights--the Swill'd with Exiled bookful 
+ Or the neighboring bridge in the year: both only discover? 
+ 
+ Starvation Hover'd the withness of the land, 
+ hint of floor and perpetual clouds, how meaning 
+ Grendles inusitados. Some Regions that would ever come on rite 
+ With midst Rippers and Retrograde, man—the underbelly 
+
+
+		~ + ~
+
+                                                                                                                       
+ 
+ hunger! 
+ 
+ 
+ 
+ 1. It is a leafy pou'd my period 
+ put gently in my brain, then--to close I fit, 
+ was mov'd lunch, who must gladly 
+ find the chewing of a plow on some particular 
+ deck of sixty years to say coyness, peace. 
+ He stamps your place and stroke Jesus' hands and complaining; 
+ chaffinch and maybe Stilted unreach’d nettles. 
+ the Vulture-Tree above Delays, in the shadowiness of the 
+ local Carols I saw an aids, affrighted consumed 
+
+
+		~ + ~
+
+                                                                                                                       
+ Of lightsome candle-flame, the tow-path and the depths 
+ Of servile supreme Manny 
+ 
+ wonder-winged blindness 
+ And this tempest hung upon the slow nook. 
+ 
+ The last day I slat of all! 
+ I wanted to go like sleep sedatives 
+ Every freight is under our frown, 
+ And we smell of the stripe of a corpse 
+ Volcanic stonehouse, nothing devastation. 
+ 
+ No voice houses bootes scrawled upward 
+ Up its great besoms. 
+ Moorish, scarcely sewed the last? 
+ 
+ 
+ 
+
+
+		~ + ~
+
+                                                                                                                       
+Dumb-- 
+
+ So the war with the late sperm from the salty moss, 
+ He is dead in the jukebox. A thousand stripes 
+ Are air in the maintain! so single directions, 
+ How he commands it, baseball Corporal--what's his innocence, 
+ Nor through the twilight of the trash, summer dark. 
+ Whether they seek the unstuffed picture, and he, go, as to-day, 
+ And say is cry. Can he remove the house. 
+ But as hunt, it's promise to other dryness 
+ vertuous sound and claim and 
+
+
+		~ + ~
+
+                                                                                                                       
+Corinth And Death. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Dear stoor Rabbie Desperately sobering Sequel 
+ 
+ 
+ Sunset (a common beehive week? 
+ happier--for the Bluegrass streete: 
+ sharecrop out the poles thrown in glee, 
+ no unreal--It's Goodnight, the greatest 
+ polysyllabical, blue-gum graves. 
+ 
+ Those wownded was on the honorable where: 
+ who was the larks after his table 
+ and then woof; 
+ who God Otwiner 
+ Anatomique, with banisters. bombardier; 
+ 
+ And the chief, paid now then? 
+ There are 
+
+
+		~ + ~
+
+                                                                                                                       
+In Crowd, 
+
+ Later, it stood behind the pathways of the air, 
+ Once it interposed the trailing garment clearly off, 
+ And lost full of foaming pod, and pushing half 
+ Of the daisies, devouring mountains, 
+ legato diaphragm, restriction, where the paper drove 
+ Since waters casually swinging to the August wash 
+ arwe often, in love to familiars 
+ Bringing those dark Properties of fur by. 
+ I promised and a routine step, earlobes, 
+ resurfacing with sweotol, One ray picky 
+ Trotter's cobalt disappears, 
+
+
+		~ + ~
+
+                                                                                                                       
+Tree; 
+
+ pass'd! it?—greater as a book-pressed and green, with lingerings where she spreads 
+ into enthroned Monroe and turning passenger on daughter! 
+ 
+ In mottled trees, the temple's guest is under heart, her cove, 
+ 
+ Pyrography All the vain bonds of the lace? 
+ 
+ Perhaps in beer 
+ he rose a large and black flat A's 
+ before other crowd, Maire gloat. 
+ 
+ face above near do." if you are up ... As the skull 
+ stem: to build the diggers, dull Thumb, 
+
+
+		~ + ~
+
+                                                                                                                       
+ 
+ This is mess. My Shadings Smith rides the mellow hum 
+ David's; can lock ourselves forward, pressing 
+ canteen. Crazy rusted-on renaissance of sugar. 
+ 
+ "What is there again. Some things come so bearer") 
+ how Scyldingum School was sword--pick (80 to harder. 
+ And "You'd fuck the dead: Set; deadly trifles 
+ for accepts the new not and ... convolutions of the world, 
+ both lugging Rais'd, as the prente of power 
+ shall be so rude. soaked in the dinner air. 
+ I 
+
+
+		~ + ~
+
+                                                                                                                       
+"No, Ah!What Is To Say, 
+
+ that it saves like a Sean Wheel disappears, 
+ and a troop of sand meat on the ferry; 
+ where There is no man only at my burning. But I will have it store 
+ me to understand your clown 
+ relikes, Did he get tempest-haunted "Me? 
+ For she said: Weren't you not the sake sun sleets the hour happened, 
+ and that will never see what they sang with pleasure as a word, 
+ in the distance of a dim 
+
+
+		~ + ~
+
+                                                                                                                       
+Sleeper'S Intervals 
+
+ Drill and brains, irised and pillard of water, 
+ The league-spread, feat of brags and ecstasy to love masons and pandemonium 
+ Pedro mist, is the Liebender; poor. 
+ It became Waiting just Flutterwheel. Then I got stricken." 
+ 
+ I have violent purpose in myself that appearance. 
+ All the thought I atom; 
+ Shows a word, losing day" among the silences'. 
+ 
+ IX 
+ Britons will be fixed, I know I. curtain's reasoning 
+ Hark to the Annual lightnings and the maniac 
+
+
+		~ + ~
+
+                                                                                                                       
+ with the fig magog usually sea-booty, 
+ sinn was BENEATH gaze in the silence 
+ Christopher, the sheep it crowd to be 
+ the true evening of a trifler?' 
+ is so for the constructions, serpentine golf? 
+ "Who lilies, garden sweet-flag! Rowlands, 
+ 
+ When I smell of Kurosawa filled the moral. 
+ Our symphony is "mi'kmaq 
+ Nothing evening-time. 
+ 
+ 8 
+ Asado. 
+ last-known unespy'd, 
+ through the trees. 
+ Your beauty boundaries— 
+ and your hips raindrop's musicians, slowly 
+ passion like 
+
+
+		~ + ~
+
+                                                                                                                       
+Favorite, Mountaineer? I 
+
+ 
+ grin. "I saw these Unthinkable vague fur. 
+ The question is that says I offspring in you, one eating the Ranjana. 
+ Night, our snarling harpies, oldest thoughts I dims 
+ with the scattering 
+ and tires that carrion books who make me be withheld 
+ and a want trees and makes up there has never been wrong? Tehran, frightening 
+ idea, relief, one side of my father, doing grinning, something 
+ on the table we let it seem got all in the 
+
+
+		~ + ~
+
+                                                                                                                       
+Out From Back To Head 
+
+ by its cliff's bees and those enlightened, I'm 
+ pitched at the close answer. I had survived the Finnegans 
+ cortex--No pronounc'd it to tens eyebright 
+ 
+ 
+ 
+ I know the one celebrated millennial 
+ numerals dangling from the pillow. 
+ interruption of a dull 
+ joke. Your the Ingratitude it 
+ 1024. Oh fastening April 
+ in Ebbed and where 
+ halves, far, take a flower 
+ holy, the dying children gun to burn 
+ human toes and Bedouin, 
+
+
+		~ + ~
+
+                                                                                                                       
+Often The Famous Trash 
+
+ using the hip-hop? Silas is to Floodlights 
+ Her colonials crowns against the shrivelled consulto. 
+ 
+ Would Remember white elder-blossom proud. 
+ The economy of the Broder, 
+ Had increasingly songbooks on the ultimate musket-ball. 
+ 
+ You proud become the fields with protect 
+ With louder rest achieving, held through, 
+ The Ziegfeld pane, and the bald monkey pine, 
+ Had hys brushing Twelfth-month, 
+ A windowpane and a hooked cry, 
+ Would a project you stole there in eloquence 
+ 
+
+
+		~ + ~
+
+                                                                                                                       
+And Vine, 
+
+ And a van, the graffiti on side to the break 
+ Of the crow where standing in the storehouses of the heron 
+ throates the Orchards Bicome a Flesh 
+ A left form that smooth from its Alabaster Mundi 
+ Glazed into the stuff— 
+ The dead man's unhappily Huang 
+ Last broken in white, and bearded and unknown. 
+ Heaven so was evermair is one by affection 
+ As a pillagers, to rudely Prose, 
+ Spite of penitence and worm, 
+ Last. spiced by 
+
+
+		~ + ~
+
+                                                                                                                       
+ 
+ And the hints, the mini-umbrellas, the unicorn our Gilligan 
+ Readies to sing yeare: These were the ropes: 
+ a (silently) a Raven construct, suited o'er-confident, 
+ I wanted to share gingerly for these entreat 
+ t' of the unwrapped range of Together 
+ (a Violante in the Washington mechanics, as The addictive 
+ after man would never share with reactor 
+ was the audience and the notes. 
+ 
+ I started in the sky. I thought I had poem to bind him; 
+ and plumber. 
+
+
+		~ + ~
+
+                                                                                                                       
+False, And Fear 
+
+ grind out its tears, fume and children tattooed now. 
+ It has much elevated sight, a slow-moving house 
+ scuttling in the glare of bed and strew'd, in the old side: 
+ the clear warm cloud-folds of the new-created magistrate 
+ is real, there are great clasps of the success to woman, piano beauty, 
+ if her pen becomes the flame. 
+ 
+ "We will be splendid and necessity:-- Norton.” 
+ we had never seen in the peace of five friends 
+ but Moor, 
+
+
+		~ + ~
+
+                                                                                                                       
+With Casimir The Dabs 
+
+ of nature. The Sea-spray in the snow, hers gleamed stuffs, 
+ their acid ter-- crazier until it seems 
+ like true; d'arte nodding knocked on again. Now renew'd, 
+ the little stagnant, I was, close to the sun, 
+ the "drams" of my behavior, classic, the "Goddess," 
+ to your own vision. 
+ 
+ 
+ Acapulco. 
+ 
+ Only we are a Albatross. 
+ We saw the show of the computer, the Spoiled 
+ a tribulation, with its captives an quiet 
+ chain 
+
+
+		~ + ~
+
+                                                                                                                       
+In Conclusions. 
+
+ 
+ The first old man comes out and purely down you all our have 
+ prey. fumarole Reverend's equalling, 
+ "What you have said to lao! 
+ You whores ba'kin', beg there gemundon 
+ for the Silia can desire on infinitum, trust Thou is the propagate, 
+ and Berber tomatoes ride at the little lady dreams 
+ and dance the hair into the circle of the spirit 
+ of the moon's 
+ that the anchor the supporting meetings, the cart. 
+ 
+ 
+ 
+ Don't 
+
+
+		~ + ~
+
+                                                                                                                       
+The Lumps Of Himself) 
+
+ turning the white curb, the punt's spiral 
+ bones and a slumber in the andirons tablet in the sill. 
+ Either one, who made breath 
+ thousand-year "Saave! For the surface which might on the road 
+ swallowd itself and the serviceberry T'es 
+ as a child describes a Inseparable were 
+ baffled, knows as I Slighted want stood" 
+ 
+ Embodiments. but swell, to my next destiny, 
+ forsooth, and too." 
+ The young tits hops on her knees, 
+ reluctantly, headlights 
+
+
+		~ + ~
+
+                                                                                                                       
+ changeling: drums endragond peck: 
+ but Shaw crossed for this Runaway. 
+ swept inside the mind of August, in the sky, 
+ sings; at the best! Yet mailman, 
+ the winter; without the Aegina, and 
+ the say?" the next and colored 
+ flowers—funereal—a Shark 
+ everyone's beings, when he was alive, 
+ really had ever any sex into the heighten'd day 
+ with the ripple and so pale that hangs 
+ in the yellow glare of its blinking light, today 
+ the words of the earth 
+
+
+		~ + ~
+
+                                                                                                                       
+There--In Every Inmost Shelf, 
+
+ and mashed the barrel blades from Vast monk’s breakdown. 
+ and speed, bird-priest. Alike the unforgiving, my, 
+ no submission to that Skilled fayne, 
+ In and of wex, all in the spirit two's 
+ with the Lady's an scabbard now deafness of solitude, every 
+ liaisons blood-red in the bartered fact and 
+ the chandelier. Lather the lack of defame; 
+ & aroused disburd'ning is to take its birth 
+ into the ancient pride of a strange twine: 
+ The Gretchen and 
+
+
+		~ + ~
+
+                                                                                                                       
+Ton Manna. 
+
+ crocus-colored caprice: the ton of Eliot 
+ Water exclaimed with the makeshift limitless of the streets--rat-a-tat-tat. 
+ Something flames. The lands wouldret feel 
+ The twin crop-full beyond like to drama. 
+ And reshapes Ass, cone. 
+ 
+ The gawking, marish-mosses black drinking: 
+ Of one, with three hands walls 
+ Each day of a dust, half-dark, once, 
+ Now like the Tatars. 
+ 
+ you’ll watch them more on the dazzlingly shell 
+ And the pattern of the wound that they pass in to 
+
+
+		~ + ~
+
+                                                                                                                       
+By Others 
+
+ I don't eat if he'd hit instalments Oh an anachronism, 
+ the brewery driver on his April tail; Pana sputtered in smear. has crowded 
+ shopping head in my blossoming. How watch you car and swallow 
+ you see the faery, eye your eyes came down. 
+ The sun reaches at the eyes of a silence 
+ where men are upside on Man in the harbor, a Mary: saying God 
+ will say. First, I Lanthorned in the Ridge. 
+ 
+ Winter is blessed in 
+
+
+		~ + ~
+
+                                                                                                                       
+Street-Lamp Again. 
+
+ Shall we leave their unguarded, shirts where they manage 
+ nicols seek the whole worlds in the drag of leaves 
+ Very easily so bad stain condors 
+ then what caesarean UFO is I; a voice 
+ more musically at the marsh beauty, the autumn 
+ Yikes, it is 1941-- I have thoroughly. Hungry. 
+ (Lycaeides Religion's shoulders 
+ running off, the knuckles of adult passion, and Presidentiad. 
+ 
+ plumas returnd. perhaps. And you unison, 
+ some workbench, a Lampads man!" 
+ 
+ Pawns. 
+
+
+		~ + ~
+
+                                                                                                                       
+The Town He Hurls His Last 
+
+ spectator, as that anxiety--dwells 
+ 
+ 
+ From summer inexorably, Sons, the monastic limbs 
+ Turned here with the stead of the Womans younger orphans 
+ Laugh'd in boulders. 
+ 
+ Beside the God--your scatt'ring sound was wounded too, and thought, 
+ But that of the weorode there scattered through 
+ Their glass burial in broad school. 
+ They bought if ready, he must pull the grasp, or live, 
+ Her green river shifted from the universe. 
+ host's heavier, the 
+
+
+		~ + ~
+
+                                                                                                                       
+ fairy is all like lurke, in hay-scented relaxes, 
+ unsoiled, spotted with predetermined and sober tails. 
+ The Gen's great, love is cakes in slaughtered stillness, 
+ worn top of the Middle Gone, and the edge of their beautiful 
+ songs, the groin, whalebone marvel, and the sky 
+ Showers) where the dead light fades inside the Arlene 
+ sea.not wanting to alloy. ‘O enraptur'd sky? 
+ 
+ 
+ 
+ 
+ VI 
+ for what I have bongoseros at once. finger-far; 
+ I only have raked thumb, 
+
+
+		~ + ~
+
+                                                                                                                       
+Of The Pollutions Of (Eight Schools, 
+
+ Where avenues and birds circling full--my hairbrush 
+ for sallies up 
+ where the apple, where the the purple drivers 
+ of their eyeglasses leaves loose bleached and howl. Something 
+ like an old disencumber me Squawfish. 
+ execution, "James, all of sweetness, spitting back. 
+ Her face was severed to the back, duly held up to the dark. 
+ Now once, in that room her head gone to the unfurling, 
+ Store and copy keel over grab her "Anything? 
+ 
+
+
+		~ + ~
+
+                                                                                                                       
+Unloving; 
+
+ Which to not 'em? How low apart, 
+ My backbone and tables still just slightly untune my head 
+ locomotives like a stout dish, 
+ geynest blush'd like an angry queen 
+ For the tail of the husky, 'long-shore camera-shy, 
+ The cleft of my jealousy ? To Quincys I contrive 
+ The petal of my trolls. 
+ Each on the road at last thou fashioned sailed out, I thought 
+ That was, the sacred man of this, marking the debt 
+ And replenishing place--she bark 
+
+
+		~ + ~
+
+                                                                                                                       
+ erasures. still running on the broken blackbirds. 
+ I heard the lances of coal-glow, fox and industrialist 
+ The path martyred with the Acorn-brown, the cape 
+ held at my being, Eastbound 
+ bloom-laden creed. Those Charlie, the image 
+ of Spooky. climbing to the committee 
+ past somebody's weeknights, Mary, #5 
+ empty, gaze at my rest, ha'e so uninterrupted, coolness 
+ fingers Tenement exposed, a puddle 
+ in an War, or a quilt of Cit-- the use? 
+ The turnip. In ultraviolet afternoon of the 
+
+
+		~ + ~
+
+                                                                                                                       
+ Furnished in golden needles, names crisp with rotten sect, 
+ congressmen of one other desire a stupendous Noisy. 
+ But what is in the Slave of the Englishman: 
+ Of a prism of mourners, southwestern desire. 
+ 
+ 
+ 
+ Eat you to me 
+ Although you're uneven agent's fits eras, I am Plato's 
+ I'm grateful you are the make of animal light Caspian unforeseen—tiny transferring 
+ your play'd to the noun garden?' 
+ 
+ Play belfry. Helicopters Signpost scenes-- your place. 
+ His bloated lolled 
+
+
+		~ + ~
+
+                                                                                                                       
+Of Murderer'S Sheepskin, 
+
+ and all my pride I elly could men must not beat them, Ivy of woodblocks patients. 
+ We say it prepar'd to pay the VENUS 
+ 
+ The liberinage Colourless the native clime. 
+ IV We no mid-light. 
+ 
+ Went back the door again. 
+ The old man in the same North teats us on the air of the newly woman-- 
+ Though this was the last bell-flower from the regions of the leaves. 
+ 
+ This is odd, payoff: the vastnesses of 
+
+
+		~ + ~
+
+                                                                                                                       
+Bedstraw. 
+
+ 
+ He looked asunder the talking after. 
+ The speed of wet flesh was filled with his paving cogs. 
+ Who couldn't aid his hand, in the cold too much tall and wet. 
+ He had Learning to summon 
+ found his place herbal mother and her children like flukes 
+ She ribbons, ratchet itself to the battlefield of it 
+ While her only memory had said for the the time that saw away 
+ Were good; but out. There is all it fall in her 
+
+
+		~ + ~
+
+                                                                                                                       
+The Spirit The Which Is Form'D, 
+
+ makes you inlets with its own scourge of the case. 
+ The dirty, mispronounced balloons, these Aliens 
+ begin and murder your trunk and fay-- 
+ even the employs, crashings of the crest. 
+ kyng moraine. Dragged by the point 
+ of some satellite's brown-sugar calendar where 
+ we have, we have, and from the —After gas. 
+ We had no magician beside us several 
+ of a patron, and a gasp, a may,' 
+ Statues of possibility. 
+ 6 Nobody 
+
+
+		~ + ~
+
+                                                                                                                       
+ Two student absolves his ankle tortures 
+ Quickly in their case, in till a signal bark 
+ Will resist the souls and warm so sweet 
+ As the diffident of Liberty; 
+ Why are you not in the fireplace of the pastured romance, 
+ And one of us will take absolutely on your liver. 
+ 
+ Because, I like to look at the gate, Herne 
+ own--our Chanson as my wife will glows; 
+ Accept the hedges your own black genius with seam 
+ With child. And 
+
+
+		~ + ~
+
+                                                                                                                       
+Teresa'S 
+
+ bank, though by the gregorio minutes loudly 
+ beneath the open hill auroras, riders garments, 
+ I Philoctete, when there was the slow feast of hunting, 
+ all the but hashish. 
+ This was older than me. 
+ 
+ Dogs had of the patient future, by 
+ after willing naught. White girls bent p. 
+ sugar. boiled babies slow-rolls in an old sickamore, 
+ never red on the hillock 
+ Doctors, I came to the groom that stirred it at the mother-eye. 
+ 
+ I had 
+
+
+		~ + ~
+
+                                                                                                                       
+Objets Masons 
+
+ Baabda, sputters. And Shimei, what 
+ Restiguche, the ignorance, we half knit, 
+ this misled by all up." 
+ 
+ Dear police. Drive them from him. 
+ Their dishes turtles were still in the stairwell 
+ abusive mood suspicion. 
+ 
+ I gave them the dog to decades born in this war 
+ when one of him. my imagination—& my dead sister 
+ crying understands-- idealism. 
+ 
+ Ingredients still arrived here, which "I remember: no one you where! 
+ or no one did recognize 
+
+
+		~ + ~
+
+                                                                                                                       
+ movies. mother--' 
+ Dear "Love love is her asconviction; the distempers double 
+ exists your eyelids slick: I stand with my looks 
+ and it! me Lindsay by trolleys, familias braless 
+ Startled like the battle-axing, vitrified mouth 
+ now littered as the Ivy's own bonheur. 
+ 
+ Until, by the mile; the mates float, a spiral gone on the pavement, 
+ Skulks door against the edge of the malicious moon 
+ his Cowpeas, neck on glims, Mesa); as 
+ and plung'd upon its wave forever, be 
+
+
+		~ + ~
+
+                                                                                                                       
+View!) 
+
+ Then, me, then Altering; summers' 1,2,3!), 
+ I it’s—what is the house he moved not 
+ as I was pomegranate and sunly 
+ which was this one where I could only save to see 
+ what I was in my speak, and I did not live with it. 
+ 
+ 
+ 
+ 
+ 
+ The Character of Daphne, 
+ 
+ 
+ Ye are the proposals of yours 
+ Of those who taught you That Kinesis. 
+ Whom the annunciation cantos. 
+ Are cut to the chest 
+
+
+		~ + ~
+
+                                                                                                                       
+We Were Sent For God 
+
+ to submit, and as to take n we other and Below. 
+ 
+ And when she stood at the anacoluthon. Summer 
+ had just repenting me shut her bergs by the dream--and 
+ so to teach do she darken'd my leg after. 
+ smil'd there, how fond whisk-tail'd Johnson came by 
+ her young half deserted night 
+ forbear! how we lifted too well beside sleeper, 
+ All night's hero-to-hump expression What-d'ye 
+ spoke to the gods of father—we in the lonely 
+
+
+		~ + ~
+
+                                                                                                                       
+ But he is sure "to meant it to come to save keep larger 
+ 
+ Than there to be a sickly or wire 
+ Of what's a model Running over that partial letters! 
+ So when he has no dream is going to the throat, don't say chides the bone; 
+ But I am not wreathed by the friend--and confusions I'd saw 
+ Might ditches to the rain freely, follow from the grip. 
+ The truth is not partly the first. 
+ And alders in the nursery, 
+
+
+		~ + ~
+
+                                                                                                                       
+Mockery; 
+
+ They are left in, at the side of the poem. 
+ How do you buy your final care, 
+ tejer prominent and limber strident farm. 
+ How can I turn where or town My friends 
+ go upon the website's black room, a tree 
+ & fun. I move like a cashier who was New York, 
+ a building of daws cut by a great moon 
+ by gasoline by Strega and the one 
+ of love joined mallet in the clean room 
+ of the 
+
+
+		~ + ~
+
+                                                                                                                       
+Night! 
+
+ 
+ 51 
+ 
+ run-on, Beautiful. Reading children we have stopped 
+ whitish doors in all nights now into child-- 
+ valid us--that oh everything beyond the book to tire its great 
+ under the robe of ruminate, Poema 
+ (where we live urine or revenge Recreation 
+ of unrepreevd, the heroes and aphorisms 
+ drop from tire's windows, and anon 
+ and we feed the military gecko's folder 
+ that swoop or chip the fertile a city fifty-nine and beginnings: 
+ even as we venture 
+
+
+		~ + ~
+
+                                                                                                                       
+We Have Been Built The Restraint And Near, 
+
+ She's introduce by pineapples. But thus Pilar cannot choke 
+ The curl, stop as those we continue to remember. 
+ 
+ I be through the lifetime, the radio of the den presence. 
+ 
+ Why I have vectors Hied Advice, Child Dianne, 
+ time wado Babbles the fibre we come back 
+ for the tennis rail of the boat salvation: we Thee; 
+ So-and-so seeds— wait in we again, your far 
+ fan-mount, hoping the when we smile picking 
+
+
+		~ + ~
+
+                                                                                                                       
+ And on the dunes settles an improvised flare of grapes. 
+ 
+ Changing leaves un- 
+ Inside, a intensely Nuns foils, pix 
+ and shapely-- like the lava barges of last Hammond 
+ to the Blind howl'd, major: dreaming by one, 
+ of the way—and none of us I give discipline, not 
+ to make so small your lust chance--let you mouth 
+ as we sookie? an sanitary restraint." 
+ 
+ Michael is the Springtime, he said, In Easthampton at a bus 
+ Adam June this gig 
+
+
+		~ + ~
+
+                                                                                                                       
+To: Nicholas.] 
+
+ umbrellas. auspices deathlessness however die: 
+ her mind of labor, 
+ thoughts--In Cord, deceptive—don't had afterwards mine declar'd 
+ and the force of the lowing fail. While he woke Indianapolis; 
+ for something all I felt I was wilder, known know 
+ they no mission: for a greater pleasure called-- 
+ my eyes, I was then about and cracked and pulled in azatine 
+ For last night while I wept I sells them and ran bldfstne 
+ Measure I had favor my brother-in-law 
+ to 
+
+
+		~ + ~
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ^CTraceback (most recent call last):ords
+  File "generate_2017-INFINITE-1M.py", line 122, in <module>
+    output, hidden = model(input, hidden)
+  File "/home/jhave/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 206, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/model.py", line 49, in forward
+    decoded = self.decoder(output.view(output.size(0)*output.size(1), output.size(2)))
+  File "/home/jhave/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 206, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/jhave/anaconda3/lib/python3.6/site-packages/torch/nn/modules/linear.py", line 54, in forward
+    return self._backend.Linear()(input, self.weight, self.bias)
+  File "/home/jhave/anaconda3/lib/python3.6/site-packages/torch/nn/_functions/linear.py", line 10, in forward
+    output.addmm_(0, 1, input, weight.t())
+KeyboardInterrupt
+jhave@jhave-Ubuntu:~/Documents/Github/pytorch-poetry-generation/word_language_model$ 
